@@ -1,0 +1,271 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lewis Thorn Memoir</title><!-- Do we need a standardized title? -->
+                <author>Anonymous</author>
+                <funder>Moravian Lives Project</funder>
+                <principal>Katherine M. Faull</principal>
+                <respStmt>
+                    <resp>Transcribed from original ms and marked up</resp>
+                    <name>Ella Ekstrom</name>
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <distributor>Fetter Lane Society</distributor>
+                <address>
+                    <addrLine>381 King's Road</addrLine>
+                    <addrLine>Chelsea, London SW10 0LP, UK</addrLine>
+                </address>
+                <idno type="archive_catalog">Uncatalogued</idno>
+                <availability>
+                    <p>Creative Commons License TBD</p>
+                </availability>
+                <date>2017</date>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <p>From the Fetter Lane Moravian Archives</p>
+            </sourceDesc>         
+            
+        </fileDesc>
+    
+        <profileDesc>
+            <particDesc>
+                <person xml:id="EBARK">
+                    <persName>
+                        <forename type="first">Elizabeth</forename> 
+                        <surname>Barker</surname>
+                    </persName>
+                    <birth when="1720-07-20">July 20, 1720
+                    </birth>
+                    <death when="1755">1755
+                    </death> 
+                </person>
+                <person xml:id="JESUS">
+                    <persName>
+                        <forename type="first">Jesus</forename> 
+                        <surname>Christ</surname>
+                    </persName>
+                </person>
+                <person xml:id="GOD">
+                    <persName>
+                        <surname>God</surname>
+                    </persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="flbarkere1755001.jpg"/>
+            
+            <div type="head">
+                <head>
+                    A few particulars of the late <state><desc>happily
+                    departed</desc></state> Widow Sister <persName ref="#EBARK">Eliz. Barker</persName> —
+                    <date when="1720-07-09" type="birth">Born at <placeName>Tong</placeName> in the year 1720 July 9th.</date>
+                </head>
+            </div>
+            
+            <div type = "side"> 
+                <ab>
+                    <note>Written in the side margins on the left</note>Read into the Congregation <date when="1755-04-18">April 18th 1755</date>
+                    partook first time of the H Cong.<note>What is the "H Cong"?</note> <date when="1755-09-06">Sept. 6th. same year</date>
+                </ab>
+            </div>
+            
+            <div type="memoir">          
+                <ab>  
+                    She was <state n="religious"><desc>awakened</desc></state> to a knowledge
+                    of her <state><desc>lost condition</desc></state> soon after the
+                    Brethren came into <placeName>Yorkshire</placeName>. <del rend = "strikethrough">The sight
+                    of her lost con</del> The <state n="religious"><desc>distress of soul</desc></state>
+                    which she was in at this <add place = "above">previous to her</add> sight
+                    <add place = "above"><state><desc>peace and happiness</desc></state> in our <persName ref="#JESUS">Savr.</persName></add> <del rend = "strikethrough">
+                    of her</del> was so great as almost
+                    to bereif <note>sp. “bereft”</note> her of her senses, and over-
+                    come every other consideration. Hearing
+                    that there would be a <state n="action"><desc>preaching</desc></state>, here on
+                    the place, she she run with a little
+                    child in her arms (her <persName>daughter <hi rend="underline">Hanah</hi></persName>
+                    who now lives in the <hi rend="underline">Sister House here)</hi> and
+                    when she got to <placeName ref="#FULN">Fulneck</placeName>, she left the 
+                    child in the care of a Family, best
+                    in returning home, her mind occupied
+                    with what she had heard, and the state
+                    of <state n="religious"><desc>her own soul</desc></state>, that she forgot her
+                    child, and returned home without.
+                    Her neighbor believed and said, that
+                    the <state n="religious"><desc>Inghamites</desc></state> (as the Brethren at that time
+                    were called) had thrown her <state><desc>mad</desc></state>.
+                </ab>
+
+                   <pb n="2" facs="flbarkere1755002.jpg"/>
+                
+                    <ab>
+                    When it pleased our <persName ref="#JESUS">Saviour</persName> to <del rend = "strikethrough">h</del> reveal
+                    himself to her <state><desc>distressed heart</desc></state>, granting
+                    her <state><desc>pardon and peace</desc></state>, her <state><desc>joy and
+                    and gladness</desc></state> was as great as her
+                    as her <state><desc>sorrow and distress</desc></state> had been
+                    before. Her resolution <add place = "above">now</add> to live to
+                    him and his his people, brought
+                    upon her the several trial, from the
+                    enemies of the Brethren, who at that time
+                    were very numerous and exceeding
+                    <state><desc>bitter</desc></state>. The <persName>Landlord</persName> under whom they
+                    lived sent for her <persName>husband</persName> and insisted
+                    upon <del rend = "strikethrough">him</del> it, that he <add place = "above">&amp; his <persName ref="#EBARK">wife</persName></add> should go
+                    to the <placeName>Church</placeName>, and not attend<del rend = "strikethrough">that</del> <add place = "above">at</add> that
+                    baudy <note>sp. “bawdy”</note>  house — meaning the Brethren <state n="action"><desc>preaching</desc></state> 
+                    place — threatening them at the same
+                    time, that if they did not obey him
+                    he would immediately turn <del rend = "strikethrough">them</del> <add place = "above">him off his work &amp;</add> out of
+                    their house. Her <persName>husband</persName> came home
+                    greatly alarmed, at the threats of his
+                    <persName>Landlord</persName>; and thinking that they
+                    would be ruined in their out ward circum
+                    stances if they, by ( attending the
+                    </ab>
+                    
+                    <pb n="3" facs="flbarkere1755003.jpg"/>
+                
+                    <ab>
+                    meetings of the Brethren, — should provoke
+                    him to put his threatening into exe
+                    cution, endeavoured to persuade his
+                    <persName ref="#EBARK">our late Sister</persName> to leave the Brethren and
+                    go with him to Church. This she
+                    could not consent, upon which her
+                    husband grew <state><desc>exasperated</desc></state> at her
+                    <del rend = "strikethrough">he would</del> and <del rend = "strikethrough">the</del> told her that if
+                    determined to persist in following the
+                    Brethren he would be a ruined man —
+                    he would therefore leave her to her
+                    self and have nothing more to do
+                    with her, and left the house, and
+                    went and joined his old companions
+                    at the <placeName>ail <note>sp. “ale”</note> house</placeName>, who were glad
+                    <del rend = "strikethrough">to glad</del> to have him in their company
+                    again, and that he had forsaken
+                    the Brethren and returned to his former course.
+                    They did all they could to <del rend = "strikethrough">further</del>
+                    prejudice his mind <del rend = "strikethrough">of like</del> more
+                    against the Brethren by saying all
+                    manner of <state n="religious"><desc>evil</desc></state> against them
+                    </ab>
+                    
+                    <pb n="4" facs="flbarkere1755004.jpg"/>
+                    
+                    <ab>
+                    and encouraged him not to return
+                    to his wife but to forsake her intirely <note>sp. “entirely”</note>
+                    if she would not give up her connex
+                    ion <note>sp. “connection”</note> with the Brethren. In this way they
+                    spent 3 or 4 days, <state n="action"><desc>drinking</desc></state> the whole
+                    time. O our late Sister was left with 
+                    2 small children the oldest not above
+                    2 years old. This <persName>Landlord</persName> got to 
+                    hear that she <del rend = "strikethrough">refused</del> persisted in
+                    going to the Brethren Meeting, at which
+                    he was terrible <note>sic</note><state><desc>enraged</desc></state>, <del rend = "strikethrough">curses to</del>
+                    gave her notice to quit the house
+                    immediately or he would pull it down
+                    upon her head, but as she did not
+                    obey, he came the next day with a
+                    company of workmen and <del rend = "strikethrough">with the</del>  <add place = "above">in a</add> 
+                    most <state><desc>furious rage</desc></state> ordered the house
+                    to be uncover’d  <add place = "above">while she with her 2 small Children were in it</add> when she saw that
+                    she must leave it she took her
+                    little ones, telling him as she passed
+                    Him, “He might <del rend = "strikethrough">might</del> pull her earthly
+                    house down, but she had a house in heaven
+                    </ab>
+                    
+                    <pb n="5" facs="flbarkere1755005.jpg"/>
+                    
+                    <ab>
+                    which he could not destroy. <note>Missing end quote "</note> In these
+                    distressing circumstance she came for 
+                    help and advice to the  Brethren. who encouraged
+                    her to go and prevail, if possible, with her
+                    husband to return home with her. She
+                    did so, entreating him with many tears to
+                    leave that company and go with her, to
+                    which however he would not yield, excepting
+                    she would <add place = "above">first</add> promise <del rend = "strikethrough">him</del> to go to the Church
+                    with him. She consented and accompanied
+                    him the <date>next Sunday</date>. But the night
+                    following he had a very <state><desc>alarming</desc></state> &amp; <del rend = "strikethrough">long</del>
+                    <state><desc>terrifying</desc></state> <state n="action"><desc>dream</desc></state>, respecting his conduct
+                    toward his wife and particularly his
+                    having forced her against her conscience
+                    to stay from the meeting of <placeName ref="#FULN">Fulneck</placeName>
+                    and he likewise became very much
+                    destress’d about himself, promised
+                    never to hinder <add place = "above">her</add> and more and ever
+                    after he kept his promise. He himself
+                    soon after joined the Brethren's Congregation &amp; partook
+                    of the H Com<hi rend = "sub">m</hi> with the same.
+                    Altho our late Sister <add place = "above">now</add> met with no obstacles 
+                    in attending the preaching of the Brethren from 
+                    the
+                    </ab>
+                
+                <pb n="6" facs="flbarkere1755006.jpg"/>
+                
+                    <ab>
+                    the side of her <persName>husband</persName>, yet as several
+                    of her neighbors were, at that time, from
+                    mistaken notions of the Brethren. Were imbittered <note>sp. “embittered”</note>
+                    against them, she was <del rend = "strikethrough">the</del> under the
+                    necessity of attending in secret &amp; coming
+                    by ways for <state><desc>fear of being molested</desc></state>.
+                    She was for many years the <persName>general
+                    Nurse</persName> in <placeName ref="#FULN">Fulneck</placeName> and was much
+                    <state><desc>Respected</desc></state> in that line.
+                    In the year <date>1778</date> she became a <state><desc>widow</desc></state>,
+                    and in <date>1783</date> she <del rend = "strikethrough">became</del> <add place = "above">got leave to be</add> <del rend = "strikethrough">an</del> a member
+                    Of <hi rend="underline">this</hi> Congregation and moved into the
+                    <placeName>Choir house</placeName>; a favor which she often
+                    acknowledged with <state><desc>heartfelt thankfulness
+                    and gratitude</desc></state> to our <persName ref="#GOD">gracious Lord</persName>.
+                    The <state n="religious"><desc>Spiritual welfare</desc></state> of <persName>her Children</persName>
+                    was a concern which was ever uppermost
+                    in her mind, and whenever an opportunity Offered
+                    she never failed to warn those who were
+                    <state><desc>careless and indifferent</desc></state> about the <state n="religious"><desc>salvation
+                    of their mortal souls,</desc></state> and to set before
+                    them the extreme danger of <add place = "above">continuing</add> living in
+                    </ab>
+                    
+                    <pb n="7" facs="flbarkere1755007.jpg"/>
+                    
+                    <ab>
+                    a <state><desc>carnal unregenerated course</desc></state>, and to set
+                    before them the <state n="religious"><desc>love of Jesus</desc></state> to <state><desc>repenting 
+                    sinners</desc></state>, and how <state><desc>happy</desc></state> they might be
+                    in <persName ref="#JESUS">him</persName>.
+                    
+                    about <date>4 years ago</date> she had the misfortune
+                    to <del rend = "strikethrough">get a</del> <state n="action"><desc>fall and break her collar bone</desc></state>
+                    and was otherwise much hurt. Tho’
+                    she so far recovered as to be able to walk 
+                    about, yet she never got intirely <note>sp. “entirely”</note> well
+                    but <del rend = "strikethrough">all</del> always complained of an <state n="physical"><desc>in
+                    ward hurt in her side</desc></state>, previous to
+                    this she had enjoyed a <state n="physical"><desc>good state of health</desc></state>
+                    and a <state><desc>strong constitution</desc></state> and a <state n="religious"><desc>great
+                    flow of spirit</desc></state>. When she found her <state n="physical"><desc>health
+                    declining</desc></state> and other weaknesses
+                </ab>                     
+            </div>
+        </body>
+    </text>
+</TEI>
+
