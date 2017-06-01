@@ -1,7 +1,4 @@
-<html>
-<body>
-
-_Moravian Archives: Bethlehem_
+__Moravian Archives: Bethlehem__
 
 _Johann Michael Bohlo 1772_
 * http://moravianlives.bucknell.edu/MAB/BohloJ/MAB_Bohlo_J_1772_01.jpg 
@@ -61,7 +58,7 @@ _Christian David's 1772_
 
 __Moravian Archives: London__
 
-_ Hannah Syms 1789_
+_Hannah Syms 1789_
 * http://moravianlives.bucknell.edu/MAL/SymsH/MAL_Syms_Hannah_1789_01.jpg 
 * http://moravianlives.bucknell.edu/MAL/SymsH/MAL_Syms_Hannah_1789_02.jpg 
 * http://moravianlives.bucknell.edu/MAL/SymsH/MAL_Syms_Hannah_1789_03.jpg 
