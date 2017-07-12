@@ -1,11 +1,18 @@
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-01.jpg	Anton Boehler
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-02.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-03.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-04.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-05.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-06.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-07.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-08.jpg
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-09.jpg
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0002-a01.jpg	Johann Gold
