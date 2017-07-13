@@ -248,4 +248,5 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0029-01.jpg	Augustus Esther
 http://moravianlives.bucknell.edu/MAB/MemBeth_0029-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0029-03.jpg<br />
 
-0030	Johannes Thomas
+http://moravianlives.bucknell.edu/MAB/MemBeth_0030-01.jpg	Johannes Thomas
+http://moravianlives.bucknell.edu/MAB/MemBeth_0030-02.jpg<br />
