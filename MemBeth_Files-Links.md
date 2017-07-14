@@ -320,11 +320,11 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0048-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0048-04.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0049-01.jpg	Andreas Seifart
-http://moravianlives.bucknell.edu/MAB/MemBeth_0049-02.jpg
-http://moravianlives.bucknell.edu/MAB/MemBeth_0049-03.jpg
+http://moravianlives.bucknell.edu/MAB/MemBeth_0049-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0049-03.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0050-01.jpg	Philipp Wesa
-http://moravianlives.bucknell.edu/MAB/MemBeth_0050-02.jpg
-http://moravianlives.bucknell.edu/MAB/MemBeth_0050-03.jpg
-http://moravianlives.bucknell.edu/MAB/MemBeth_0050-04.jpg
+http://moravianlives.bucknell.edu/MAB/MemBeth_0050-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0050-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0050-04.jpg<br />
 
