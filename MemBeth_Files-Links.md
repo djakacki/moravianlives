@@ -390,7 +390,10 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0059-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0059-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0059-04.jpg<br />
 
-0060	Georg Bitterlich
+http://moravianlives.bucknell.edu/MAB/MemBeth_0060-01.jpg	Georg Bitterlich
+http://moravianlives.bucknell.edu/MAB/MemBeth_0060-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0060-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0060-04.jpg<br />
 
 0061	John Fritsch
 
