@@ -445,3 +445,147 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0070-01.jpg	Johann Beyer
 http://moravianlives.bucknell.edu/MAB/MemBeth_0070-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0070-03.jpg<br />
 
+http://moravianlives.bucknell.edu/MAB/MemBeth_0071-01.jpg	Ismajah Burnet
+http://moravianlives.bucknell.edu/MAB/MemBeth_0071-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0071-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0071-04.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0072-01.jpg	Joh Fritsch
+http://moravianlives.bucknell.edu/MAB/MemBeth_0072-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0072-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-01.jpg	Johann Fritsch
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-07.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-08.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-09.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-10.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-11.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-12.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0073-13.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0074-01.jpg	Caspar Hellermann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0074-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0074-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0074-04.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0075-01.jpg	Johann Lindstroem
+http://moravianlives.bucknell.edu/MAB/MemBeth_0075-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0076-01.jpg	Johann Kunkler
+http://moravianlives.bucknell.edu/MAB/MemBeth_0076-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0076-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-01.jpg	Anna Lawatsch
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-07.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-08.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0077-09.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a01.jpg	David Kriegelstein
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a07.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a08.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a09.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a10.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a11.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a12.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-a13.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b07.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b08.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b09.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b10.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0078-b11.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0079-01.jpg	Johannes Moeller
+http://moravianlives.bucknell.edu/MAB/MemBeth_0079-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0079-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0080-01.jpg	Anna Nitschmann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0080-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0080-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0080-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0080-05.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0081-01.jpg	Margaret Helms
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0082-01.jpg	Maria Sehnert
+http://moravianlives.bucknell.edu/MAB/MemBeth_0082-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0082-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0083-01.jpg	Anna Schmid
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0084001.jpg	Anna Schmick
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0085-01.jpg	Maria Schaub
+http://moravianlives.bucknell.edu/MAB/MemBeth_0085-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0086-01.jpg	Juliana Fritsch
+http://moravianlives.bucknell.edu/MAB/MemBeth_0086-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0087-01.jpg	Elizabeth Boehner
+http://moravianlives.bucknell.edu/MAB/MemBeth_0087-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0088-01.jpg	D. Theodora
+http://moravianlives.bucknell.edu/MAB/MemBeth_0088-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0088-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0089-01.jpg	Christian Flex
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0090-01.jpg	Johann Wittke
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0091-01.jpg	Johan Schaub
+http://moravianlives.bucknell.edu/MAB/MemBeth_0091-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0092-01.jpg	Christian Hussey
+http://moravianlives.bucknell.edu/MAB/MemBeth_0092-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0093-01.jpg	Martin Nitschmann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0093-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0094-01.jpg	Immanuel Gotje
+http://moravianlives.bucknell.edu/MAB/MemBeth_0094-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0094-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0095-01.jpg	Martin Schebosch
+http://moravianlives.bucknell.edu/MAB/MemBeth_0095-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-a01.jpg	Gottlieb Moeller
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-a02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b04.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0097-01.jpg	Joshua
+http://moravianlives.bucknell.edu/MAB/MemBeth_0097-01.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0098-01.jpg	Joseph Mueller
+http://moravianlives.bucknell.edu/MAB/MemBeth_0098-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0098-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0099-a01.jpg	Matthaeus Wittke
+http://moravianlives.bucknell.edu/MAB/MemBeth_0099-a02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0099-b01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0099-b02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0100-01.jpg	Maria Everson
+http://moravianlives.bucknell.edu/MAB/MemBeth_0100-02.jpg<br />
