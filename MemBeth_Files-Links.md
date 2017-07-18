@@ -395,6 +395,8 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0060-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0060-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0060-04.jpg<br />
 
+/* last page of 0060 starts first page of 0061 */
+
 http://moravianlives.bucknell.edu/MAB/MemBeth_0061-01.jpg	John Fritsch
 http://moravianlives.bucknell.edu/MAB/MemBeth_0061-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0061-03.jpg<br />
@@ -408,18 +410,38 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (6).jpg<br /> (doesn't work)
 http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (7).jpg<br /> (doesn't work)
 http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (8).jpg<br /> (doesn't work)
 
-0063	Sophia Schlegel
+http://moravianlives.bucknell.edu/MAB/MemBeth_0063-01.jpg	Sophia Schlegel
 
-0064	Anna Sensemann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0064-01.jpg	Anna Sensemann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0064-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0064-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0064-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0064-05.jpg<br />
 
-0065	Carl von Stackelberg
+http://moravianlives.bucknell.edu/MAB/MemBeth_0065-01.jpg	Carl von Stackelberg
+http://moravianlives.bucknell.edu/MAB/MemBeth_0065-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0065-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0065-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0065-05.jpg<br />
 
-0066	Peter West
+http://moravianlives.bucknell.edu/MAB/MemBeth_0066-01.jpg	Peter West
+http://moravianlives.bucknell.edu/MAB/MemBeth_0066-02.jpg<br />
 
-0067	Alexander Cook
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-01.jpg	Alexander Cook
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0067-07.jpg<br />
 
-0068	[no name in spreadsheet]
+http://moravianlives.bucknell.edu/MAB/MemBeth_0068-01.jpg	[no name in spreadsheet]
+http://moravianlives.bucknell.edu/MAB/MemBeth_0068-02.jpg<br />
 
-0069	Benigna Antes
+http://moravianlives.bucknell.edu/MAB/MemBeth_0069-01.jpg	Benigna Antes
+http://moravianlives.bucknell.edu/MAB/MemBeth_0069-02.jpg<br />
 
-0070	Johann Beyer
+http://moravianlives.bucknell.edu/MAB/MemBeth_0070-01.jpg	Johann Beyer
+http://moravianlives.bucknell.edu/MAB/MemBeth_0070-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0070-03.jpg<br />
+
