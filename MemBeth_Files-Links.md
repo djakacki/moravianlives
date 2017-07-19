@@ -193,7 +193,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0017-d09.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-d10.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a01.jpg Eva Spangenberg
-http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a02.jpg<br<br /> />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0018-a05.jpg<br />
