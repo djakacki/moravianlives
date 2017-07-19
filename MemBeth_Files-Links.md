@@ -589,3 +589,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0099-b02.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0100-01.jpg	Maria Everson
 http://moravianlives.bucknell.edu/MAB/MemBeth_0100-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0257-01.jpg	Andrew
+http://moravianlives.bucknell.edu/MAB/MemBeth_0257-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0257-03.jpg<br />
