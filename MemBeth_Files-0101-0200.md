@@ -53,7 +53,12 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b02.jpg<br />
 
 
-0108    Rudolph Christ
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-a01.jpg    Rudolph Christ
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-a02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b04.jpg<br />
 
 0109   Johann Loscher
 
