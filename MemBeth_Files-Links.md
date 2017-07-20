@@ -593,3 +593,10 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0100-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0257-01.jpg	Andrew
 http://moravianlives.bucknell.edu/MAB/MemBeth_0257-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0257-03.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-01.jpg	Daniel Kliest
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341-06.jpg<br />
