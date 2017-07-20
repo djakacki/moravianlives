@@ -60,6 +60,8 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0108-b04.jpg<br />
 
-0109   Johann Loscher
+http://moravianlives.bucknell.edu/MAB/MemBeth_0109-01.jpg   Johann Loscher
 
-0110    Heinrich Beuttel
+http://moravianlives.bucknell.edu/MAB/MemBeth_0110-01.jpg    Heinrich Beuttel
+http://moravianlives.bucknell.edu/MAB/MemBeth_0110-01.jpg<br />
+
