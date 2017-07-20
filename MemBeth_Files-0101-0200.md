@@ -65,3 +65,35 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0109-01.jpg   Johann Loscher
 http://moravianlives.bucknell.edu/MAB/MemBeth_0110-01.jpg    Heinrich Beuttel
 http://moravianlives.bucknell.edu/MAB/MemBeth_0110-01.jpg<br />
 
+http://moravianlives.bucknell.edu/MAB/MemBeth_0111-01.jpg  Anna Meyer
+http://moravianlives.bucknell.edu/MAB/MemBeth_0111-02.jpg
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0112-01.jpg  Andrew Schoute
+http://moravianlives.bucknell.edu/MAB/MemBeth_0112-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0112-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0112-04.jpg<br />
+
+http://moravianlivves.bucknell.edu/MAB/MemBeth_0113  Anna Rosch
+http://moravianlivves.bucknell.edu/MAB/MemBeth_
+
+0114  Agnes Bohnisch
+
+0115  Heinrich Friedrich Cossart
+
+0016  A. Mary Anton
+
+0017  Georg Gross
+
+0018  Christian Koepke
+
+0120  Johann Sirgel
+
+0121  Mary Schumann
+
+0122  Judith Quitt
+
+0123  Samuel Valentini
+
+0124  Johann Michael Tanneberger
+
+0125  Johannes Fueter
