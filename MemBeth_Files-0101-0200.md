@@ -53,7 +53,6 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b03.jpg<br />
 
-0107    
 
 0108    Rudolph Christ
 
