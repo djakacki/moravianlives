@@ -47,7 +47,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0106-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107a-01.jpg    Anne Marie Christ
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107a-02.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-a01.jpg<br /> Juliana Beitel 
+http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-a01.jpg Juliana Beitel 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-a02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0107b-b02.jpg<br />
