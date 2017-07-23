@@ -169,7 +169,6 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0017-b06.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-b07.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-b08.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-b09.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0017-b10.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-c01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-c02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0017-c03.jpg<br />
