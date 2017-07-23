@@ -112,12 +112,20 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0120-01.jpg  Johann Sirgel
 http://moravianlives.bucknell.edu/MAB/MemBeth_0120-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0120-03.jpg<br />
 
-0121  Mary Schumann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0121-01.jpg  Mary Schumann
+http://moravianlives.bucknell.edu/MAB/MemBeth_0121-02.jpg<br />
 
-0122  Judith Quitt
+http://moravianlives.bucknell.edu/MAB/MemBeth_0122-01.jpg  Judith Quitt
+http://moravianlives.bucknell.edu/MAB/MemBeth_0122-02.jpg<br /> 
+http://moravianlives.bucknell.edu/MAB/MemBeth_0122-03.jpg<br /> 
 
-0123  Samuel Valentini
+http://moravianlives.bucknell.edu/MAB/MemBeth_0123-01.jpg  Samuel Valentini
+http://moravianlives.bucknell.edu/MAB/MemBeth_0123-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0123-03.jpg<br />
 
-0124  Johann Michael Tanneberger
+http://moravianlives.bucknell.edu/MAB/MemBeth_0124-01.jpg  Johann Michael Tanneberger
+http://moravianlives.bucknell.edu/MAB/MemBeth_0124-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0124-03.jpg<br />
 
-0125  Johannes Fueter
+http://moravianlives.bucknell.edu/MAB/MemBeth_0125-01.jpg  Johannes Fueter
+http://moravianlives.bucknell.edu/MAB/MemBeth_0125-02.jpg<br />
