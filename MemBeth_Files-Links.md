@@ -434,7 +434,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0067-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0067-06.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0067-07.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0068-01.jpg	[no name in spreadsheet]
+http://moravianlives.bucknell.edu/MAB/MemBeth_0068-01.jpg	Gottlieb Anders
 http://moravianlives.bucknell.edu/MAB/MemBeth_0068-02.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0069-01.jpg	Benigna Antes
