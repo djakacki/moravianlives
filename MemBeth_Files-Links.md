@@ -31,12 +31,12 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0004-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0004-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0004-06.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0005-01.jpg	[No Name]
+http://moravianlives.bucknell.edu/MAB/MemBeth_0005-01.jpg	Sarah
 http://moravianlives.bucknell.edu/MAB/MemBeth_0005-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0005-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0005-04.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0006-01.jpg		Mary Shaw
+http://moravianlives.bucknell.edu/MAB/MemBeth_0006-01.jpg	Mary Shaw
 http://moravianlives.bucknell.edu/MAB/MemBeth_0006-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0006-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0006-04.jpg<br />
@@ -302,10 +302,10 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0044-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0044-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0044-04.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0045-01.jpg	No Name
+http://moravianlives.bucknell.edu/MAB/MemBeth_0045-01.jpg	William Thorne
 http://moravianlives.bucknell.edu/MAB/MemBeth_0045-02.jpg
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0046-01.jpg	William Thorne
+http://moravianlives.bucknell.edu/MAB/MemBeth_0046-01.jpg	Johann Peter
 http://moravianlives.bucknell.edu/MAB/MemBeth_0046-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0046-03.jpg<br />
 
