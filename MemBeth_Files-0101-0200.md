@@ -129,3 +129,54 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0124-03.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0125-01.jpg  Johannes Fueter
 http://moravianlives.bucknell.edu/MAB/MemBeth_0125-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0126-01.jpg  Anna Flory
+http://moravianlives.bucknell.edu/MAB/MemBeth_0126-02.jpg<br />
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0127-01.jpg  Jane Shapley
+
+http://moravianlives.bucknell.edu/MAB/MemBeth_0128-01.jpg  William Ellis
+
+0129  Eleonore Dixon
+
+0130  Joseph Lingard
+
+0131  Esther Goodblum
+
+0132  Benigna Briand
+
+0133  John Creed
+
+0134  "The Old Mother" Carson
+
+0135  John Gibson
+
+0136  William Elliot
+
+0137  Anna Gittler
+
+0138  Christiane Seidel
+
+0139  Henry Unger
+
+0140  Rosine  Tanneberger
+
+0141  Christine Siebar
+
+0142  Anne Oertel
+
+0143  M.M. Shild
+
+0144  Anna Prass
+
+0145  Gottfried Wolf
+
+0146  Susanna Krischker
+
+0147  John Miller
+
+0148  [no name]
+
+0149  Anna Herzog
+
+0150  Mary Kampman
