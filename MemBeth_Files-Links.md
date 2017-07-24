@@ -341,7 +341,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0054-01.jpg 	Conrad Okertshausen
 http://moravianlives.bucknell.edu/MAB/MemBeth_0054-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0054-03.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0055-01.jpg	[No Name in spreadsheet]
+http://moravianlives.bucknell.edu/MAB/MemBeth_0055-01.jpg	Abraham Reinke
 http://moravianlives.bucknell.edu/MAB/MemBeth_0055-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0055-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0055-04.jpg<br />
