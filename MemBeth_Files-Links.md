@@ -405,9 +405,9 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0062-01.jpg	Andrew Rillmann
 http://moravianlives.bucknell.edu/MAB/MemBeth_0062-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0062-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0062-04.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (6).jpg<br /> (doesn't work)
-http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (7).jpg<br /> (doesn't work)
-http://moravianlives.bucknell.edu/MAB/MemBeth_0062 (8).jpg<br /> (doesn't work)
+http://moravianlives.bucknell.edu/MAB/MemBeth_0062-05.jpg<br /> (should work now)
+http://moravianlives.bucknell.edu/MAB/MemBeth_0062-06.jpg<br /> (should work now)
+http://moravianlives.bucknell.edu/MAB/MemBeth_0062-07.jpg<br /> (should work now)
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0063-01.jpg	Sophia Schlegel
 
