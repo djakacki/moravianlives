@@ -532,7 +532,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0082-03.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0083-01.jpg	Anna Schmid
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0084001.jpg	Anna Schmick
+http://moravianlives.bucknell.edu/MAB/MemBeth_0084-01.jpg	Anna Schmick
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0085-01.jpg	Maria Schaub
 http://moravianlives.bucknell.edu/MAB/MemBeth_0085-02.jpg<br />
