@@ -574,8 +574,8 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0096-b04.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0097-01.jpg	Joshua
-http://moravianlives.bucknell.edu/MAB/MemBeth_0097-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0097-01.jpg	Josua
+http://moravianlives.bucknell.edu/MAB/MemBeth_0097-02.jpg<br />
 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0098-01.jpg	Joseph Mueller
 http://moravianlives.bucknell.edu/MAB/MemBeth_0098-02.jpg<br />
