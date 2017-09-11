@@ -214,29 +214,29 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0149-01.jpg  Anna Herzog
 http://moravianlives.bucknell.edu/MAB/MemBeth_0150-01.jpg  Mary Kampman
 http://moravianlives.bucknell.edu/MAB/MemBeth_0150-01.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0151a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0151a-01.jpg  Christoph Fomfest<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0151a-02.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-01.jpg  Mary Elizabeth Baker<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-03.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0153a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0153a-01.jpg  Lucas Papesh<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0153a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0153a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0154a-01.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0154a-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0154a-02.jpg  John Kopatshek<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0155a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0155a-01.jpg  Judith Miller<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0155a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0155a-03.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0156a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0156a-01.jpg  Francoise Zollicofre<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0156a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0156a-03.jpg<br />
 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-01.jpg  <br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-04.jpg<br />
