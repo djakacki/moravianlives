@@ -37,11 +37,42 @@
 					<div class="transcription-tools">
 						<br/>
 						<input type="submit" name="scripto_submit_transcription" value="Save transcription" class="button button-primary" />
+						
 					</div>
 				</form>
 			<?php else: ?>
 				<p>You don't have permission to transcribe this page.</p>
 			<?php endif; ?>
+			
+			
+			<?php
+			//adds a "previous" button to each transcription page where necessary. It does not add a link if it is the first page. It checks page ids with a file stored in the Scripto directory to determine if a link is necessary.
+			$idfile = './transcriptions/id_reference.txt';
+			$search = ($doc->getId()).( --$_GET['scripto_doc_page_id'] );
+			$file = file_get_contents($idfile);
+			if(strpos($file, $search)) 
+			{
+			echo '<div class="pagenav"><p class="pagenav"><p><a class="pagenav" href="http://moravianlives.org/scripto/?scripto_action=transcribe&scripto_doc_id='.($doc->getId())."&scripto_doc_page_id=".( $_GET['scripto_doc_page_id'] ).'">Previous</a>';
+			}
+			else {
+				echo '<div class="pagenav"><p class="pagenav">';
+			}
+			?>  
+			<?php
+			
+			//adds a "next" button to each transcription page where necessary. It does not add a link if it is the last page. It checks page ids with a file stored in the Scripto directory to determine if a link is necessary.
+			$idfile = './transcriptions/id_reference.txt';
+			$search = ($doc->getId()).( $_GET['scripto_doc_page_id']+2 );
+			$file = file_get_contents($idfile);
+			if(strpos($file, $search)) 
+			{
+			echo '<a class="pagenav" href="http://moravianlives.org/scripto/?scripto_action=transcribe&scripto_doc_id='.($doc->getId())."&scripto_doc_page_id=".( $_GET['scripto_doc_page_id']+2 ).'">Next</a>'.'</p></div>';
+			}
+			else {
+				echo '</p></div>';
+			}
+			?>  
+			
 		</div>
 
 		<div class="u-cf"></div>
