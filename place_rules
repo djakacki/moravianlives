@@ -1,0 +1,23 @@
+We will need the following levels of geocode (noting that we will have to have a default lat/long for references to "England", "Antigua", "India", etc.
+
+Country (for references only to a country - modern)
+State (US), County (UK), Province (CA), etc. (modern)
+City / Town / Village / Parish (modern)
+Currently the places table in the database has three forms of "name" and three forms of "area": name, name_en, and name_ll. It appears that normally "area" refers to the equivalent of "country", and "name" refers to a place in that country. Of course, this is complicated by when the reference was made - 18th, 19th, 20th, or 21st century?
+
+We should think about what "name" and "area" mean in terms of authority. Are these the names as formally self-defined in a modern context - for example, the correct state name for Antigua is Antigua and Barbuda.
+
+My recommendations, therefore, are these:
+
+There are listed places in the table such as "at sea". while these are compelling for text analysis, they are not specific enough to use in any kind of map-driven context. I recommend that we therefore remove them from the database.
+
+There are also in some cases dozens of duplicated places that have slight variation in spelling or distinction within a field.
+
+# use lowest id for an identified area
+# use lowest id for an identified name (place)
+# "name" and "area" should be the formal current authority name
+# "area" should have the following fields: area_ll, area_hist (for contemporary reference), area_en, area_de, area_se, area_other (with comment about what placial identity that refers to)
+# "name" should have the following fields: name_ll, name_hist, name_en, name_de, name_se, name_other (with comment)
+# latitude and longitude should be determined with a degree of certainty, but not unmanageable specificity. If we know a street address then we should use it. If we only have "Yorkshire" then we should not try to be more specific. References to "on the way to ..." or "across the river from ..." should be approximate to that named place ("on the way to Bethlehem" should use the latitude/longitude for Bethlehem).
+# If we cannot resolve a latitude/longitude for a place then we should default to NULL. However, if we are disambiguating place names, then defaulting to NULL should be the extreme exception.
+~ Diane Jakacki, 25 October 2017
