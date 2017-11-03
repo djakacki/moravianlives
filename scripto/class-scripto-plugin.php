@@ -404,7 +404,7 @@ appear if nothing is entered. You may use HTML.</span></p>
 			'post_type'   => 'attachment', 
 			'post_parent' => get_the_ID(), 
 			'numberposts' => -1, // get all attachment posts
-			'orderby'     => 'menu_order', 
+			'orderby'     => 'ID', //changed from 'menu_order' to ID - 'menu_order' is outdated and no longer used in WordPress. This was causing problems with parent entries that had large numbers of images. Specifically, order was interpreted incorrectly when more than 255 transcription images were present. This is likely the result of higher numbers in the menu_order field of the WordPress database being interpreted as unsigned 8-bit integers.
 			'order'       => 'ASC',
 		);
 		$attachments = get_posts( $args );
