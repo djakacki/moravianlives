@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>George Nixdorf: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of George Nixdorf: 
+               Manuscript in English, 11 pp.
+               From Original - Box 4</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>
+         
+         
+         
+            <pb n="1" ana=".10284.26374"/>
+            <figure n="0284a-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-01.jpg"/>
+               <ab type="caption">George Nixdorf, page 1</ab>            
+            </figure>
+
+         <persName>Br. </persName><hi rend="underline"><persName>George Nixdorf</persName></hi> has wrote down
+            the following of his Life: I was born <date>Febr. 22<hi rend="superscript">d</hi>. 1700</date>
+            at <placeName>Schaefer</placeName> in the <placeName>Principality of Jauer in Silesia</placeName>, &amp;amp;
+            was the first Child which the <persName>Rev</persName><hi rend="superscript"><persName>d</persName></hi><persName>. M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Schwedler</persName> bap,
+            tized in <placeName>Niederwiese</placeName>. My dear Mother loved God
+            &amp;amp; his holy Word, &amp;amp; the Passion Hymns proved at all
+            Times in the Year a Refreshment to her. She was
+            a special Friend of the <persName>Rev</persName><hi rend="superscript"><persName>d</persName></hi><persName>. M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Schwedler</persName> &amp;amp; frequent-
+            ed his Preachings &amp;amp; other Meetings very diligently
+            &amp;amp; took me very often to him, when he then, as often
+            as I came to him even still in my 12<hi rend="superscript">th</hi>. Year, fell 
+            
+            <pb n="2" ana=".10284.26375"/>
+            <figure n="0284a-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-02.jpg"/>
+               <ab type="caption">George Nixdorf, page 2</ab>            
+            </figure>
+            
+            down with me on his Knees, prayed in my Behalf
+            laid the Hand upon me &amp;amp; blessed me. <date>1708</date> was the
+            very great &amp;amp; particular Awakening of the Children
+            throughout <placeName>Silesia</placeName>, which I am not able to give a 
+            Description of, it was something extraordinary, that
+            in so many Villages &amp;amp; Towns the Children small &amp;amp;
+            great, came all at once upon the Thought: To mor, 
+            row on <date>New Years Day</date> we will begin a Meeting
+            of Prayer in the open Field, &amp;amp; this was done through,
+            out the whole Country, as if it had been published 
+            by an Edict from the King. The particular <unclear>[?]</unclear> <add>Circum</add>,
+            stances &amp;amp; wonderful Occurances , I shall never
+            forget to all Eternity. It is a special Grace to
+            me, that I was present at it, and I reckon that from 
+            that Time that our Savr. has given me something into my
+            Heart, which indeed I did not understand, but since
+            that Time was many thousand times uneasy on ac,
+            count of my Behaviour, tho' I endeavoured to sup,
+            press it by all Manner of Means, in order to enjoy
+            the World rightly. <date>1716</date> I came to <placeName>Goldberg</placeName> to learn
+            the malting &amp;amp; brewing <sic>Bussiness</sic> <corr>Business</corr>. My Master was a
+            very pious &amp;amp; righteous Man, who kept me very sharp,
+            &amp;amp; left me no Liberty to pursue hurtful Things. 
+            
+            <pb n="3" ana=".10284.26376"/>
+            <figure n="0284a-03">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-03.jpg"/>
+               <ab type="caption">George Nixdorf, page 3</ab>            
+            </figure>
+            
+            The Years of my Apprenticeship being ended, I <sic>tra,
+               velled</sic> <corr>traveled</corr> &amp;amp; took, &amp;amp; for some Years took a View of the
+            World in various Countries &amp;amp; principal Towns, but
+            the Uneasiness of my Heart pursued me every where.
+            I came at last to <placeName>Breslau</placeName>, &amp;amp; stayed there some Years.
+            &amp;amp; wrought as Journey man. I then came to <placeName>Stolz</placeName>
+            not far from <placeName>Frankstein</placeName>, where I continued still
+            single for some Year, &amp;amp; became acquainted with some
+            awakened People. I often went to the pious <persName>Minister
+               Haller</persName> in <placeName>Tepliwode</placeName>, where I also met the first Mo-
+            ravian Brethren. I begged if again once some
+            moravian Brn. should come <add>that Way,</add> that they should visit
+            me &amp;amp; in <date>1724 or 25</date> came our dr. <persName>Br. Christian David</persName>
+            &amp;amp; old <persName>Demuth</persName> to me in my Brewing House, I kept
+            at the same Time a Tavern where it went every Day
+            very merry, I took them alone into a private Room,
+            that they might not be in the Hurry &amp;amp; Noise. <persName>Christian
+               David </persName>asked me: Whether I also would like to be saved?
+            I said: This is a peculiar kind of a Question my dr.
+            Friends, who would not like to be saved? but in
+            such a Way of Life &amp;amp; Situation, as you see, that
+            goes here, it is scarce possible to be saved, tho'
+            one had ever so great a Mind. <persName>Demuth</persName> asked:
+            
+            <cb/>
+            
+            Is it every Day so with you? I answered Yes, 
+            I am a plagued Man! Then <persName>Christian David</persName> said:
+            My dear good Friend, when once you are in Earnest
+            about it to be saved, God will find Ways &amp;amp; Means
+            to deliver you from this Tumult, but at present
+            you are not yet in Earnest. I felt that he spoke
+            the Truth, that it was not yet a true Concern to me
+            to renounce the World, &amp;amp; belong to Christ, they then
+            proceeded joyfully on their Journey &amp;amp; I looked after
+            them with Tears. I was a young Man who was much
+            liked, loved what was good, but wished also not
+            to spoil it with the World, Ah! what a plagued Life
+            had I then. The pious People withdrew themselves 
+            also from me, &amp;amp; trusted me no more. But ah! with
+            what Patience has my dear Savr. born with me? <date>1728</date>
+            I was married with my dear Wife <persName>Susanna late Kom</persName>
+            &amp;amp; I stayed with her still 1 Year &amp;amp; 8 Months there.
+            I then got a Call to go to <placeName>Breslau</placeName> &amp;amp; in <date>1730</date> I moved
+            thither with my Wife &amp;amp; one Child, &amp;amp; became Master there
+            I succeeded according to my Wishes outwardly, but
+            was at the same time continually uneasy; I got ac,
+            quainted with the pious People, &amp;amp; we took much Pains in
+            
+            <pb n="4" ana=".10284.26377"/>
+            <figure n="0284a-04">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-04.jpg"/>
+               <ab type="caption">George Nixdorf, page 4</ab>            
+            </figure>
+            the Exercise of Godliness in our own Strength, &amp;amp;
+            were very anxious &amp;amp; legal, but when we had carried
+            it to the highest Pitch God sent <persName>Br. Zellich</persName> to us
+            from <placeName>Herrnhuth</placeName>, who lodged 4 Days with me, I was
+            quite openhearted towards him, he told me, that we
+            were <unclear>upon</unclear> wrong Ways, &amp;amp; <add>he</add> declared the Friend of Sinners
+            to me, who justifieth the Ungodly, this was a Gospel
+            for me, &amp;amp; now I could draw Breath , but soon after
+            I got Differences with the Pietists, who mistrusted
+            me, because I spoke of free Grace. <date>1737</date> the<persName> Brn.
+               Lawatsch</persName><persName> &amp;amp; Henry Nitschman</persName> paid us a Visit. who
+            preached to us the Gospel of Jesus Death &amp;amp; Suffering.
+            Soon after I visited the first time in <placeName>Herrnhuth</placeName>, &amp;amp;
+            repeated it diligently, made also Application for
+            a Br. &amp;amp; Sr. to stay with us for some Time, &amp;amp; we
+            got <persName>Br. Münster</persName> &amp;amp; his Wife who were still with
+            me when the <persName>King of Prussia</persName> took <placeName>Breslau</placeName>. My
+            Wife was present at the first Elders Festival in
+            <placeName>Herrnhuth</placeName>, &amp;amp; stayed there 18 Weeks on a Visit, &amp;amp; went
+            several Times as a Guest to the H. Com<hi rend="superscript">n</hi>. with the
+            Cong<hi rend="underline">rn</hi>. I then went to fetch her, &amp;amp; found her in quite
+            a different Situation of Heart, this gave me a very
+            
+            <cb/>
+            
+            deep Impression. I intended to move immediately
+            to the Cong<hi rend="underline">rn</hi>. but the Brn. would not receive me,
+            but said, we should stay in <placeName>Breslau</placeName> till they drove
+            us away. It also did not last long. <persName>Br. Seidliz</persName>
+            came to <placeName>Breslau</placeName>; I desired him to keep us a 
+            Meeting in the Evening, to which he was directly willing
+            &amp;amp; when it was known a great many People came to
+            it. <persName>Br. Seidliz</persName> said: It will now not last long
+            before they will cast you out, &amp;amp; he was scarce gone
+            then when I was <sic>sumoned</sic> <corr>summoned</corr> before the Clergy &amp;amp; declared 
+            to be a Seducer. My Masters were ordered to hurry <add>sent </add>
+            me away as fast <add>soon</add> as they coud, which they did not like
+            they therefore endeavoured to persuade me to leave the
+            Brn. for they wanted to keep me. I told them, that I
+            could not obey them herein, I neither could nor would
+            leave the Brn. Thus I was honorably dismissed, where,
+            upon I obtained Leave to move to <placeName>Herrnhuth</placeName>, where
+            we arrived in <date>June 1742</date> we were soon received into
+            the Cong<hi rend="underline">rn</hi> &amp;amp; admitted to the H. Com<hi rend="superscript">n</hi>. since that Time
+            I could always cleave to our Savr. as a poor Sinner.
+            I thought to live &amp;amp; to die there, &amp;amp; we thanked our dr.
+            Savr. with many Tears, that he had brought us to his
+            People. The Cong<hi rend="underline">rn</hi> gave me the Flower &amp;amp; Bread Trade 
+            
+            <pb n="5" ana=".10284.26378"/>
+            <figure n="0284a-05">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-05.jpg"/>
+               <ab type="caption">George Nixdorf, page 5</ab>            
+            </figure>
+            &amp;amp; we found a good Livelihood by it. <date>June 10<hi rend="superscript">th</hi>. 1743</date>
+            we got a Call to go to <placeName>America</placeName>, this was an unex-
+            pected Proposal to me, we considered it together
+            &amp;amp; having once for all given ourselves up to live for 
+            our Savr. &amp;amp; his Matter in the World, we could not de-
+            cline it, &amp;amp; <date>Aug. 20<hi rend="superscript">th</hi>.</date> we set out from <placeName>Herrnhuth</placeName>
+            with many other Brn. &amp;amp; Srs. Our little Child of half
+            a Year old we took with us, &amp;amp; 2 Children a little
+            Boy of 9 Years &amp;amp; a Girl of 6 Years we left in 
+            <placeName>Herrnhuth</placeName> in the <sic>Oeconomies</sic>. <date>Dec. 8<hi rend="superscript">th</hi>. 1743</date> we arri-
+            ved save &amp;amp; well in <placeName>Bethlehem</placeName> with 120 Brn. &amp;amp; Srs.
+            Various Things have showed themselves to me on
+            this long Journey, but they turned out for my Good.
+            Here we were soon received Acolytes, I became
+            also Hall Servant which was particularly weighty
+            &amp;amp; blessed to me. My Wife served in the Childrens
+            <sic>Oeconomy</sic>, &amp;amp; I for some Years in the Distillery.
+            <date>1747</date> we got a Call to <placeName>Lancaster</placeName> to keep School there. 
+            <persName>Br. Nyberg</persName> who was Minister there, received us
+            with much Joy; &amp;amp; presented us still the same
+            Day to his People who all rejoiced very much, that
+            somebody from the Cong<hi rend="underline">rn</hi> would take Care of
+            their Children. They had already prepared a House
+            
+            <cb/>
+            
+            for it, &amp;amp; <date>Apr. 1<hi rend="superscript">st</hi>. 47</date> we begun the School with 65
+            Children, but in a short Time their Number increased
+            to 80. 6 Weeks after I grew very sick, &amp;amp; the Brn.
+            sent <persName>Br. Gottshalk</persName> who kept the School several
+            Months, till I was recovered. The Year following <persName>Br.
+               Nyberg</persName> moved to <placeName>Bethlehem</placeName>, &amp;amp; <persName>Br. &amp;amp; Sr. Abraham
+                  Reineckes</persName> came to us as Labourers, with whom 
+            we lived a Year in Love &amp;amp; Peace. <date>1749</date> we were
+            called to <placeName>Bethlehem</placeName> for some time, where my Wife
+            should keep her lying in. On our Journey we
+            found, that the Waters had risen very much, &amp;amp; the
+            Middle Creek was so high, that the Horses had to
+            swim, &amp;amp; in the Middle of the Creek my Wife fell
+            from her Horse. <persName>Br. Franz Thomas</persName> was with us,
+            &amp;amp; we dragged her with great Danger of our Lives
+            out of the Water for dead, &amp;amp; having brought her into
+            a warm Room she soon came to herself again, &amp;amp;
+            neither she nor her Child has received any Hurt by it.
+            Within the Space of a Year we came again to <sic><placeName>Lancastor</placeName></sic>.
+            &amp;amp; then for some Years to <placeName>Warwick</placeName>, &amp;amp; from thence to
+            <placeName>Christians Spring</placeName> afterwards to <placeName>Swatara</placeName> where a 
+            new Meeting House was built, which we moved into 
+            
+            <pb n="6" ana=".10284.26379"/>
+            <figure n="0284a-06">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-06.jpg"/>
+               <ab type="caption">George Nixdorf, page 6</ab>            
+            </figure>
+            &amp;amp; made Preparations for a Synod to be kept
+            there. By the Synod we were sent the 3<hi rend="superscript">d</hi> time to 
+            <placeName>Lancaster</placeName>, where we served that Congrn with <persName>Br.
+               Bader</persName> &amp;amp; <persName>Br. &amp;amp; Sr. Oerter</persName>. We have been in all
+            upon the whole 22 Years &amp;amp; 4 Month in <placeName>Lancaster </placeName>
+            at different Times. <date>1758</date>, At a Synod in <placeName>Libanon</placeName> I
+            was ordained a Deacon of the Brns. Church <date>1778</date>
+            <date>Nov. 9<hi rend="superscript">th</hi>.</date> we had our Marriage Jubilee here in <placeName>Beth,
+               lehem</placeName>. It was a great Grace to me &amp;amp; my Wife, that
+            we <add>could</add> live here in the Cong<hi rend="underline">rn</hi> House, where we amidst
+            our great Weakness, &amp;amp; in all kinds of Weather could
+            frequent the beautiful <add>blessed</add> Meetings, for the Benefit &amp;amp; 
+            Blessing of our Heart. If I Upon Consi<add>de</add>ration from 
+            what a large Family I am descended, when more than
+            100 Persons were nearly related to me, I am astonished
+            on account of the Grace, that our Savr. has chosen me
+            out of it, &amp;amp; brought me to his Congregation, whereas
+            I am one of the worst among <add>them</add>, was also looked upon
+            as such by them, &amp;amp; myself. Thousand thousand Thanks 
+            to Thee dearest Lord for ever be, for what thou hast
+            done on me poor Wretch, &amp;amp; dost still daily. 
+            Thus far our late Brother.
+            In his married State in which he has lived almost 
+            
+            <pb n="7" ana=".10284.26380"/>
+            <figure n="0284a-07">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-07.jpg"/>
+               <ab type="caption">George Nixdorf, page 7</ab>            
+            </figure>
+            57 Years, in which he had 8 Children of which 3
+            departed this Life when in their Infancy three Sons have
+            settled themselves partly in <placeName>Germany</placeName>, &amp;amp; partly here in
+            this Country, but are in no <sic>Connexion</sic> with the Cong<hi rend="underline">rn</hi>.
+            one Daughter <persName>Mar. Rosina</persName> has been married with
+            <persName>Br. Lauterbach</persName> in <placeName>Rixdorf</placeName>, &amp;amp; the other <persName>Anne Johanne</persName>
+            is in the Choir House here. Wherever our late Brother
+            has been in our Town &amp;amp; Country Cong<hi rend="underline">rns</hi>, particu-
+            larly in <placeName>Lancaster</placeName> where he has served the longest,
+            his Memory is in Blessing. Among us he has approv,
+            ed himself as a Brother who cleaved with all his
+            Heart to our Savr. &amp;amp; to the Cong<hi rend="underline">rn</hi>. &amp;amp; had his Pleasure
+            &amp;amp; Delight in it. He therefore attended the Meetings
+            of the Cong<hi rend="underline">rn</hi>. uninterruptedly as long as ever he
+            could. In his Converse with others he was cordial
+            &amp;amp; loving, &amp;amp; when he had missed it somewhere, he soon
+            repented &amp;amp; begged for Pardon. Till in his advanced
+            Age he enjoyed an uncommon good State of Health
+            except his hearing which was much impaired in his
+            latter Years, &amp;amp; which caused no small Uneasiness to
+            him <sic>condidering</sic> <corr>considering</corr> his great Inclination to attend the 
+            Mettings. Only a few Weeks before his Departure 
+            he had to take to his Bed, he complained about nothing
+            but Straitness in his Breast, which also increased      
+            
+            <pb n="8" ana=".10284.26381"/>
+            <figure n="0284a-08">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-08.jpg"/>
+               <ab type="caption">George Nixdorf, page 8</ab>            
+            </figure>
+            more &amp;amp; more. He bore these Difficulties with
+            Patience, &amp;amp; praised God till to his End for all the
+            Benefits He has shewed to him. At last he desired
+            much to depart &amp;amp; to be with Christ, received also there,
+            to the Blessing of the Congrn. <add>thereto</add> upon his Desire. He him,
+            self joined also in the Singing very plainly. Tho' he
+            often testified contray to Expectation of other Brn.
+            &amp;amp; Srs. that he should not yet go home, he said however
+            the Day before his Departure: Now let us praise
+            the Lord! this Day I shall go home. But it lasted
+            however till the next Day on <date>Michaelmas</date> about 4
+            o' Clock in the Afternoon when he ceased to breathe
+            quite unobservedly. Aged 85 Years &amp;amp; about 7 Months.
+         
+         </p>
+      </body>
+  </text>
+</TEI>

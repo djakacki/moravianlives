@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+            <titleStmt>
+               <title>Johann Christopher Pyrlaeus: Memoir
+               <lang>English</lang>
+               </title>               
+               <funder>The Moravian Lives Project</funder>
+               <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+                  <orgName>Bucknell University</orgName>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <country>United States</country>
+                  <email>faull@bucknell.edu</email>
+               </principal>
+               <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+                  <settlement>Gothenburg</settlement>
+                  <country>Sweden</country>
+                  <email>christer.ahlberger@history.gu.se</email>
+               </principal>
+               <respStmt>
+                     <persName>Diane Jakacki</persName>
+                     <orgName>Bucknell University</orgName>
+                 <resp>Project Manager</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Michael McGuire</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Developer</resp>
+               </respStmt>
+               <respStmt>
+                  <persName>Carly Masonheimer</persName>
+                  <orgName>Bucknell University</orgName>
+                  <resp>Research Assistant and encoder</resp>
+               </respStmt>
+            </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+            <publicationStmt>
+               <distributor>The Moravian Lives Project</distributor>
+               <availability>
+                  <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+               </availability>               
+            </publicationStmt>
+            <sourceDesc>
+               <p>The Life of Johann Christopher Pyrlaeus: 
+               Manuscript in English, 10 pp.
+               From Original - Box 4</p>
+            </sourceDesc>
+         </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+            
+            <div type="page">
+            <pb n="1" ana=".10281.26360"/>
+            <figure n="0281a-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-01.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 1</ab>            
+            </figure>
+         <p>           
+            <hi rend="underline">Life  of B<hi rend="superscript">r</hi>  <persName> John Christopher Pyrlaeus </persName>
+               who went home in <placeName>Herrnhut</placeName> the <date>28<hi rend="superscript">th</hi> of
+                  May 1785.</date></hi>
+            He has left the following Account of himself:
+            I am <add>was</add> born at <placeName>Pausa in Voetland</placeName> the <date>25<hi rend="superscript">th</hi>
+               of Apr. 1713</date> &amp; well 3 Months after the Death 
+            of my Father. He has been there Superinten-
+            dent as also his Father &amp; Grand-Father
+             &amp; died in his 33<hi rend="superscript">d</hi> Year. My Mother was
+             then 26 Years old, &amp; had besides me yet
+             3 minor <add>younger</add> Children. She was very pious &amp; reli-
+             gious, &amp; put their her  Hope &amp; Confidence on God,
+             she loved her Children very tenderly, &amp; out
+             of Care for them she refused all <add>Proposals of</add> Marriages
+            offered to her, &amp; remained a Widow, till she left 
+             this World in Confidence upon the Merits
+             of Jesus <date>1764</date> in the 78<hi rend="superscript">th</hi> Year of her Age.
+             She educated us with much Love &amp; Care.
+             When we had grieved her with <add>by</add> Disobedience,
+             then she wept &amp; this had chastised us. She kept
+              Every Morning &amp; Evening she sang an Hymn,
+            read one or more Chapters out of the Bible
+            
+         </p>
+            </div>
+         
+         <div type="page">
+            
+            <p>
+            
+            <pb n="2" ana=".10281.26361"/>
+            <figure n="0281a-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-02.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 2</ab>            
+            </figure>
+            &amp; concluded with a Prayer. I had the first
+            melting Impression of the Passion of Jesus
+            at singing <add>once</add> these Words: O Lord let me find Grace
+            &amp;c. <gap>  </gap>I must weep thereby, &amp; my Mother perceiving
+            this, explained unto us the Matter of Jesus
+            Christ our Mediator, who took upon himself
+            all our Sins &amp; Iniquities out of inexpressible
+            Love &amp; has suffered therefore the bitter Death
+            on the Cross. From my 5<hi rend="underline"><hi rend="superscript">th</hi></hi> Year I was sent
+            in the <add>to</add> School<gap></gap> In the Year <date>1726</date> I enjoyed
+            for the first time the Lords Supper, with
+            an holy &amp; awful Trembling.
+            About this Time I experienced a particular Re-
+            servation of God. I was ringing the large Church-
+            Bell with another Boy, all at once the Rope fell
+            down upon my Bed <add>Head</add>, &amp; cast me down through the
+            Hole two Stories upon the Stones <hi rend="superscript">so</hi> that I was brought
+            home as dead. But I recovered soon. The Hurt
+            which I suffered thereby was not of so long &amp; pain-
+            ful Consequences as another, which I have expe-
+            rienced by the Seductions of another Boy.
+            Till now, I had been in a simple &amp; childlike Con-
+            versation with our Savior; for when I had grieved 
+            him with Lightmindedness, Disobedience or such
+            
+            <cb/>
+            
+            Things, I had no Rest, till I <add>either</add><add></add> alone or with 
+            my Sister fell down before our Saviour, prayed
+            for &amp; felt his Pardon. The Poison of Sin had indeed
+            well been within me; but now I experienced the
+            Death <add>Agony</add> &amp; Distress, which it <hi rend="superscript">causeth </hi>makes in the Heart. 
+            For through I resisted <add>it</add> with all my Power, yet
+            I must <add>had to</add> perceive from Time to Time its Dominion
+            &amp; my Inability. Thereby I came <add>thereby</add> in an anxious 
+            Situation, but sometimes experienced Comforts
+            of our Savior, &amp; received the Assurance, that
+            I should not be lost. In the Year <date>1728</date> I went
+            to <placeName>Schlaiz</placeName> on the <add>to</add> School, where I was 5 Years
+            &amp; must <add>had to</add> get my Livelihood by <add><hi rend="superscript">teaching</hi></add>  instructing Children, in 
+            writing &amp; Music. My <add>outward</add> Poverty with the Fear for of
+            Shame retained <add>kept</add> me from many Excesses. Other
+            Men thought <add>that</add> I was religious, &amp; I must <add>had to</add> suffer many
+            Mockeries from my Fellow Disciples <add>Scholars</add>, who called
+            me a Pietist. In <date>June 1733</date> I went with 22
+            Ryksdollars upon the <placeName>University at Lepzick <add>s</add></placeName>, 
+            received a Pension of 30 Ryksdollars yearly,
+            &amp; at the End of the Year free Boarding, for
+            which benefit I thanked God heartily.
+            In the Year <date>1735 in April</date>, a Student sitting <add>who sat</add> next
+            me, dying suddenly was <add>proved</add> the Occasion, that 
+            I was stirred up anew in my Heart, considering
+            
+            </p>
+         </div>
+         
+         <div type="page">
+            <p>
+            
+            <pb n="3" ana=".10281.26362"/>
+            <figure n="0281a-03">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-03.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 3</ab>            
+            </figure>
+            thereby <add>at the same time</add> the Uncertainty of the Hour of Death,
+            &amp; resolvedy to watch over my <add>self </add>&amp; to be concerned
+            continually about my Salvation. I longed
+            to be acquainted with a Student, to whom I
+            could reveal the Situation of my Heart
+            but I found none to whom I could have such
+            a Confidence, till in <date>June 1737</date>, when I was <add>became </add>
+            acquainted with one <persName>Simmich</persName>. By <add>At</add> his first Visit
+            I could lay before him my restless &amp; about
+            my Salvation concerned Heart, &amp; tell him
+            with what anxious Exercises &amp; Resolutions
+            I had tired myself, to betrid of Sin &amp; <add>become</add> assured 
+            of the Grace of God. He replied: Dear Sir,
+            On this Way you will not find Rest for your
+            troubled Soul. You must as a Sinner, who has
+            deserved Curse &amp; Damnation come with all
+            your misery come to Jesus Christ, the Saviour
+            of the Sinners &amp; This Man was to me a 
+            Messenger of the Grace of the Gospel, &amp; by
+            him I came also into Acquaintance, with 
+            the other awakened Students, who were in
+            <sic>Connexion</sic> <corr>Connection</corr> together. I read now the New
+            Testament a-new, &amp; was thereby powerfully
+            
+            <cb/>
+            
+            convinced of theis Truth, &amp; prayed to our Saviour,
+            to reveal to me by his holy Spirit his great
+            Work of Redemption. From that Time he let
+            me find Grace in his Blood. In <date>Sept.</date> <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>.</persName>
+            <persName>Martin Dober</persName> <add>made a Journey</add> <hi rend="underline">came</hi> <add>by Way of </add><hi rend="underline"><add></add>through</hi> <placeName>Lipsick</placeName> to <placeName>I</placeName><placeName><placeName>ena</placeName></placeName>
+            My open hearted Conversation with him, &amp; his
+            Compassion with my vain Efforts, were blessed
+            to my Heart. Returning from <placeName>I</placeName><placeName><placeName>e</placeName>na</placeName> he related
+            us of the Awakening &amp; the happy Course of the
+            Students in <placeName>Iena</placeName>, &amp; gave me Advice, to visit
+            there, which I did in <date>October</date>, &amp; was received
+            with much Love. The Conversations with the
+            <persName>Brethren Johannes, Molther, Lauterbach </persName>&amp;c.
+            &amp; some <unclear><add>ascetick</add></unclear><add></add> Lessons of <persName>M</persName><hi rend="underline"><hi rend="superscript"><persName>r</persName></hi></hi><hi rend="superscript"></hi><persName> Brumhardt A.M.</persName> proved
+            to my Heart great Comfort, &amp; I returned
+            very <add>much</add> strengthened to <placeName>Lipsick</placeName>, where I in the
+            Year <date>1738</date> had yet more Occasion, to grow
+            in the Knowledge of my self &amp; of Jesus Christ.
+            I had till now <add>gone</add> but once in <placeName>Lipsick</placeName> gone to 
+            the Lords Supper, because I thought myself
+            unworthy of it, but now I enjoyed it with
+            6 B<hi rend="superscript"><hi rend="underline">rn</hi></hi><hi rend="underline"></hi> to a real Strengthening of my
+            Faith. In <date>May</date> I made a Visit in <placeName>Herrnhut</placeName>. 
+               
+            </p>
+         </div>
+         
+         <div type="page">
+            <p>
+            
+            <pb n="4" ana=".10281.26363"/>
+            <figure n="0281a-04">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-04.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 4</ab>            
+            </figure>
+            with some B<hi rend="superscript">rn</hi> from <placeName>Iena</placeName> &amp; <placeName>Lipsick</placeName>
+            I cannot express in Words, what Joy &amp; Amaze-
+            ment I have felt in the Meetings in the
+            Hall, by the Visits in the Families &amp; in the
+            Conferences with the Strangers. It was al-
+            ways in my Heart: Thou belongst to this Peo-
+            ple, thou must be and remain here, else thou
+            art in Danger of being lost. After having heard
+            returned to <placeName>Lipsick</placeName>, I received in <date>Oct.</date> from
+            <placeName>Herrnhut</placeName> a Call <add>to</add> be in Lauban Tutor of 
+            the Children of the awakened Citizens <add>in <placeName>Lauban</placeName></add> those
+            I regarded this Call as a <add>Beck</add> of our 
+            Saviour &amp; arrived the <date>26<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi> of Nov</date>. in <placeName>Lauban</placeName> 
+            Our Saviour owned my Service graciously as
+            well by<add> both at </add>the Information of the Children, and by <add>at</add>
+            the Repetition of the Sermons every Sunday.
+            I had also an agreeable Conversation <add><sic>nexion</sic></add> <corr>nection</corr> with  
+            the single B<hi rend="underline"><hi rend="superscript">rn</hi></hi><hi rend="superscript"></hi> there, &amp; went with <add>some of </add>them on
+            the Congregation Days to <placeName>Herrnhut</placeName>. In <date>May
+               1739</date> we went together in the Church to the
+            Lords Supper. But soon afterwards a Per-
+            secution commenced, the Meetings were prohi-
+            
+            <cb/>
+            
+            bited, &amp; one <add>we</add> heard, that it was concerted with
+            some Officers, to press me amongst the Soldiers
+            I received <add>was</add> Advised to go away, which I did
+            the <date>30<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi> of May</date>, &amp; afterwards I heard that
+            they had searched <add>for</add> me the same Night in my
+            Lodging. On this Manner I went to <placeName>Herrn-
+               hut</placeName>, to stay there. In <date>June</date> I was present,
+            when the Corner-Store to the first House
+            of the single B<hi rend="superscript"><hi rend="underline">rn</hi></hi> was laid, &amp; it was to me <add>a Pleasure to me</add>
+            Joy to do in my Leisure Hours the Service <add>Work</add> of
+            a Journey Daylabouring Man. Here I was informed Chil-
+            dren, preached in <placeName>Bertholdsdorf</placeName> at that Time
+            no Minister being there, keeping <add>kept</add> Children-
+            Meetings &amp;c. &amp; all was Grace to me. I was
+            soon admitted to the H. Communion.
+            In <date>July 1740</date> I was called to <placeName>Marienborn</placeName>. Here
+            I saw for the first Time with Amazement
+            &amp; Love the late Ordinary, &amp; soon received
+            from him a Call to <add>go to</add> <placeName>Pensylvania</placeName> to the Ser-
+            vice of the Indians. The <date>26 of Oct</date>. I arrived
+            by <add>with</add> the Brn. &amp; Srs. at that Place which was
+            afterwards called <placeName>Bethlehem</placeName>. The Ordinary
+            followed us with his Company, &amp; kept the <date>24<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"> </hi>of
+               Dec</date>. the Celebration of Christmas-Eve, by which
+               
+            </p>
+         </div>
+         
+         <div type="page">
+            
+            <p>
+            
+            <pb n="5" ana=".10281.26364"/>
+            <figure n="0281a-05">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-05.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 5</ab>            
+            </figure>
+            Occasion this Place was called <placeName>Bethlehem</placeName>.
+            The <date>22 of Febr. 1742</date> I was ordained at the
+            Synod at <add>in</add> <placeName>Oley</placeName>. On this solemn Day of Grace
+            &amp; Blessing also the first 3 Indians were
+            also baptized. In <date>July</date> I was married with
+            <persName>Susana Bennezet</persName> from <placeName>Philadelphia</placeName>. I was
+            |Adjunctus| Assistant of the Ordinary in <placeName>Philadelphia</placeName>
+            |: he had as it is known rece accepted there 
+            the Office of a Lutheran Minister :| but <add>I</add> was
+            the <date>29 of July</date>, from <add>by</add> an exasperated and drunk-
+            en Mob violently drawn from the Pulpit
+            whereupon in the Name of the Reformed
+            the Church was taken in Possession <add>of</add>. We went
+            with a Part of the Congregation to our
+            Lodging, where the divine Service was con-
+            tinued, &amp; so we went on in this Manner, till
+            a new Church was built &amp; dedicated the <date>23<hi rend="superscript">rd</hi>
+               of Nov.</date> After the Departure of the Ordinary
+            in <date>Jan. 1743</date> I with my Wife moved to <placeName>Conrad
+               Weisser</placeName>, to learn from him the Language of
+            the Macquai Indians &amp; to instruct his Chil-
+            dren. After 3 Months we moved to the Indians
+            
+            <cb/>
+            
+            partly to profit &amp; more in their Language, &amp;
+            partly to see, if Mere something <add>was</add> to be done a-
+            mongst them for the Brethren <add>our Savr</add>. On a Visit
+            by the Indian Congregation in <placeName>Shekomeko</placeName>
+            &amp; <placeName>Pachgatgoch</placeName> <add>in <date>June</date></add> I was arrested with the <persName>Brethren
+               Martin Mack &amp; Shaw</persName>, &amp; brought to<placeName> New-Mill-
+                  ford in Connecticut</placeName>. The Impeachment <add>Accusation</add> was
+            that we preached in strange Parishes |: The
+            whole Country is namely divided in Parishes,
+            &amp; the Land of the Indians being contained
+            in it; it was impossible for the Brethren to
+            preach the Gospel to the Indians, without
+            to preach in on or other Parish :| By <add>At</add> the Trial
+            we had <unclear><add>[?]</add></unclear><add></add> Opportunity oftentimes, to testify of
+            our Ground of Salvation. After having been
+            dismissed, I continued with my Wife our Jour-
+            ney in the Land of the Macquai Indians, where
+            we lived, near an Indian town in great Po-
+            verty, Difficulty &amp; Danger. In <date>Sept.</date> we return-
+            ed to <placeName>Bethlehem</placeName> In <date>Febr. 1744</date> I began to
+            instruct some B<hi rend="underline"><hi rend="superscript">rn</hi></hi>. &amp; S<hi rend="underline"><hi rend="superscript">rs</hi></hi>. in the Language
+            
+            </p>
+         </div>
+         
+         <div type="page">
+            <p>
+            <pb n="6" ana=".10281.26365"/>
+            <figure n="0281a-06">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-06.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 6</ab>            
+            </figure>
+            of the Maquai-Indians, &amp; was afterwards em-
+            ployed on divers Maner <add>ogrious Ways</add> amongst white Peo-
+            ple &amp; Indians, &amp; served at last by an <add>at the Boys</add> <sic>Oeco-
+               nomy</sic> <corr>Economy </corr>at Boys<corr> </corr>at <placeName>Fredericktown</placeName>. In the Year
+            <date>1751</date> we were called back to Europe, from
+            which Time till <date>1769</date> I served in <sic>divers</sic> <corr>diverse</corr>
+            Congregations in England as Minister.
+            Then we were called to <placeName>Gnadau</placeName>, made a Visit
+            in <date>April</date> in <placeName>Herrnhut</placeName>, where we found an
+            Employment unexpected to us. The <date>8<hi rend="underline"><hi rend="superscript">th</hi></hi> of Oct. 
+               1779</date> it pleased my dear Lord to place me in
+            the Widowers-State, whor eat <add>about which</add> he himself has
+            comforted me. Our Marriage has been blessed
+            in America with 3 Children &amp; in England also
+            with 3 Children. My happy Wife has had
+            the Pleasure shortly before her Departure to
+            see her 3 Children from England She is now
+            in Peace; but i am yet in the Valley of
+            Tears &amp; feel, how the mortal Body pressath
+            me. But my Spirit &amp; Soul are longing for
+            the Appearance of my Saviour, when he also
+            
+            <cb/> 
+            
+            will call me in <add>to</add> the eternal Rest into his
+            Arm &amp; Bosom. O who shall know what is
+            happening when he sees Face to Face the
+            Man of Sorrows! Written in <date>May 1782</date>
+            So far his own Account.
+            His Choir is yet adding: We can give the
+            Testimony to our late Brother, that he has gone on
+            carried in our Choir <add>in</add> an happy &amp; editying
+            Walk <add>Course</add>. He thought mean of himself. His Heart
+            was <add>so</add> penetrated of the Love, Blood &amp; Death
+            of Jesus, that by <add>upon</add> all Opportunity <add>Occasions</add>, <add>as well</add> both 
+            <sic>publickly</sic> <corr>publicly</corr> and in private Conversation his
+            Mouth was overflowinged of it. He loved
+            heartily, served his B<hi rend="superscript"><hi rend="underline">rn</hi></hi><hi rend="underline"></hi> &amp; S<hi rend="superscript"><hi rend="underline">rs</hi></hi> where of was <add>ever he could, </add>
+            possible to him, &amp; was also universally <add>be</add> loved.
+            The first Years of his Widowers-State he
+            served as well in the Congregation as before,
+            and also in our Choir with Grace &amp; Blessing.
+            But soon an old Hurt on his Head appeared <add>broke out</add>
+            anew, whereof the Consequence was, that  
+            
+            </p>
+         </div>
+         
+         <div type="page">
+            <p>
+            
+            <pb n="7" ana=".10281.26366"/>
+            <figure n="0281a-07">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0281a-07.jpg"/>
+               <ab type="caption">Johann Christopher Pyrlaeus, page 7</ab>            
+            </figure>
+            he could not turn his Neck, whereto came a
+            Palsy on Hands &amp; Feet. In this Situation,
+            when he must be nursed as a Child he was
+            given resigned as a Child in <add>to</add> the Will of our
+            Saviour, &amp; expected, though with longing De-
+            sire, yet with Patience the Hour of his De-
+            parture. The <date>25<hi rend="superscript">th</hi>. of Apr. <add>1785</add></date> he celebrated
+            with some B<hi rend="underline"><hi rend="superscript">rn</hi></hi><hi rend="superscript"></hi> his Birth Day very happy
+            &amp; <sic>chearful</sic> <corr>cheerful</corr>, with <add>by</add> a Love-Feast &amp; musical Song,
+            wherewith his Children rejoiced him unex-
+            pectedly. At the Conclusion he read the Hymn
+            which was sung to the present B<hi rend="underline"><hi rend="superscript">rn</hi></hi> with
+            an affected Heart saying: " This was to my Bu-
+            rial, my dear Saviour will now come soon. "
+            After that Time his Power Strength decreased
+            visibly, &amp; the <date>28<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi> of May</date> appeared at last
+            the Hour of his Departure so long Time
+            wished for, when he happy &amp; soft <sic>oxpired</sic> <corr>expired</corr>
+            in the 73<hi rend="superscript">rd</hi> Year of his Age. 
+         </p>
+         </div>
+        
+
+      </body>
+  </text>
+</TEI>
