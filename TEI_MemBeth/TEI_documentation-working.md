@@ -19,6 +19,9 @@ If multiple forenames, use <forename type="first">, <forename type="middle"> ...
 
 
 Diplomatic tags
+<cb/> for column breaks
+<pb/> for page breaks
+
 
 
 
