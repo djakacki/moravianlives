@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ann Krügelstein</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Moravian Lives</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="MemBeth0001" sex="M">
+                  <persName>
+                     <forename type="first">Anton</forename>
+                     <forename type="middle">Peter</forename>
+                     <surname>Boehler</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1743-10-26">10-26-1743</date>
+                     <placeName>
+                        <country when-custom="modern">United States</country>                        
+                        <country when-custom="hisorical">American colonies</country>
+                        <region>Pennsylvania</region>
+                        <settlement>Philadelphia</settlement>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when-iso="1744-12-09">12-09-1744</date>
+                     <placeName>
+                        <bloc>North America</bloc>
+                        <country when-custom="modern">United States</country>                        
+                        <country when-custom="hisorical">American colonies</country>
+                        <region>Pennsylvania</region>
+                        <settlement>Bethlehem</settlement>
+                     </placeName>
+                  </death>
+                     <affiliation>
+                        <orgName>Moravian Church</orgName>
+                        <roleName>to be added</roleName>
+                     </affiliation>
+               </person>
+               <listRelation>
+                  <relation name="none"/>
+                  <!-- no relationships listed --> 
+               </listRelation>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0002" sex="M">
+                  <persName>
+                     <forename type="first">Johann</forename>
+                     <surname>Gold</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1678" cert="medium">1678</date>
+                     <placeName>
+                        <country when-custom="modern">n/a</country>                        
+                        <country when-custom="hisorical">Moravia</country>
+                        <region>n/a</region>
+                        <settlement>n/a</settlement>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when-iso="1745-04-09">04-09-1745</date>
+                     <placeName>
+                        <country when-custom="modern">United States</country>                        
+                        <country when-custom="hisorical">American colonies</country>
+                        <region>Pennsylvania</region>
+                        <settlement>Bethlehem</settlement>
+                     </placeName>
+                  </death>
+               </person>
+               <listRelation>
+                  <relation type="personal" name="parent" active="#MemBeth0250"/>
+               </listRelation>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0003" sex="F">
+                  <persName>
+                     <forename type="first">Joanna</forename>
+                     <surname>Okely</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0004" sex="M">
+                  <persName>
+                     <forename type="first">Caspar</forename>
+                     <surname>Schäfer</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0006" sex="F">
+                  <persName>
+                     <forename type="first">Mary</forename>
+                     <surname>Shaw</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0007" sex="F">
+                  <persName>
+                     <forename type="first">Sarah</forename>
+                     <surname>Noble</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0008" sex="F">
+                  <persName>
+                     <forename type="first">Rebecca</forename>
+                     <addName>Becky</addName>
+                     <surname>Burnside</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0009" sex="F">
+                  <persName>
+                     <forename type="first">Regina</forename>
+                     <forename type="middle">Dorothea</forename>
+                     <surname>Bryzelius</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0010" sex="F">
+                  <persName>
+                     <forename type="first?">Ogehemochqua</forename>
+                     <surname>Keposch</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0011" sex="F">
+                  <persName>
+                     <forename type="first">Anna</forename>
+                     <forename type="middle">Maria</forename>
+                     <surname>Otto</surname>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>            
+               <person xml:id="MemBeth0012" sex="F">
+                  <persName>
+                     <addName>"Mother"</addName>
+                     <forename>Maddy</forename>
+                  </persName>
+               </person>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0013" sex="F">
+                  <persName>
+                     <forename></forename>
+                     <surname>Rogers</surname>
+                  </persName>
+               </person>
+            </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0015" sex="F">
+                     <persName>
+                        <forename>Juliana</forename>
+                        <surname>Nitschmann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0018" sex="F">
+                     <persName>
+                        <forename type="first">Eva</forename>
+                        <forename>type="middle">Maria</forename>
+                        <surname>Spangenburg</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0019" sex="F">
+                     <persName>
+                        <forename>Catherine</forename>
+                        <surname>Brownfield</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0027" sex="F">
+                     <persName>
+                        <forename>Rosina</forename>
+                        <surname>Nitschmann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0029" sex="M">
+                     <persName>
+                        <forename>Augustus</forename>
+                        <surname>Esther</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0031" sex="F">
+                     <persName>
+                        <forename type="first">Cathrina</forename>
+                        <forename type="middle">Eva</forename>
+                        <surname>Mücke</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0032" sex="F">
+                     <persName>
+                        <forename type="first">Catharine</forename>
+                        <forename type="middle">Elizabeth</forename>
+                        <surname>Rubusch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0034" sex="F">
+                     <persName>
+                        <forename type="first">Fridrica</forename>
+                        <forename type="middle">Amalia</forename>
+                        <forename type="middle">Augusta</forename>
+                        <surname>Franke</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0035" sex="F">
+                     <persName>
+                        <forename>Elizabeth</forename>
+                        <surname>Payne</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0036" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Elisabeth</forename>
+                        <surname>Wehrmann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0037" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Rosina</forename>
+                        <surname>Kramsch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0038" sex="F">
+                     <persName>
+                        <forename type="first">Susanna</forename>
+                        <forename type="middle">Maria</forename>
+                        <surname>Rose</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0039" sex="F">
+                     <persName>
+                        <forename>Benigna</forename>
+                        <surname>Sörensen</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0040" sex="F">
+                     <persName>
+                        <forename>Anna</forename>
+                        <surname>Williams</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0041" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Maria</forename>
+                        <surname>Stotz</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0044" sex="F">
+                     <persName>
+                        <forename>Elizabeth</forename>
+                        <surname>Payne</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0047" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Margaretha</forename>
+                        <surname>Gloz</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0050" sex="F">
+                     <persName>
+                        <forename>Christina</forename>
+                        <surname>Weiss</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0052" sex="F">
+                     <persName>
+                        <forename>Anna</forename>
+                        <surname>Zeisberger</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0063" sex="F">
+                     <persName>
+                        <forename type="first">Sophia</forename>
+                        <forename type="middle">Dorothea</forename>
+                        <surname>Schlegel</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0064" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Benigna</forename>
+                        <surname>Sensemann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0069" sex="F">
+                     <persName>
+                        <forename>Benigna</forename>
+                        <surname>Antes</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth00701" sex="M">
+                     <persName>
+                        <forename>Ismajah</forename>
+                        <surname>Burnet</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0077" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Maria</forename>
+                        <surname>Lawatsch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0080" sex="F">
+                     <persName>
+                        <forename>Anna</forename>
+                        <surname>Nitschmann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0081" sex="F">
+                     <persName>
+                        <forename>Margaret</forename>
+                        <surname>Helms</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0082" sex="F">
+                     <persName>
+                        <forename>Maria</forename>
+                        <surname>Sehnert</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0083" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Johanna</forename>
+                        <surname>Schmid</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0084" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Johanna</forename>
+                        <surname>Schmick</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0085" sex="F">
+                     <persName>
+                        <forename>Maria</forename>
+                        <surname>Schaub</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0086" sex="F">
+                     <persName>
+                        <forename>Juliana</forename>
+                        <surname>Fritsch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0087" sex="F">
+                     <persName>
+                        <forename>Elizabeth</forename>
+                        <surname>Böhner</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0088" sex="U">
+                     <persName>
+                        <forename>D.</forename>
+                        <surname>Theodora</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0100" sex="F">
+                     <persName>
+                        <forename type="first">Maria</forename>
+                        <forename type="middle">Margareta</forename>
+                        <surname>Everson</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0101" sex="F">
+                     <persName>
+                        <forename>Regina</forename>
+                        <surname>Hantsch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0102" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Elizabeth</forename>
+                        <surname>Rauch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0107" sex="F">
+                     <persName>
+                        <forename>Juliana</forename>
+                        <surname>Beitel</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0108" sex="F" cert="low">
+                     <persName>
+                        <forename type="first">Anne</forename>
+                        <forename type="middle">Maria</forename>
+                        <surname>Christ</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0111" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Eva</forename>
+                        <surname>Meyer</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0113" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Johanna</forename>
+                        <surname>Rösch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0114" sex="F">
+                     <persName>
+                        <forename>Agnes</forename>
+                        <surname>Böhnisch</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0116" sex="F">
+                     <persName>
+                        <forename type="first">A.</forename>
+                        <forename type="middle">Mary</forename>
+                        <surname>Anton</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0119" sex="F">
+                     <persName>
+                        <forename type="first">Eva</forename>
+                        <forename type="middle">Elisabeth</forename>
+                        <surname>Funk</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0121" sex="F">
+                     <persName>
+                        <forename type="first">Mary</forename>
+                        <forename type="middle">Salome</forename>
+                        <surname>Schumann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0122" sex="F">
+                     <persName>
+                        <forename>Judith</forename>
+                        <surname>Quitt</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0126" sex="F">
+                     <persName>
+                        <forename>Anna</forename>
+                        <surname>Flory</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0127" sex="F">
+                     <persName>
+                        <forename>Jane</forename>
+                        <surname>Shapley</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0129" sex="C">
+                     <persName>
+                        <forename>Eleonore</forename>
+                        <surname>Dixon</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0131" sex="F">
+                     <persName>
+                        <forename>Esther</forename>
+                        <surname>Goodburn</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0132" sex="F">
+                     <persName>
+                        <forename>Benigna</forename>
+                        <surname>Briand</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0134" sex="F">
+                     <persName>
+                        <addName>"The Old Mother"</addName>
+                        <surname>Carson</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0137" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Catharina</forename>
+                        <surname>Gittler</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0138" sex="F">
+                     <persName>
+                        <forename type="first">Christiane</forename>
+                        <forename type="middle">Eleonora</forename>
+                        <surname>Seidel</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0140" sex="F">
+                     <persName>
+                        <forename>Rosine</forename>
+                        <surname>Tanneberger</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0141" sex="F">
+                     <persName>
+                        <forename>Christine</forename>
+                        <surname>Siebar</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0142" sex="F">
+                     <persName>
+                        <forename>Anne</forename>
+                        <surname>Oertel</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0143" sex="U">
+                     <persName>
+                        <forename type="first">M.</forename>
+                        <forename type="middle">M.</forename>
+                        <surname>Shild</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0144" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle">Rosina</forename>
+                        <surname>Prass</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0146" sex="F">
+                     <persName>
+                        <forename>Susanna</forename>
+                        <surname>Krischker</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0149" sex="F">
+                     <persName>
+                        <forename type="first">Anna</forename>
+                        <forename type="middle1">Rosine</forename>
+                        <forename type="middle2">Eleonor</forename>
+                        <surname>Herzog</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+               
+               <listPerson>
+                  <person xml:id="MemBeth0150" sex="F">
+                     <persName>
+                        <forename type="first">Mary</forename>
+                        <forename type="middle">Elisabeth</forename>
+                        <surname>Kampmann</surname>
+                     </persName>
+                  </person>
+               </listPerson>
+            
+            <listPerson>
+               <person>
+                  <persName>
+                     <forename></forename>
+                     <surname></surname>
+                  </persName>
+               </person>
+            </listPerson>
+
+
+
+
+
+            <listPerson>
+               <person xml:id="MemBeth0250">
+                  <persName>
+                     <forename>Ann</forename>
+                     <surname>Krügelstein</surname>
+                     <surname type="former">Gold</surname>
+                  </persName>
+               </person>
+               <listRelation>
+                  <relation type="personal" name="child" active="#MemBeth002"/>
+                  <relation type="personal" name="spouse" mutual="#MemBeth0078"/>
+               </listRelation>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="MemBeth0078">
+                  <persName>
+                     <forename>David</forename>
+                     <addName>Sigismund</addName>
+                     <surname>Krügelstein</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1698-10-18">10-18-1678</date>
+                     <placeName>
+                        <country when-custom="modern">Austria</country>                        
+                        <country when-custom="hisorical">Austria</country>
+                        <region>n/a</region>
+                        <settlement>Bauren</settlement>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when-iso="1760-12-09">04-09-1745</date>
+                     <placeName>
+                        <bloc>Asia</bloc>                        
+                        <country>Casan</country>
+                     </placeName>
+                  </death>
+               </person>
+               <listRelation>
+                  <relation type="personal" name="spouse" mutual="#MemBeth0078"/>
+               </listRelation>
+            </listPerson>
+
+               
+
+         </particDesc>
+      </profileDesc>
+      
+      
+      
+      
+   </teiHeader>
+  <text>
+      <body>
+         <p>This file is not intended for standalone publication. It contains blocks of markup which
+            will be XIncluded into other files, or pointed to from them..</p>
+      </body>
+  </text>
+</TEI>
