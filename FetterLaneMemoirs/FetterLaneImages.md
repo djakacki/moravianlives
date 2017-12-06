@@ -72,13 +72,59 @@ http://moravianlives.bucknell.edu/MCH/MemLon_c3603008-07.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_c3603008-08.jpg<br />
 
 Borg, Karen<br />
-
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-00.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-20.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-21.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-22.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-23.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-24.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-25.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603014-26.jpg<br />
 
 Church, Anna Rosina<br />
-
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-20.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-21.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3503027-22.jpg<br />
 
 Church, John<br />
-
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603111-01.jpg<br />
 
 Clagett, Susanna<br />
 
