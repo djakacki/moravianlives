@@ -247,6 +247,27 @@ http://moravianlives.bucknell.edu/MCH/MemLon_c3503012-18.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_c3503012-19.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_c3503012-20.jpg<br />
 
+Foster, Anna<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_c3603076-20.jpg<br />
 
 Francke, George<br />
 
