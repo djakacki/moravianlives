@@ -1,0 +1,21 @@
+Using GitHub Desktop
+
+Download and install GitHub Desktop: https://desktop.github.com/
+
+In GitHub on web, go to Moravian Lives repository: https://github.com/djakacki/moravianlives
+
+Click on the green button "Clone or download"
+- Choose "Open in Desktop"
+
+The whole Moravian Lives repo will download to your computer.
+
+In your Applications folder, open GitHub Desktop. You should now see the Moravian Lives repo in your list. You might need to refresh click on the "Pull Origin" button on the top of the interface.
+
+You'll work in two ways on GitHub Desktop (and won't need to work in the web interface anymore)
+1) In the GitHub folder on your desktop (which you can find by clicking on Repository and choosing "Show in Finder" in the toolbar next to the Apple icon on your computer), you'll be able to add, edit, or delete files. 
+
+2) In the GitHub Desktop app you'll push and pull files and updates from your computer to the shared repo. If you're pushing something, you'll need to "Commit" (you'll see a blue button next to "Changes"). You'll type a Summary and Description explaining what you're uploading, then click "Commit to master" and refresh the Origin button at the top (it wil tell you if there is something new to up or download so you can keep things in sync)
+
+If two of us make changes that counteract one another (as in working simultaneously on the same document) we can check which of the versions we want to keep.
+
+There are more things that can be done, but that should be a good start.
