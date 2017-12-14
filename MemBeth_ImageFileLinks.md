@@ -702,7 +702,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0102-08.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0102-09.jpg<br />
 
 Gottfried Schwarz (0103)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0103-01.jpg    
+http://moravianlives.bucknell.edu/MAB/MemBeth_0103-01.jpg<br />    
 http://moravianlives.bucknell.edu/MAB/MemBeth_0103-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0103-03.jpg<br />
 
@@ -902,7 +902,7 @@ Henry Unger<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0139-01.jpg<br />  
 http://moravianlives.bucknell.edu/MAB/MemBeth_0139-02.jpg<br />
 
-Rosine  Tanneberger<br />
+Rosine Tanneberger<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0140-01.jpg<br />  
 http://moravianlives.bucknell.edu/MAB/MemBeth_0140-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0140-01.jpg<br />
@@ -939,7 +939,7 @@ John Miller (not in MemBeth spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0147-01.jpg<br />  
 http://moravianlives.bucknell.edu/MAB/MemBeth_0147-02.jpg<br />
 
-Elisabeth Stetmann? Altmann? (not in MemBeth spreadsheet)<br />
+Elisabeth Stetmann (not in MemBeth spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0148-01.jpg<br />  
 http://moravianlives.bucknell.edu/MAB/MemBeth_0148-02.jpg<br />
 
@@ -984,19 +984,19 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0157a-04.jpg<br />
 
-The Wideo de Fimm (0158)<br />
+The Widow de Fimm (0158)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0158a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0158a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0158a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0158a-04.jpg<br />
 
-(note in spreadsheet)<br />
+John Gottfried Thiel (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0159a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0159a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0159a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0159a-04.jpg<br />
 
-(not in spreadsheet)<br />
+Peter Saarsen? (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0160a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0160a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0160a-03.jpg<br />
@@ -1032,7 +1032,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0166a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0166a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0166a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Samuel Isles (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0167a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0167a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0167a-03.jpg<br />
@@ -1045,33 +1045,33 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0168a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0168a-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0168a-06.jpg<br />
 
-(not in spreadsheet)<br />
+John Mayer (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0169a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0169a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0169a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Christian Fredrick von Marschall (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0170a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0170a-02.jpg<br />
 
-(not in spreadsheet)
+John Christian Petsens? (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0171a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0171a-02.jpg<br />
 
-(not in spreadsheet)
+?? (not in spreadsheet) - can't read name<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0172a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0172a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0172a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0172a-04.jpg<br />
 
-Helen Dorothea von Tiesenhausen
+Helen Dorothea von Tiesenhausen<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0173a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0173a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0173a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0173a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0173a-05.jpg<br />
 
-(not in spreadsheet)
+Carl Gottfried Rund? (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0174a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0174a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0174a-03.jpg<br />
@@ -1148,7 +1148,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0174h-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0174h-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0174h-03.jpg<br />
 
-(not in spreadsheet)<br />
+Peter Embury (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0175a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0175a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0175a-03.jpg<br />
@@ -1168,7 +1168,7 @@ Anna Elisabeth Leimbach<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0176a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0176a-02.jpg<br />
 
-(not in spreadsheet)<br />
+Georg Prodleh? - can't read (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0177a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0177a-02.jpg<br />
 
@@ -1204,7 +1204,7 @@ Catharina Hones<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0180a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0180a-02.jpg<br />
 
-(not in spreadsheet)<br />
+Adam Hosfeld (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-03.jpg<br />
@@ -1212,7 +1212,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0181a-06.jpg<br />
 
-(not in spreadsheet)<br />
+Christian Schwarz (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0182a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0182a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0182a-03.jpg<br />
@@ -1230,32 +1230,32 @@ Alice Wheaton<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0184a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0184a-02.jpg<br />
 
-(not in spreadsheet)<br />
+Martin Berg (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0185a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0185a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0185a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0185a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0185a-05.jpg<br />
 
-(not in spreadsheet)<br />
+George Jacob Engelbach (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-05.jpg<br />
 
-(not in spreadsheet)<br />
+Christian Godried Marche (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0187a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0187a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0187a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0187a-04.jpg<br />
 
-(not in spreadsheet)<br />
+Johann Michael Grillich (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0188a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0188a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0188a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Nils Paulsen (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-03.jpg<br />
@@ -1265,7 +1265,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0190a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0190a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0190a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Henry Wallis (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-03.jpg<br />
@@ -1297,13 +1297,13 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0193a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0193a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0193a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Gottfried Greiters (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0194a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0194a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0194a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0194a-04.jpg<br />
 
-(not in spreadsheet)<br />
+John Sparks (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-03.jpg<br />
@@ -1313,43 +1313,43 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-06.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-07.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0195a-08.jpg<br />
 
-(not in spreadsheet)<br />
+Johann Heinrich Timaeus (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0196a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0196a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0196a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Charles Friedrick Tenser (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-05.jpg<br />
 
-(not in spreadsheet)<br />
+John Jacob Ulrich (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-04.jpg<br />
 
-(not in spreadsheet)<br />
+John Friedrich Gocht (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0199a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0199a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0199a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0199a-04.jpg<br />
 
-(not in spreadsheet)<br />
+Dietrich Ernst Walthers (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0200a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0200a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0200a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0200a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0200a-05.jpg<br />
 
-(not in spreadsheet)<br />
+Wendel Westhofers (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0201a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0201a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0201a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Jacobus DeSachounlanye? - cannot read (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0202a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0202a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0202a-03.jpg<br />
@@ -1366,7 +1366,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0204a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0204a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0204a-03.jpg<br />
 
-(not in spreadsheet)<br />
+Nicholas Henry Eberhard (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-03.jpg<br />
@@ -1374,7 +1374,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0205a-06.jpg<br />
 
-(not in spreadsheet)<br />
+David Dieterich Schönberg (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0206a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0206a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0206a-03.jpg<br />
@@ -1383,7 +1383,7 @@ Christina Sophia Detmers<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0207a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0207a-02.jpg<br />
 
-(not in spreadsheet)<br />
+List (multiple names) (not in spreadsheet)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0208a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0208a-02.jpg<br />
 
@@ -1455,6 +1455,8 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0226a-07.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0226a-08.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0226a-09.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0226a-10.jpg<br />
+
+** This is where numbering goes off track **
 
 Anna Margaretha Rauschenberger<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0227a-01.jpg<br />  
