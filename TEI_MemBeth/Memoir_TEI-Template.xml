@@ -63,7 +63,7 @@
   <text>
       <body>
 
-<!-- THIS SHOULD BE USED AT THE BEGINNING OF EACH PAGE
+<!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. AFTERWARD, JUST START WITH <pb>
                  <div type="memoir">
             <pb n="1" ana="[REF TO MEDIAWIKI FILE NUMBER"/>
             <figure n="[REF TOMEMOIR#-PAGE#">
