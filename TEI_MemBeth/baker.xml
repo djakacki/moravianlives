@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Elisabeth Baker: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Mary Elisabeth Baker</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="memoir">
+            <pb n="1" ana=".10152.25744"/>
+            <figure n="0152-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-01.jpg"/>
+               <ab type="caption">Mary Elisabeth Baker, page 1</ab>
+            </figure>
+            
+            <div n="para1">
+               <p>
+                  <lb/>V. The single Sister <persName>Mary Elisab.<hi rend="superscript">th</hi> Baker</persName>.
+                  <lb/>She <sic>writs</sic>  <corr>writes</corr> herself: I am born the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of June 1737</date>
+                  <lb/>at <placeName>Berlin</placeName>, My Parent did their best to keep me out
+                  <lb/>of bad <sic>Companie</sic>  <corr>Company</corr>. I often went alone to pray, but
+                  <lb/><sic>toock</sic>  <corr>took</corr> myself soon better then other <sic>Poeple</sic>  <corr>People</corr>. A.<hi rend="superscript">o</hi> <date>1743</date>
+                  <lb/>I came to the Joy of my Heart in the Children Anstalt
+                  <lb/>at <placeName>Hhuth</placeName>. <date>1746</date> I was among the Congregation
+                  <lb/>of the Children received. I loved our Saviour &amp;
+                  <lb/>was taken for a pretty good Child, but as was
+                  <lb/>grown older, then I begun to feel the <sic>Coruption</sic>  <corr>Corruption</corr> of
+                  <lb/>my Heart. A.<hi rend="superscript">o</hi> <date>49</date> I came in the Girls Choir &amp;
+                  <lb/>by that means in the Choir House. I was the
+                  <lb/>same <add>year</add> received into the Congregation.
+                  <lb/>A.<hi rend="superscript">o</hi> <date>52</date> <del rend="strikethrough">I moved</del> I came to <placeName>Berlin</placeName> again, where I in the
+                  <lb/><note type="catchword">Beginning</note>
+               </p>
+            </div>
+            
+            <pb n="2" ana=".10152.25745"/>
+            <figure n="0152-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-02.jpg"/>
+               <ab type="caption">Mary Elisabeth Baker, page 2</ab>
+            </figure>
+            
+            <div n="para2">
+               <p>
+                  <lb/>about 1 Year went on without the <sic>Conexion</sic>  <corr>Connection</corr> of the
+                  <lb/>Congregation. After that, I instantly desireth,
+                  <lb/>they would take me in their Care again, &amp; soon
+                  <lb/>our Saviour bestowed the Grace on me to <sic>pertake</sic>  <corr>partake</corr>
+                  <lb/>w.<hi rend="superscript">th</hi> the <del rend="strikethrough">[?]</del> germans there, on the holy <sic>Comunion</sic>  <corr>Communion</corr>.
+                  <lb/>A.<hi rend="superscript">o</hi> <date>57</date> I was receiv<hi rend="superscript">d</hi> in the <unclear>Sgg.<hi rend="superscript">e</hi></unclear><hi rend="superscript"></hi> Sisters Choir, now
+                  <lb/>begun my Desire, to be in the Congregation again
+                  <lb/>to increase. I brought it very frequently before our
+                  <lb/>dear Saviour &amp; upon my incessant Desire our
+                  <lb/>Sav.<hi rend="superscript">r</hi> made it that my Father gave me Leave
+                  <lb/>to travel to <placeName>Newsalz</placeName> where I <date>1758</date> arrived.
+                  <lb/>The following Year I partaketh on our Lords
+                  <lb/>Supper. From this Time <add>the Inclination of</add> my Heart [?] was:
+                  <lb/>to become Jesuslike, and according to the
+                  <lb/>Desire of his Heart. A.<hi rend="superscript">o</hi> <date>1759</date> I emigrated with
+                  <lb/>the whole Congregation of <placeName>Newsalz</placeName> hither &amp; came
+                  <lb/>in my Choir-House. By these Circumstances
+                  <lb/>our Sav.<hi rend="superscript">r</hi> drew nearer to my Heart, &amp; comforted
+                  <lb/>me about all my Misery, so that I since very
+                  <lb/><sic>happely</sic>  <corr>happily</corr> <del rend="strikethrough">[?]</del> proceedet. A.<hi rend="superscript">o</hi> <date>61</date> I was
+                  <lb/>the first time by a Choir-<sic>Comunion</sic>  <corr>Communion</corr>, which had
+                  <lb/>a very <sic>Influenz</sic>  <corr>Influence</corr> upon my Heart. So far herself.
+                  <lb/>She was a very <sic>thoughtfull</sic>  <corr>thoughtful</corr> <sic>Beeing</sic>  <corr>Being</corr> &amp; <sic>toock</sic>  <corr>took</corr>
+                  <lb/>every Thing very much at Heart, But
+                  <lb/><note type="catchword">far all</note>
+               </p>
+            </div>
+
+            <pb n="3" ana=".10152.25746"/>
+            <figure n="0152-03">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-03.jpg"/>
+               <ab type="caption">Mary Elisabeth Baker, page 3</ab>
+            </figure>
+            
+            <div n="para3">
+               <p>
+                  <lb/>For all that her chief Object was the Conversation
+                  <lb/>w.<hi rend="superscript">th</hi> our dear Saviour. She became since a certain
+                  <lb/>Time a consumptic Fever &amp; by that was full of Hope
+                  <lb/>soon to come to our Sav.<hi rend="superscript">r</hi> &amp; this her Wish was <sic>fullfilled</sic>  <corr>fulfilled</corr>
+                  <lb/>to her the <date>29</date><hi rend="superscript"><date>th</date></hi><date> of this Months</date> a 10 a Clock in the
+                  <lb/>Morning as her Mouth grow pale under the Blessing
+                  <lb/>of her Choir in the 26<hi rend="superscript">th</hi> Year of her Age.
+               </p>
+            </div>
+         </div>
+         
+      </body>
+  </text>
+</TEI>
