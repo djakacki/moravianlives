@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Christopher Pyrlaeus: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+                  <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+                  <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Agnes Böhnisch: Manuscript in English, 3 pp. From Original - Box 4</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+        <div type="page">
+           <pb n="1" ana=".10114.25642"/>
+               <figure n="0114-01">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-01.jpg"/>
+                  <ab type="caption">Agnes Böhnisch, page 1</ab>            
+               </figure>
+            <p>  II. The Girl <hi rend="underline"><persName>Agnes
+                  Bönish</persName></hi>. She was <date>1752. the 7</date><hi rend="superscript"
+                     ><date>th</date></hi><date>. of July</date> at <placeName>New Herrnhuth in
+                  Groenland</placeName> born, &amp; <sic>baptised</sic>
+               <corr>baptized</corr> by <persName>B</persName><hi rend="superscript"
+                     ><persName>r</persName></hi><persName>. Johanes</persName> who was just there,
+               the same time, In her Childhood she made her Parents as well as the B<hi
+                  rend="superscript">rn</hi>. &amp; Sisters there many happy Hours.
+                  <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 57. the 25th. of
+                  Nov.</date>
+               <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>.
+                  &amp; Sist</persName><hi rend="superscript"><persName>r</persName></hi><persName>.
+                  Beck</persName> brought her along to <placeName>Herrnhuth</placeName> &amp; there
+               She came in the Girls-House. She has been extraordinary lively &amp; <sic>activ</sic>
+               <corr>active</corr> &amp; loved the Children very much &amp; so did the Children to
+               her, <hi rend="strikethrough">not caring that</hi>
+               <add>and never <sic>mindet</sic>
+                  <corr>minded</corr> that</add> the could't talk w<hi rend="superscript">th</hi>.
+               one another then <persName>Agnes</persName>
+               <add>could</add> not a Word german. But her able nature made her to <sic>lern</sic>
+               <corr>learn</corr> the Language very soon &amp; easy, &amp; was very soon athome
+               amongst the Children. Her extraordinary Activity was soon forgot &amp; One could
+               behold in a Short Time on her a tender &amp; lovely Child towards our Saviour. She
+               very often </p>
+         </div>
+         <div type="page">
+            <pb n="2" ana=".10114.25643"/>
+            <figure n="0114-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-02.jpg"/>
+               <ab type="caption">Agnes Böhnisch, page 2</ab>            
+            </figure>
+            
+            <p>  entertained her Room-Fellows along while in telling them, how She would
+               in time say the poor Greenlanders how well &amp; happy a poor Creature could become
+               by our Saviour &amp; what She feeled &amp; enjoy'd by Him. <date>A</date><hi
+                  rend="superscript"><date>o</date></hi><date>. 1760.</date> Was She taken amongst
+               the rest with the <sic>shmal</sic>
+               <corr>small</corr> Pox got afterwards bad Eyes, &amp; as her Eyes grew better the a
+               hectic-fever took place, but for all that She was lively &amp; happy &amp; was
+                  <sic>allways</sic>
+               <corr>always</corr> grieved when She must hinder herself from the Children-Meeting.
+               She was <sic>continualy </sic>
+               <corr>continually</corr> w<hi rend="superscript">th</hi>. her Children, as much as
+               her Weak Circumstances would allow it. Her sedate Disposition of Mind made her so
+               much regard by her Children that every one submitted to her Remembrances. Hereby we
+               cann't pass over the Joy we had about her, when <add>her</add> sickly Circumstances
+               sometimes caused her some heat or <sic>Impatiens</sic>
+               <corr>Impatience</corr>, how soon she judged herself &amp; came directly w<hi
+                  rend="superscript">th</hi>. 100 Tears in her Eyes begging <sic>forgivenes</sic>
+               <corr>forgiveness</corr>, &amp; we had enough to do only to comfort her. Shortly
+               before as <persName>Binel Grass</persName> departed w<hi rend="superscript">th</hi>.
+               which She had a very intim <sic>Conexion</sic>
+               <corr>Connection</corr>, they were once both overheard in a very confident
+                  <sic>Discours</sic>
+               <corr>Discourse</corr>: They both were glad that they would soon meet by our Saviour,
+               &amp; <sic>certifyed</sic>
+               <corr>certified</corr> their tender Love to one another in such a touching
+                  <sic>Maner</sic>
+               <corr>Manner</corr>, that </p>
+         </div>
+         
+         <div type="page">
+            <pb n="3" ana=".10114.25644"/>
+            <figure n="0114-03">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-03.jpg"/>
+               <ab type="caption">Agnes Böhnisch, page 3</ab>            
+            </figure>
+
+            <p>  the Sisters since that Time retaineth a certain Impression thereof in
+               their Heart. Her most <sic>agreable</sic>
+               <corr>agreeable</corr> Amusement was to sing, &amp; with Singing She diverted herself
+               in the Ember Week of <add>the</add> Passion of her dear Lord, that She very often in
+               the Midst of such a Liturgie was stoppd by the Weakness of her Body. After Easter She
+               was quite confind to her Bed, &amp; all probable Signs <sic>arrising</sic>
+               <corr>arising</corr>, that our dear Saviour hastened to finish this tender &amp;
+               lovely little Soul &amp; the <date>5</date><hi rend="superscript"
+                  ><date>th</date></hi><date>. of May</date> in the Morning at 9 <sic>a</sic>
+               <corr>o'</corr> Clock her long wishd &amp; blessed Hour struck &amp; she departed
+                  w<hi rend="superscript">th</hi>. the Blessing of the Congregation happy &amp;
+                  <sic>easly</sic>
+               <corr>easily</corr> in her 11th. Year of Age. </p>
+         </div>
+
+      </body>
+   </text>
+</TEI>

@@ -38,6 +38,11 @@
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -56,15 +61,30 @@
             </availability>               
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of Johann Christopher Pyrlaeus: 
-               Manuscript in English, 10 pp.
-               From Original - Box 4</p>
+            <p>The Life of [NAME]: 
+               Manuscript in English, [# pp.]
+               [CHECK] From Original - Box 4</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         
+         <div type="page">
+            <pb n="3" ana=".[#]"/>
+            <figure n=[#]">
+               <graphic url="[#]"/>
+               <ab type="caption">[#]</ab>            
+            </figure>
+            
+            <p>
+               
+               
+            </p>
+            
+         </div>
+         
+         
       </body>
   </text>
 </TEI>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Christopher Pyrlaeus: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+                  <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+                  <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Georg Gross: Manuscript in English, [# pp.] [CHECK] From Original - Box
+               4</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div type="page">
+            <pb n="1" ana=".10117.25657"/>
+            <figure n="0117-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0117-01.jpg"/>
+               <ab type="caption">Georg Gross, page 1</ab>
+            </figure>
+            <p> V. The Wittower <persName>Georg Gross</persName>. He was born <date>1688 the 25 of
+                  Jan</date>. at <placeName>Swindrazheim</placeName> in
+                  <placeName>Alsacia</placeName>, where his Parents were Farmers. His good Parents
+               did all in their Power to give him a Christian like Education, sent him to
+                  <sic>Shool</sic>
+               <corr>School</corr> &amp; impressd themselves in him the fundament of the protestant
+               Religion. By his first Communion, he was <sic>extreamly</sic>
+               <corr>extremely</corr> touched in his Heart, but had no Power to resist his
+               Inclination &amp; could not fulfill his <sic>Promiss</sic>
+               <corr>Promise</corr>; The Fear for Gott however very often kept him back from Sins.
+                  A<hi rend="superscript">o</hi>. <date>1705</date> he was put out as Apprentice to
+               a <sic>Shumaker</sic>
+               <corr>Shoemaker</corr> &amp; became Master himself A<hi rend="superscript">o</hi>.
+                  <date>1712</date>. In the <hi rend="align-right">mean Time</hi> <cb/> mean time he very often had Visits of
+               Grace in his Heart, especially by perusing evangelic <sic>Hyms</sic>
+               <corr>Hymns</corr>. "But I didn't know (<sic>writs</sic>
+               <corr>writes</corr> he himself.) that our Saviour came for me in this World &amp;
+                  <sic>suffert</sic>
+               <corr>suffered</corr> &amp; dy'd <hi rend="strikethrough">for me</hi>. I never was
+               contented &amp; very often restless, but it went over again." A<hi rend="superscript">o</hi>. <date>1714</date> he settled himself at Ingwile &amp; <sic>marryed</sic>
+               <corr>married</corr>
+               <persName>Mary Magdalen Shweigheimer</persName>. "We both (writes he) were of one
+               Mind to begin a little House-Church, &amp; frequented the Church on Sunday very
+               exactly; we both <sic>knowed</sic>
+               <corr>knew</corr> very well there is some thing wanting &amp; often tack'd together:
+               that there must any where in the World be such People as the <sic>Bibel</sic>
+               <corr>Bible</corr> describe it, be where it will; &amp; as we heard that
+                  <persName>M.</persName><hi rend="superscript"
+                  ><persName>r</persName></hi><persName> Engelbach</persName> &amp; afterwards our
+                  <persName>B.</persName><hi rend="superscript"
+                  ><persName>r</persName></hi><persName> Timoeus</persName> preach'd the Gospel in
+                  <placeName>Buxwiler</placeName>, then we went thiter every Sunday, &amp; so was a
+               Week contented again. At last we resolv'd for the Sake of the Church &amp; the fine
+                  <sic>Shool</sic>
+               <corr>School</corr> to move from here &amp; setlle in
+               <placeName>Buxwiler</placeName>, which we effected <date>1731</date>." His Marriage
+               State was bless'd by our Lord w.<hi rend="superscript">th</hi> 9 Children, Seven have
+               departed their Life before his coming to the Congregation &amp; his Son
+                  <persName>Hieronymus</persName> went home <date>1736</date> in the Service of our
+               Lord in <placeName>England</placeName>, from Son he survived <hi rend="align-right">4 GrandChildren</hi> </p>
+         </div>
+
+         <div type="page">
+            <pb n="2" ana=".10117.25658"/>
+            <figure n="0117-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0117-02.jpg"/>
+               <ab type="caption">Georg Gross, page 2</ab>
+            </figure>
+            <p> 4 Grand-Children, whereof three are gone home before him &amp; but one is still
+               alive. Of his own Children is also only one our <persName>S.</persName><hi
+                  rend="superscript"><persName>r</persName></hi><persName
+                  > </persName><persName>Salome</persName> alive. <date>1740</date>. He became in
+                  <placeName>Buxwiler</placeName> aquaited w.<hi rend="superscript">th</hi> our
+               Brethren their <add>intim</add> Conversation was a real Blessing for himself &amp;
+               whole <sic>familie</sic>
+               <corr>family</corr>. He sent his Son &amp; afterwards his Daughter before him to the
+               Congregation at Hhaag. "then I saw that the Children (writes he) are not
+                  <sic>myn</sic>
+               <corr>mine</corr> &amp; also I can dismiss 'em very well for our Saviour." He &amp;
+               his <add>happy</add> Wife followed them <date>1744</date> &amp; arrived the
+                  <date>27</date><hi rend="superscript"><date>th</date></hi><date> of June</date> at
+                  <placeName>Herrnhag</placeName>. "As I saw the Congregation " (he writes) I did
+               not know what to say for Shame &amp; Contriction of my Heart <sic>toock</sic>
+               <corr>took</corr> me worthy to bring me hither. They both were receiveth a.c. the
+                  <date>18</date><hi rend="superscript"><date>th</date></hi><date> Nov.</date> in
+                  <placeName>Mborn</placeName>, &amp; A.<hi rend="superscript">o</hi>
+               <date>47</date> the <date>8 of October</date> he partaketh the first Time on the holy
+               Sacrament of our dear Lords flesh &amp; Blood. A.<hi rend="superscript">o</hi>
+               <date>1750</date>. They both came hither to <placeName>Hhuth</placeName>, but She
+               went in Peace ac. the <date>18</date><hi rend="superscript"
+                  ><date>th</date></hi><date> Dec</date>. to her Friend &amp; Redeemer &amp; he
+               became Wittower. From this Time he <sic>compleated</sic>
+               <corr>completed</corr> his Sabbath here w.<hi rend="superscript">th</hi> and among
+               the Wittowers very happily. He represented the <hi rend="align-right">Simeon</hi> <cb/> Simeon of this Choir 7
+               Years &amp; maintaineth this Character with Truth most excellently. He every Year
+               more simple, clear in his mind, Childlike &amp; happy, so that every Body could guess
+               his Desire to depart in Peace. His <sic>Streght</sic>
+               <corr>Strength</corr> begun to fall short, but his <sic>chearfull</sic>
+               <corr>cheerful</corr> Heart &amp; <sic>activ</sic>
+               <corr>active</corr> Temper caused, that he could do his <sic>Bu_ syness</sic>
+               <corr>Business</corr> till the <date>27</date><hi rend="superscript"
+                  ><date>th</date></hi><date> of Apr.</date> when a <sic>inflamatory</sic>
+               <corr>inflammatory</corr> Fever sized on his Breast &amp; brought him to Bed. In his
+               Sickness he was licke like a Child, comforted full of Love &amp; Confidence to our
+               Saviour &amp; his Brethre &amp; in this Situation expected his happy Disolution. When
+               a Brother askd him about it he answered: In a little While." I wait for some Thing
+               still (&amp; this was the holy Sacrament) From this Time nothing more could comfort
+               him, as to sit down by his Bed SIde &amp; sing verses of the Blood &amp; Wounds of
+               Christ, here he <sic>accompanyed</sic>
+               <corr>accompanied</corr> as long as he could move his Tongue. Which he loved best
+               &amp; which could not be repeated enough to him was: Ach wär ein jeder Puls ein Dank!
+               und jeder Athem ein Gesang! Ach schlüg ein jeder Puls sein Sterben! Säng jeder Athem
+               sein Erwerben! <hi rend="strikethrough">[??]</hi> his dear Daughter
+                     <persName>S</persName><persName><persName>alome</persName></persName>
+               <add>came to see him the last Evening</add>, his Daughter in Law &amp; his Grand Son
+               &amp; <add>he</add> blessed them all very <hi rend="align-right">tenderly</hi> </p>
+         </div>
+
+         <div type="page">
+            <pb n="3" ana=".10117.25659"/>
+            <figure n="0117-03">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0117-03.jpg"/>
+               <ab type="caption">Georg Gross, page 3</ab>
+            </figure>
+            <p> tenderly, our dear B.r Johannes galve him this Evening the Kiss to his last Fare
+               well. He took Adieu by all his Choir-Brethren &amp; begged <add>to salute</add> every
+               One <hi rend="strikethrough">them</hi> in the tenderest Manner. After that <hi
+                  rend="strikethrough">begun</hi> he became quite silent &amp; they expected his
+               Departure every Moment, but falling in a sweet <sic>Shlumber</sic>
+               <corr>Slumber</corr> &amp; remaining so to the <date>10</date><hi rend="superscript"
+                     ><date>th</date></hi><date> of May</date> when he w.<hi rend="superscript"
+                  >th</hi> the Blessing of his Choir easy &amp; happy expired, under them Words: So
+               fahr denn zur Gemeine, dein Geist wird ewig leben! Aged 75 Years, 3 Months 15 Days. </p>
+
+         </div>
+
+
+      </body>
+   </text>
+</TEI>
