@@ -70,7 +70,7 @@
                <ab type="caption">Anna Rosina Prass, page 1</ab>
             </figure>
             
-            <div n="1">
+            <div n="para1">
                <p>
                   <lb/>VI. The single <persName>Sister Ane Rosine Prass</persName>.
                   <lb/>She wrote the <sic>folling</sic>  <corr>following</corr> Account of her Life herself:
@@ -87,7 +87,7 @@
                   <ab type="caption">Anna Rosina Prass, page 2</ab>
                </figure>
                
-               <div n="2">
+               <div n="para2">
                   <p>
                      <lb/>the Children Meetings &amp; fetch'd there many Blessings
                      <lb/>for my Heart. But I had a very <sic>fearfull</sic>  <corr>fearful</corr> &amp; <sic>timerous</sic>  <corr>timorous</corr>
@@ -125,7 +125,7 @@
                      <ab type="caption">Anna Rosina Prass, page 3</ab>
                   </figure>
                   
-                  <div n="3">
+                  <div n="para3">
                      <p>
          
                         <lb/>By all his <sic>Mercys</sic>  <corr>Mercies</corr> bestowed on me, I find reason enough
@@ -137,7 +137,7 @@
                      </p>
                   </div>
                   
-                  <div n="4">
+                  <div n="para4">
                      <p>
                         <lb/>So far her own Words.
                         <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 62.</date> in the fall She begun to grow sickly, but was
