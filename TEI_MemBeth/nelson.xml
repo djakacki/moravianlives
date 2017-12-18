@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hanne Nelson: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Hanne Nelson</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+
+   <div type="memoir">
+      <pb n="1" ana=".10165.25786"/>
+            <figure n="0165-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0165a-01.jpg"/>
+               <ab type="caption">Hanne Nelson, page 1</ab>
+            </figure>
+            
+            <div n="para1">
+               <p>
+                  <lb/>The <sic>marryed</sic>  <corr>married</corr> Sist.<hi rend="superscript">r</hi> <persName>Hanne Nelson</persName>
+                  <lb/>She wrote of herself: I am born in the County of
+                  <lb/><placeName>Sommerset</placeName> the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of July 1706</date>. Myn Vater was an
+                  <lb/>earnstnestly religious Man in the Church of Engl.
+                  <lb/>He brought me up according to the Law in a very hard
+                  <lb/>Manner, which was quite contrary to the Disposition of my
+                  <lb/>Mind. After his departing I <sic>marryed</sic>  <corr>married</corr> &amp; had A.<hi rend="superscript">o</hi> <date>44</date> at <placeName>Bath</placeName>
+                  <lb/>a Opportunity to hear the first time in my Life the Gospel
+                  <lb/><note type="catchword">Soon</note>
+
+                     <pb n="2" ana=".10165.25787"/>
+                     <figure n="0165-02">
+                        <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0165a-02.jpg"/>
+                        <ab type="caption">Hanne Nelson, page 2</ab>
+                     </figure>
+         
+                  <lb/>Soon after I was in <orgName>B.</orgName><hi rend="superscript"><orgName>r</orgName></hi><orgName> </orgName><persName><orgName>Cennicks</orgName></persName><orgName> Society </orgName>received &amp; in a
+                  <lb/>Preaching over these Words: He that believeth on me, hath
+                  <lb/>everlasting Life: Our Saviour in his Deaths figur drew
+                  <lb/>before my Heart, that I a long time, not with standing
+                  <lb/>all the Waylayings which my Relations invented, my
+                  <lb/>happy Course pursued. But as I <sic>afterwats</sic>  <corr>afterwards</corr> took part
+                  <lb/>on the Disputes &amp; quarrels about the Doctrine of the
+                  <lb/><orgName>Brethren</orgName> I lost by that my happy path of a poor
+                  <lb/><sic>Siner</sic>  <corr>Sinner</corr>; Till A.<hi rend="superscript">o</hi> <date>46</date> <del rend="strikethrough">B.r &amp; Sist.r Gussenbouer</del> as I became
+                  <lb/>aquainted  acquainted w.<hi rend="superscript">th</hi> B.<hi rend="superscript">r</hi> &amp; Sist.<hi rend="superscript">r</hi> <persName>Gussenbouer</persName> at <placeName>Bristol</placeName>, where
+                  <lb/>my first Husband happy departed but left me in desolate
+                  <lb/>&amp; depressed Circumstances. This obliged me that I without
+                  <lb/>Consens of the <orgName>Brethren</orgName> my 2.<hi rend="superscript">d</hi> Husband <persName>James Nelson</persName>
+                  <lb/><sic>marryed</sic>  <corr>married</corr>, &amp; by that was <add>several years</add> excluded from their Fellowship.
+                  <lb/>But our dear <add>Saviour</add> let me not go astray but graciously
+                  <lb/>permitted to receive me the <date>6</date><hi rend="superscript"><date>th</date></hi><date> Apr 1765</date> into the
+                  <lb/>Congregation &amp; in the Month of <date>October</date> to <sic>admitt</sic>  <corr>admit</corr>
+                  <lb/>me to the holy <sic>Comunion</sic>  <corr>Communion</corr>. This was the greatest Feast Day &amp; the <date>13 Augs</date>.
+                  <lb/>for my Soul, where I enjoyd so many Blessing under the
+                  <lb/>Flock of God, <del rend="strikethrough">it</del> which I shall never forget in my Life!
+                  <lb/>So far She herself. <gap reason="space"/> She was at the <sic>Neight</sic>  <corr>Night</corr> Watch on
+                  <lb/>the New Year the last Time in our Meeting. Since her Sickness
+                  <lb/>our Brethren &amp; Sisters visited her very often &amp; w.<hi rend="superscript">th</hi> Y Joy of
+                  <lb/>their Heart observed: How our Sav.<hi rend="superscript">r</hi> her by Nature so rough
+                  <lb/>Temper altered <sic>gradualy</sic>  <corr>gradually</corr> in a Sinerlicke &amp; melted Heart.
+                  <lb/>To Day She took <sic>Lieve</sic>  <corr>Leave</corr> of her Husband as Sist.<hi rend="superscript">r</hi> <persName>Nyberg</persName> just stepd
+                  <lb/>into the Room to give her the Blessing of the Congregat.<hi rend="superscript">n</hi> She
+                  <lb/>called out: "Now dear Saviour, come, come soon!" &amp; instantly 
+                  <lb/>expired in the 57 Year of her Age.
+               </p>
+            </div>
+
+                  <pb n="3" ana=".10165.25788"/>
+                  <figure n="0165-03">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0165a-03.jpg"/>
+                     <ab type="caption">Hanne Nelson, page 3</ab>
+                  </figure>
+                  
+         <div n="para2">
+            <p>
+         
+               <lb/>The <date>15</date><hi rend="superscript"><date>th</date></hi> Br. <persName>Nyberg</persName> went to <placeName>Bath</placeName>, where he heard B.<hi rend="superscript">r</hi> <persName>Rogers</persName>
+               <lb/>preach for more then 200 <sic>Poeple</sic>  <corr>People</corr>; &amp; there spoke w.<hi rend="superscript">th</hi> two Ministers
+               <lb/>of the engl. Church who agreed together to preach nothing else
+               <lb/>but the Death of Christ. The <date>18</date><hi rend="superscript"><date>th</date></hi> we were very <sic>thankfull</sic>  <corr>thankful</corr>
+               <lb/>to our Sav.<hi rend="superscript">r</hi> that he showd us the Means that we could help
+               <lb/>a poor &amp; oppressed Brother in his outward Affairs. The <date>20</date><hi rend="superscript"><date>th</date></hi> Came
+               <lb/>both M.<hi rend="superscript">r</hi> <persName>Weslys</persName> &amp; <persName>Howel Harns</persName> to see us. The first excused them-
+               <lb/>selves about the hard Expressions, in their last Book against us,
+               <lb/>&amp; endeaverd to lay the charge on the Corrector. The last
+               <lb/>invited B.<hi rend="superscript">r</hi> <persName>Nyberg</persName> to make a Visit in his <sic>Compagnie</sic>  <corr>Company</corr> through
+               <lb/><placeName>Wales</placeName>, where he shortly preached to a Auditory of ten thousand
+               <lb/><sic>Poeple</sic>  <corr>People</corr>. To the Conclusion of this blessed Month <sic>toock</sic>  <corr>took</corr> our dear
+               <lb/>Saviour in his eternal Safety the <date>30</date><hi rend="superscript"><date>th</date></hi>.
+            </p>
+         </div>
+   </div>
+      </body>
+  </text>
+</TEI>
