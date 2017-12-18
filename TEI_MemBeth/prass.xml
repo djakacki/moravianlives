@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anna Rosina Prass: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <settlement>Lewisburg</settlement>
+               <region>Pennsylvania</region>
+               <country>United States</country>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <settlement>Gothenburg</settlement>
+               <country>Sweden</country>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Anna Rosina Prass</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+         <div type="memoir">
+            <pb n="1" ana=".10144.25726"/>
+            <figure n="0144-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0144-01.jpg"/>
+               <ab type="caption">Anna Rosina Prass, page 1</ab>
+            </figure>
+            
+            <div n="1">
+               <p>
+                  <lb/>VI. The single <persName>Sister Ane Rosine Prass</persName>.
+                  <lb/>She wrote the <sic>folling</sic>  <corr>following</corr> Account of her Life herself:
+                  <lb/>I am born at <placeName>Shoenheide</placeName> the <date>11</date><hi rend="superscript"><date>th</date></hi><date>. of Febr. 1739</date>. Soon
+                  <lb/>in my Childhood I was sorry for <sic>myn</sic>  <corr>my</corr> eternal Happiness.
+                  <lb/>As I was 6 Years of Age my Vater <sic>dyed</sic>  <corr>died</corr> &amp; I removed
+                  <lb/>wth. my Mother to <placeName>Middle Peile</placeName>, visited in <placeName><sic>Gnadenfry</sic>  <corr>Gnadenfrei</corr></placeName>
+               </p>
+            </div>
+
+               <pb n="2" ana=".10144.25727"/>
+               <figure n="0144-02">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0144-02.jpg"/>
+                  <ab type="caption">Anna Rosina Prass, page 2</ab>
+               </figure>
+               
+               <div n="2">
+                  <p>
+                     <lb/>the Children Meetings &amp; fetch'd there many Blessings
+                     <lb/>for my Heart. But I had a very <sic>fearfull</sic>  <corr>fearful</corr> &amp; <sic>timerous</sic>  <corr>timorous</corr>
+                     <lb/>Temper I never got <sic>aquainted</sic>  <corr>acquainted</corr> with any Body, however
+                     <lb/>I <sic>feeled</sic>  <corr>felt</corr> a tender Love in my Heart to our Sav<hi rend="superscript">r</hi>.
+                     <lb/>&amp; his <sic>Poeple</sic>  <corr>People</corr>. the <date>6</date><hi rend="superscript"><date>th</date></hi><date>. of April 1752.</date> I was taken
+                     <lb/>in the Girls Choir, however my <sic>timerous</sic>  <corr>timorous</corr> &amp; <sic>mistrustfull</sic>  <corr>mistrustful</corr>
+                     <lb/>Temper <sic>retarted</sic>  <corr>retarded</corr> me, that I the first Years did't reap
+                     <lb/>the <sic>Happyness</sic>  <corr>Happiness</corr> in my Choir till at last last our
+                     <lb/>Saviour <sic>oppened</sic>  <corr>opened</corr> my Heart &amp; I could like a 
+                     <lb/>Child unfold &amp; expose my whole Heart to my Labourer.
+                     <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 54. the 22</date><hi rend="superscript"><date>d</date></hi><date>. of Sept.</date> I was receiv<hi rend="superscript">d</hi>. into the Congregat<hi rend="superscript">n</hi>.
+                     <lb/>and there I gave my Heart anew to our Saviour.
+                     <lb/>the <date>17</date><hi rend="superscript"><date>th</date></hi><date>. of Dec.</date> I got Leave to move in my Choir-House.
+                     <lb/>&amp; from this Time the Desire of my Heart was to partake
+                     <lb/>w<hi rend="superscript">th</hi>. the Congregation the real Flesh &amp; Blood of
+                     <lb/>our dear Saviour which Desire our Sav<hi rend="superscript">r</hi>. granted
+                     <lb/>to me the <date>28</date><hi rend="superscript"><date>th</date></hi><date>. of Dec.</date> a.e. What I <sic>feeld</sic>  <corr>felt</corr> on this
+                     <lb/>great Day for my poor Heart, I never shall venture
+                     <lb/>to describe. <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 57. the 26</date><hi rend="superscript"><date>th</date></hi><date>. of July</date> I was received
+                     <lb/>into the single Sisters Choir. In the time following
+                     <lb/>I <sic>lernt</sic>  <corr>learnt</corr> to know more &amp; more the poor &amp; <sic>wreched</sic>  <corr>wretched</corr>
+                     <lb/><sic>resorsess</sic>  <corr>resources</corr> of my <sic>Sinfull</sic>  <corr>Sinful</corr> Heart, but as I would
+                     <lb/>not come <sic>allways</sic>  <corr>always</corr> as a <sic>Siner</sic>  <corr>Sinner</corr> to my Saviour, so
+                     <lb/>I spoild very often my noble Time, but my dear
+                     <lb/>Sav<hi rend="superscript">r</hi>. <sic>gratious</sic>  <corr>gracious</corr> as he is <del rend="strikethrough">brought</del> <add>put</add> me again in the
+                     <lb/>blessed Passage of his poor &amp; happy <sic>Siners</sic>  <corr>Sinners</corr>. I was
+                     <lb/><sic>absovd</sic>  <corr>absolvd</corr> about all my <sic>Iniquitys</sic>  <corr>Iniquities</corr> &amp; richly comforted, 
+                  </p>
+               </div>
+
+                  <pb n="3" ana=".10144.25728"/>
+                  <figure n="0144-03">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0144-03.jpg"/>
+                     <ab type="caption">Anna Rosina Prass, page 3</ab>
+                  </figure>
+                  
+                  <div n="3">
+                     <p>
+         
+                        <lb/>By all his <sic>Mercys</sic>  <corr>Mercies</corr> bestowed on me, I find reason enough
+                        <lb/>to weep about my Want &amp; Deficiency; but in my
+                        <lb/>greatest Perplexity when I turn to him, I find
+                        <lb/><sic>allways</sic>  <corr>always</corr> Advise &amp; Comfort; that I don't know
+                        <lb/>how I can be <sic>thankfull</sic>  <corr>thankful</corr> enough &amp; how to adore
+                        <lb/>him enough in time &amp; in Eternity.
+                     </p>
+                  </div>
+                  
+                  <div n="4">
+                     <p>
+                        <lb/>So far her own Words.
+                        <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 62.</date> in the fall She begun to grow sickly, but was
+                        <lb/>w<hi rend="superscript">th</hi>. her Room Fellows happy &amp; pleasd.
+                        <lb/><date>1763. the 3</date><hi rend="superscript"><date>d</date></hi><date>. of Apr.</date> she grow worse &amp; the brought
+                        <lb/>her in the Sick Room. the <date>9</date><hi rend="superscript"><date>th</date></hi><date>.</date> She fainted
+                        <lb/>on a sudden &amp; was about 1 Hour quite away;
+                        <lb/>She recoverd again, but weak so well in her Mind
+                        <lb/>as Senses. However her Heart remaineth confident
+                        <lb/>to her Friend; She desireth every Body to <sic>suplicate</sic>  <corr>supplicate</corr>
+                        <lb/>by our Saviour to take her poor Soul soon home
+                        <lb/>in his eternal Safety; This happy Lot was not long
+                        <lb/>detained to her and Shen went <sic>speedely</sic>  <corr>speedily</corr> home, in
+                        <lb/>Her 25<hi rend="superscript">th</hi>. Year of her Age:
+                     </p>
+                  </div>
+         </div>
+
+      </body>
+  </text>
+</TEI>
