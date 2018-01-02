@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2017-12-30T21:30:24Z. .
+Schema generated from ODD source 2018-01-02T16:03:14Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -8425,7 +8425,7 @@ You must supply at least two values for @target on <name/>
          <optional>
             <attribute name="type">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.
-Suggested values include: 1] memoir; 2] transcription; 3] translation; 4] other</a:documentation>
+Suggested values include: 1] memoir; 2] transcription; 3] translation; 4] para; 5] other</a:documentation>
                <choice>
                   <value>memoir</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This ML division is a memoir</a:documentation>
@@ -8433,6 +8433,8 @@ Suggested values include: 1] memoir; 2] transcription; 3] translation; 4] other<
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This ML division is a transcription</a:documentation>
                   <value>translation</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This ML division is a translation</a:documentation>
+                  <value>para</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This ML division is a paragraph</a:documentation>
                   <value>other</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This ML division is something else. (If you use this more than a handful of times we should update the TEI ODD Customisation.)</a:documentation>
                   <data type="token">

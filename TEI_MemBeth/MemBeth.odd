@@ -377,6 +377,7 @@
                   <valItem ident="memoir"><desc>This ML division is a memoir</desc></valItem>
                   <valItem ident="transcription"><desc>This ML division is a transcription</desc></valItem>
                   <valItem ident="translation"><desc>This ML division is a translation</desc></valItem>
+                  <valItem ident="para"><desc>This ML division is a paragraph</desc></valItem>
                   <valItem ident="other"><desc>This ML division is something else.  (If you use this more
                     than a handful of times we should update the TEI ODD Customisation.)</desc></valItem>
                 </valList>
