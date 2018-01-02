@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Michael Sirgel: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Johann Michael Sirgel</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+                 <div type="memoir">
+                    <pb type="page" n="1" ana=".10120.25667"/>
+            <figure n="0120-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0120-01.jpg"/>
+               <ab type="caption">Johann Michael Sirgel, page 1</ab>
+            </figure>
+            
+            <div type="para" n="1">
+            <p>
+              
+               <lb/>VIII. The single B.<hi rend="superscript">r</hi> <persName>John Mich. Sirgel</persName>.
+               <lb/>I am (write he himself) born at <placeName>Strasburg</placeName> the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of Febr</date>.
+               <lb/><date>1736</date>. where my Vater was Burgher &amp; Lockshmith.
+               <lb/><note type="catchword">In</note>
+               
+               <pb type="double_left" n="2" ana=".10120.25668"/>
+               <figure n="0120-02">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0120-02.jpg"/>
+                  <ab type="caption">Johann Michael Sirgel, page 2</ab>
+               </figure>
+
+               <lb/>In my 7.<hi rend="superscript">th</hi> Year of Age My Parents brought me to
+               <lb/><placeName>Hhaag</placeName> &amp; there I came in the Anstalt, &amp; found myself
+               <lb/>here soon at home. I had from Time to Time feelings
+               <lb/>in my Heart from our dear Sav.<hi rend="superscript">r</hi> &amp; the Children Meetings
+               <lb/>have been <sic>allways</sic>  <corr>always</corr> a Blessing for my Heart.
+               <lb/>A.<hi rend="superscript">o</hi> <date>1746</date> I removed w.<hi rend="superscript">th</hi> my Parents hither to <placeName>Hhuth</placeName>
+               <lb/>&amp; so came in the Boys Anstalt here. For all I had
+               <lb/>in my Children Years many a blessed Impression in
+               <lb/>my Heart, but did't take so much Notice of this
+               <lb/>began at present when I thought <hi rend="strikethrough">the of</hi> thereof to press
+               <lb/>many Tears from my Eyes. <sic>Afterwarts</sic>  <corr>Afterwards</corr> I came in
+               <lb/>several poor Circumstances. A.<hi rend="superscript">o</hi> <date>1750</date> I w.<hi rend="superscript">th</hi> a great
+               <lb/>many Children was receivd among the Boys &amp; <hi rend="strikethrough">the</hi>
+               <lb/>then came to my Vater to <sic>lern</sic>  <corr>learn</corr> his Business. In the
+               <lb/>the Beginning I went on very well, but <sic>afterwarts</sic>  <corr>afterwards</corr>
+               <lb/>came in a phlegmatic state, that it would't go in
+               <lb/>nothing with me &amp; was not sorry or distressd about
+               <lb/>at all. The most tender <sic>Reminicences</sic>  <corr>Reminiscences</corr> of my Brethen
+               <lb/>&amp; reproach's I did't mind much; &amp; in <add>this</add> miserable
+               <lb/>Condition I went on a good While. At least our
+               <lb/>Sav.<hi rend="superscript">r</hi> found means himself &amp; show'd to <add>one</add> the unhappy
+               <lb/>Condition my Heart was in. Now I <sic>begun</sic>  <corr>began</corr> to weep
+               <lb/>&amp; to pray he <add>would</add> give me a sincere &amp; open Heart to
+               <lb/>him &amp; my Brethren, which he <sic>gratiously</sic>  <corr>graciously</corr> complyeth
+               <lb/>w.<hi rend="superscript">th</hi>  I was after that receivd the <date>7 Apr. 1753</date>
+               <lb/>in the Congregation to the Joy of my Heart.
+               <lb/>Now my <sic>Disire</sic>  <corr>Desire</corr> was set upon, that our Saviour
+               <lb/>would attain his whole Intention with me. The holy
+               <lb/>Ghost <sic>begun</sic>  <corr>began</corr> his blessed work in my Heart, but I soon
+               <lb/><note type="catchword">lost</note>
+           
+<pb type="double_right"/>
+               
+               
+               <lb/>lost my Course &amp; spoiled 1 whole Year in <sic>a</sic>  <corr>an</corr> indifferent
+               <lb/>State towards our Saviour. On <date>New Years Day 1754.</date></p>
+            </div>
+                    <div type="para" n="2">
+                       <p>                    
+               <lb/>I was very perplexed about my poor Condition, &amp; saw
+               <lb/>myself no <sic>Advise</sic>  <corr>Advice</corr> or Help for me. In this Situation
+               <lb/>I went to one of my dear Labourers &amp; complaind
+               <lb/>in my Need w.<hi rend="superscript">th</hi> Fears to him. He comforted me &amp; ad-
+               <lb/>vised me to go to our Sav.<hi rend="superscript">r</hi> Miserable &amp; <sic>pityable</sic>  <corr>pitiable</corr> I
+               <lb/>am, he knoweth he'll help me. Here I <sic>remembred</sic>  <corr>remembered</corr>
+               <lb/>what a Blessing it is to be openhearted &amp; sincere, then
+               <lb/>my Heart became easy &amp; comforted &amp; I <sic>begun</sic>  <corr>began</corr> my
+               <lb/>New Year happy &amp; glad. the <date>25</date><hi rend="superscript"><date>th</date></hi><date> of Jan.</date> I got
+               <lb/>Leave to be present by the Comunion on the Boys
+               <lb/>Feast &amp; then also the Day following by the Comunion
+               <lb/>in the Church at <placeName>Bertholsdorf</placeName>. This was a great
+               <lb/>Blessing for my Heart. On holy Thursday our
+               <lb/>Sav.<hi rend="superscript">r</hi> graciously bestowed on me that after <add>the</add> forgoing
+               <lb/>Pedilavium &amp; Absolution to partake myself on
+               <lb/>his holy Flesh &amp; Blood. By this first Enjoyment
+               <lb/>of this great Matter I could say nothing, as dear
+               <lb/>Sav.<hi rend="superscript">r</hi> here I am, go through all my Soul &amp; Body
+               <lb/>&amp; spoil every Thing what's not <sic>Siner</sic>  <corr>Sinner</corr> &amp; <sic>Jesuslicke</sic>  <corr>Jesuslike</corr>
+               <lb/>in me! The blessed Memory of the happy Choir-Feast, which
+               <lb/>the blessed Disciple kept them the Boys has made a deep
+               <lb/>Impression in my Heart, which was the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of July 1755</date>.</p>
+                    </div>
+                    <div type="para" n="3">
+                       <p>
+               <lb/>A.<hi rend="superscript">o</hi> <date>1756 the 29th of Augs.</date> I was receivd in Single Brethren
+               <lb/>Choir, I begg'd to our Sav.<hi rend="superscript">r</hi> for new Grace &amp; Mercy, &amp;
+               <lb/>He did't ashame me, but let me not in Want of his Blessings.
+               <lb/><note type="catchword">A.<hi rend="superscript">o</hi> <date>1757</date>.</note>
+                       </p>
+                    </div>
+
+                          <pb type="double_left" n="3" ana=".10120.25669"/>
+                          <figure n="0120-03">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0120-03.jpg"/>
+                             <ab type="caption">Johann Michael Sirgel, page 3</ab>
+                          </figure>               
+<div type="para" n="4">
+   <p>
+               <lb/>A.<hi rend="superscript">o</hi> 1757 the 25<hi rend="superscript">th</hi> the preparation - Discourses <sic>deleiverd</sic>  <corr>delivered</corr> by 
+      <lb/>our blessed Disciple caused me frequently a Conversation w.<hi rend="superscript">th</hi>
+      <lb/>our dear Sav.<hi rend="superscript">r</hi> &amp; my Brethren, not without many a blessing
+      <lb/>&amp; Comfort for my poor Heart. I poor Child must have his
+      <lb/>blessed N<sic>earness</sic>  <sic>continualy</sic>  <corr>continually</corr>, or I become dry &amp; without Life.
+      <lb/>My Head Concern is: that he may poor Me by Degrees accustom
+      <lb/>to a never ceasing Happiness! So far he of Himself.
+      <lb/>The following Years he went his Path easy &amp; happy, &amp; about
+      <lb/>the Year <date>1761</date>, he <sic>espress'd</sic>  <corr>expressed</corr> himself also: that he many times
+      <lb/>in heavy Circumstances wept before our Sav.<hi rend="superscript">r</hi> &amp; pray'd to
+      <lb/>him, that his Heart which alone is certain &amp; to <add>be</add> <unclear>depended</unclear>
+      <lb/>on without any Doubt, would preserve him till to the
+      <lb/>Time, when he can behold him face to face: &amp; so he could
+      <lb/>testify that his Redeemer heard his Prayer &amp; consented
+      <lb/>above his expectation, wherefore his Heart shall thank &amp;
+      <lb/>praise for ever. It was a pleasure to him to serve the
+      <lb/>Congregation in the Hall w.<hi rend="superscript">th</hi> his Music, &amp; he was as
+      <lb/>willing in serving by the <sic>Colledge</sic>  <corr>College</corr> of Musicians. In his
+      <lb/>Business he did't <sic>lern</sic>  <corr>learn</corr> much, &amp; <hi rend="strikethrough">could</hi> therefore found some
+      <lb/><sic>Dificulty</sic>  <corr>Difficulty</corr> to gain his Want, this sometime <hi rend="strikethrough">made</hi> <add>brought</add> him in
+      <lb/>some Embarrassment. In such a Perplexity a Brother
+      <lb/>found him [?] the <date>16</date><hi rend="superscript"><date>th</date></hi><date> of this Months</date>, as he was gone on
+      <lb/>his Work &amp; <sic>afterwarts</sic>  <corr>afterwards</corr> went in a Corner weeping, that he 
+      <lb/>did't better Care in his younger Years! Soon after, he
+      <lb/><sic>complaint</sic>  <corr>complained</corr> he was ill &amp; must lay down by a Pleuresy, <add>&amp;</add> in
+      <lb/>some Days the white Rash appeard, but as he <add>came</add> out so very
+      <lb/><sic>eassy</sic>  <corr>easy</corr>, he as well, as th' other Breth.<hi rend="superscript">n</hi> believ'd he would hold
+      <lb/><note type="catchword">it out</note>
+               
+<pb type="double_right"/>
+               
+               <lb/>it out &amp; Nobody thought his End so near. Sunday Night at 12
+      <lb/>a Clock a hard epileptic Attack presumptuously hastens
+      <lb/>his Disolution. After this Parxoism was over, he lay quite
+      <lb/>silent to the <date>23</date><hi rend="superscript"><date>th</date></hi><date> of May</date>, when he in the Morning at two
+      <lb/>a Clock went home in Peace, under the Blessings of the
+      <lb/>Congregat.<hi rend="superscript">n</hi> &amp; his Choir, with this <sic>Vers</sic>  <corr>Verse</corr>: <hi rend="underline">Der Honigseim von
+         <lb/>seinem Mund, der Küss den todes Leib gesund &amp; segne
+         <lb/>deine Seel.</hi> In the 28<hi rend="superscript">th</hi> Year of his Age.
+               
+            </p>
+            </div>
+                 </div>
+            
+
+
+      </body>
+  </text>
+</TEI>
