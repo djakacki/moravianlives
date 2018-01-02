@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -14,15 +14,13 @@
                <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
-                  <addrLine>United States of America</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
                <address>
-                  <addrLine>Gothenburg</addrLine>
-                  <addrLine>Sweden</addrLine>
+                  <addrLine>Gothenburg, Sweden</addrLine>
                </address>
                <email>christer.ahlberger@history.gu.se</email>
             </principal>

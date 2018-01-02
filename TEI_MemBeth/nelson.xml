@@ -14,17 +14,14 @@
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
                <orgName>Bucknell University</orgName>
                <address>
-                  <addrLine>One Dent Drive</addrLine>
-                  <addrLine>Lewisburg, PA 17837</addrLine>
-                  <addrLine>United States</addrLine>
+                  <addrLine>Lewisburg, PA USA</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
                <address>
-                  <addrLine>Gothenburg</addrLine>
-                  <addrLine>Sweden</addrLine>
+                  <addrLine>Gothenburg, Sweden</addrLine>
                </address>
                <email>christer.ahlberger@history.gu.se</email>
             </principal>

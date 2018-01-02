@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -11,16 +11,16 @@
             </title>               
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-               <orgName>Bucknell University</orgName>
-               <settlement>Lewisburg</settlement>
-               <region>Pennsylvania</region>
-               <country>United States</country>
+               <address>
+                  <addrLine>Lewisburg, PA USA</addrLine>
+               </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
-               <settlement>Gothenburg</settlement>
-               <country>Sweden</country>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
                <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
@@ -78,7 +78,7 @@
                   <lb/><sic>toock</sic>  <corr>took</corr> myself soon better then other <sic>Poeple</sic>  <corr>People</corr>. A.<hi rend="superscript">o</hi> <date>1743</date>
                   <lb/>I came to the Joy of my Heart in the Children Anstalt
                   <lb/>at <placeName>Hhuth</placeName>. <date>1746</date> I was among the Congregation
-                  <lb/>of the Children received. I loved our Saviour &amp;
+                  <lb/>of the Children eceived. I loved our Saviour &amp;
                   <lb/>was taken for a pretty good Child, but as was
                   <lb/>grown older, then I begun to feel the <sic>Coruption</sic>  <corr>Corruption</corr> of
                   <lb/>my Heart. A.<hi rend="superscript">o</hi> <date>49</date> I came in the Girls Choir &amp;
