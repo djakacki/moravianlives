@@ -12,15 +12,18 @@
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
                <orgName>Bucknell University</orgName>
-               <settlement>Lewisburg</settlement>
-               <region>Pennsylvania</region>
-               <country>United States</country>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+                  <addrLine>United States of America</addrLine>
+               </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
-               <settlement>Gothenburg</settlement>
-               <country>Sweden</country>
+               <address>
+                  <addrLine>Gothenburg</addrLine>
+                  <addrLine>Sweden</addrLine>
+               </address>
                <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
