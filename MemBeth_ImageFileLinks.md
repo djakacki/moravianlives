@@ -1,4 +1,4 @@
-Anton Boehler<br />
+Anton Boehler (0001)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-01.jpg<br />	
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-03.jpg<br />
@@ -9,7 +9,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0001-07.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-08.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0001-09.jpg<br />
 
-Johann Gold<br />
+Johann Gold (0002)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0002-a01.jpg<br />	
 http://moravianlives.bucknell.edu/MAB/MemBeth_0002-a02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0002-b01.jpg<br />
