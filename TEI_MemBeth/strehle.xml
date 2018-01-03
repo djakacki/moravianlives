@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir
+            <title>Rudolph Strehle: Memoir
                <lang>English</lang>
             </title>               
             <funder>The Moravian Lives Project</funder>
@@ -39,6 +39,11 @@
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -57,29 +62,238 @@
             </availability>               
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of [NAME]</p>
+            <p>The Life of Rudolph Strehle</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
   <text>
       <body>
-
-<!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. AFTERWARD, JUST START WITH <pb>
                  <div type="memoir">
-            <pb n="1" ana="[REF TO MEDIAWIKI FILE NUMBER"/>
-            <figure n="[REF TOMEMOIR#-PAGE#">
-               <graphic url="[LINK TO FILE ON SERVER"/>
-               <ab type="caption">[NAME OF MEMOIR SUBJECT, PAGE 1</ab>
+                    <pb type="page" n="1" ana=".10283.26370"/>
+            <figure n="0283-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0283a-01.jpg"/>
+               <ab type="caption">Rudolph Strehle, page 1</ab>
             </figure>
             
-            <div type="para" n="#">
+            <div type="para" n="1">
             <p>
-            
-            
-            </p>
+               <lb/><gap></gap><hi rend="underline"> Lives
+                  <lb/>of some Brethren, who departed in <placeName>Beth,
+                     <lb/>lehem</placeName> in the Months of <date>September &amp; October
+                        <lb/>1785</date>.</hi></p>
             </div>
-            
-         -->
+                    <div type="para" n="2">
+<p>
+               <lb/>1. Life of our late Br. <hi rend="underline"><persName>Rudolph Strehle</persName>.</hi>
+               <lb/>He writes himself: I was born <date>June 29</date><hi rend="superscript"><date>th</date></hi><date>. 1712 </date>
+               <lb/>at <placeName>Entringen</placeName> a Market Town in the Duchy of
+               <lb/><placeName>Wirtenberg</placeName>. In my tenderest Infancy I had al-
+               <lb/>ready a Feeling of our Savr. &amp; liked to learn
+               <lb/>Hymns of my Mother which treated of him. From
+               <lb/>my 7<hi rend="superscript">th</hi>. Year I went to School, &amp; learned with Plea-
+               <lb/>sure. In my 11<hi rend="superscript">th</hi>. Year my Mother fell deadly sick
+               <lb/>&amp; my Father being also sickly, it came very impressiv-
+               <lb/>ly into my Mind, that I soon might be a poor Orphan
+               <lb/>&amp; come among strange People, I went into the Field
+               <lb/>&amp; prayed God with Tears on my Knees, to save my
+               <lb/>Soul, <add>in</add> otherwise <add>things</add> he might do with me as he pleased,
+               <lb/>Some Days after my Mother departed. Being 16
+               <lb/>Years of Age, my Father brought me to <placeName>Tubingen</placeName>
+               <lb/>to learn the Mason Trade, &amp; 6 Weeks after he
+               <lb/>also departed this Time. I still retained a Concern
+               <lb/>about my Salvation, however by Seduction I fell
+                    
+   <pb type="double_left" ana=".10283.26371"/>
+   <figure n="0283-02">
+      <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0283a-02.jpg"/>
+      <ab type="caption">Rudolph Strehle, page 2</ab>
+   </figure>
+
+<lb/>into Sin, &amp; became more senseless &amp; lightminded,
+   <lb/>yet not without Uneasiness. In <date>1733</date> a great Change
+   <lb/>taking Place in the Duchy of <placeName>Wirtemberg</placeName> &amp; the War
+   <lb/>commencing, I was measured with a View to become
+   <lb/>a Soldier. I came into great Concern &amp; a serious
+   <lb/>Consideration whether I should run away or wait
+   <lb/>what Turn it would take, &amp; I prayed to God to put
+   <lb/>it into my Mind &amp; Thoughts, what Steps to take.
+   <lb/>It became clear in my Heart, to be still, &amp; to let
+   <lb/>it go as it would, &amp; I got the Assurance that it would
+   <lb/>take a glorious Event, if I even should come among 
+   <lb/>the Soldiers. I thought: God is <sic>allmighty</sic> <corr>almighty</corr>, omnipre-
+   <lb/>sent &amp; all knowing, I will rely on him. In <date>1734</date>
+   <lb/>I went sometimes into the Preachings of the <persName>Rev</persName><hi rend="superscript"><persName>d</persName></hi><persName>. M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. 
+      <lb/><unclear>Preibt</unclear></persName> at <placeName>Breitenholz</placeName>, in which my Heart often was
+   <lb/>powerfully laid hold of, so that I could not refrain from
+   <lb/>shedding Tears, tho' I was much ashamed to be seen weep-
+   <lb/>ing. <date>1735 in March</date> I was obliged to become a Soldier, 
+   <lb/>&amp; came into the Imperical Service at <placeName>Treyburg in Breis-
+      <lb/>gau</placeName>. I many times went into the Field, because we
+   <lb/>were quartered at first in the Villages, wept &amp; prayed
+   <lb/>to God not to withdraw his gracious Hand from me, other,
+   <lb/>wise I should be lost. I was much infatuated by the
+   <lb/><note type="catchword">Spirit</note>
+
+<pb type="double_right"/>
+
+<lb/>Spirit of War, &amp; learned also to play Cards. In
+   <lb/><date>January 1736</date> standing Sentinel in the Night from
+   <lb/>1 till 3 o' Clock on the Fortifications I kept a Band
+   <lb/>with God; for our Savr. I did not know; my last Situ-
+   <lb/>ation presented itself before my Eyes. I promised
+   <lb/>him, that if I should come again into the Duchy of
+   <lb/><placeName>Wirtemberg</placeName>, so that I could hear again the Word of God
+   <lb/>&amp; go again to the H. <sic>Comunion</sic> |: for we were in a roman
+   <lb/>catholic Place, &amp; had no Preacher in the Army :| I would
+   <lb/>begin anew from that <sic>Comunion</sic> <hi rend="underline">to be obedient</hi>, as
+   <lb/>it is expressed in a lutheran Prayer Book, &amp; be
+   <lb/>converted. This our Savr. took Notice of &amp; kept it
+   <lb/>in Mind, tho' I forgot it again. I came still the same
+   <lb/>Year among several other Regiments, &amp; on other Places.
+   <lb/>I grew also so confused in my Mind, that I fain
+   <lb/>would have become an Atheist, if I could have effected
+   <lb/>it. But it was always clear in my Heart, that the
+   <lb/>Word of God is and abideth Truth, &amp; thou art an un-
+   <lb/>fortunate Man, if thou continuest so. Once I in-
+   <lb/>tended to devirt to <placeName>France</placeName>, but divine Provi-
+   <lb/>dence directed it so, that I came again into the <placeName>Wir-
+      <lb/>temberg</placeName> Country to <placeName>Ludwigsburg</placeName>. There I went into 
+
+   <pb type="double_left" ana=".10283.26372"/>
+   <figure n="0283-03">
+      <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0283a-03.jpg"/>
+      <ab type="caption">Rudolph Strehle, page 3</ab>
+   </figure>
+
+<lb/>the Church on <date>Newyearsday 1737</date>, &amp; inteneded to par-
+   <lb/>take again the first Time of the H. Com<hi rend="superscript">n</hi>. At the 
+   <lb/>Entrance into the Church, it came all at once into
+   <lb/>my Mind: What hast thou promised to God in F<placeName>rey-
+      <lb/>burg</placeName> on the Fortification-Wall? What, if thou now gavest
+   <lb/>him thy Heart? My Heart melted, I begun to weep
+   <lb/>&amp; said Yes. Mean while they begun to sing: With
+   <lb/>Jesus I begin, with Jesus I'll be speaking &amp; this
+   <lb/>made a deep Impression upon me; I was very
+   <lb/>attentive in the Preaching, but at the H. Communion
+   <lb/>I felt so heavy, that I could not help thinking I had
+   <lb/>partook of it for my Condemnation. After divine
+   <lb/>Service my Companions persuaded me to go with
+   <lb/>them to the Orphan House Church, where a good
+   <lb/>Minister was at that Time. I did it, &amp; heard the
+   <lb/>loving Heart of Jesus to Sinners described in so
+   <lb/>sweet a Manner, that I got a Confidence to Him, &amp;
+   <lb/>resolved to keep &amp; give myself <sic>intirely</sic> <corr>entirely </corr>up to him.
+   <lb/>I then frequented diligently the Preachings &amp;
+   <lb/>Meetings of this Minister, whose Name was <persName>Beckhen</persName>,
+   <lb/>till in <date>1738</date> when in his House I learned to know the
+   <lb/>first Brn. from the Cong<hi rend="underline">rn</hi> &amp; among the rest our
+   <lb/><note type="catchword">late</note>
+
+<pb type="double_right"/>
+
+   <lb/>late <persName>Br. Samuel Krause</persName>. <date>Nov. 5</date><hi rend="superscript"><date>th</date></hi><date>. this Year</date>
+   <lb/>standing Sentinel our Savr. manifested himself to
+   <lb/>my Heart in his meritorious Life, Suffering &amp; Death,
+   <lb/>&amp; how he still intercedes for all poor Sinners, on ac-
+   <lb/>count of which my Heart grew at once clear &amp; easy,
+   <lb/>&amp; was delivered from all its Fetters. In <date>1739</date> I got
+   <lb/>in <placeName>Tübingen</placeName> a printed Pamphlet <add>into my Hands</add> entitled: The right
+   <lb/>&amp; straight Way to Life &amp;c. which proved a great Bless,
+   <lb/>ing to my Heart. In <date>1740</date> working in <placeName><sic>Studtgard</sic> <corr>Stuttgard</corr></placeName>
+   <lb/>among many wild natural People, &amp; being ignorant
+   <lb/>of the Sinnerpoint, having also no body to whom
+   <lb/>I could discover my Heart, I became dry &amp; came into
+   <lb/>new Perplexities; which excited in me a Desire to
+   <lb/>come into Fellowship with the B<hi rend="underline">rns</hi>. Cong<hi rend="underline">rn</hi>. I resol-
+   <lb/>ved thereto &amp; prayed our Savr. to prepare himself the
+   <lb/>Way for it. What I asked for was granted, I got Leave
+   <lb/>to go on a Visit to <placeName>Herrnhaag</placeName>. I was received heartily
+   <lb/>by the Brn. &amp; it being just <sic>Comunion</sic> Day I was ad-
+   <lb/>mitted to the Love feast, &amp; had Leave to be a Spectator
+   <lb/>at the Lords Supper. I had a thorough Conversation with
+   <lb/>the late <persName>Polycarpus Müller</persName>, &amp; came again into the right
+   <lb/>Track. I was all the Month of <date>July 1742</date> in <placeName>Herrnhaag</placeName>
+   <lb/>&amp; in <date>August</date> I returned to <placeName>Stuttgard</placeName>. I made the
+
+   <pb type="double_left" ana=".10283.26373"/>
+   <figure n="0283-04">
+      <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0283a-04.jpg"/>
+      <ab type="caption">Rudolph Strehle, page 4</ab>
+   </figure>
+<lb/>Covenant with some Awakened, to remain by
+   <lb/>the Doctrine of the Merit of Jesus <add>the</add> Blood &amp; Death of
+   <lb/>Jesus, &amp; this was the Beginning of the united Flock
+   <lb/>in <placeName>Stuttgard</placeName>, whereto in <date>December</date> came still 7
+   <lb/>Brn. After a repeated Visit in the Cong<hi rend="underline">rn</hi>. I obtai-
+   <lb/>ned my Dismission from military Services in <date>Apr.
+      <lb/>1744</date> &amp; arrived with the Cong<hi rend="underline">rn</hi> in <placeName>Herrnhaag</placeName> with 
+   <lb/>the W. Word: What is accounted foolish by the World
+   <lb/>God has chosen &amp; <date>Jan. 7</date><hi rend="superscript"><date>th</date></hi><date>. 45</date> I was received into
+   <lb/>the Cong<hi rend="underline">rn</hi>. at which the Verse: Happy Cong<hi rend="underline">re</hi>gation
+   <lb/>whose Robes the Lambs Blood keeps from all De-
+   <lb/>filements &amp; was so impressed on my Mind, that
+   <lb/>I always rejoiced as often as it was sung in the Con-
+   <lb/>gregation. In 1746 <date>Nov. 13</date><hi rend="superscript"><date>th</date></hi><date>. 1746</date> I was admitted to
+   <lb/>the H. Com<hi rend="superscript">n</hi>. which proved a particular Strengthening
+   <lb/>to my Heart. <date>1749</date> I got a Call to go to <sic>Pensilvania</sic> <corr>Pennsylvania </corr> 
+   <lb/>set out in <date>February</date> with a Company of Brn. by
+   <lb/>Way of <placeName>Holland &amp; England</placeName> &amp; <date>May 12</date><hi rend="superscript"><date>th</date></hi><date>.</date> we arrived safe
+   <lb/>&amp; well in <placeName>New york</placeName> &amp; on the <date>21</date><hi rend="superscript"><date>st</date></hi><date>.</date> in <placeName>Bethlehem</placeName>. My
+   <lb/>Course here is known to the Brn. &amp; Srs. therefore
+   <lb/>I will conclude. <gap> </gap>Thus far he himself.</p>
+                    </div>
+                    <div type="para" n="3">
+                       <p>
+                          <lb/>He served in <placeName>Bethlehem</placeName> by his Mason Trade
+   <lb/><note type="catchword">and in</note>
+
+<pb type="double_right"/>
+
+                          <lb/>and in various Services of the <sic>Oeconomy</sic> <corr>Economy</corr> here faith,
+                          <lb/>ful &amp; usefully. He was particularly a faithful
+                          <lb/>&amp; edifying Watchman in the Night for many Years,
+                          <lb/>&amp; in his advanced Age he often testified how blessed
+                          <lb/>this Service had been for his Heart, what happy Hour
+                          <lb/>he had often had in Conversation with our Savr. &amp; what
+                          <lb/>Proofs of his gracious Protection &amp; Preservation
+                          <lb/>he has experienced in the Night particularly in the
+                          <lb/>Indian War. He had a good deal of scriptural
+                          <lb/>Knowledge, &amp; loved to read edifying Books, but
+                          <lb/>had at the same time a faithful Heart towards our
+                          <lb/>Savr. &amp; his Cong<hi rend="underline">rn</hi>. &amp; was always full of Faith
+                          <lb/>&amp; Courage &amp; of a Witness Spirit <date>1749</date> he was married
+                          <lb/>with his late Wife Sophia <persName>Dorothea Sophia late Num-
+                             <lb/>berger</persName>, with whom he lived 34 Years in the married
+                          <lb/>State, &amp; ha in which he had 3 Sons of whom one Son
+                          <lb/><persName>Frederic</persName> is here &amp; 2 are in <placeName>Wachovia</placeName> <date>Sept. 5</date><hi rend="superscript"><date>th</date></hi><date>.  
+                             <lb/>1783</date> he became Widower &amp; his increasing Age 
+                          <lb/>Weakness &amp; Sickliness obliged him to live in Quiet,
+                          <lb/>ness &amp; Rest. On his last Choir Testival this Year
+                          <lb/>he was obliged to stay in his Room, but <sic>beleived</sic> <corr>believed</corr>, 
+                          <lb/>that our Savr. would also bless him there. His
+
+
+                          <pb type="page" ana=".10284.26374"/>
+                          <figure n="0284-01">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0284a-01.jpg"/>
+                             <ab type="caption">Rudolph Strehle, page 5 - page combined with beginning of George Nixdorf's memoir</ab>
+                          </figure>
+
+
+<lb/>Share of the Choir Comanion being brought to him,
+                             <lb/>he testified to have had an extraordinary blessed
+                             <lb/>Day, &amp; was sure, that this would be his last Festi,
+                             <lb/>val &amp; <sic>Comunion</sic> <corr>Communion</corr> here below. The Visit of several 
+                             <lb/>Brn. &amp; Srs. &amp; particularly of our dr. <persName>Br.</persName><persName> Johannas</persName>
+                             <lb/>proved a special Joy to him. He looked with Patience
+                             <lb/>&amp; Faith to meet his Departure, &amp; received <add>for it</add> the Blessing
+                             <lb/>of the Lord &amp; the Cong<hi rend="underline">rn</hi>. whereupon he departed 
+                             <lb/>softly &amp; happily on the <date>11</date><hi rend="superscript"><date>th</date></hi><date>. of Sept.</date> in the 74<hi rend="superscript">th</hi>. 
+                             <lb/>Year of his Age. 
+                       </p>
+                    </div>
+            </div>
+
 
       </body>
   </text>
