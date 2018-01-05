@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moravian Lives personography
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>Moravian Personography</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>
+            <listPerson>
+               <person>
+                  <persName>Rev. Mr. Buzow</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 11</note>
+               </person>
+
+               <person>
+                  <persName>Br. Boeler</persName>
+                  <persName>Petrus Böhler? #6759 </persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 13</note>
+                  <note>1712-1775: Frankfurt am Main to London</note>
+                  <note>Went to London in 1768 with Ann Krugelstein and Sr. Böhler</note>
+               </person> 
+                           
+               <person>
+                  <persName>Sr. Boeler</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 13</note>
+                  <note>Could it be Anna Catharina Böhler? #52442 1724-1784. Went to London in 1768 with Ann Krugelstein and Br. Böhler</note>                  
+               </person>
+            
+               <person>
+                  <persName>Count Dohnas</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 13</note>
+                  
+               </person>    
+            
+               <person>
+                  <persName>Captain Durnstern</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 12</note>
+               </person>
+            
+               <person>
+               <persName>Br. Fritche</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8, 12</note>
+            </person>
+            
+              <person>
+                  <persName xml:id="ML5868" cert="medium">
+                     <reg>Philipp Jacob Ferber</reg>
+                     <forename>Philipp</forename>
+                     <forename>Jacob</forename>
+                     <surname>Ferber</surname>
+                  </persName>
+                 <birth when-iso="1705">1705
+                    <placeName>Tischen bei Hohensteg</placeName>
+                 </birth>
+                 <death when-iso="1788">1788
+                    <placeName>Herrnhut</placeName>
+                 </death>
+                 <note>Mentioned in Ann Krugelstein memoir para. 8</note>
+               </person> 
+                          
+            <person>
+               <persName>Br. Grumberg</persName>
+               <note>Mentioned in Ann Krugelstein memoir para. 12</note>
+            </person>
+            
+              <person>
+                  <persName xml:id="ML5560" cert="medium">Brn. Gutslef
+                     <reg>Eberhard Gutsleff</reg>
+                     <forename>Eberhard</forename>
+                     <surname>Gutsleff</surname>
+                  </persName>
+                 <death when-iso="1749">
+                    <placeName>St. Petersburg</placeName>
+                 </death>
+                 <note>Mentioned in Ann Krugelstein memoir para. 8</note>                
+               </person>
+                           
+               <person>
+               <persName xml:id="ML25135">Br. Helterhof
+                  <surname>Helterhof</surname>
+                  <roleName>Brother</roleName>                  
+               </persName>
+                  <birth when-iso="1713">1713
+                     <placeName>?</placeName>
+                  </birth>
+                  <death when-iso="1755">1755
+                     <placeName>Petersburg</placeName>
+                  </death>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8, 9, 12</note>
+            </person>
+            
+               <person>
+                  <persName>Sr. Helterhof</persName>
+                  <note> This could be either Helehna Helterhof #54724 (1717-1778, died in Moscow) or Christiana Judith Helterhoff #24095 (1713-1755, died in Petersburg)</note>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8, 9, 12</note>
+               </person>
+
+               <person>
+               <persName xml:id="ML9440" cert="medium">
+                  <reg>Bernhard Koehler</reg>
+                  <forename>Bernhard</forename>
+                  <surname type="transcription">Koehler</surname>
+                  <surname type="literal">Köhler</surname>
+                  <roleName>Brother</roleName>
+               </persName>
+                  <birth when-iso="1727">1727
+                     <placeName>Hamm</placeName>
+                  </birth>
+                  <death when-iso="1768">1768
+                     <placeName>Herrnhut</placeName>
+                  </death>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8, 12 - referred to as Br. Koehler</note>
+               </person>
+            </listPerson>
+            
+<listPerson>
+               <person>
+                  <persName xml:id="ML7978">
+                     <reg>Ann Krügelstein</reg>
+                     <forename>Ann</forename>
+                     <surname>Krügelstein</surname>
+                     <addName type="birthname">Gold</addName>
+                  </persName>
+                  <birth when-iso="1713-07-10">07-10-1713
+                     <placeName>Zauchtenthal, Moravia</placeName>
+                  </birth>
+                  <death when-iso="1778-04-30">04-30-1778
+                     <placeName>Herrnhut, Silesia</placeName>
+                  </death>
+                  <faith from-iso="1724" to-iso="1778" cert="medium">Moravian</faith>
+                  <occupation>Missionary?</occupation>
+                     <!-- the point of this list being that we could fill in places by date visited by people -->
+                  <residence from-iso="1713" to-iso="1727">Moravia</residence>
+                  <residence when-iso="1727">Berthelsdorf</residence>
+                  <residence when-iso="1732">Ebersdorf</residence>
+                  <residence when-iso="1736">Frankfort upon Mayn</residence>
+                  <residence when-iso="1736">Berlin</residence>
+                  <residence from-iso="1736" to-iso="1738">Ronneburg in Wetteravia</residence>
+                  <residence from-iso="1736" to-iso="1738-10">Lindheim in Wetteravia</residence>
+                  <residence from-iso="1738" to-iso="1751">Marienborn in Livonia</residence>
+                  <residence when-iso="1741" cert="medium">Angermünde in Curland</residence>
+                  <residence when-iso="1747">Königsberg</residence>
+                  <residence>Petersburg</residence>
+                  <residence> Maram</residence>
+                  <residence>Asia</residence>
+                  <residence>Casan</residence>
+                  <residence>Novograd</residence>
+                  <residence>Constadt</residence>
+                  <residence>Lüneburg</residence>
+                  <residence from-iso="1736" to-iso="1778-04-30">Herrnhut, Silesia</residence>  
+                  <listEvent>
+                     <event type="marriage" when-iso="1733-09-08">
+                        <label>Married</label>
+                        <note>to David Krügelstein</note>
+                     </event>
+                  </listEvent>                
+                     <note>(from MemBeth spreadsheet) Approx. 1727 moved to Herrenhuth with her parents - married David Krügelstein 09-08-1733 and stayed in Herrenhuth caring for the girls seminar until 1736. Moved to Romerburg/Wetterau and from there to Schweinfurt/Main.</note> 
+               </person>
+
+                     <listRelation>
+                        <relation name="spouse" mutual="#ML5497"/>
+                        <relation name="parent" active="#ML12724"/>
+                        <relation name="parent" active="#ML12797"/>
+                        <relation name="parent" type="foster" active="Mary Jacob"/>
+                        <relation name="niece" active="John Nitschmann"/>
+                        <relation name="social" congregation="Herrnhut" active="#ML14417"/>
+                     </listRelation>
+</listPerson>
+            
+            <listPerson>
+             
+               <person>
+                     <persName xml:id="ML5497">
+                        <reg>David Krügelstein</reg>
+                        <forename>David</forename>
+                        <surname>Krügelstein</surname>
+                     </persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 7   1743-1794</note>
+               </person>
+               
+               <person>
+                  <persName xml:id="ML12797">Johann Frederiech Krügelstein</persName>
+                  <note>David and Ann's son - born 1747-1776</note>
+               </person>
+               
+               <person>
+                  <persName xml:id="ML12724">Johanna Christina Krügelstein</persName>
+                  <note>David and Ann's daughter - born 1753-1821</note>
+               </person>  
+               
+            <person>
+               <persName>Mr. Krumpa</persName>
+               <note>Mentioned in Ann Krugelstein memoir para. 6</note>
+            </person>
+
+               <person>
+                  <persName>Br. Kryman</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 12</note>
+            </person>
+            
+           <person>
+               <persName>Rev. M. Laskiell</persName>
+              <note>Mentioned in Ann Krugelstein memoir para. 8</note>
+            </person>
+
+               <person>
+                  <persName>Secretary Nabakof</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 10, 12</note>
+               </person>
+            
+            <person>
+               <persName>Lieutenant of the Guard Milkanoth</persName>
+               <note>Mentioned in Ann Krugelstein memoir para. 12</note>
+            </person>
+
+               <person>
+               <persName xml:id="ML1768">
+                  <reg>Melchior Nitschmann</reg>
+                  <forename>Melchior</forename>
+                  <surname>Nitschmann</surname>
+                  <roleName>Brother</roleName> 
+               </persName>
+                  <birth when-iso="1737">1737
+                     <placeName>Berlin</placeName>
+                  </birth>
+                  <death when-iso="1820">1820
+                     <placeName>Sarepta</placeName>
+                  </death>
+                  <residence><placeName>Kunewalde</placeName> (in Krugelstein memoir)</residence>
+                  <residence><placeName>Kremsir</placeName> (in Krugelstein memoir)</residence>
+                  <note>Mentioned in Ann Krugelstein memoir para. 5</note>
+               </person>            
+            
+             <person>
+               <persName>
+                  <reg>John Nitschman</reg>
+                  <forename>John</forename>
+                  <surname>Nitschmann</surname>
+               </persName>
+                   <note>Mentioned in Ann Krugelstein memoir para. 5 - identified as Ann's uncle (maternal) Can't find person in database - possibly Heinrich? #150</note>                
+            </person>
+            
+            <person>
+               <persName>Commander Plaisin</persName>
+               <note>Mentioned in Ann Krugelstein memoir para. 12</note>
+            </person>
+
+               <person>
+                  <persName xml:id="ML4092">
+                     <surname>Risler</surname>
+                     <roleName>Brother</roleName>
+                  </persName>
+                  <birth when-iso="1720">1720
+                     <placeName>Mulhausen</placeName>
+                  </birth>
+                  <death when-iso="1811">1811
+                     <placeName>Berthelsdorf</placeName>
+                  </death>
+                  <residence><placeName>Marienborn</placeName> (in Krugelstein memoir)</residence>
+                  <residence><placeName n="St. Petersburg">Petersburg</placeName> (in Krugelstein memoir)</residence>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8 - referred to as Br. Risler</note>
+               </person>
+            
+               <person>
+                  <persName xml:id="ML21294">
+                     <reg>Sr Risler</reg>
+                     <surname>Risler</surname>
+                     <roleName>Sister</roleName>
+                  </persName>
+                  <birth when-iso="1749">1749
+                     <placeName>Basel</placeName>
+                  </birth>
+                  <death when-iso="1799">1799
+                     <placeName>Berthelsdorf</placeName>
+                  </death>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8</note>
+               </person>
+
+               <person>
+                  <persName>Mary Jacob</persName>
+                  <note>Mentioned in Ann Krugelstein memoir para. 8</note>
+               </person> 
+               
+               <person>
+                  <persName xml:id="ML23263">
+                     <reg>Johanna Dorothea de Treyden</reg>
+                     <forename>Johanna</forename>
+                     <forename>Dorothea</forename>
+                     <surname>de Treyden</surname>
+                     <roleName>Sister</roleName>
+                  </persName>
+                  <birth when-iso="1743">1743
+                     <placeName>Ebersdorf</placeName>
+                  </birth>
+                  <death when-iso="1801">1801
+                     <placeName>Wansch bei Herrnhut</placeName>
+                  </death>
+                  <note>there are three IDs in the database for same person</note>
+                  <note>Mentioned in Ann Krugelstein memoir para. 13</note>                  
+               </person>
+
+               <person>
+               <persName xml:id="ML14417">
+                  <reg>Count Nicolaus Ludwig Zinzendorf</reg>
+                  <forename>Nicolaus</forename>
+                  <forename>Ludwig</forename>
+                  <surname>Zinzendorf</surname>
+                  <roleName>Count</roleName>
+               </persName>
+                  <birth when-iso="1700">1700
+                     <placeName>Dresden</placeName>
+                  </birth>
+                  <death when-iso="1760">1760
+                     <placeName>Herrnhut</placeName>
+                  </death>
+                  <note>Mentioned in Ann Krugelstein memoir para. 7, 8</note>
+            </person>
+                                   
+            </listPerson>                        
+                        
+         </p>
+      </body>
+  </text>
+</TEI>

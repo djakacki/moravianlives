@@ -145,40 +145,8 @@
 <!-- Include all of msdescription -->
           <moduleRef key="msdescription" include="additions catchwords collation collection history institution locus msContents msDesc msIdentifier msItem msItemStruct msName msPart objectDesc objectType origDate origPlace origin repository signatures source summary"/>
                          
-          <!-- add objectType @type attribute -->
-         <elementSpec ident="objectType" module="msdescription" mode="change">
-            <attList>
-              <attDef ident="type" mode="add">                
-                <valList type="closed">
-                  <valItem ident="animal"><desc>name of a type of animal</desc></valItem>
-                  <valItem ident="drink"><desc>name of a type of beverage</desc></valItem>
-                  <valItem ident="food"><desc>name of a type of food</desc></valItem>
-                  <valItem ident="clothing"><desc>name of an item of clothing</desc></valItem>
-                  <valItem ident="other"><desc>another non-standard type of thing</desc></valItem>
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-                
-<!-- namesdates: only include orgName, persName, placeName, and settlement. -->
-          <moduleRef key="namesdates" include="name orgName persName place placeName settlement state trait"/>
-
-          <!-- delete lots of attributes -/->
-          <elementSpec ident="orgName" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="calendar" mode="delete"/>
-              <attDef ident="when-iso" mode="delete"/>
-              <attDef ident="notBefore-iso" mode="delete"/>
-              <attDef ident="notAfter-iso" mode="delete"/>
-              <attDef ident="from-iso" mode="delete"/>
-              <attDef ident="to-iso" mode="delete"/>
-              <attDef ident="unit" mode="delete"/>
-              <attDef ident="quantity" mode="delete"/>
-              <attDef ident="extent" mode="delete"/>
-              <attDef ident="scope" mode="delete"/>
-              <attDef ident="source" mode="delete"/>
-            </attList>
-          </elementSpec>-->
+<!-- namesdates: include all for now. -->
+          <moduleRef key="namesdates" />
 
           <!-- add name:@event / birth, baptism, death, other -->
           <elementSpec ident="name" mode="change" module="namesdates">
@@ -193,7 +161,29 @@
               </attDef>
             </attList>
           </elementSpec>
-                                    
+
+<!-- add relationships -->
+          <elementSpec ident="relation" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="family" mode="add">
+                <valList type="closed">
+                  <valItem ident="husband"/>
+                  <valItem ident="wife"/>
+                  <valItem ident="parent"/>
+                  <valItem ident="child"/>
+                </valList>
+              </attDef>
+              <attDef ident="congregation" mode="add">
+                <valList type="closed">
+                  <valItem ident="Herrnhut"/>
+                  <valItem ident="Bethlehem"/>
+                  <valItem ident="St. Thomas"/>
+                </valList>
+              </attDef>                   
+            </attList>
+          </elementSpec>
+                    
+                   
   <!-- add trait emotion -->
           <elementSpec ident="trait" module="namesdates" mode="change">
             <attList>
@@ -206,52 +196,7 @@
             </attList>
           </elementSpec>
 
-          <!-- delete lots of attributes -/->
-          <elementSpec ident="persName" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="calendar" mode="delete"/>
-              <attDef ident="when-iso" mode="delete"/>
-              <attDef ident="notBefore-iso" mode="delete"/>
-              <attDef ident="notAfter-iso" mode="delete"/>
-              <attDef ident="from-iso" mode="delete"/>
-              <attDef ident="to-iso" mode="delete"/>
-              <attDef ident="unit" mode="delete"/>
-              <attDef ident="quantity" mode="delete"/>
-              <attDef ident="extent" mode="delete"/>
-              <attDef ident="scope" mode="delete"/>
-              <attDef ident="source" mode="delete"/>
-            </attList>
-          </elementSpec> -->
           
-          <!-- delete lots of attributes -->
-          <elementSpec ident="placeName" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="calendar" mode="delete"/>
-              <attDef ident="when-iso" mode="delete"/>
-              <attDef ident="notBefore-iso" mode="delete"/>
-              <attDef ident="notAfter-iso" mode="delete"/>
-              <attDef ident="from-iso" mode="delete"/>
-              <attDef ident="to-iso" mode="delete"/>
-              <attDef ident="unit" mode="delete"/>
-              <attDef ident="quantity" mode="delete"/>
-              <attDef ident="extent" mode="delete"/>
-              <attDef ident="scope" mode="delete"/>
-              <attDef ident="source" mode="delete"/>
-            </attList>
-          </elementSpec>
-
-          <!-- delete lots of attributes -->
-          <elementSpec ident="settlement" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="calendar" mode="delete"/>
-              <attDef ident="when-iso" mode="delete"/>
-              <attDef ident="notBefore-iso" mode="delete"/>
-              <attDef ident="notAfter-iso" mode="delete"/>
-              <attDef ident="from-iso" mode="delete"/>
-              <attDef ident="to-iso" mode="delete"/>
-            </attList>
-          </elementSpec>
-
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete"/>
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete"/>
 
