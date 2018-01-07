@@ -65,6 +65,16 @@
             <p>The Life of Ann Krugelstein</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+      <listPrefixDef>
+         <prefixDef ident="pers" matchPattern="([A-Za-z0-9_-]+)"
+            replacementPattern="personography_test.xml#$1">
+            <p>Private URIs using the <code>pers</code> prefix are pointers to entities in the
+               personography_test.xml file. For example, <code>pers:#ML14417</code> dereferences to
+               <code>personography_test.xml#ML14417</code>, which is Zinzendorf.</p>
+         </prefixDef>
+      </listPrefixDef>
+      </encodingDesc>
    </teiHeader>
   <text>
       <body>
