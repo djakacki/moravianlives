@@ -363,7 +363,7 @@
                </person>
 
                <person>
-               <persName xml:id="ML14417">
+                  <persName xml:id="ML14417" sameAs="VIAF_22162960">
                   <reg>Count Nicolaus Ludwig Zinzendorf</reg>
                   <forename>Nicolaus</forename>
                   <forename>Ludwig</forename>
