@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-01-05T18:31:40Z. .
+Schema generated from ODD source 2018-01-08T19:36:40Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -432,62 +432,6 @@ Sample values include: 1] all; 2] most; 3] range</a:documentation>
       <ref name="att.datable.iso.attributes"/>
       <ref name="att.datable.attribute.calendar"/>
       <ref name="att.datable.attribute.period"/>
-   </define>
-   <define name="att.datable.attribute.when-custom">
-      <optional>
-         <attribute name="when-custom">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.notBefore-custom">
-      <optional>
-         <attribute name="notBefore-custom">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.notAfter-custom">
-      <optional>
-         <attribute name="notAfter-custom">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.from-custom">
-      <optional>
-         <attribute name="from-custom">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.to-custom">
-      <optional>
-         <attribute name="to-custom">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.datingPoint">
-      <optional>
-         <attribute name="datingPoint">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.datable.attribute.datingMethod">
-      <optional>
-         <attribute name="datingMethod">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
    </define>
    <define name="att.datable.attribute.calendar">
       <optional>
@@ -7479,23 +7423,6 @@ You must supply at least two values for @target on <name/>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
          <ref name="att.canonical.attributes"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-               <choice>
-                  <value>animal</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">name of a type of animal</a:documentation>
-                  <value>drink</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">name of a type of beverage</a:documentation>
-                  <value>food</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">name of a type of food</a:documentation>
-                  <value>clothing</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">name of an item of clothing</a:documentation>
-                  <value>other</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">another non-standard type of thing</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
          <empty/>
       </element>
    </define>
@@ -8206,44 +8133,9 @@ You must supply at least two values for @target on <name/>
       <element name="placeName">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains an absolute or relative place name. [13.2.3. Place Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
-         <ref name="att.datable.attribute.when-custom"/>
-         <ref name="att.datable.attribute.notBefore-custom"/>
-         <ref name="att.datable.attribute.notAfter-custom"/>
-         <ref name="att.datable.attribute.from-custom"/>
-         <ref name="att.datable.attribute.to-custom"/>
-         <ref name="att.datable.attribute.datingPoint"/>
-         <ref name="att.datable.attribute.datingMethod"/>
-         <ref name="att.datable.attribute.period"/>
-         <ref name="att.datable.w3c.attribute.when"/>
-         <ref name="att.datable.w3c.attribute.notBefore"/>
-         <ref name="att.datable.w3c.attribute.notAfter"/>
-         <ref name="att.datable.w3c.attribute.from"/>
-         <ref name="att.datable.w3c.attribute.to"/>
-         <ref name="att.editLike.attribute.instant"/>
-         <ref name="att.dimensions.attribute.precision"/>
-         <ref name="att.ranging.attribute.atLeast"/>
-         <ref name="att.ranging.attribute.atMost"/>
-         <ref name="att.ranging.attribute.min"/>
-         <ref name="att.ranging.attribute.max"/>
-         <ref name="att.ranging.attribute.confidence"/>
-         <ref name="att.global.attribute.xmlid"/>
-         <ref name="att.global.attribute.n"/>
-         <ref name="att.global.attribute.xmllang"/>
-         <ref name="att.global.attribute.xmlbase"/>
-         <ref name="att.global.attribute.xmlspace"/>
-         <ref name="att.global.rendition.attribute.rend"/>
-         <ref name="att.global.rendition.attribute.rendition"/>
-         <ref name="att.global.linking.attribute.corresp"/>
-         <ref name="att.global.linking.attribute.synch"/>
-         <ref name="att.global.linking.attribute.sameAs"/>
-         <ref name="att.global.linking.attribute.copyOf"/>
-         <ref name="att.global.linking.attribute.next"/>
-         <ref name="att.global.linking.attribute.prev"/>
-         <ref name="att.global.linking.attribute.exclude"/>
-         <ref name="att.global.linking.attribute.select"/>
-         <ref name="att.global.analytic.attribute.ana"/>
-         <ref name="att.global.responsibility.attribute.cert"/>
-         <ref name="att.global.responsibility.attribute.resp"/>
+         <ref name="att.datable.attributes"/>
+         <ref name="att.editLike.attributes"/>
+         <ref name="att.global.attributes"/>
          <ref name="att.personal.attributes"/>
          <ref name="att.typed.attributes"/>
          <empty/>
@@ -8300,19 +8192,7 @@ You must supply at least two values for @target on <name/>
          <ref name="att.global.attributes"/>
          <ref name="att.naming.attributes"/>
          <ref name="att.typed.attributes"/>
-         <ref name="att.datable.attribute.when-custom"/>
-         <ref name="att.datable.attribute.notBefore-custom"/>
-         <ref name="att.datable.attribute.notAfter-custom"/>
-         <ref name="att.datable.attribute.from-custom"/>
-         <ref name="att.datable.attribute.to-custom"/>
-         <ref name="att.datable.attribute.datingPoint"/>
-         <ref name="att.datable.attribute.datingMethod"/>
-         <ref name="att.datable.attribute.period"/>
-         <ref name="att.datable.w3c.attribute.when"/>
-         <ref name="att.datable.w3c.attribute.notBefore"/>
-         <ref name="att.datable.w3c.attribute.notAfter"/>
-         <ref name="att.datable.w3c.attribute.from"/>
-         <ref name="att.datable.w3c.attribute.to"/>
+         <ref name="att.datable.attributes"/>
          <empty/>
       </element>
    </define>
@@ -9421,6 +9301,8 @@ You must supply at least two values for @target on <name/>
                   <value>happy</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>depressed</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>fear</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                </choice>
             </attribute>

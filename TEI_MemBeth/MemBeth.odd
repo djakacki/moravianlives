@@ -191,6 +191,7 @@
                 <valList type="closed">
                   <valItem ident="happy"/>
                   <valItem ident="depressed"/>
+                  <valItem ident="fear"/>
                 </valList>
               </attDef>
             </attList>
