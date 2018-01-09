@@ -187,8 +187,8 @@
   <!-- add trait emotion -->
           <elementSpec ident="trait" module="namesdates" mode="change">
             <attList>
-              <attDef ident="emotion" mode="add">
-                <valList type="closed">
+              <attDef ident="emotion" mode="change">
+                <valList type="semi">
                   <valItem ident="happy"/>
                   <valItem ident="depressed"/>
                   <valItem ident="fear"/>
