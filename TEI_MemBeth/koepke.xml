@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Christian Koepke: Memoir
-               <lang>English</lang>
-            </title>               
+            <title>Christian Koepke: Memoir <lang>English</lang>
+            </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-               <orgName>Bucknell University</orgName>
+                  <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, PA USA</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
-               <orgName>University of Gothenburg</orgName>
+                  <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -58,269 +57,317 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-            </availability>               
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <p>The Life of Christian Koepke</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
 
 
-                 <div type="memoir">
-                    <pb n="1" ana=".10118.25660"/>
+         <div type="memoir">
+            <pb n="1" ana=".10118.25660"/>
             <figure n="0118-01">
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-01.jpg"/>
                <ab type="caption">Christian Koepke, page 1</ab>
             </figure>
-            
+
             <div n="para1">
                <p>
-                  <lb/>VI. The single <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Christian Koepke</persName>.
-                  <lb/>His own Account is as follows, viz:
-                  <lb/>I am born <date>1718 the 28</date><hi rend="superscript"><date>th</date></hi><date>. of Apr.</date> not far from <placeName>Polzin
-            in Hinter Pomeranie in the Village of Reinfeld</placeName>.
-                  <lb/>My Vater was a Tavern Keeper, &amp; brought me up
-                  <lb/>to pray &amp; go to <sic>Shool</sic>  <corr>School</corr>, by the <sic>Shoolmaster </sic> <corr>Schoolmaster</corr> &amp; Minister
-                  <lb/>there; but he never was contented with me because
-                  <lb/>I was not to govern &amp; lernt not much. In my 12<hi rend="superscript">th</hi>.
-                  <lb/>Year of Age my Vater <sic>dyed</sic>  <corr>died</corr>, from this Time I begun
-                  <lb/>to try every Vice &amp; at last came in all the Sins over
-                  <lb/>Head &amp; Heel, &amp; was thereby of good <sic>chear</sic>  <corr>cheer</corr>, except 
-                  <lb/>when I was alone I was afraid Gott would <sic>castise</sic> <corr>chastise </corr>
-                  <lb/>me, especially when it <sic>thunterd</sic>  <corr>thundered</corr> or hail'd.
-               </p>
+                  <lb/>VI. The single <persName>B</persName><hi rend="superscript"
+                        ><persName>r</persName></hi><persName>. Christian Koepke</persName>.
+                  <lb/>His own Account is as follows, viz: <lb/>I am born <date>1718 the
+                     28</date><hi rend="superscript"><date>th</date></hi><date>. of Apr.</date> not
+                  far from <placeName>Polzin in Hinter Pomeranie in the Village of
+                     Reinfeld</placeName>. <lb/>My Vater was a Tavern Keeper, &amp; brought me up
+                  <lb/>to pray &amp; go to <sic>Shool</sic>
+                  <corr>School</corr>, by the <sic>Shoolmaster </sic>
+                  <corr>Schoolmaster</corr> &amp; Minister <lb/>there; but he never was contented
+                  with me because <lb/>I was not to govern &amp; lernt not much. In my 12<hi
+                     rend="superscript">th</hi>. <lb/>Year of Age my Vater <sic>dyed</sic>
+                  <corr>died</corr>, from this Time I begun <lb/>to try every Vice &amp; at last
+                  came in all the Sins over <lb/>Head &amp; Heel, &amp; was thereby of good
+                     <sic>chear</sic>
+                  <corr>cheer</corr>, except <lb/>when I was alone I was afraid Gott would
+                     <sic>castise</sic>
+                  <corr>chastise </corr>
+                  <lb/>me, especially when it <sic>thunterd</sic>
+                  <corr>thundered</corr> or hail'd. </p>
             </div>
             <div n="para2">
-               <p>                   
-                  <lb/>As I was the first time to go to the Communion, I
-                  <lb/><sic>feeld</sic>  <corr>felt</corr> a certain shuttering but I did't know what
-                  <lb/><note type="catchword">it was</note>
-         
-         <cb />
-         
-                  <lb/>it was. My Mother put <add>me</add> out Apprentice to a <sic>Taylor</sic>  <corr>Tailor</corr>.
-                  <lb/>As <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1737.</date> my <sic>Apprenticship</sic>  <corr>Apprenticeship</corr> was expired, I <sic>travelled</sic>  <corr>traveled</corr>
-                  <lb/>to <placeName>Stargard</placeName>, where I the first of awakened People heard,
-                  <lb/>but did't take much Notice. In the same <add>Year</add> I went to
-         <placeName>Stettin</placeName> &amp; there came to work by a awakened Master.
+               <p>
+                  <lb/>As I was the first time to go to the Communion, I <lb/><sic>feeld</sic>
+                  <corr>felt</corr> a certain shuttering but I did't know what <lb/><note
+                     type="catchword">it was</note>
+                  <cb/>
+                  <lb/>it was. My Mother put <add>me</add> out Apprentice to a <sic>Taylor</sic>
+                  <corr>Tailor</corr>. <lb/>As <date>A</date><hi rend="superscript"
+                     ><date>o</date></hi><date>. 1737.</date> my <sic>Apprenticship</sic>
+                  <corr>Apprenticeship</corr> was expired, I <sic>travelled</sic>
+                  <corr>traveled</corr>
+                  <lb/>to <placeName>Stargard</placeName>, where I the first of awakened People
+                  heard, <lb/>but did't take much Notice. In the same <add>Year</add> I went to
+                     <placeName>Stettin</placeName> &amp; there came to work by a awakened Master.
                   <lb/>I asked my Master for <persName>Magister Schienmeier</persName>, of whom
-                  <lb/>I heard at <placeName>Staregard</placeName> that he tempted <sic>Poeple</sic>  <corr>People</corr>, I went
-                  <lb/>to hear him preach, my Master ask me how I <sic>licked</sic>  <corr>liked</corr>
-                  <lb/><persName>M</persName><hi rend="superscript"><persName>g</persName></hi><persName>. Shienm</persName><persName>äyer's</persName> Preaching? but I did't understand
-                  <lb/>it. My Master set afterwards several time in me
-                  <lb/>&amp; ask me Questions, as if I <sic>thinck</sic>  <corr>think</corr> myself to become 
-                  <lb/>happy by my <sic>Maner</sic>  <corr>Manner</corr> of living? I answerd boldly
-                  <lb/>My Vater <sic>dyed</sic>  <corr>died</corr> happy, why should not I.
-               </p>
+                  <lb/>I heard at <placeName>Staregard</placeName> that he tempted <sic>Poeple</sic>
+                  <corr>People</corr>, I went <lb/>to hear him preach, my Master ask me how I
+                     <sic>licked</sic>
+                  <corr>liked</corr>
+                  <lb/><persName>M</persName><hi rend="superscript"
+                     ><persName>g</persName></hi><persName>.
+                     Shienm</persName><persName>äyer's</persName> Preaching? but I did't understand
+                  <lb/>it. My Master set afterwards several time in me <lb/>&amp; ask me Questions,
+                  as if I <sic>thinck</sic>
+                  <corr>think</corr> myself to become <lb/>happy by my <sic>Maner</sic>
+                  <corr>Manner</corr> of living? I answerd boldly <lb/>My Vater <sic>dyed</sic>
+                  <corr>died</corr> happy, why should not I. </p>
             </div>
             <div n="para3">
                <p>
-                  <lb/>For all that he had still Hope &amp; by all Occasions
-                  <lb/>he said me some Thing of our Sav<hi rend="superscript">r</hi>. but I was so
-                  <lb/>dead <sic>licke</sic>  <corr>like</corr> a Stone &amp; did neither feel or under-
-                  <lb/>stand what he means. But as I once went to
-                  <lb/>Bed, it was to me, as if I saw our Saviour hanging
-                  <lb/>on the Cross, I <sic>wondert</sic>  <corr>wondered</corr> at it; I opened or shut
-                  <lb/>my Eyes, it was the same. As I told it my Master
-                  <lb/>th' other Day, he mildly declared: I should take seriously
-                  <lb/>to my Mind how <sic>gratiously</sic>  <corr>graciously</corr> our Sav<hi rend="superscript">r</hi>. was inclin'd
-                  <lb/>towards me, &amp; give my Heart to him. But
-                  <lb/>I understood as little as formerly &amp; proceedeth in
-                  <lb/>my own Way <sic>licke</sic> <corr>like</corr> before. At once I became so
-                  <lb/><note type="catchword">chearfull</note>
-
-                     <pb n="2" ana=".10118.25661"/>
-                     <figure n="0118-02">
-                        <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-02.jpg"/>
-                        <ab type="caption">Christian Koepke, page 2</ab>
-                     </figure>
-         
-                  <lb/><sic>chearfull</sic>  <corr>cheerful</corr> &amp; happy that I did't know what's become of
-                  <lb/>me, it was quite otherwise with me I had a blessed Time.
-                  <lb/>However this did't continue long, my Sins begun to draw
-                  <lb/>up against me, &amp; I could not keep more to the former
-                  <lb/>all was fainted away. I begun to <sic>thinck</sic>  <corr>think</corr> I had <sic>sined</sic>  <corr>sinned</corr>
-                  <lb/>against the Holy Ghost &amp; stood there &amp; said: Dear
-                  <lb/>Saviour bestow Mercy upon me &amp; forgive all my Sins!
-                  <lb/>directly my Heart was contented again. Soon after
-                  <lb/>I became acquainted w<hi rend="superscript">th</hi>. the Brethren there, but retired
-                  <lb/>soon after, because way One of 'em <sic>offendet</sic>  <corr>offended</corr> me, &amp; kept
-                  <lb/>to other awakened <sic>Poeple</sic>  <corr>People</corr> there. <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1740.</date> I <sic>sett</sic>  <corr>set</corr> out for
-                  <lb/><placeName>Copenhagen</placeName>, but before I went on Board, a Brother
-                  <lb/>advised me to keep to the Brethren at <placeName>Copenhagen</placeName>,
-                  <lb/>but I answerd: I had no Inclination, but says he:
-                  <lb/>run wherever you please, you never will escape our Sav<hi rend="superscript">r</hi>.
-                  <lb/>I thought by myself I'll take Care for the Brethren;
-                  <lb/>But scarcely I was arrived at <placeName>Copenhagen</placeName> I was aquainted
-                  <lb/>w<hi rend="superscript">th</hi>. a Brother. I kept back a long while, at last I
-                  <lb/>must go to them again, but found very little Comfort
-                  <lb/>w<hi rend="superscript">th</hi> . them, because I would not obey to our Saviour.
-               </p>
+                  <lb/>For all that he had still Hope &amp; by all Occasions <lb/>he said me some
+                  Thing of our Sav<hi rend="superscript">r</hi>. but I was so <lb/>dead
+                     <sic>licke</sic>
+                  <corr>like</corr> a Stone &amp; did neither feel or under- <lb/>stand what he
+                  means. But as I once went to <lb/>Bed, it was to me, as if I saw our Saviour
+                  hanging <lb/>on the Cross, I <sic>wondert</sic>
+                  <corr>wondered</corr> at it; I opened or shut <lb/>my Eyes, it was the same. As I
+                  told it my Master <lb/>th' other Day, he mildly declared: I should take seriously
+                  <lb/>to my Mind how <sic>gratiously</sic>
+                  <corr>graciously</corr> our Sav<hi rend="superscript">r</hi>. was inclin'd
+                  <lb/>towards me, &amp; give my Heart to him. But <lb/>I understood as little as
+                  formerly &amp; proceedeth in <lb/>my own Way <sic>licke</sic>
+                  <corr>like</corr> before. At once I became so <lb/><note type="catchword"
+                     >chearfull</note>
+                  <pb n="2" ana=".10118.25661"/>
+                  <figure n="0118-02">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-02.jpg"/>
+                     <ab type="caption">Christian Koepke, page 2</ab>
+                  </figure>
+                  <lb/><sic>chearfull</sic>
+                  <corr>cheerful</corr> &amp; happy that I did't know what's become of <lb/>me, it
+                  was quite otherwise with me I had a blessed Time. <lb/>However this did't continue
+                  long, my Sins begun to draw <lb/>up against me, &amp; I could not keep more to the
+                  former <lb/>all was fainted away. I begun to <sic>thinck</sic>
+                  <corr>think</corr> I had <sic>sined</sic>
+                  <corr>sinned</corr>
+                  <lb/>against the Holy Ghost &amp; stood there &amp; said: Dear <lb/>Saviour bestow
+                  Mercy upon me &amp; forgive all my Sins! <lb/>directly my Heart was contented
+                  again. Soon after <lb/>I became acquainted w<hi rend="superscript">th</hi>. the
+                  Brethren there, but retired <lb/>soon after, because way One of 'em
+                     <sic>offendet</sic>
+                  <corr>offended</corr> me, &amp; kept <lb/>to other awakened <sic>Poeple</sic>
+                  <corr>People</corr> there. <date>A</date><hi rend="superscript"
+                     ><date>o</date></hi><date>. 1740.</date> I <sic>sett</sic>
+                  <corr>set</corr> out for <lb/><placeName>Copenhagen</placeName>, but before I went
+                  on Board, a Brother <lb/>advised me to keep to the Brethren at
+                     <placeName>Copenhagen</placeName>, <lb/>but I answerd: I had no Inclination,
+                  but says he: <lb/>run wherever you please, you never will escape our Sav<hi
+                     rend="superscript">r</hi>. <lb/>I thought by myself I'll take Care for the
+                  Brethren; <lb/>But scarcely I was arrived at <placeName>Copenhagen</placeName> I
+                  was aquainted <lb/>w<hi rend="superscript">th</hi>. a Brother. I kept back a long
+                  while, at last I <lb/>must go to them again, but found very little Comfort
+                     <lb/>w<hi rend="superscript">th</hi> . them, because I would not obey to our
+                  Saviour. </p>
             </div>
             <div n="para4">
                <p>
-                  <lb/>I many Times wished, that our Saviour would let me
-                  <lb/>alone, &amp; intented how to get rid of the Brethren, but
-                  <lb/>could't afford it, then I had a Stimulation in my
-                  <lb/>Heart to go to the <sic>Congregution</sic>  <corr>Congregation</corr>, &amp; resisted &amp; could't
-                  <lb/>come to a Conclusion &amp; would't tell it because I 
-                  <lb/><note type="catchword">was</note>
-
+                  <lb/>I many Times wished, that our Saviour would let me <lb/>alone, &amp; intented
+                  how to get rid of the Brethren, but <lb/>could't afford it, then I had a
+                  Stimulation in my <lb/>Heart to go to the <sic>Congregution</sic>
+                  <corr>Congregation</corr>, &amp; resisted &amp; could't <lb/>come to a Conclusion
+                  &amp; would't tell it because I <lb/><note type="catchword">was</note>
                   <pb n="3" ana=".10118.25662"/>
                   <figure n="0118-03">
                      <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-03.jpg"/>
                      <ab type="caption">Christian Koepke, page 3</ab>
                   </figure>
-         
-                  <lb/>was afraid the Brethren would advise me to follow.
-                  <lb/>At last I took the Resolution &amp; set <sic>of</sic>  <corr>off</corr>.
+                  <lb/>was afraid the Brethren would advise me to follow. <lb/>At last I took the
+                  Resolution &amp; set <sic>of</sic>
+                  <corr>off</corr>. </p>
+            </div>
+            <div>
+               <p>
+                  <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1745. the
+                     17th. of July</date> I arriv<hi rend="underline"><hi rend="superscript"
+                     >d</hi></hi> at <placeName>Hhaag</placeName>, where it went <lb/>w<hi
+                     rend="superscript">th</hi>. me very well in the Begin. But afterwards as Sins
+                  <lb/>&amp; Iniquity begun to show their Dominion again, I <lb/>was quite disturbed
+                  in my <sic>chearful</sic>
+                  <corr>cheerful</corr> way, &amp; thought <lb/>within myself when I but were
+                  received under the <lb/><sic>Poeple</sic>
+                  <corr>People</corr> of God, then it would go better; and our Sav<hi
+                     rend="superscript">r</hi>. <lb/><sic>gratiously</sic>
+                  <corr>graciously</corr> consented to my Desire &amp; I was receivd <lb/><date>1746
+                     the 28</date><hi rend="superscript"><date>th</date></hi><date> of
+                  August</date>. from thence I begun w<hi rend="superscript">th</hi>. more <lb/>Hope
+                  &amp; <sic>cheafullness</sic>
+                  <corr>cheerfulness</corr> to prosecute my Aim. Thence <lb/>I came into the
+                  Seminary as <sic>Taylor</sic>
+                  <corr>Tailor</corr> at <placeName>Lindheim</placeName>, <lb/>&amp; <date>1747 the
+                     21</date><hi rend="superscript"><date>st</date></hi><date>. of April</date> our
+                  dear <sic>Seviour</sic>
+                  <corr>Saviour</corr>
+                  <sic>gratiously</sic>
+                  <corr>graciously</corr>
+                  <lb/>bestowed the Enjoyment of his holy Body &amp; Blood <lb/>on poor me. Here I
+                  got new Strength &amp; Grace by <lb/>his Blood to resist every that would divide
+                  me <lb/>&amp; my Redeemer, my Heart became easy &amp; I <lb/><sic>feeld</sic>
+                  <corr>felt</corr> the peace of God. <sic>Afterwarts</sic>
+                  <corr>Afterwards</corr> I must often feel <lb/>my <sic>unsinerlicke</sic>
+                  <corr>unsinnerlike</corr> &amp; Selfish Heart, because I did't <lb/>like to appear
+                  so poorly by my Brethren as I <sic>realy</sic>
+                  <corr>really</corr>
+                  <lb/><sic>feeld</sic>
+                  <corr>felt</corr> myself &amp; this brought me some Times in great <lb/><trait><label>Distress</label></trait>.
+                     <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1748</date> I
+                  moved w<hi rend="superscript">th</hi>. the Seminary from
+                     <lb/><placeName>Lindheim</placeName> to <placeName>Mborn</placeName>, there I
+                  had a blessed Period, <lb/>I could disclose my whole Heart before my Saviour,
+                  <lb/>&amp; had <sic>especialy</sic>
+                  <corr>especially</corr> many blessing when I was <sic>excomu-</sic>
+                  <corr>excommu-</corr>
+                  <lb/><note type="catchword">nicated</note>
+                  <pb n="4" ana=".10118.25663"/>
+                  <figure n="0118-04">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-04.jpg"/>
+                     <ab type="caption">Christian Koepke, page 4</ab>
+                  </figure>
+                  <lb/>nicated by a Choir-Communion, &amp; seekd &amp; found the <lb/>Fault in my
+                  own Heart; &amp; when I took myself for <lb/>not fit our Sav<hi rend="superscript"
+                     >r</hi>. <sic>allways</sic>
+                  <corr>always</corr> bestowed Mercy on mye &amp; I <lb/>got Leave to
+                     <sic>pertake</sic>
+                  <corr>partake</corr> on his holy Sacrament. <lb/><date>A</date><hi
+                     rend="superscript"><date>o</date></hi><date>. 1749.</date> The Proposition if I
+                  would go to <placeName>Hhuth</placeName> was <lb/>offered to me, which I willingly
+                  accepted &amp; arrived here <lb/>the <placeName>30</placeName><hi
+                     rend="superscript"><placeName>th</placeName></hi><placeName>. of
+                     November</placeName>. Here I had a happy Time for my <lb/>Heart, but many
+                  Schools with my Apprentices, which <lb/>caused <add>me</add> many melancholic
+                  Hour. <gap/> In the Year <lb/><date>1758</date>. <add>I had</add> a new &amp;
+                  happy Period for my Heart. I came <lb/>under they Hourly Intercessors &amp; the
+                  holy Ghost like <lb/>a true Mother <sic>signalysed</sic>
+                  <corr>signalized</corr> his Work this Year extra- <lb/>ordinary on my Heart, had I
+                  only been a obedient <lb/>Child! But here I remain in Debt! the <date>4</date><hi
+                     rend="superscript"><date>th</date></hi><date>. of May</date>
+                  <lb/>I was a Acoluth receiv<hi rend="superscript">d</hi>. His Nearness must me
+                  true! </p>
+            </div>
+            <div n="para5">
+               <p>
+                  <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1759</date>.
+                  I had w<hi rend="superscript">th</hi>. a certain <sic>Officir</sic>
+                  <corr>Officer</corr> much Conversation <lb/>because of my <sic>Bussiness</sic>
+                  <corr>Business</corr>, he was so rude &amp; brutal, that <lb/>I very often
+                     <sic>feeld</sic>
+                  <corr>felt</corr> my <sic>naturell</sic>
+                  <corr>natural</corr> Temper to resist, &amp; this <lb/>gave rise to many
+                     <sic>sinnerlicke</sic>
+                  <corr>sinnerlike</corr> Confessions before my Sav<hi rend="superscript">r</hi>.
+                  <lb/>I see by all <add><unclear>mgins</unclear></add> how deep, how very deep my
+                  Heart is marred <lb/>but for all that climb on my Redeemer as the only Hope
+                  <lb/>of my <sic>intire</sic>
+                  <corr>entire</corr> Recovery &amp; take my Refuge to his bloody <lb/>Wounds, &amp;
+                  there I say Lord have Mercy on me! <lb/>So far his own Words. <lb/>Every Body who
+                     <sic>knowd</sic>
+                  <corr>knew</corr> him can <sic>attast </sic>
+                  <corr>attest</corr> that he has <lb/>been a Heart in the <sic>Botom</sic>
+                  <corr>Bottom</corr> of his Heart attached to our <lb/><note type="catchword"
+                     >Saviour</note>
+                  <cb/>
+                  <lb/>Saviour &amp; his Church. He was a true Heart in his <lb/>Choir, &amp;
+                     <sic>knowed</sic>
+                  <corr>knew</corr> very well that his Heart was in a <lb/>tender
+                     <sic>Conexion</sic>
+                  <corr>Connection</corr> w<hi rend="superscript">th</hi>. our Saviour, &amp; that
+                  our Saviour <lb/>was contented w<hi rend="superscript">th</hi>. him; he was of a
+                  quick and hot <lb/>Temper, &amp; <sic>eomitted</sic>
+                  <corr>emitted</corr> by that Means a Fault in a hurry <lb/>but soon recoverd
+                  himself &amp; sincerly beggd forgiveness <lb/>&amp; was very <sic>Griefed</sic>
+                  <corr>Grieved</corr> about before our Sav<hi rend="superscript">r</hi>. Since
+                  <lb/>3. Year he was a blessed Labourer in his Choir. This <lb/>Year was a Year of
+                  Happiness to him, all Festivals of <lb/>the Congregation was a real Blessing for
+                  his Heart. <lb/>About his last Birth-Day the <date>28</date><hi rend="superscript"
+                        ><date>th</date></hi><date>. of Apr.</date> he expressd <lb/>himself also:
+                  he formerly did <sic>belief </sic>
+                  <corr>believe</corr> there was more reason <lb/>on such Days to be ashamed as to
+                     <sic>rejoyce</sic>
+                  <corr>rejoice</corr> so very <lb/>much; but to Day he could <sic>rejoyce</sic>
+                  <corr>rejoice</corr> from all his <lb/>Heart, because our Saviour has been
+                  extraordinary near <lb/>to Him. <date>Last Sunday</date> as he took a Walk with a
+                  <lb/>Brother he <sic>feeld</sic>
+                  <corr>felt</corr> himself so frosty &amp; said: I believe <lb/>I have a heavy
+                  Sickness to expect, &amp; may be our Sav<hi rend="superscript">r</hi>. <lb/>will
+                  take me to himself; only was this Wish that <lb/>he not <del rend="strikethrough"
+                     >about</del>
+                  <add>over</add> 4 Days must lay sick. This Wish our <lb/>Sav<hi rend="superscript"
+                     >r</hi>. granted <sic>punctualy</sic>
+                  <corr>punctually</corr> to him; Then as he th' other <lb/>was taken sick by a
+                     <sic>Pleuresie</sic>
+                  <corr>Pleurisy</corr>, then his Presumption <lb/>took Place that our Sav<hi
+                     rend="superscript">r</hi>. would take him. By his <lb/><sic>extream</sic>
+                  <corr>extreme</corr> Pain, he was as still &amp; patient like a Lamb. <lb/>The
+                     4<hi rend="superscript">th</hi>. Day <del rend="strikethrough">of</del> his
+                  Sickness obstructed his Breast &amp; <lb/>made the expectoration very difficult
+                  for all that <lb/>he remaineth alive &amp; nimble according to his Disposition
+                     <lb/><note type="catchword">to the</note>
+                  <pb n="5" ana=".10118.25664"/>
+                  <figure n="0118-05">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-05.jpg"/>
+                     <ab type="caption">Christian Koepke, page 5</ab>
+                  </figure>
+                  <lb/>to the last Hour. He was very much <sic>rejoyced</sic>
+                  <corr>rejoiced</corr> about <lb/>the pretty Feats in the Congregation on the <del
+                     rend="strikethrough">Accensions-</del>
+                  <lb/><date>Day of our Saviours
+                     </date><sic><date>Accension</date></sic><date
+                        > </date><corr><date>Ascension</date></corr><date> to Heaven</date>. And
+                  upon <lb/>inquiring: if he would not <sic>accend</sic>
+                  <corr>ascend</corr> to Day to Heaven? <lb/>O said he: that would be a Pleasure to
+                  me! </p>
+            </div>
+            <div n="para6">
+               <p>
+                  <lb/>In the following Night as the <date>13</date><hi rend="superscript"
+                        ><date>th</date></hi><date> of May at one
+                     </date><sic><date>a</date></sic><date
+                     > </date><corr><date>o'</date></corr><date> Clock</date>
+                  <lb/>he begun with a loud Voice to pray to our Sav<hi rend="superscript">r</hi>: O
+                  dear <lb/>Saviour what has thou done for poor me! thyne <sic>Suffrings</sic>
+                  <corr>Sufferings</corr>, <lb/>thine Wounds, thine Death &amp; Punishment! O my
+                  best <lb/>most <add>dear</add> &amp; good Heart! O how will I kiss thine feet
+                  &amp; Hands. </p>
+            </div>
+            <div n="para7">
+               <p>
+                  <lb/>O come soon! soon! Then he begun to sing: <hi rend="underline">Deime
+                     <lb/>Marter, Angst &amp; Stich, o Herr Jesus trösten mich! <lb/>O!
+                        <sic>myn</sic>
+                     <corr>mein</corr> trauter Herre, gib mir nur was du ver- <lb/><sic>dint</sic>
+                     <corr>deint</corr> mehr ich nicht begehre</hi>!<gap/> O thou Lamb of <lb/>God,
+                  have Mercy upon me! O so he continued to sing <lb/>&amp; pray till about half a
+                  Hour before he departed. <lb/>They offered him some <sic>Medicin</sic>
+                  <corr>Medicine</corr>, but he <sic>denyed</sic>
+                  <corr>denied</corr> it <lb/>saying: Now I need no more, soon will I be w<hi
+                     rend="superscript">th</hi>
+                  <lb/>our dear Saviour! Then the 12 hourly <unclear>ratting</unclear>
+                  <lb/>begun to cease &amp; all the Signs of his <sic>Desolution</sic>
+                  <corr>Dissolution</corr>
+                  <lb/>appeareth. He receiv<hi rend="superscript">d</hi>. the Blessing of his Choir
+                  &amp; the <lb/>Congregation &amp; by them Words: <hi rend="underline">Da dein Mund
+                     will er- bleichen</hi> he expird, in the Morning at 3 <sic>aClock</sic>
+                  <corr>o' Clock</corr>, <lb/>&amp; his happy Soul <sic>accended</sic>
+                  <corr>ascended</corr> in the Arms of his <lb/><unclear>Braudigroom</unclear> in
+                  the 46<hi rend="superscript">th</hi>. Year of his Age. <lb/><note type="catchword"
+                        ><date>May 27 1765</date></note>
                </p>
             </div>
-         <div>
-            <p>
-               <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1745. the 17th. of July</date> I arriv<hi rend="underline"><hi rend="superscript">d</hi></hi> at <placeName>Hhaag</placeName>, where it went
-               <lb/>w<hi rend="superscript">th</hi>. me very well in the Begin. But afterwards as Sins
-               <lb/>&amp; Iniquity begun to show their Dominion again, I
-               <lb/>was quite disturbed in my <sic>chearful</sic>  <corr>cheerful</corr> way, &amp; thought
-               <lb/>within myself when I but were received under the
-               <lb/><sic>Poeple</sic>  <corr>People</corr> of God, then it would go better; and our Sav<hi rend="superscript">r</hi>.
-               <lb/><sic>gratiously</sic>  <corr>graciously</corr> consented to my Desire &amp; I was receivd
-               <lb/><date>1746 the 28</date><hi rend="superscript"><date>th</date></hi><date> of August</date>. from thence I begun w<hi rend="superscript">th</hi>. more
-               <lb/>Hope &amp; <sic>cheafullness</sic>  <corr>cheerfulness</corr> to prosecute my Aim. Thence
-               <lb/>I came into the Seminary as <sic>Taylor</sic>  <corr>Tailor</corr> at <placeName>Lindheim</placeName>,
-               <lb/>&amp; <date>1747 the 21</date><hi rend="superscript"><date>st</date></hi><date>. of April</date> our dear <sic>Seviour</sic>  <corr>Saviour</corr> <sic>gratiously</sic>  <corr>graciously</corr>
-               <lb/>bestowed the Enjoyment of his holy Body &amp; Blood
-               <lb/>on poor me. Here I got new Strength &amp; Grace by
-               <lb/>his Blood to resist every that would divide me
-               <lb/>&amp; my Redeemer, my Heart became easy &amp; I
-               <lb/><sic>feeld</sic>  <corr>felt</corr> the peace of God. <sic>Afterwarts</sic>  <corr>Afterwards</corr> I must often feel
-               <lb/>my <sic>unsinerlicke</sic>  <corr>unsinnerlike</corr> &amp; Selfish Heart, because I did't
-               <lb/>like to appear so poorly by my Brethren as I <sic>realy</sic>  <corr>really</corr>
-               <lb/><sic>feeld</sic>  <corr>felt</corr> myself &amp; this brought me some Times in great
-               <lb/>Distress. <date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1748</date> I moved w<hi rend="superscript">th</hi>. the Seminary from
-               <lb/><placeName>Lindheim</placeName> to <placeName>Mborn</placeName>, there I had a blessed Period,
-               <lb/>I could disclose my whole Heart before my Saviour,
-               <lb/>&amp; had <sic>especialy</sic>  <corr>especially</corr> many blessing when I was <sic>excomu-</sic>  <corr>excommu-</corr>
-               <lb/><note type="catchword">nicated</note>
-
-               <pb n="4" ana=".10118.25663"/>
-               <figure n="0118-04">
-                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-04.jpg"/>
-                  <ab type="caption">Christian Koepke, page 4</ab>
-               </figure>
-               
-         
-               <lb/>nicated by a Choir-Communion, &amp; seekd &amp; found the
-               <lb/>Fault in my own Heart; &amp; when I took myself for
-               <lb/>not fit our Sav<hi rend="superscript">r</hi>. <sic>allways</sic>  <corr>always</corr> bestowed Mercy on mye &amp; I 
-               <lb/>got Leave to <sic>pertake</sic>  <corr>partake</corr> on his holy Sacrament.
-               <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1749.</date> The Proposition if I would go to <placeName>Hhuth</placeName> was
-               <lb/>offered to me, which I willingly accepted &amp; arrived here
-               <lb/>the <placeName>30</placeName><hi rend="superscript"><placeName>th</placeName></hi><placeName>. of November</placeName>. Here I had a happy Time for my
-               <lb/>Heart, but many Schools with my Apprentices, which
-               <lb/>caused <add>me</add> many melancholic Hour. <gap></gap> In the Year
-               <lb/><date>1758</date>. <add>I had</add> a new &amp; happy Period for my Heart. I came
-               <lb/>under they Hourly Intercessors &amp; the holy Ghost like
-               <lb/>a true Mother <sic>signalysed</sic>  <corr>signalized</corr> his Work this Year extra-
-               <lb/>ordinary on my Heart, had I only been a obedient
-               <lb/>Child! But here I remain in Debt! the <date>4</date><hi rend="superscript"><date>th</date></hi><date>. of May</date>
-               <lb/>I was a Acoluth receiv<hi rend="superscript">d</hi>. His Nearness must me true!
-            </p>
          </div>
-                    <div n="para5">
-                       <p>
-                          <lb/><date>A</date><hi rend="superscript"><date>o</date></hi><date>. 1759</date>. I had w<hi rend="superscript">th</hi>. a certain <sic>Officir</sic>  <corr>Officer</corr> much Conversation
-                          <lb/>because of my <sic>Bussiness</sic>  <corr>Business</corr>, he was so rude &amp; brutal, that
-                          <lb/>I very often <sic>feeld</sic>  <corr>felt</corr> my <sic>naturell</sic>  <corr>natural</corr> Temper to resist, &amp; this
-                          <lb/>gave rise to many <sic>sinnerlicke</sic>  <corr>sinnerlike</corr> Confessions before my Sav<hi rend="superscript">r</hi>. 
-                          <lb/>I see by all <add><unclear>mgins</unclear></add> how deep, how very deep my Heart is marred
-                          <lb/>but for all that climb on my Redeemer as the only Hope
-                          <lb/>of my <sic>intire</sic>  <corr>entire</corr> Recovery &amp; take my Refuge to his bloody
-                          <lb/>Wounds, &amp; there I say Lord have Mercy on me!
-                          <lb/>So far his own Words.
-                          <lb/>Every Body who <sic>knowd</sic>  <corr>knew</corr> him can <sic>attast </sic> <corr>attest</corr> that he has 
-                          <lb/>been a Heart in the <sic>Botom</sic>  <corr>Bottom</corr> of his Heart attached to our 
-                          <lb/><note type="catchword">Saviour</note>
-         
-         <cb />
-         
-                          <lb/>Saviour &amp; his Church. He was a true Heart in his
-                          <lb/>Choir, &amp; <sic>knowed</sic>  <corr>knew</corr> very well that his Heart was in a 
-                          <lb/>tender <sic>Conexion</sic>  <corr>Connection</corr> w<hi rend="superscript">th</hi>. our Saviour, &amp; that our Saviour
-                          <lb/>was contented w<hi rend="superscript">th</hi>. him; he was of a quick and hot
-                          <lb/>Temper, &amp; <sic>eomitted</sic>  <corr>emitted</corr> by that Means a Fault in a hurry
-                          <lb/>but soon recoverd himself &amp; sincerly beggd forgiveness
-                          <lb/>&amp; was very <sic>Griefed</sic>  <corr>Grieved</corr> about before our Sav<hi rend="superscript">r</hi>. Since 
-                          <lb/>3. Year he was a blessed Labourer in his Choir. This
-                          <lb/>Year was a Year of Happiness to him, all Festivals of
-                          <lb/>the Congregation was a real Blessing for his Heart.
-                          <lb/>About his last Birth-Day the <date>28</date><hi rend="superscript"><date>th</date></hi><date>. of Apr.</date> he expressd
-                          <lb/>himself also: he formerly did <sic>belief </sic> <corr>believe</corr> there was more reason
-                          <lb/>on such Days to be ashamed as to <sic>rejoyce</sic>  <corr>rejoice</corr> so very
-                          <lb/>much; but to Day he could <sic>rejoyce</sic>  <corr>rejoice</corr> from all his
-                          <lb/>Heart, because our Saviour has been extraordinary near
-                          <lb/>to Him. <date>Last Sunday</date> as he took a Walk with a
-                          <lb/>Brother he <sic>feeld</sic>  <corr>felt</corr> himself so frosty &amp; said: I believe 
-                          <lb/>I have a heavy Sickness to expect, &amp; may be our Sav<hi rend="superscript">r</hi>.
-                          <lb/>will take me to himself; only was this Wish that
-                          <lb/>he not <del rend="strikethrough">about</del> <add>over</add> 4 Days must lay sick. This Wish our
-                          <lb/>Sav<hi rend="superscript">r</hi>. granted <sic>punctualy</sic>  <corr>punctually</corr> to him; Then as he th' other
-                          <lb/>was taken sick by a <sic>Pleuresie</sic>  <corr>Pleurisy</corr>, then his Presumption
-                          <lb/>took Place that our Sav<hi rend="superscript">r</hi>. would take him. By his
-                          <lb/><sic>extream</sic>  <corr>extreme</corr> Pain, he was as still &amp; patient like a Lamb.
-                          <lb/>The 4<hi rend="superscript">th</hi>. Day <del rend="strikethrough">of</del> his Sickness obstructed his Breast &amp;
-                          <lb/>made the expectoration very difficult for all that
-                          <lb/>he remaineth alive &amp; nimble according to his Disposition
-                          <lb/><note type="catchword">to the</note>
-
-                          <pb n="5" ana=".10118.25664"/>
-                          <figure n="0118-05">
-                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0118-05.jpg"/>
-                             <ab type="caption">Christian Koepke, page 5</ab>
-                          </figure>
-         
-                          <lb/>to the last Hour. He was very much <sic>rejoyced</sic>  <corr>rejoiced</corr> about
-                          <lb/>the pretty Feats in the Congregation on the <del rend="strikethrough">Accensions-</del>
-                          <lb/><date>Day of our Saviours </date><sic><date>Accension</date></sic><date>  </date><corr><date>Ascension</date></corr><date> to Heaven</date>. And upon
-                          <lb/>inquiring: if he would not <sic>accend</sic>  <corr>ascend</corr> to Day to Heaven?
-                          <lb/>O said he: that would be a Pleasure to me!
-                       </p>
-                    </div>
-                    <div n="para6">
-                       <p>
-                          <lb/>In the following Night as the <date>13</date><hi rend="superscript"><date>th</date></hi><date> of May at one </date><sic><date>a</date></sic><date>  </date><corr><date>o'</date></corr><date> Clock</date>
-                          <lb/>he begun with a loud Voice to pray to our Sav<hi rend="superscript">r</hi>: O dear
-                          <lb/>Saviour what has thou done for poor me! thyne <sic>Suffrings</sic>  <corr>Sufferings</corr>,
-                          <lb/>thine Wounds, thine Death &amp; Punishment! O my best
-                          <lb/>most <add>dear</add> &amp; good Heart! O how will I kiss thine feet &amp; Hands.
-                       </p>
-                    </div>
-                    <div n="para7">
-                       <p>
-                          <lb/>O come soon! soon! Then he begun to sing: <hi rend="underline">Deime 
-                             <lb/>Marter, Angst &amp; Stich, o Herr Jesus trösten mich!
-                             <lb/>O! <sic>myn</sic>  <corr>mein</corr> trauter Herre, gib mir nur was du ver-
-                             <lb/><sic>dint</sic>  <corr>deint</corr> mehr ich nicht begehre</hi>!<gap></gap> O thou Lamb of 
-                          <lb/>God, have Mercy upon me! O so he continued to sing
-                          <lb/>&amp; pray till about half a Hour before he departed.
-                          <lb/>They offered him some <sic>Medicin</sic>  <corr>Medicine</corr>, but he <sic>denyed</sic>  <corr>denied</corr> it
-                          <lb/>saying: Now I need no more, soon will I be w<hi rend="superscript">th</hi>
-                          <lb/>our dear Saviour! Then the 12 hourly <unclear>ratting</unclear>
-                          <lb/>begun to cease &amp; all the Signs of his <sic>Desolution</sic>  <corr>Dissolution</corr>
-                          <lb/>appeareth. He receiv<hi rend="superscript">d</hi>. the Blessing of his Choir &amp; the
-                          <lb/>Congregation &amp; by them Words: <hi rend="underline">Da dein Mund will er-
-            bleichen</hi>  he expird, in the Morning at 3 <sic>aClock</sic>   <corr>o' Clock</corr>,
-                          <lb/>&amp; his happy Soul <sic>accended</sic>  <corr>ascended</corr> in the Arms of his
-                          <lb/><unclear>Braudigroom</unclear> in the 46<hi rend="superscript">th</hi>. Year of his Age. 
-         
-                          <lb/><note type="catchword"><date>May 27 1765</date></note>
-                       </p>
-                    </div>
-                 </div>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -188,15 +188,14 @@
           <elementSpec ident="trait" module="namesdates" mode="change">
             <attList>
               <attDef ident="emotion" mode="change">
-                <valList type="semi">
+                <valList mode="add" type="closed">
                   <valItem ident="happy"/>
                   <valItem ident="depressed"/>
                   <valItem ident="fear"/>
                 </valList>
               </attDef>
             </attList>
-          </elementSpec>
-
+          </elementSpec>          
           
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete"/>
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete"/>
