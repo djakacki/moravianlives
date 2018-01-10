@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -122,11 +122,11 @@
                      <ab type="caption">Ann Krugelstein, Page 2</ab>
                   </figure>
                   <lb/>me upon this Occasion into a particular School , stirred
-                  <lb/>up in my a Confidence to God, so that I could converse
+                  <lb/>up in my a <trait> emotion="happy">Confidence to God</trait></p>, so that I could converse
                   <lb/>with him quite familiarly, &amp; preserved me in many Dan, 
                   <lb/>gers from Deviations, giving me an Admonition when 
                   <lb/>I was not on the right Track. He at the same time wrought 
-                  <lb/>in me a Fear of falling into Sin, and granted me the 
+                  <lb/>in me a <trait> emotion="fear">Fear of falling into Sin</trait>, and granted me the 
                   <lb/>Grace to speak uprightly with my Parents about every
                   <lb/>Thing. By which means I escaped many Temptations
                   <lb/>of the Enemy of my Soul.</p>
