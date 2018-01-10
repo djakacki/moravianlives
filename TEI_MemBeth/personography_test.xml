@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/Users/dianejakacki/Documents/GitHub/moravianlives/TEI_MemBeth/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -242,8 +242,19 @@
                </person>
                
                <person>
-                  <persName xml:id="ML12797">Johann Frederiech Krügelstein</persName>
-                  <note>David and Ann's son - born 1747-1776</note>
+                  <persName xml:id="ML12797">
+                     <reg>Johann Frederiech Krügelstein</reg>
+                     <forename>Johann</forename>
+                     <addName>Friederich</addName>
+                     <surname>Krügelstein</surname>                    
+                  </persName>
+                  <birth>
+                     <date when-iso="1747">1747</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1776">1776</date>
+                  </death>                                    
+                  <note>David and Ann's son</note>
                </person>
                
                <person>
