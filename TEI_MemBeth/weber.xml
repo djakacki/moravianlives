@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="file:/Users/dianejakacki/Documents/GitHub/moravianlives/TEI_MemBeth/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gertrude Weber: Memoir
+               <lang>German</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Gertrude Weber</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+<div type="memoir">
+   <pb n="1" ana=".10246.26205"/>
+            <figure n="246-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-01.jpg"/>
+               <ab type="caption">Gertrude Weber, Page 1</ab>
+            </figure>
+            
+            <div type="para" n="1">
+            <p>
+               <hi rend="underline">den <date>16ten</date></hi><date> Februar</date> ging im <orgName>Wittwen Hause</orgName> <hi rend="underline">die <persName>Schwester Gertraud Weberin</persName></hi>, <persName>geb. Bibighausin</persName>, heim. Sie war anno <date>1710 den 11ten November </date>in einem Dorfe <placeName>Woshausen</placeName> genannt, in der <placeName>Grafschaft Witgenstein</placeName> geboren, und in der Reformierten Religion erzogen. Sie genoß von ihren Eltern eine sorgfältige Erziehung; sonderlich pflegte ihr Vater alle Morgen mit ihr alleine zu beten; da ihr denn einmal, als sie 7 Jahr alt war, währendem Gebet der Heiland in seiner Leidensgestalt erschien. Sie zerfloß darüber in Thränen, und fragte ihren Vater, obs nicht möglich wäre, den zu sehen, der so viel für sie ausgestanden, welcher sie denn damit befriedigte, daß der Heiland versprochen habe wieder zu kommen, und uns zu sich zu nehmen; da wir denn bey Ihm seyn würden allezeit. Als sie 20 Jahr alt war, muste sie zu der Herrschaft in Dienste. Hier fing die Welt an, Vor welcher sie ihr Vater so sorgfältig bewahrt hatte, ihr zu gefallen, und die Sünde arge zu werden; doch hütete sie sich wegen der in ihrem Herzen entstehenden Unruhe vor dem sündlichen Ausbrüchen. Anno <date>1733 </date>heirathete sie ihren seligen Mann <persName>Johannes Weber</persName>, mit welchem sie 8 Kinder erzeuget; eins derselben war die in <placeName>St Thomas</placeName> heimgegangene <persName>Schwester Friedemannin</persName>; Eine andere aber ihrer Töchter ist die darmalige <persName>Schwester Angermannin</persName> in <placeName>Barbados</placeName>. Weil nach ihrer Verheirathung ihr Kummer ums selig werden noch immer anhielt, so suchte sie mit frommen Leuten, sonderlich mit den <orgName>Schwarzenauern</orgName> Bekanntschaft, welche leztere ihr und ihrem Mann anriethen nach <placeName>Pensylvanien</placeName> zu gehen, als woselbst Religionsfreyheit wäre. Sie entschloßen sich diesem Rath zu folgen, u. sich ganz in der Stille fortzumachen, wurden aber Verrathen, und ins Gefängniß gesezt, und zwar jedes alleine, auch ihre 3 kleinen Kinder ihnen weggenommen, und fremden Leuten übergeben. Nachdem sie einzeln verhört worden, keines aber die Vorgehabte Reise zugestanden hatte, wurden sie wieder auf freyen Fuß gestellt. Allein als sich ihr Mann, welcher herrschaftlicher Bierbrauer war, der Herrschaft ferner zu dienen weigerte, musten sie den Ort räumen, und das ihrige mit dem Rücken ansehen. Sie begaben sich dannach mit ihren Kindern auf die Reise nach <placeName>America</placeName>, trafen auch sogleich in <placeName>Rotterdam </placeName>ein Schif an, das nach <placeName>Pensilvanien</placeName> gehen solte, auf der See aber seinen Cours änderte, u. im <placeName>Maryland </placeName>landete. Sie suchten so gleich ihren Bruder <persName>Georg Bibighausen</persName> auf, welcher sich zu
+               <note type="catchword">den</note>
+
+               <pb n="2" ana=".10246.26206"/>
+               <figure n="246-02">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-02.jpg"/>
+                  <ab type="caption">Gertrude Weber, Page 2</ab>
+               </figure>
+
+ den Geschwistern in <placeName>Muddy-Creek</placeName> hielt. Dieser holte sie mit seinem Wagen dahin ab, und sie wurden bald in die <orgName>Gemeine </orgName>daselbst aufgenommen, und zum Heiligen Abendmahl admittirt. Von hier zogen sie in die <orgName>oeconomie </orgName>nach <placeName>Friedrichstown</placeName> woselbst aber ihr Mann anno <date>1750</date> zum Heiland gieng. Sie kam so dann nach <placeName>Oley</placeName>, und auf erhaltene Erlaubniß anno <date>1755</date> nach <placeName>Nazareth</placeName>, und wurde hieselbst in der <orgName>Nurserie </orgName>gebraucht. Seit anno <date>1763 </date>aber hat sie hier in <placeName>Bethelehm </placeName>gewohnt, und ihren Sabbath in einem sünderhaft seligen Umgang mit dem Heiland verbracht. Ihres <persName>Sohnes </persName>weggehen von der <orgName>Gemeine </orgName>im vorigen Jahr zog sie sich dergestalt zu Gemüthe, daß ihre ohnedem schwache Hütte von der Zeit an immer schwächer, und sie endlich im <date>December </date>ganz bettlägerig wurde. Sie war unter allen Schmerzen sehr geduldig, und dabei voller Freude über die nahe Hofnung ihrer Auflösung, welche denn auch heute erfolgte im 66ten Jahre ihres Alters.
+               
+               <pb n="3" ana=".10246.26208"/>
+               <figure n="246-03">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-03.jpg"/>
+                  <ab type="caption">Gertrude Weber, Page 3</ab>
+               </figure>
+<!-- no text transcribed -->   
+               
+               <pb n="4" ana=".10246.26209"/>
+               <figure n="246-04">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-04.jpg"/>
+                  <ab type="caption">Gertrude Weber, Page 4</ab>
+               </figure>
+               
+               <hi rend="underline">Personalien der seligen heimgegangenen Schwester <persName>Gertraut Weberin</persName>.</hi>
+               Unsere selige Schwester <persName>Gertraut Weberin</persName> geb. Bibighaus ward geboren <date>1710 den 11. November</date> in der <placeName>Grafschaft Wigenstein</placeName> in dem Dort <placeName>Abeshausen</placeName> und in der Reformirten Religion erzogen. sie ist von ihren Eltern und in sonderheit von ihrem Vater (welcher sie vor ihren andern Geschwistern sehr lieb hatte) zu allem guten angehalten worden. Er betete alle Morgen mit ihr alleine, da sie 7 Jahr alt war betete Er ein mal mit ihr, da erschien ihr der liebe Heiland in seiner Marter gestalt, ihr Herz zerfloß in Thränen sie fragte ihren Vater ob es den nicht mögliche wäre den zu sehn der so viel für sie ausgestanden hätte Er sagte ihr aber mit leiblichen Augen konnen wir Ihn nicht sehn, Er hat aber seinen Jüngern versprochen wieder zu kommen, und wenn daß geschehn wird so werden wir mit Ihm gehn und bey Ihm seyn allezeit Da sie 12. Jahr alt war wurde sie zum heiligen Abendmal preparirt nach geschehener preparation ging sie zum heiligen abendmal zum bleibenden Segen für ihr Herz da sie 20. Jahr alt war muste sie in Diensten zu der Herrschaft, da grigte sie die Welt lieb wo vor sie ihr frommer Vater bewahrt hatte die Sünde wurde arge bey ihr weill sie aber nicht ruhig dabey war so hüttete sie sich daß es nicht zum ausbruch bey ihr kam <date>1733</date>. Heuratete sie ihren seligen Mann <persName>Johannes Weber</persName>. Sie hat 8. Kinder geboren davon leben noch 4. und 6. Enckel hat sie erlebt. weill sie immer
+
+ 
+
+               <pb n="5" ana=".10246.26210"/>
+               <figure n="246-05">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-05.jpg"/>
+                  <ab type="caption">Gertrude Weber, Page 5</ab>
+               </figure>
+unruhig und um ihre Seligkeit bekümmert war, so suchte sie sich auch zu frommen Leuten zu halten sie wurde mit den <orgName>Schwarzenauern </orgName>bekant die rieten ihr und ihrem seligen Mann nach <placeName>america </placeName>zu gehn da wäre Religionsfreyheit. sie Resolvirten sich auch dazu sie wollten sich in der stille fort machen, sie wurden aber verrathen, sie wurden, u. ins Gefängniß gesezt. und zwar ein jedes alleine ihre 3. kleinen Kinder wurden ihnen weggenommen und zu fremden Leuten gethan, sie wurden ein jedes apart verhört es gestand es aber keines von ihnen zu daß sie hätten wollen fort gehn so wurden sie wieder loßgelaßen. ihr Mann welcher herrschaftlicher Bierbrauer war, wegerte sich aber wieder in Diensten zu gehn, daß machte daß sie den ort reimen musten, und meistens daß ihrige verlaßen musten dadurch wurden sie ziemlich in die Armuth versezt. sie begaben sich dann auf die Reise nach <placeName>america</placeName>. in <placeName>Rotterdam</placeName> gingen sie auf ein Schif daß nach <placeName>Philadelphia </placeName>gehn wolte, wie sie aber auf der See waren so resolvirte sich der <persName>Capitan </persName>in <placeName>Mayriland </placeName>zu landen welches unsere selige Schwester immer als eine aparte provitenz des lieben Heilands für sie und ihre Familie angesehn hat. Denn wären sie nach <placeName>Philadelphia </placeName>gekommen so waren sie nicht so bald zu den Geschwistern gekommen. so bald sie ans Land kamen suchte ihr Mann ihren Bruder <persName>Georg Bibighausen</persName> welcher schon vor ihr in daß Land gegangen und unter den Geschwistern in <placeName>Modekreek </placeName>war auf, der holte sie mit seinem
+               Wagen vom Schief ab und brachte sie nach <placeName>Modekreek </placeName>da wurden sie gleich mit den Geschwistern bekant. sie wurde auch balde in die <orgName>Gemeine </orgName>aufgenommen und zum Heiligen Abendmal atmitirt. wie die <orgName>Gemeine </orgName>da auseinander ging kamen sie nach <placeName>Friedrichsthaun</placeName>. in dortige <orgName>Oconomie</orgName>. 1750 ging ihr Mann zum lieben Heiland. sie bat sichs aus nach <placeName>Bethlehem </placeName>zu kommen grigte aber nicht erlaubniß sie zog mit ihren 2. Kindern die sie noch bey sich hatte nach <placeName>Oly</placeName>, sie ließ aber nicht nach zu bitten daß man sie in die <orgName>Gemeine </orgName>nehmen möchte sie grigte dann erlaubniß im <date>Mey 1755</date> nach <placeName>Nazareth </placeName>zu den <orgName>Witwen </orgName>zu ziehn. sie war froh und dankbar denn sie hatte mancherley erfahren doch ihr Herz hat immer feste am Heiland und der <orgName>Gemeine </orgName>gehangen, in <placeName>Nazareth</placeName>. wurde sie in der <orgName>Norserie</orgName> gebraucht sie welches sie mit aller freue versorgte <date>1763</date>. kam sie hier her. nach <placeName>Bethlehem </placeName>und Diente auch hier den Geschwistern mit allertreue so lange, bis sie Schwachheit halber nicht mehr konte. sie bezog <date>1768</date>. mit in daß neue <orgName>Chorhaus</orgName>. und verbrachte ihren Sabbath im Umgang mit dem lieben Heiland sie versäumte nicht leicht eine <orgName>Gemeine </orgName>gelegenheit so lange sie nur konte. Doch ihr <persName>Sohn </persName>von der Gemeine ging dem Heiland untreu wurde gab ihrer schwachen Hütte einen ziemlichen Stoß sie war fast untröstlich darüber. sie wurde von der Zeit an auch immer schwächer. bis sie im <date>December </date>voriges Jahr ganz bethlägerich wurde, sie freute sich gar sehr auf ihre auflösung sie sagte ich und der liebe Heiland sind mit einander verstanden ich weiß nichts mehr als ich bin eine arme Sünderin
+
+
+
+               <pb n="6" ana=".10246.26210"/>
+               <figure n="246-06">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0246a-06.jpg"/>
+                  <ab type="caption">Gertrude Weber, Page 6</ab>
+               </figure>
+
+die nichts auf zu weißen hat als Christi Blut und gerechtigkeit daß ist mein Schmuck und Ehren Kleid ich werde wen ich zu ihm komm ihm seine durchborten Füße küßen für meine Gnaden wahl sie hatte viel auszustehn sie war aber bey allen ihren Schmerzen sehr geduldig und gelaßen. den <date>16 Februar </date>überfiel sie ein Blutsturz da auf ein mal ihr Jammer und Elend ein Ende hatte sie erblaßte vormittag um halb Elf Uhr mit dem Segen der Gemeine und ihres Chors ihr alter hat sie auf 65. Jahr 3. Monate und 3 Tage gebracht.
+
+
+            </p>
+            </div>
+            
+</div>
+      </body>
+
+  </text>
+</TEI>
