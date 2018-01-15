@@ -47,7 +47,7 @@
 
           <moduleRef key="core"
             include="abbr add addrLine address author bibl biblScope cb choice
-                     cit citedRange corr date del editor email expan foreign gap
+                     cit citedRange corr date del desc editor email expan foreign gap
                      gloss graphic head hi item label l lb lg list listBibl measure
                      milestone name note orig p pb ptr pubPlace
                      publisher quote ref reg region relatedItem resp respStmt
@@ -184,19 +184,20 @@
           </elementSpec>
                     
                    
-  <!-- add trait emotion -->
-          <elementSpec ident="trait" module="namesdates" mode="change">
+  <!-- add state emotion -->
+          <elementSpec ident="state" module="namesdates" mode="change">
             <attList>
-              <attDef ident="emotion" mode="change">
+              <attDef ident="emotion" mode="add">
                 <valList mode="add" type="closed">
-                  <valItem ident="happy"/>
+                  <valItem ident="joy"/>
                   <valItem ident="depressed"/>
                   <valItem ident="fear"/>
+                  <valItem ident="other"/>
                 </valList>
               </attDef>
             </attList>
           </elementSpec>          
-          
+ 
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete"/>
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete"/>
 
