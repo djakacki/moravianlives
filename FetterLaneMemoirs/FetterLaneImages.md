@@ -251,3 +251,36 @@ http://moravianlives.bucknell.edu/MCH/MemLon_300015-02.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300015-03.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300015-04.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300015-05.jpg<br />
+
+J Evans<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300016-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300016-02.jpg<br />
+
+Margaret Evans<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300017-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300017-02.jpg<br />
+
+William Evans<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-20.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-21.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300018-22.jpg<br />
+
