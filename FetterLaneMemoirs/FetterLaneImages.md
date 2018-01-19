@@ -284,3 +284,78 @@ http://moravianlives.bucknell.edu/MCH/MemLon_300018-20.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300018-21.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300018-22.jpg<br />
 
+William Evans<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300019-20.jpg<br />
+
+Anna Foster<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300020-20.jpg<br />
+
+Eleanor Francke (dupe)<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-01.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-02.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-03.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-04.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-05.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-06.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-07.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-08.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-09.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-10.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-11.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-12.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-13.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-14.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-15.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-16.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-17.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-18.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-19.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-20.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-21.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-22.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-23.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-24.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-25.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-26.jpg<br />
+http://moravianlives.bucknell.edu/MCH/MemLon_300021-27.jpg<br />
+
+
+
