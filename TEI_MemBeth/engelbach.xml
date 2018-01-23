@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georg Jacob Engelbach: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+                  <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+                  <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Georg Jacob Engelbach</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div type="memoir">
+            <pb type="page" n="1" ana=".10186.25959"/>
+            <figure n="0186-02">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-01.jpg"/>
+               <ab type="caption">Georg Jacob Engelbach, Page 1</ab>
+            </figure>
+
+            <div type="para" n="1">
+               <p>
+                  <lb/>Personals of our d.<hi rend="superscript"><abbr>r</abbr></hi> deceased
+                  Brother <hi rend="underline"><persName>George Jacob <lb/>Engelbach</persName></hi>
+                  who departed to the Joy of his Lord at <placeName>Herrnhuth</placeName>
+                  <lb/>the <date>12<hi rend="superscript">th</hi> of November 1768</date>. The
+                  account he has left behind <lb/>is as follows: </p>
+            </div>
+            <div type="para" n="2">
+               <p>
+                  <lb/>Nothing but obedience moves me to give an account of my <lb/>Path
+                     <sic>thro</sic>
+                  <corr>through</corr> this dying Life. I had rather be Unknown and un=
+                  <lb/>=noticed, to all but that loving heart beyond compare! <lb/>to be known to
+                     <hi rend="underline">him</hi> is all my wish and desire. </p>
+            </div>
+
+            <div type="para" n="3">
+               <p>
+                  <lb />I was born the <date>24<hi rend="superscript">th</hi> of October 1709</date> at <placeName>Auenheim</placeName> a Village near 
+                  <lb />the <placeName>Rhine</placeName>, in which Place my Father was Parson. My Mothers maiden 
+                  <lb />Name was <persName>Michaelis</persName> and descended from <placeName>Polish Lissa</placeName>. In the year <date>1711</date>
+                  <lb />myself and a younger Brother was deprived of our Father in our Tenderesh
+                  <lb />Infancy. After 3 years Widdowhood my Mother Married an Intendant of the
+                  <lb/>Finaces named <del>Aulber</del> <persName><corr>Aulber</corr> </persName>who removed in the year <date>1716</date> to <placeName>Bussweiler</placeName>
+                  <lb/>where he became <sic>Councellor</sic> <corr>Counselor</corr> of the Finaces. Here I was sent to the 
+                  <lb/>Gymnasium where I saw and heard much evil, and as I grew older became 
+                  <lb />sensible of the Hurt it was to me, myself my own Brother, my Step Brother and 
+                  <lb />a Relation of ours a <sic>Minesters</sic> <corr>Ministers</corr> Son, soon found out that we was utterly corrupt= 
+                  <lb />ed children. We 4 <abbr>join'd</abbr> together in a <del>Resolution</del> to give our Hearts to the Lord 
+                  <lb />Jesus, often we rose before day, went out into the Fields, <sic>kneelt</sic> <corr>knelt</corr> down on our 
+                  <lb />knees <sic>Weept</sic> <corr>Wept</corr> and <abbr>pray'd</abbr> for better Hearts. As we saw no help for us it came 
+                  <lb />in our Minds to go into the thickest <sic>Forrest</sic> <corr>Forest</corr> to feed on grass and pray day 
+                  <lb />and Night, that our poor Souls might be saved; But the severe and cruel 
+                  <lb />treatment we met with from our Masters shifted every thing. It is true 
+                  <lb />that from time to time, we often felt anew the drawings of divine grace 
+                  <lb />and I remember with shame and Bowedness, what my heart felt whenever 
+                  <lb />I read or heard any thing of our Saviour and his bleeding wounds, that 
+                  <lb />presently melted my heart and Draw tears from my Eyes; Yet the <hi rend="underline"> in=
+                  <lb />=dwelling</hi> Evil, and the <hi rend="underline">outward</hi> Descations which surrounded me <abbr>seemd</abbr>
+                  <lb />to render my Conversion an Impossibility. Therefore I thought I would
+                  <lb />trust in the Lords long <abbr>suffring</abbr>; and hope that the Lord Jesus who once 
+                  <lb />for all had <abbr>suffer'd</abbr> death for me, would not suffer the <sic>Merrits</sic> <corr>Merits</corr> of his 
+                  <lb />bitter Passion to be lost on me, But would receive me to his 
+
+                  <pb type="double_left" n="2" ana=".10186.25960"/>
+                  <figure n="0186-02">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-02.jpg"/>
+                     <ab type="caption">Georg Jacob Engelbach, Page 2</ab>
+                  </figure>
+               
+               
+                  <lb />his Mercy at the End of all Distress, as he did the Penitent Thief. In the
+                  <lb />Year <date>1726</date> I was sent to the University at <placeName>Strassburg</placeName>; In the year <date>1727</date>
+                  <lb />to <placeName>Jena</placeName> and <date>1728</date> to <placeName>Wittenberg</placeName>. Here that Corruption broke loose like
+                  <lb />a Deluge, which had hither to been <abbr>restrain'd</abbr> by the Laws Severity,
+                  <lb />and I ran blindly into Sin, the wages of which quickly <abbr>follow'd</abbr>; some=
+                  <lb />=times I wept and cried to Jesus for deliverance, but Sin became still
+                  <lb />more Sinful, till at length I was <sic>litterally</sic> <corr>literally</corr> the express Picture of
+                  <lb />the Prodigal Son! and in the Year <date>1730</date> I actually set out for home
+                  <lb />with these Thoughts: I will return to my severe Step Father; he may if
+                  <lb />he pleases make me his Servant! To such a pass I was come!
+                  <lb />Oh thou Merciful Lamb! thou has taken a poor Creature indeed to
+                  <lb />thy Mercy! I was immediately put under the care of a Man who
+                  <lb />had formerly been our House Preceptor, but was now become Parson
+                  <lb />in a Country Village, who continued his usual rigorous treatment of
+                  <lb />me. At length I grew weary of the distress which Sin occasioned
+                  <lb />humbled myself, and <abbr>beg'd</abbr> the Lord Jesus for support, would fain
+                  <lb />have been converted but knew not where to begin, and to my Sor
+                  <lb />=row had no one to Inform me. I came into works, <abbr>pray'd</abbr> and
+                  <lb />wept, yet sin not being brought under <sic>thro</sic> <corr>through</corr> the Blood of Jesus con
+                  <lb />=tinued to rage the more in heart. In the year <date>1731</date> I was sent
+                  <lb />to the Seminary of the Candidates to the Pastoral Office and was
+                  <lb />a Teacher in the Gynmnasium. O that I had but then been ac
+                  <lb />=quainted with my Bleeding Redeemer perhaps I should have been
+                  <lb />of Service to the Youth under my care as they all loved me.
+                  <lb />In the Year <date>1733</date> I <abbr>receivd</abbr> ordination to a Preacher of the <sic>Gosple</sic> <corr>Gospel</corr>
+                  <lb />and in the Year <date>1734</date> was introduced as Deacon at <placeName>Ingweiler</placeName>
+                  <lb />and teacher at <placeName>Ripperhweiler</placeName>. The office of a Teacher was weighty
+                  <lb />to me, I was <sic>truely</sic> <corr>truly</corr> Sensible of my <sic>unworthyness</sic> <corr>unworthiness</corr> and <sic>innability</sic> <corr>inability</corr>
+                  <lb />knew not which way to turn, <abbr>pray'd</abbr> frequent and fervently and
+                  <lb />yet continued unconverted, was forever Restless wept in private
+                  <lb />before the Lord Jesus and <abbr>beg'd</abbr> for Mercy; my poor <abbr>distress'd</abbr>
+                  <lb />heart <abbr>cleav'd</abbr> to him, and nothing was more pleasing to me than
+                  <lb />to preach of his Death and bleeding wounds, which I <sic>allways</sic> <corr>always</corr> did
+                  <lb /><note type="catchword">with</note>
+                  
+                  <pb type="double_right"/>
+                  
+                  <lb />with great Emotion, well knowing nothing but Jesus blood and wounds
+                  <lb />could sanctifyme poor wretched and corrupted Man; and I experi=
+                  <lb />=enced, that the word of his Suff'rings was thunder which <sic>shoock</sic> <corr>shook</corr>
+                  <lb />my Soul and the Souls of my hearers. After I had been 16 Weeks at
+                  <lb /><placeName>Ingweiler</placeName>, I <abbr>receiv'd</abbr> a call to <placeName>cron=Weissenburg</placeName>, I should have gone
+                  <lb />thither a year before, but as I was only <abbr>ask'd</abbr> <sic>wether</sic> <corr>whether</corr> I had a Mind
+                  <lb />to go there, and was not duely voted I thought I was free to refuse,
+                  <lb />and parson <persName>Heinold</persName> came there in my stead. I had rather have
+                  <lb /><abbr>stay'd</abbr> in a Mean Village and known to few, but as I <abbr>observ'd</abbr> it was
+                  <lb />the Lords will, I concluded to accept the call, <sic>altho</sic> <corr>although</corr> I should follow
+                  <lb />my dear Step Brother <hi rend="underline"><persName>Aulbern</persName></hi> to his grave, who had been senior <persName>Aulber</persName>
+                  <lb />in that city and <abbr>dy'd</abbr> in the Epedemical Fever which then <abbr>rag'd</abbr>
+                  <lb />there. With the disposition of heart and Mind I went thither in
+                  <lb /><date>February 1735</date>. The largeness of the City, the number of Sick and
+                  <lb />abundance of Labour I saw prepared for me made me Tremble, and I
+                  <lb />shall never forget with what a feeling, and with how many Tears I <sic>entred</sic> <corr>entered</corr>
+                  <lb />into my office. In <date>April 1756</date> I married my Step <abbr>B.</abbr><hi rend="superscript"><abbr>r</abbr></hi> <persName>Shillers</persName> <sic>Widdow</sic> <corr>Widow</corr>
+                  <lb />I knew not how to conduct myself according to our Saviours Mind in a
+                  <lb />Married State, notwithstanding we lived cheerful and happy together
+                  <lb />in our way, and every Body regarded us as a Happy Pair. In
+                  <lb /><date>February 1737</date> our Saviour gave us a Daughter <persName>Marie Margaretta</persName>
+                  <lb />and 13 Months after took her to himself in the Small Pox. In
+                  <lb />the same Year a Neghbouring Doctor of Physick sent me a
+                  <lb />Treatise against the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> Hymns. I <abbr>look'd</abbr> it <sic>thro</sic> <corr>through</corr> and was for
+                  <lb />the first time convinced that <add>such</add> a people existed. At first I thought
+                  <lb />these are <persName>Schwenkfields</persName> descendants, if their doctrine is false, it
+                  <lb />will evaporate Gods Word, and Luthers doctrine will never be
+                  <lb /><abbr>abolish'd</abbr>. But I found so much of Jesus Blood and Wounds in
+                  <lb />these Hymns, that I was quite doubtful what to think, yea <add>was</add> quite
+                  <lb />confused for I could not remember that I had ever read in Church
+                  <lb />History of a People that <sic>keept</sic> <corr>kept</corr> to the word of Jesus Patience.
+                  <lb /><note type="catchword">And</note>
+                  
+                  <pb type="double_left" n="3" ana=".10186.25961"/>
+                  <figure n="0186-03">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-03.jpg"/>
+                     <ab type="caption">Georg Jacob Engelbach, Page 3</ab>
+                  </figure>
+
+                  <lb />and as my poor Heart, notwithstanding its Corruption was always
+                  <lb /><abbr>soften'd</abbr> and my Eyes swam in Tears whenever I read of Jesus <abbr>Suffring</abbr>
+                  <lb />for the Sins of the World, I felt the same Emotion at reading these Hymns
+                  <lb />and had a desire to hear more of these people, and this I <abbr>obtain'd</abbr>
+                  <lb />by means of my dear deceased Uncle <sic>Councellor</sic> <persName><corr>Counselor</corr> Engelbach</persName> who
+                  <lb />was in <sic>Connexion</sic> <corr>Connection</corr> with the <abbr>Brn</abbr>: I intreated him to send a <abbr>Br</abbr>.
+                  <lb />to me and in the year <date>1749</date> Old <persName>Brother Gold</persName> came at My Request
+                  <lb />to my House on his Journey <sic>thro</sic> <corr>through</corr> Our City. This Simple Country
+                  <lb />Man was a great Blessing to me. He <abbr>look'd</abbr> cheerful and happy, that
+                  <lb />I was not, and myself made confidence in Jesus <sic>Merrits</sic> <corr>Merits</corr> would not
+                  <lb />stand the Test, nor quiet the uneasiness of my heart. After this
+                  <lb />the <abbr>Brn</abbr>: freqeuntly <abbr>calld</abbr> to see me and when they was gone my
+                  <lb />Conclusion was I am not like them, I do not know our Saviour.
+                  <lb />I wept and <abbr>pray'd</abbr> and <abbr>conferr'd</abbr> with my Colleague <persName>Pastor Reinold</persName> but
+                  <lb /><abbr>receiv'd</abbr> poor comfort, often I <abbr>stretch'd</abbr> myself in the Dust and
+                  <lb /><abbr>beg'd</abbr> our Saviour to look graciously on me, but in the Midst
+                  <lb />of my groans and Lamentations <add>it was</add> as <sic>tho</sic> <corr>though</corr> a Voice within me said
+                  <lb />arise, you are not in Earnest, If I give you Honour, and leave you
+                  <lb />in your High Life, then I may be your Saviour of choice, but it
+                  <lb />would not suit you to forgo all things for my sake, so as I have
+                  <lb />for your sake. I felt the Truth of this Reproach, and must be
+                  <lb />Silent. Mean time the uneasiness of my Soul still <abbr>increas'd</abbr>
+                  <lb />I began to mourn and lament again, but as it <sic>allways</sic> <corr>always</corr> turns
+                  <lb />out Fruitless; the Enemy put it in my Mind that I was a
+                  <lb />cast away, our Saviour neither would, nor could be Merciful
+                  <lb />to such a sinner. This went so far that I was actually be=
+                  <lb />=tween Atheism and Desperation. I could no longer Pray
+                  <lb />but wherever I <abbr>turn'd</abbr> cried out: Oh Jesu Oh Jesu! The <date>26<hi rend="superscript">>th</hi>
+                     <lb />   of October 1744</date> when my distress <abbr>seemd</abbr> to be at the highest
+                  <lb />Pitch, I was reading the French News Paper, and all at once
+                  <lb />I was struck with these words which <abbr>seemd</abbr> as <sic>tho</sic> <corr>though</corr> they was
+                  <lb />spoke in my heart: canst thou read that, and hast no
+                  <lb />Saviour
+                  <lb /><note type="catchword">This</note>
+                  
+                  <pb type="double_right"/>
+                  
+                  <lb />This <abbr>shock'd</abbr> me so, that I let the Paper fall out of my Hands and
+                  <lb />fell after it to the Earth. I had no utterance for words, but wept
+                  <lb />for Mercy, and gave myself <sic>intirely</sic> <corr>entirely</corr> up to our Saviour without
+                  <lb />the least limitation, that with me he might do, whats pleasing
+                  <lb />in his sight, and from me take <sic>whatere</sic> <corr>whatever</corr> he will, <sic>whatere</sic> <corr>whatever</corr> he
+                  <lb />thinks not right. To me it was as <sic>tho</sic> <corr>though</corr> I then <abbr>receiv'd</abbr> permission
+                  <lb />to kiss the Prints of the Nails in his sacred Feet! I felt a Di=
+                  <lb />=vine assurance of the forgiveness of my Sins, and <add>the</add> covenant I then
+                  <lb />made, is still sure and firm, my heart is no longer mine, but His.
+                  <lb />I shall not say much of what <abbr>follow'd</abbr> this change. The want of
+                  <lb />a true poor Sinner heart often <abbr>caus'd</abbr> me to commit great failings.
+                  <lb />The <abbr>Awaken'd</abbr> Souls keeping to me, Brought on <add>me</add> the displeasure of the
+                  <lb />School Master, My Colleague, the Mayor of the City and all the Mages=
+                  <lb />=tracy of the Lutheran Side, One Honest <sic>Councellor</sic> <corr>Counselor</corr> excepted. The
+                  <lb />Process at <placeName>Strassburg</placeName> <persName>D.</persName><hi rend="superscript"><persName>r</persName></hi><persName>Froereisen</persName> would have me <abbr>turn'd</abbr> out of my
+                  <lb />Office by the Civil Magistrates, and so it went on, till the year <date>1748</date>.
+                  <lb />Mean time our Saviour gave me more <sic>oppertunitys</sic> <corr>opportunities</corr> of becoming acquainted
+                  <lb />with the <abbr>Brn</abbr>: and in the year <date>1747</date> I made a 12 days visit at
+                  <lb /><placeName>Herrnhaag</placeName> to my great Blessing. I was soon convinced that I be=
+                  <lb />=longed to this People, but how, or when, my dear Saviour would
+                  <lb />bring me thither, that I did not dare to Consider on, this I knew;
+                  <lb />it must <sic>thro</sic> <corr>through</corr> a Miracle, otherwise it could not come to Pass. After
+                  <lb />this Blessed Visitation, the Enemy grew more <sic>inraged</sic> <corr>engraged</corr>, and I became
+                  <lb />a detestation to the whole City except the <abbr>Awakend</abbr> Souls; but my
+                  <lb />heart was <sic>chearful</sic> <corr>cheerful</corr> and happy, I supplicated and <abbr>obtain'd</abbr> of my
+                  <lb />dear Lord a Promise, which was a great Consolation to me. In <date>Au=
+                     <lb />   =gust 1749</date> my dear Wife took to her Bed, and in this her last Ill=
+                  <lb />=ness she felt she was a wretched Sinner, <abbr>begd</abbr> for Mercy and openly
+                  <lb /><abbr>confess'd</abbr> she had sought the World more than our Saviour, and
+                  <lb />fell asleep with this fervent wish: Shelter my Soul most gra=
+                  <lb />=ciously within thy <abbr>open'd</abbr> Side; In the 36 year of her age.
+                  <lb /><note type="catchword">As</note>
+                  
+                  <pb type="double_left" n="4" ana=".10186.25962"/>
+                  <figure n="0186-04">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-04.jpg"/>
+                     <ab type="caption">Georg Jacob Engelbach, Page 4</ab>
+                  </figure>
+
+                  <lb />as I <abbr>observ'd</abbr> above, I had <abbr>obtain'd</abbr> a promise from our dear Saviour
+                  <lb />that I should come to his People, but that did not come to pass till
+                  <lb />the year <date>1756</date>. In the year <date>1751</date> I came to <placeName>Treweiler</placeName> as Chaplain
+                  <lb />and Inspector. Here at length the Hour of my deliverance
+                  <lb />struck. I was severly taken to task for my <sic>Conexion</sic> <corr>Connection</corr> with the <abbr>Brns</abbr>
+                  <lb /><abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> and after several storms I was required to seperate myself
+                  <lb />from them, to quit The Herrnhuters Errors, to deny the People of
+                  <lb />God and condemn their Doctrine. This I could not do, but chose
+                  <lb />rather to bear the Reproach of Christ and was also removed, and
+                  <lb />sat out for <placeName>Newwied</placeName> in the Year <date>1756</date>. Here I became partak-
+                  <lb />=er of the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> Grace and the same year attaind to the Parti=
+                  <lb />=cipation of the Greatest Good in the Holy Sacrament, with the
+                  <lb /><abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> The Next Year I <abbr>receiv'd</abbr> a Call from the Countess to
+                  <lb />be her Chaplain and to preach a Sermon every Sunday at
+                  <lb />her <sic>Chapple</sic> <corr>Chapel</corr>, which I accepted with the Consent of my <abbr>Brn</abbr>:
+                  <lb />and continued in this office <sic>untill</sic> <corr>until</corr> the year <date>1759</date> In which year
+                  <lb />I attended the Disciples Household which spent some weeks to
+                  <lb />all and Particularly to my great Blessing at <placeName>Newwied</placeName> and went
+                  <lb />with them to <placeName>Holland</placeName>. Shortly before Christmas I <abbr>returnd</abbr> with the
+                  <lb />same hither to <placeName>Herrnhuth</placeName> and removed into my beloved Choir House
+                  <lb />in which during an abode of near 4 years I have had the Happiness
+                  <lb />to enjoy Numberless Blessings and <sic>Benifits</sic> <corr>Benefits</corr>.
+               </p>
+            </div>
+            
+            <div type="para" n="4">
+               <p>
+                  <lb />Thus far his own Words.
+                  <lb />By reason of the Vacancy at <placeName>Berthelsdorff</placeName> <abbr>occasion'd</abbr> by the death
+                  <lb />of <abbr>Br</abbr>. <persName>Groh</persName>our<abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Brother often <abbr>preach'd</abbr> there with great Blessing
+                  <lb />so as he likewise frequently <abbr>Preach'd</abbr> here in <placeName>Herrnhuth</placeName> on Sundays.
+                  <lb />In the Fall of the year <date>1763</date> he <abbr>receiv'd</abbr> a call to preach the <sic>Gosple</sic> <corr>Gospel</corr>
+                  <lb />at the little church in <placeName>Altona</placeName> which he cheerfully accepted of from
+                  <lb />our Saviours Hands and sat our for that place in <date>September</date>.
+                  <lb />His much blessed service in the <sic>Gosple</sic> <corr>Gospel</corr> at that Place our <abbr>Brn</abbr> and
+                  <lb />Sisters have heard in the Journals. His Sermons was so much fre=
+                  <lb />=quented that Room often <abbr>faild</abbr> the Hearers, And we have many
+                  <lb /><note type="catchword">living</note>
+                  
+                  <pb type="double_right" />
+                  
+                  <lb />being witnesses which prove that his Testimony was attended with Spirit
+                  <lb />and power. In the Year <date>1767</date> he visited the Directorey at <placeName>Zeyst</placeName>
+                  <lb />where he stayd 2 Months to his great Blessing as he has <abbr>expres'd</abbr> both
+                  <lb />verbally and in his Letters. Towards the Latter end of <date>June</date> this year
+                  <lb />He came hither with our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Lords Approbation for to rest and refresh
+                  <lb />himself. He <abbr>enterd</abbr> his Choir House in a weakly state of Body but
+                  <lb />with Joy and thankful Tears, moved into his former Chamber, com=
+                  <lb />=mended himself to his <abbr>Brns</abbr>: Love and Favour and told them our
+                  <lb />Saviour would prepare and soon take him to Rest. He was very
+                  <lb />tender and Affectionate and saluted every <abbr>Br</abbr> he saw with much
+                  <lb />Love. Often express how happy he was in living among his People
+                  <lb />and <sic>injoying</sic> <corr>enjoying</corr> all good things in the Lords House daily. He never
+                  <lb /><abbr>miss'd</abbr> the Meetings notwithstanding his weakness often <sic>keept</sic> <corr>kept</corr> the
+                  <lb />Morning and Evening Meetings in his Choirs house and spoke tender
+                  <lb />Evangelical with such <abbr>Brn</abbr> as he was particularly <sic>accquainted</sic> <corr>acquainted</corr> with
+                  <lb />and was Legitamated as a faithful Heart towards our Saviour and
+                  <lb />the <abbr>Brn</abbr>. His Heart was devoted to our Saviour, and <abbr>attach'd</abbr> to his
+                  <lb /><abbr>Suffrings</abbr> as a poor Sinner, and <abbr>cleav'd</abbr> to him with Body and
+                  <lb />Soul. Often this Expression was <sic>dropt</sic> <corr>dropped</corr> from his Lips: Oh that Mer=
+                  <lb />=ciful and Long <abbr>Suffring</abbr> heart of Jesus! O that Merciful and long
+                  <lb /><abbr>Suffring</abbr> Heart. The <date>8<hi rend="superscript">th</hi>of October</date> he was at the Love feast and
+                  <lb />the Holy Sacrament. The next day it <abbr>appeard</abbr> plainer that he
+                  <lb />would not continue here much Longer, he set his outward <sic>afairs</sic> <corr>affairs</corr>
+                  <lb />in order that he might be quite easy in regard to what he should
+                  <lb />leave behind him. The <date>10<hi rend="superscript">th</hi></date> he joyfully took to his Bed and be-
+                  <lb />=gan to speak fervently to our Saviour and said with numberless
+                  <lb />Tears: Oh thou most beloved Heart! Merciful Long <abbr>Suffring</abbr> and of
+                  <lb />great Goodness and Truth; Oh Lord Jesus how shall I sufficiently
+                  <lb />thank thee; I am not worthy of such Love grace and <sic>Benifits</sic> <corr>Benefits</corr>
+                  <lb />which thou has <abbr>bestow'd</abbr> on me. After a little pause he resumed
+                  <lb />his Disourse which had been interrupted by the Floods of Tears
+                  <lb />which <abbr>flow'd</abbr> from his Eyes and concluded with this verse Oh
+                  <lb />did each Pulse thy Praises beat, each breath my thankfulness repeat.
+                  <lb /><note type="catchword">He</note>
+
+                  <pb type="page" n="5" ana=".10186.25963"/>
+                  <figure n="0186-05">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0186a-05.jpg"/>
+                     <ab type="caption">Georg Jacob Engelbach, Page 5</ab>
+                  </figure>
+
+                  <lb />He spent his time in earnest longing to be with his beloved Jesus
+                  <lb />His Memory had been for some time pretty much <abbr>d</abbr> and he seldom
+                  <lb />attended to what was <abbr>talk'd</abbr> off, But when the Discourse <abbr>turn'd</abbr> to heart
+                  <lb />Matters, he was presently cheerful and attentive expressing himself in
+                  <lb />such a Manner that it was a pleasure to hear him He <abbr>believ'd</abbr> his most
+                  <lb />beloved and Faithful Friend would soon call him to his Presence, and
+                  <lb />would not take any Medicines: Sayings nothing keeps me and nothing
+                  <lb />helps me Yet when he was <sic>perswaded</sic> <corr>persuaded</corr> not to refuse the Application
+                  <lb />of Medicines <sic>intirely</sic> <corr>entirely</corr>, then he was childlike and said do what you
+                  <lb />will with your poor Engelbach you are good Bretheren, Oh you give
+                  <lb />yourselves so much trouble I know it very well and am sorry for it
+                  <lb />I will be obedient but you must have a great deal of Patience with
+                  <lb />me. Often he <abbr>pour'd</abbr> out his heart before our Saviour and repeated
+                  <lb />incessantly this Request Oh take me hearts beloved Saviour there is
+                  <lb />nothing between us we understand each other I am ready. After
+                  <lb />the <sic>Injoyment</sic> <corr>Enjoyment</corr> of the Holy Sacrament on the <date>5<hi rend="superscript">th</hi></date> Instant he
+                  <lb />counted the days and hours and <abbr>sigh'd</abbr> in a moving Manner
+                  <lb />come dear Saviour come and take me. The Oppression at his
+                  <lb />Breast deprived <add>him</add> of the freedom of Speech but he was attentive to
+                  <lb />all that <abbr>pass'd</abbr> and made signs and <abbr>smild</abbr> on the <abbr>Brn</abbr>: that
+                  <lb />came to see him in which manner he likewise <abbr>express'd</abbr> his
+                  <lb />desire to receive the Last Blessing, and with great difficulty
+                  <lb />pronounced the words: He hastens! The <date>12<hi rend="superscript">th</hi></date> at noon he folded
+                  <lb />his Hands and received the Blessing of the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> and his Choir
+                  <lb />and God. With the verse: Now let his Mouth Expiring on thy
+                  <lb />dear Breast recline &amp;c<hi rend="superscript">a</hi> his Breath <abbr>stopd</abbr> and he fell
+                  <lb />sweetly <sic>assleep</sic> <corr>asleep</corr> leaving a fine look on his Countenance
+                  <lb />Aged 59 Years 19 days.
+               </p>
+            </div>
+         </div>
+
+      </body>
+
+   </text>
+</TEI>
