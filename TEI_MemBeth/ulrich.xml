@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Jacob Ulrich: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of John Jacob Ulrich</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+
+                 <div type="memoir">
+                    <pb n="1" ana=".10198.26023"/>
+                    <figure n="0198-01">
+                       <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-01.jpg"/>
+               <ab type="caption">John Jacob Ulrich, Page 1</ab>
+            </figure>
+            
+            <div type="para" n="1">
+            <p>
+               <lb/><sic>Suplement</sic> <corr>Supplement</corr> to the <date>15 Week 1769</date>
+               <lb/>Containing the following Personals.
+               <lb/>1<hi rend="underline"><hi rend="superscript">st</hi></hi>. Our <del>Reverend</del> <add>Dear</add> <persName>Brother John </persName><hi rend="underline"><persName>Jacob Ulrich</persName> w</hi>ho de
+               <lb/>=parted to the Lord at <placeName>Herrnhuth</placeName> the <date><unclear>29</unclear><hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi>. of February 1769</date>
+               <lb/>In the 42<hi rend="underline"><hi rend="superscript">d</hi></hi><hi rend="superscript"></hi>. Year of his Age. <gap></gap>He has left the following
+               <lb/>Account of his Path:
+            </p>
+            </div>
+                    <div type="para" n="2">
+                       <p>
+               <lb/>I was born at <hi rend="underline"><placeName>Münsterm</placeName></hi><placeName> </placeName><hi rend="underline"><placeName>S</placeName><hi rend="superscript"><placeName>t</placeName></hi><placeName>. gregorien thal</placeName></hi><placeName>
+                  <lb/>in upper </placeName><hi rend="underline"><placeName>Alsaka</placeName></hi> the <date>27<hi rend="underline"><hi rend="superscript">th</hi>.</hi> of May 1727.</date> My Parents <sic>keept</sic> <corr>kept</corr>
+               <lb/>me <sic>stricktly</sic> <corr>strictly</corr> to reading the Scriptures from my Childhood <abbr>tho</abbr>
+               <lb/>I was a Bad Child and often thought if ever I <abbr>inknd</abbr> to be happy
+               <lb/>I must become another Person. In my 14<hi rend="underline"><hi rend="superscript">th</hi></hi>. Year I went the first time
+               <lb/>to the Lord Supper. I was <sic>allways</sic> <corr>always</corr> very Uneasy when the time drew
+               <lb/>near that I should Communicate and promised Amendment every
+               <lb/>time I partook, but still I grew worse and worse. In my 15<hi rend="underline"><hi rend="superscript">th</hi></hi>. Year
+               <lb/>my Parents <sic>dyed</sic> <corr>died</corr> and I came to my Brother in Law to learn
+               <lb/>the Shoemakers Trade. My time being out, in the Year
+               <lb/><date>1746</date> I <sic>sat</sic> <corr>set</corr> out on my Travels with a firm intention to avoid
+               <lb/>all bad Company. I came to <placeName>Bussweiler</placeName> and <abbr>work'd</abbr> with an
+               <lb/>Old Man, was mostly alone, and spent my time in praying
+               <lb/>and singing, but not <sic>haveing</sic> <corr>having</corr> strength to withstand my Na=
+               <lb/>=tural Corruption, I was <sic>overpowed</sic> <corr>overpowered</corr> by Sin. Which made me so
+               <lb/>uneasy, that even my Devotions <abbr>appeard</abbr> Sinful to me and
+               <lb/>for 14 Days together I went about as a lost and undone Creature
+               <lb/>I had not the heart to acquaint any one of my Condition.
+               <lb/>But at length concluded |:as I certainly <abbr>believ'd</abbr> myself lost:|
+               <lb/>to enjoy the World as much as possible for which purpose I
+               <lb/>sought out my Old Companions and ran headlong into all
+               <lb/>Sin and Wickedness. Thus I spent 7 Years, not without feeling
+                          <lb /><note type="catchword">at</note>
+
+                  <pb n="2" ana=".10198.26024"/>
+                  <figure n="0198-02">
+                     <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-02.jpg"/>
+                     <ab type="caption">John Jacob Ulrich, Page 2</ab>
+                  </figure>
+
+               <lb/>at times great Uneasiness which <abbr>press'd</abbr> Tears from my Eyes. My
+               <lb/>Faithful Saviour followed me and brought me now and then to
+               <lb/>beg for Mercy and that He would would work a change in me
+               <lb/><sic>comming</sic> <corr>coming</corr> one time out of a very bad Company I was <abbr>ask'd</abbr> if
+               <lb/>I had not been very Merry? My distress was so great that I could
+               <lb/>not return an Answer, just then 2 Children came before the
+               <lb/>window and sung: Where is Jesus my beloved and my Friends <add>a</add>
+               <lb/>My heart and Eyes presently <abbr>overflow'd</abbr> and I hastend to my Apart
+               <lb/>=ment to give my tears vent and felt unspeakably happy
+               <lb/>I went on some time in that Sensation but not being quite free
+               <lb/>from the World I <abbr>sufferd</abbr> myself to be sometimes drawn away
+               <lb/>which brought into a State of Indifferency. Yet our Saviour
+               <lb/>did not leave me, but made me so restless that I can say
+               <lb/>of a truth I felt Hellish Anguish as all my past Sins pre=
+               <lb/>=sented themselves before my Eyes. In this state I thought
+               <lb/>I will be patient and let my God do with me as it shall please
+               <lb/>him and should I perish before he has Mercy on Me. Then
+               <lb/>our dear Saviour convinced me that true saving Faith in
+               <lb/>him was wanting. In the greatest concern hereat I went to Bed.
+               <lb/>It was to me as tho I was <abbr>ask'd</abbr> what I would have? Our <abbr>d</abbr><hi rend="underline"><hi rend="superscript"><abbr>r</abbr></hi></hi><hi rend="superscript"></hi><abbr>.</abbr>
+               <lb/>Saviour gave me Faith in his bleeding Merrits, and pardoned
+               <lb/>me all my Sins. My great Distress was over, my Burthren was
+               <lb/>removed it was as <abbr>tho'</abbr> I was born anew and quite freed from
+               <lb/>the World. In this Happy Situation I continued some time
+               <lb/>and was quite another Man so that my whole Neighbour
+               <lb/>=hood <abbr>wonder'd</abbr> thereover. I would fain have told all Men
+               <lb/>what I <sic><abbr>injoy'd</abbr></sic><abbr> </abbr><corr><abbr>enjoy'd</abbr></corr> and went too far in that Respect, came into
+               <lb/>Self workings and dryness. In this Situation I became acquain
+               <lb/>=ted with <abbr>Brn</abbr>, who told me of grace in the Blood of Jesus.
+                          <lb /><note type="catchword">I soon</note>
+
+
+<pb type="double_right" />
+
+               <lb/>I soon <abbr>conceiv'd</abbr> a great Love for them, all they said was <abbr>yea</abbr> and
+               <lb/>amen to me, and I thought if there is Children of God in the World
+               <lb/>these are such. From them I first heard of the Congregation
+               <lb/>and it ways directly made out to my heart: I belong to that People.
+               <lb/>The <date>12<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi>. of June 1754</date> I went to <placeName>Herrnhuth</placeName> in Company with
+               <lb/>2, Others; and the <date>17<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi>.</date> came to dwell in the Choir House
+               <lb/>as I had been ruined in the World both Soul and Body, It
+               <lb/>was my greatest concern Now to become wholly our Saviours
+               <lb/>Property He likewise <abbr>display'd</abbr> his power on my Heart. The
+               <lb/><date>15<hi rend="underline"><hi rend="superscript">>th</hi></hi><hi rend="superscript"></hi>. of December the same Year,</date> I was <abbr>receiv'd</abbr> into the <abbr>Cong</abbr><hi rend="underline"><hi rend="superscript"><abbr>n</abbr></hi></hi><hi rend="superscript"></hi><abbr>.</abbr>
+               <lb/>which was an unspeakable Blessing to me. I had happy
+               <lb/>days for some time, but came off from that happy Sensation
+               <lb/>and my Natural high Spirit brought me into a confused Situ=
+               <lb/>=ation. When the Holy Spirit would lead me as a Sinner to
+               <lb/>Christ, I <abbr>labour'd</abbr> against it, and would fain have made my
+               <lb/>=self better than I was which was a trouble to our Saviour
+               <lb/>and my <abbr>Brn</abbr>: who were often in concern on my Account.
+               <lb/>The <date>first of November 1755</date> I partook the Lord Supper the
+               <lb/>first time with the <abbr>Cong</abbr><hi rend="underline"><hi rend="superscript"><abbr>n</abbr></hi></hi><hi rend="superscript"></hi><abbr>.</abbr> and I felt my soul and Body
+               <lb/>Penetrated there with, every time I have partaken this great
+               <lb/>Good our <abbr>d</abbr><hi rend="underline"><hi rend="superscript"><abbr>r</abbr></hi></hi><abbr>.</abbr> Saviour has been unspeakably near my heart
+               <lb/>in his <abbr>Martyr'd</abbr> form. Yet the true Sinnership was wanting
+               <lb/>still, My Misfortune was that I <abbr>look'd</abbr> more at my own
+               <lb/>wretchedness than to our <abbr>d</abbr><hi rend="underline"><hi rend="superscript"><abbr>r</abbr></hi></hi><abbr>.</abbr> Saviour, which Several times
+               <lb/>caused me to stay from the Communion. <abbr>Yea</abbr> it came so far
+               <lb/>that I <sic><abbr>sufferrd</abbr></sic><abbr> </abbr><corr><abbr>sufferd</abbr></corr> myself to be tempted by Sin, for which cause I was
+               <lb/>shut out from the Communion, but our faithful Saviour gave
+               <lb/>me an Open heart, so that I could <sic>apear</sic> <corr>appear</corr> before my Labourers as
+               <lb/>I was. <gap></gap>And now my distress being at the <sic>Heigth</sic> <corr>Height</corr> I wept so long
+               <lb/>before our Saviour <sic>untill</sic> <corr>until</corr> he anew had Mercy on me and
+                          <lb /><note type="catchword">again</note>
+
+
+                        <pb n="1" ana=".10198.26025"/>
+                        <figure n="0198-03">
+                           <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-03.jpg"/>
+                           <ab type="caption">John Jacob Ulrich, Page 3</ab>
+                        </figure>
+
+               <lb/>again admitted me to the Holy Sacrament. <gap></gap>Our Saviours faith
+               <lb/>=ful care brought me more and more into a happy Path so
+               <lb/>that I could go to him with all my Concerns and complain
+               <lb/>to him when any thing <abbr>offer'd</abbr> to Disturb my Peace. The <date>17<hi rend="underline"><hi rend="superscript">th</hi></hi><hi rend="superscript"></hi>.
+                  <lb/>of June 1763</date> I had the favour of being admitted a Member of
+               <lb/>the <orgName>Hourly Intercessors</orgName> which has been a great Blessing and
+               <lb/>futherance to my heart.&quot; <gap></gap>Thus far he wrote his Life
+               <lb/>to which we add: <gap></gap>He learnt continually more and more
+               <lb/>to commit himself to the Care of the great <sic>Physeician</sic> <corr>Physician</corr> of
+               <lb/>Soul and Body as his Patient, and found Sufficient Cause
+               <lb/>to thank and Praise him for doing so much for his Soul
+               <lb/>This he freely testified to others, and was for some Years
+               <lb/>one of the Visitors and keeper of Bands in his Choir as well
+               <lb/>as having the care of a Room committed to him. As He was
+               <lb/>very <sic>strickt</sic> <corr>strict</corr> in Matters relating to his Heart and the heart of
+               <lb/>Jesus, He was the same in all things committed to his care
+               <lb/>He was a faithful and Industrious Brother in his <sic>Busness</sic> <corr>Business</corr>
+               <lb/>and could scarce be reconciled to it when his Ill Health
+               <lb/><sic>hindred</sic> <corr>hindered</corr> him from following the same which was about
+               <lb/>three Years <sic>agon</sic> <corr>ago</corr>, and left nothing undone to recover his
+               <lb/>Strength, for which reason in the Year <date>1766</date> He took a Jour=
+               <lb/>=ney to the <placeName>Ronneberg Bath</placeName>, But it did not answer the intent
+               <lb/>At his Return he was indeed for a short time <sic>ennabled</sic> <corr>enabled</corr>
+               <lb/>to assist in the Shop, but in 3 Months time was obliged to
+               <lb/>give it up Having a Complaint in the left Hand which
+               <lb/>was obliged to be laid open and was not fully cured
+               <lb/>before his Death. <gap></gap>A Disorder in His Neck which he
+               <lb/>had been troubled with some Years was at length the means
+               <lb/>to his Release which he had long most ardently <abbr>wish'd</abbr> for
+               <lb/>He partook the Holy Sacrament in his Sick bed and then
+                          <lb/><note type="catchword">awaited</note>
+                          
+                          <pb n="4" />
+                          <figure n="0198-04">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0198a-04.jpg"/>
+                             <ab type="caption">John Jacob Ulrich, Page 4</ab>
+                          </figure>
+                          
+                          <lb />awaited the Happy Moment which would put an End to all
+                          <lb />his Pains. He was cheerful and happy having his wedding
+                          <lb/>day in view and on the <date>5th of February</date> he departed to his
+                          <lb/>wish'd for rest having nearly spent 42 years in this Life
+                          <lb/>after receiving the Blessing of his Choir and the Congregation.
+
+                       </p>
+                    </div>
+                 </div>
+
+      </body>
+  </text>
+</TEI>
