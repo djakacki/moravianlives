@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nils Paulsen: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Nils Paulsen</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+
+                 <div type="memoir">
+                    <pb n="1" ana=".10189.25971"/>
+            <figure n="0189-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-01.jpg"/>
+               <ab type="caption">Nils Paulsen, Page 1</ab>
+            </figure>
+            
+            <div type="para" n="1">
+            <p>
+               <lb/>3<hi rend="underline"><hi rend="superscript">d</hi></hi>. The Single <persName><abbr>B<hi rend="superscript">r</hi></abbr>. <hi rend="underline">Nils Paulsen</hi></persName>. He has left the following
+               <lb/>Account of his Path <abbr>thro</abbr> time. &quot;I was born at <placeName>Tondern in the
+                  <lb/>Dutchy of Hollstein</placeName> the <date>1<hi rend="underline"><hi rend="superscript">st</hi></hi>. of July 1708</date> from the age of 14
+               <lb/>My Parents put me out to service. For three Winters together
+               <lb/>I <sic>keept</sic> <corr>kept</corr> School for little Children, and Summers I <abbr>work'd</abbr> for
+               <lb/>the Farmers. In the Year <date>1729</date> I came to a Village not far
+               <lb/>from <placeName>Flensburg</placeName>, where I <sic>keept</sic> <corr>kept</corr> School 2 Years. From my tender
+               <lb/>=est Infancy I frequently felt the drawings of the Holy ghost in
+               <lb/>my heart, but did not then understand what it was. <sic>Of thines</sic> <corr>oftimes</corr>
+               <lb/>when I read in the Bible it was plain to me that the lives and
+               <lb/>Manners of Christians in our days was not suited to the Bible
+               <lb/>and I secretly <abbr>wish'd</abbr> to become a true Christian, such as are
+               <lb/>described in Holy Scripture. In the Year <date>1731</date> I was taken into
+               <lb/>a Merchants Service at <placeName>Flensburg</placeName>, and continued there 4 Years.
+               <lb/>Hitherto I had lived pretty much in Innocence and Simplicity,
+               <lb/>but now I had an <sic>Oppertunity</sic> <corr>Opportunity</corr> to become acquainted with many
+               <lb/>sorts of People, and might have easily been drawn into a
+               <lb/>worldly and sinful Life, had not an Invisible hand protected
+               <lb/>me. At length I was no longer Satisfied to live at <placeName>Flensburg</placeName>
+               <lb/>and went to <placeName>Coppenhagen</placeName> to seek my fortune, <abbr>tho</abbr> I knew not
+               <lb/>in what, I should find it, but it <abbr>happen'd</abbr> that I came pre
+               <lb/>=sently to a Brewer to learn the <sic>Busness</sic> <corr>Business</corr>, in which I made
+               <lb/>so much Progress that in less then 3 years I was able to carry
+               <lb/><note type="catchword">on</note>
+               
+               <pb n="2" ana=".10189.25972"/>
+               <figure n="0189-02">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-02.jpg"/>
+                  <ab type="caption">Nils Paulsen, Page 2</ab>
+               </figure>
+
+               <lb/>along on the <sic>Busness</sic> <corr>Business</corr> myself. But several things making
+               <lb/>me not <sic>chuse</sic> <corr>choose</corr> to stay with my Master any longer, I went
+               <lb/>to another Brew House, where I carried on the <sic>Busness</sic> <corr>Business</corr> 14 Years.
+               <lb/>During this season many things <abbr>offer'd</abbr>, which might have
+               <lb/>been a snare to me, and I was often near being drawn into
+               <lb/>sin, but Just as I was upon the Point, something <sic>allways</sic> <corr>always</corr>
+               <lb/>held me back. So that afterwards I have often <abbr>wonder'd</abbr> how
+               <lb/>it came to pass. My faithful Saviour had something better in
+               <lb/>store for me which I now enjoy. In the year <date>1735</date> I was <abbr>awaken'd</abbr>
+               <lb/>and went on some years under a great concern for my Salvation,
+               <lb/><abbr>till</abbr> the year <date>1742</date> I had a severe <sic>fitt</sic> <corr>fit</corr> of Illness. Then my Concern
+               <lb/>became real, I had no Assurance of my Salvation, and felt nothing
+               <lb/>but doubts and Fears. I <abbr>beg'd</abbr> of God to restore me to my Health, or at
+               <lb/>least not to let me <sic>dye</sic> <corr>die</corr>, <abbr>till</abbr> I knew what would become of me. As soon
+               <lb/>as I <abbr>recoverd</abbr>, I earnestly thought to amend my life, and gave myself
+               <lb/>much trouble, but nothing would do, when I thought had done my best
+               <lb/>a Circumstance would happen which quite <abbr>overturn'd</abbr> my Self Righ=
+               <lb/>=teous Building. At length in the year <date>1744</date> I became acquainted with
+               <lb/>the <abbr>Brn.</abbr> and heard of them, that only in our <abbr>d<hi rend="underline"><hi rend="superscript">r</hi></hi>.</abbr> Saviours <sic>Merrits</sic> <corr>Merits</corr>
+               <lb/>and Wounds, grace and Blessing was to be sought and <abbr>attaind</abbr>.
+               <lb/>This was agreeable to me to hear, yet I <abbr>feard</abbr> I was <sic>to</sic> <corr>too</corr> undeserving
+               <lb/>to receive it, and that <sic>keept</sic> <corr>kept</corr> me back some time. But our dear <abbr>Sav<hi rend="underline"><hi rend="superscript">r</hi></hi>.</abbr>
+               <lb/>did not desist following me, <sic>untill</sic> <corr>until</corr> I gave myself up to him just as
+               <lb/>I was, and <abbr>receivd</abbr> the <sic><abbr>offerr'd</abbr></sic> <corr><abbr>offer'd</abbr></corr> grace and Salvation gratis. By which
+               <lb/>Means my heart was at Peace and I <abbr>obtaind</abbr> the Forgiveness of my
+               <lb/>Sins and a Childlike Confidence in our Saviour. And <sic><abbr>alltho</abbr></sic> <corr><abbr>altho</abbr></corr> I
+               <lb/>afterwards often <abbr>griev'd</abbr> him, yet he never <sic>forsook</sic> <corr>forsaken</corr> me, but <sic>allways</sic> <corr>always</corr>
+               <lb/><abbr>pardon'd</abbr> me anew, and gave me to find his gracious Countenance <add>was</add> <abbr>turn'd</abbr>
+               <lb/>towards me. I became tired of my hard Labour in the Brew House
+               <lb/>in which our <abbr>d<hi rend="underline"><hi rend="superscript">r</hi></hi>.</abbr> Saviour had <abbr>prosperd</abbr> me in temporals greatly,
+               <lb/>and left my Abode without knowing rightly what I would under=
+               <lb/>=take: At first I thought I would visit my Parents in <placeName>Hollstein</placeName>, and
+               <lb/>childlikely <abbr>believ'd</abbr> that then, my further Path would be <abbr>shew'd</abbr> me.
+               <lb/>Our Saviour <abbr>order'd</abbr> it so, that Just as I was going to <sic>sett</sic> <corr>set</corr> out got <placeName>Holl=
+                  <lb/>stein</placeName>, <persName><abbr>Br.</abbr> Cröger</persName> went to visit the <abbr>Cong<hi rend="underline"><hi rend="superscript">n</hi></hi>.</abbr> I laid <sic>asside</sic> <corr>aside</corr> my intended
+               <lb/>Journey and went with him without considering <sic>wether</sic> <corr>whether</corr> I would go
+               <lb/>to visit, or to stay there. But on the way thither it was made
+               <lb/>out to me that I should spend the Remainder of my days in the <abbr>Cong<hi rend="underline"><hi rend="superscript">n</hi></hi>.</abbr>
+               <lb/>We <sic>arived</sic> <corr>arrived</corr> there in <date>May 1754</date> and our Saviour granted my Request
+               <lb/><note type="catchword">and</note>
+
+               <pb n="2" ana=".10189.25973"/>
+               <figure n="0189-03">
+                  <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0189a-03.jpg"/>
+                  <ab type="caption">Nils Paulsen, Page 3</ab>
+               </figure>
+
+               <lb/>and I obtaind leave to stay <unclear>there,</unclear> in <date>June</date> following I was <sic><abbr>recievd</abbr></sic> <corr><abbr>receivd</abbr></corr> into the
+               <lb/><abbr>Cong<hi rend="underline"><hi rend="superscript">n</hi></hi><hi rend="superscript"></hi>.</abbr> and became Candidate to the Lord Supper the same Month
+               <lb/>was <abbr>confirm'd</abbr> to the same in <date>July</date> and then removed hither to <placeName>Niesky</placeName>
+               <lb/>The <date>13<hi rend="underline"><hi rend="superscript">th</hi></hi>. of August</date> I was admitted to the Holy Sacrament in the Church
+               <lb/>at <placeName>Berthelsdorf</placeName>, which was an unspeakable grace &amp; Blessing to me
+               <lb/>Our Saviour be <abbr>thank'd</abbr> for all the Blessings, which he gives me
+               <lb/>to enjoy in the <abbr>Cong<hi rend="underline"><hi rend="superscript">n</hi></hi>.</abbr> <gap></gap>Thus far his Own Words. -
+               <lb/>Our <abbr>d<hi rend="underline"><hi rend="superscript">r</hi></hi><hi rend="superscript"></hi>.</abbr> Brother was <abbr>employ'd</abbr> in Many Services in his Choir House
+               <lb/>and <abbr>perform'd</abbr> all things committed to him with great care and
+               <lb/><sic>Fidellity</sic> <corr>Fidelity</corr>, Particularly he made it his chief concern diligently to
+               <lb/>Oversee and have the care of the Information of those Boys
+               <lb/>who was appointed to learn Trades in the <abbr>Brns</abbr> House, which
+               <lb/>he continued the Charge of, from the year <date>1755</date> to his happy
+               <lb/>End. He took part in Joy and Sorrow with them, and <sic>allway</sic> <corr>always</corr> bore
+               <lb/>them on his Heart like a faithful Father. In the year <date>1756</date> he
+               <lb/>became a Member of the <orgName>Intercessors Company</orgName>, and in the year
+               <lb/><date>1758</date> a fellow Labourer in his Choir. When the Choir Discipleship
+               <lb/>was settled here in <placeName>Niesky</placeName>, he became one of the Number, and
+               <lb/>was this year one of the <abbr>Cong<hi rend="underline"><hi rend="superscript">n</hi></hi>.</abbr> Disciples. <gap></gap>Ever since the year
+               <lb/><date>1765</date> He was alms gatherer and Sick Waiter in the <abbr>Brns</abbr> House,
+               <lb/>It was a Peculiar Pleasure to him, to <sic>asist</sic> <corr>assist</corr> the poor and the sick,
+               <lb/>he made <sic>strickt</sic> <corr>strict</corr> <sic>inquirey</sic> <corr>inquiry</corr> into their Necessities, and our Saviour
+               <lb/><abbr>Prosperd</abbr> all that he undertook- neither did he forget them in his
+               <lb/>last will. In general his Walk among us was Patriarchal, and
+               <lb/>every One that knew him respected him, as his whole <sic>Cariage</sic> <corr>Carriage</corr>
+               <lb/>was Edifying. <gap></gap>His Heart was firm and childlikely <abbr>attach'd</abbr> to
+               <lb/>our Saviour, and he could not sufficiently express his Joy and
+               <lb/>thankfulness for his grace Election. <gap></gap>When he spoke of the Sensations
+               <lb/>of his Heart, it was <sic>allways</sic> <corr>always</corr> Sinnerlike &amp; Humble, and often drew
+               <lb/>Tears from his Eyes that our Saviour had been so merciful to him,
+               <lb/>and his love <gap></gap>was so <sic>difficient</sic> <corr>deficient</corr>. Whenever he thought he had been
+               <lb/>too Severe towards any one, he was heartily sorry for it. and his last
+               <lb/>Request was: that in his Name the whole Choir, young and old might
+               <lb/>be intreated to pardon his failings. <gap></gap>Towards the <date>End of April</date>
+               <lb/>an increasing Weakness obliged him to take to the Sick Room
+               <lb/>yet he took care of his Offices almost <abbr>till</abbr> the last day of his Life.
+               <lb/>He saw his approaching End with Joy, for he was ready, &amp; knew
+               <lb/>his Lords Mind. The day before his departure the text for the day being
+               <lb/>read to him, the antiphon of which was: <hi rend="underline">We follow all, to gladness Hall</hi>
+               <lb/>He cried out Oh that it may be soon! This his Wish was granted him on
+               <lb/><date>21<hi rend="superscript">st</hi> of October</date> when he fell asleep with the blessing of his Choir aged <unclear>62</unclear>
+
+           
+            </p>
+            </div>
+                 </div>
+
+
+      </body>
+  </text>
+</TEI>

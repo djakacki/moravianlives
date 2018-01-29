@@ -2,13 +2,13 @@ TEI Memoirs
 
 (These files have been transformed into TEI)
 
+tenser.xml (January 26, 2018)
 
+John Jacob Ulrich: ulrich.xml (January 24, 2018)
 
-John Jacob Ulrich: ulrich.xml (January 26, 2018)
+John Friedrich Gocht: gocht.xml (January 24, 2018)
 
-John Friedrich Gocht: gocht.xml (January 26, 2018)
-
-Georg Jacob Engelbach: engelbach.xml (January 26, 2018)
+Georg Jacob Engelbach: engelbach.xml (January 24, 2018)
 
 
 _pre-January 5_
