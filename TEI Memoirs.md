@@ -2,6 +2,9 @@ TEI Memoirs
 
 (These files have been transformed into TEI)
 
+
+Nils Paulsen: paulsen.xml (January 29, 2018)
+
 tenser.xml (January 26, 2018)
 
 John Jacob Ulrich: ulrich.xml (January 24, 2018)
