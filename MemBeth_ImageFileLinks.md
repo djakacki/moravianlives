@@ -1292,7 +1292,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-21.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-22.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0191a-23.jpg<br />
 
-__?? Where is 0192?<br />
+[no images for #0192]<br />
 
 Anna Barbara Götje (0193)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0193a-01.jpg<br />
@@ -1416,6 +1416,35 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0211a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0211a-04.jpg<br />
 
 ***There are no numbers 0212-0221: David Nitschmann, Anna Stotz, Joachim Senseman, Anna Senseman, Gottlob Sensemann, Maria Froelich, Margaretha Edmonds, Timothy Horsfield, Johanna Parsons.
+
+__ David Nitschmann (0212)<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-01.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-07.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-08.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-09.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-10.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-11.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-12.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-13.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-14.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-15.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-16.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-17.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-18.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-19.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-20.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-21.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-22.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-23.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-24.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-25.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-26.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-27.jpg<br />
 
 Maria Elizabeth Losch (0222 - listed as 0419 in spreadsheet) <br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0222a-01.jpg<br />  
