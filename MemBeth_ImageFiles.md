@@ -2449,7 +2449,6 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0345a-11.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0345a-12.jpg<br />
 
 Charlotte Louise Reuss<br />
-***1st page missing
 http://moravianlives.bucknell.edu/MAB/MemBeth_0346a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0346a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0346a-03.jpg<br />
@@ -2548,8 +2547,7 @@ Gottfried Grabs (0354)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0354a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0354a-02.jpg<br />
 
-Sara Grube (0355)
-**pages out of order<br />
+Sara Grube (0355)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0355a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0355a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0355a-03.jpg<br />
@@ -2637,7 +2635,6 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0361d-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0361d-03.jpg<br />
 
 Esther Weiss (0362)<br />
-***pages out of order
 http://moravianlives.bucknell.edu/MAB/MemBeth_0362a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0362a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0362a-03.jpg<br />
@@ -2931,7 +2928,6 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0388a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0388a-02.jpg<br />
 
 Rahel Edmonds (0389)<br />
-***pages out of order
 http://moravianlives.bucknell.edu/MAB/MemBeth_0389a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0389a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0389a-03.jpg<br />
