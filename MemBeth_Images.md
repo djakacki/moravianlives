@@ -1415,7 +1415,9 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0211a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0211a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0211a-04.jpg<br />
 
-David Nitschmann (0212)<br />
+***There are no numbers 0212-0221: Gottlob Sensemann, Maria Froelich, Margaretha Edmonds, Timothy Horsfield, Johanna Parsons.
+
+__ David Nitschmann (0212)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0212a-03.jpg<br />
@@ -1448,86 +1450,13 @@ Anna Stotz (0213)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0213a-01.jpg<br /> 
 http://moravianlives.bucknell.edu/MAB/MemBeth_0213a-02.jpg<br /> 
 
-Joachim Senseman (0214)<br />
+Joachim and Anna Senseman<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-03.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-04.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-05.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0214a-06.jpg<br />
-
-Anna Senseman (0215)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0215a-01.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0215a-02.jpg<br />
-
-Gottlieb Senseman (0216)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-01.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-02.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-03.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-04.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-05.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-06.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-07.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-08.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-09.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-10.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-11.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-12.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-13.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-14.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-15.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-16.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-17.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-18.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-19.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-20.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-20.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-21.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-22.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-23.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-24.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-25.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-26.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-27.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-28.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-29.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-30.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-31.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-32.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-33.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-34.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-35.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-36.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-37.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-38.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-39.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-40.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-41.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0216a-42.jpg<br />
-
-Maria Froelich (0217)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0217a-01.jpg<br />
-
-Margaretha Edmonds (0218)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0218a-01.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0218a-02.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0218a-03.jpg<br /> 
-
-Timothy Horsfield (0219)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0219a-01.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0219a-02.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0219a-03.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0219a-04.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0219a-05.jpg<br />
-
-Maria Horsfield (0220)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0220a-01.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0220a-02.jpg<br /> 
-
-Johanna Parsons (0221)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0221a-01.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0221a-02.jpg<br /> 
-http://moravianlives.bucknell.edu/MAB/MemBeth_0221a-03.jpg<br />
 
 Maria Elizabeth Losch (0222 - listed as 0419 in spreadsheet) <br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0222a-01.jpg<br />  
