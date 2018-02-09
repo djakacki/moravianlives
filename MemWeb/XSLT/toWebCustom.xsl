@@ -35,9 +35,15 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
 
+<!-- This keeps the linebreaks that were established in the transcription -->
+    <xsl:template match="tei:lb">       
+        <br/><xsl:apply-templates/>       
+    </xsl:template>
+
     <xsl:template match="tei:pb">
         <p><xsl:apply-templates/></p>
     </xsl:template>
+
 
 <!-- This hides the sic spelling, leaving only the correct spelling -->
     <xsl:template match="tei:sic"/>        
