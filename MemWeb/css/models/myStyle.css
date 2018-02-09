@@ -1,0 +1,38 @@
+html{
+    margin:5em;
+    padding:5em;
+}
+
+body{
+    background:#D5EEE0;
+}
+
+h3{
+    font-family: 'Aclonica';
+    color:#02391B;
+    font-size:22px;
+}
+
+h4 {
+	font-family: 'Aclonica';
+	font-size: 18px;
+	color: #125130;
+}
+
+p {
+    font-family: 'Cagliostro';
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+a:link {
+    color:#19779C;
+}
+a:hover {
+    color:#47ABD3;
+}
+
+a:visited {
+    color:#613B7A;
+}
