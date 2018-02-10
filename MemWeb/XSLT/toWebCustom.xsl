@@ -54,12 +54,6 @@
         <img src="{@url}"/><br />
     </xsl:template>
 
-<!-- This presents the caption -->
-    <xsl:template match="tei:ab">
-        <xsl:text>(</xsl:text>
-        <em><xsl:apply-templates/></em>
-        <xsl:text>)</xsl:text>
-    </xsl:template>
     
 <!-- This hides the sic spelling, leaving only the correct spelling -->
     <xsl:template match="tei:sic"/>        
@@ -69,6 +63,11 @@
         <sup xmlns="http://www.w3.org/1999/xhtml">
             <xsl:value-of select="."/>
         </sup>
+    </xsl:template>
+    
+    <xsl:template match="tei:l">
+        <br><xsl:apply-templates/>
+        </br>
     </xsl:template>
 
 <!-- This captures the catchword form of note  -->
