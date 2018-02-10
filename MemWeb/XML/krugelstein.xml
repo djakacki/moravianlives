@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -15,14 +15,12 @@
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
-               <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
-               <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
                <persName>Diane Jakacki</persName>
@@ -65,16 +63,6 @@
             <p>The Life of Ann Krugelstein</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-      <listPrefixDef>
-         <prefixDef ident="pers" matchPattern="([A-Za-z0-9_-]+)"
-            replacementPattern="personography_test.xml#$1">
-            <p>Private URIs using the <code>pers</code> prefix are pointers to entities in the
-               personography_test.xml file. For example, <code>pers:#ML14417</code> dereferences to
-               <code>personography_test.xml#ML14417</code>, which is Zinzendorf.</p>
-         </prefixDef>
-      </listPrefixDef>
-      </encodingDesc>
    </teiHeader>
   <text>
       <body>
@@ -85,10 +73,12 @@
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0250a-01.jpg"/>
                <ab type="caption">Ann Krugelstein, Page 1</ab>
             </figure>
-            
+                    
+                    <head>Life of the Widow, Sister <persName><hi rend="underline">Ann Krügelstein</hi></persName></head>
+                                  
             <div type="para" n="1">
             <p>
-               <lb/>Life of the Widow, Sister <persName><hi rend="underline">Ann Krügelstein</hi></persName> by 
+               <lb/> by 
                <lb/>Maiden Name <persName sameAs="Krugelstein">Gold</persName> of <placeName>Moravia</placeName> who departed in <placeName>Herrnhut</placeName>
                <lb/><date>Apr. 30th 1778</date>. She has left the following remarkable Account of
                <lb/>the Grace &amp; Mercy the Lord bestowed upon her during her Life.</p>
@@ -122,11 +112,11 @@
                      <ab type="caption">Ann Krugelstein, Page 2</ab>
                   </figure>
                   <lb/>me upon this Occasion into a particular School , stirred
-                  <lb/>up in my a <trait> emotion="happy">Confidence to God</trait></p>, so that I could converse
+                  <lb/>up in my a Confidence to God, so that I could converse
                   <lb/>with him quite familiarly, &amp; preserved me in many Dan, 
                   <lb/>gers from Deviations, giving me an Admonition when 
                   <lb/>I was not on the right Track. He at the same time wrought 
-                  <lb/>in me a <trait> emotion="fear">Fear of falling into Sin</trait>, and granted me the 
+                  <lb/>in me a Fear of falling into Sin, and granted me the 
                   <lb/>Grace to speak uprightly with my Parents about every
                   <lb/>Thing. By which means I escaped many Temptations
                   <lb/>of the Enemy of my Soul.</p>
