@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -182,7 +182,8 @@
                   <lb/>1000 times to <sic>praisse</sic>
                   <corr>praise</corr>, &amp; 1000 <sic>Thancks</sic>
                   <corr>Thanks</corr> are not <lb/><note type="catchword">enough</note>
-                  <cb/>
+
+<pb type="double_right"/>
                   <lb/>enough for all what he has done on my poor <lb/>Soul. She repeated very
                   often: O my dearest <lb/>Lord, nothing but thine Blood &amp; <sic>Suffring</sic>
                   <corr>Suffering</corr> &amp; Wounds <lb/>is it, which has taken &amp; captivated
@@ -195,8 +196,6 @@
                </p>
             </div>
          </div>
-
-
 
       </body>
    </text>

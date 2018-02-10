@@ -20,14 +20,16 @@
             <head>
                 <xsl:comment>This document is generated from a TEI Master--do not edit!</xsl:comment>
                 <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
-                <link rel="stylesheet" type="text/css" href="../css/style2.css"/>
+                <link rel="stylesheet" type="text/css" href="../CSS/MemStyle.css"/>
             </head>
             <body><xsl:apply-templates select="tei:text"/></body>
         </html>
     </xsl:template>
-    
+
+<!-- This should be used for the "title" of the memoir -->
     <xsl:template match="tei:head">
-        <h3><xsl:apply-templates/></h3>
+        <hr />
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
 
 <!-- This breaks the text into paragraphs as marked up in text (not the same as pages) -->
@@ -35,16 +37,30 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
 
-<!-- This keeps the linebreaks that were established in the transcription -->
+<!-- This keeps the linebreaks that were established in the transcription 
     <xsl:template match="tei:lb">       
-        <br/><xsl:apply-templates/>       
+        <br/><xsl:apply-templates/>   
+    </xsl:template> -->
+
+
+<!-- This presents the image and caption -->
+    <xsl:template match="tei:figure">
+        <br />
+        <xsl:apply-templates/>
+        <br />
+    </xsl:template>
+    
+    <xsl:template match="tei:graphic">
+        <img src="{@url}"/><br />
     </xsl:template>
 
-    <xsl:template match="tei:pb">
-        <p><xsl:apply-templates/></p>
+<!-- This presents the caption -->
+    <xsl:template match="tei:ab">
+        <xsl:text>(</xsl:text>
+        <em><xsl:apply-templates/></em>
+        <xsl:text>)</xsl:text>
     </xsl:template>
-
-
+    
 <!-- This hides the sic spelling, leaving only the correct spelling -->
     <xsl:template match="tei:sic"/>        
     
@@ -54,10 +70,10 @@
             <xsl:value-of select="."/>
         </sup>
     </xsl:template>
-    
-    <xsl:template match="tei:note">
-        <xsl:apply-templates/>
-        <br />
+
+<!-- This captures the catchword form of note  -->
+    <xsl:template match="tei:note[@type='catchword']">
+        <h5><xsl:apply-templates/></h5>
     </xsl:template>
 
 </xsl:stylesheet>
