@@ -6,19 +6,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir
-               <lang>English</lang>
-            </title>               
+            <title>Andrew: Memoir <lang>English</lang>
+            </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-               <orgName>Bucknell University</orgName>
+                  <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
-               <orgName>University of Gothenburg</orgName>
+                  <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -58,53 +57,166 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-            </availability>               
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of [NAME]</p>
+            <p>The Life of Andrew</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
 
-<!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. AFTERWARD, JUST START WITH <pb>
-                 <div type="memoir">
-            <pb n="1" ana="[REF TO MEDIAWIKI FILE NUMBER"/>
-            <figure n="[REF TOMEMOIR#-PAGE#">
-               <graphic url="[LINK TO FILE ON SERVER"/>
-               <ab type="caption">[NAME OF MEMOIR SUBJECT, Page 1</ab>
-            </figure>
-            
-            <div type="para" n="#">
-            <p>
-Der sel<i>ige</i> Bruder Andrew der Mohr hat von seinem Lauff folgendes aufsetzen lassen.<!--more-->
+         <div type="memoir">
+            <pb n="1"/>
+            <!--<figure>
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-01.jpg"/>
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-02.jpg"/>
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-03.jpg"/>
+            </figure>-->
+            <div>
+               <p> Der sel<hi rend="italic">ige</hi> Bruder Andrew der Mohr hat von seinem Lauff
+                  folgendes aufsetzen lassen. </p>
 
-Ich Andreas der Mohr, bin in Ibo <span style="text-decoration: line-through">Eboe</span> land, in dem unbekannten Teil von Africa geboren u. wurde nach dem Gebrauch meiner Nation, da ich 8. tage alt war, beschnitten.  Mein Nahme war Ofodobendo Wooma.  Mein Vater starb da ich etwa 8. Jahr alt war u. mein Bruder, der selber 5. Kind<i>er</i> hatte u. arm war, nahm mich zu sich; aber nicht lange darauf borgte er von einem Mann 2. Ziegen auf 2. Jahr u. gab mich ihm dafür zum Pfand, daß er mich wieder geben solte, wenn er die Ziegen zurück empfinge.  Er wartete aber nicht darauf<a title="" href="#_ftn1">*</a> <span style="text-decoration: line-through">sondern</span> und verkaufte mich nach einer Jahres Zeit an einen andern.  Ich wurde in kurzer Zeit oft gekauft u. wieder verkaufft u. kam von einer Nation zur anderen, deren Sprache ich nicht verstund, bis ich an ein grosses Revier Nemils genannt gebracht wurde, wo mich ein Handelsman des landes kaufte, mich kleidete u. mit seinem Diener in seinem Hause lies.  Wenig Wochen drauf brachte mich der Diener auf Befehl seines Meisters in ein Haus nicht sehr weit ab. Da ich im Hause war, wurde ich gleich drinnen verschlossen.  Ich erschrack u. zitterte vor Angst, da ich mich in einem Platze sah, wo wenigstens 50. Köpfe von getödteten Menschen rund herum hiengen.  Das war das Haus eines Menschen-Fressers, obgleich diese Nation überhaupt keine Menschen-Fresser, so essen doch welche Menschen Fleisch um barbarisch und gros zu thun.  Ich erwartete da gleich geschlachtet zu werden, u. sie schönen Appetit für mich zu haben, weil ich jung war.  Mein Begleiter forderte aber mehr für mich als sie geben wollten, er nahm mich deswegen wieder mit, brachte mich wieder an besagtes Revier, nahm mir da meine Kleider u. verkauffte mich an einen der in das Land hinein handelte.  Ich wurde gleich auf ein Fahrzeug gebracht mit einer Anzahl anderer, deren Sprache ich nicht verstund, das that mit sehr wehe, bis ich ein Mädgen aus meiner Landschaft fand, welches mich sehr tröstete.  Die ersten 3od<i>er</i> 4 Tage gaben sie mir nichts zu essen u. nichts zu trinken, als Schweinefleisch, welches in meinem Lande verboten ist zu essen.  Wer Schweinsfleisch isset, den hassen u. scheuen die anderen als einen sehr bösen Menschen.
-Weil ich fast verhungert war, wurde ich endlich genöthigt ein wenig /// davon zu essen.  Wir wurden auf die Küste in Guinea gebracht, ich u. das Mädgen hielten uns da zusammen und erwarteten wie es uns gehen werde.  Einen Morgen wurden wir entsetzlich erschreckt, da wir 2. weiße Leute auf uns zu kommen sahen.  Wir dachten gewiß, daß sie Teufels wären, die uns holen wollten, denn wir hatten nie zuvor einen weissen Menschen gesehen u. hatten in unserem Leben nie gehört, daß es solche Menschen gebe.  Einer von ihnen, der Captain von einem Schiff, winckte uns, daß wir ihm folgen sollten, welches wir mit großer Furcht thaten u. wurden auf das Schiff gebracht, wo wir 3. oder 4. Neger sahen u. erwarteten alle Augenblick, daß man uns niederschlagen werde.  Da aber die Lucke im Schiff aufgemacht wurde u. etwa 60. Schwarze herauskamen, so vergieng unser Furcht u. ich tröstete mich, daß es mir gehen werde wie ihnen.  Wir wurden nach Antigua gebracht, wo ich mit etwa 30. anderen an einen Captain von N'york verkaufft wurde, welcher mich in Nyork an einen Juden verkauffte, der nennte mich York.
+               <p> Ich Andreas der Mohr, bin in Ibo <del>Eboe</del> land, in dem unbekannten Teil
+                  von Africa geboren u. wurde nach dem Gebrauch meiner Nation, da ich 8. tage alt
+                  war, beschnitten.  Mein Nahme war Ofodobendo Wooma.  Mein Vater starb da ich etwa
+                  8. Jahr alt war u. mein Bruder, der selber 5. Kind<hi rend="italic">er</hi> hatte
+                  u. arm war, nahm mich zu sich; aber nicht lange darauf borgte er von einem Mann 2.
+                  Ziegen auf 2. Jahr u. gab mich ihm dafür zum Pfand, daß er mich wieder geben
+                  solte, wenn er die Ziegen zurück empfinge.  Er wartete aber nicht darauf<note
+                     n="1">er legte mir eine Tobacks Pfeife in den Weg, dass ich die zertrat und das
+                     nahm er dann zur Ursache</note>
+                  <hi rend="strikethrough">sondern</hi> und verkaufte mich nach einer Jahres Zeit an
+                  einen andern.  Ich wurde in kurzer Zeit oft gekauft u. wieder verkaufft u. kam von
+                  einer Nation zur anderen, deren Sprache ich nicht verstund, bis ich an ein grosses
+                  Revier Nemils genannt gebracht wurde, wo mich ein Handelsman des landes kaufte,
+                  mich kleidete u. mit seinem Diener in seinem Hause lies.  Wenig Wochen drauf
+                  brachte mich der Diener auf Befehl seines Meisters in ein Haus nicht sehr weit ab.
+                  Da ich im Hause war, wurde ich gleich drinnen verschlossen.  Ich erschrack u.
+                  zitterte vor Angst, da ich mich in einem Platze sah, wo wenigstens 50. Köpfe von
+                  getödteten Menschen rund herum hiengen.  Das war das Haus eines Menschen-Fressers,
+                  obgleich diese Nation überhaupt keine Menschen-Fresser, so essen doch welche
+                  Menschen Fleisch um barbarisch und gros zu thun.  Ich erwartete da gleich
+                  geschlachtet zu werden, u. sie schönen Appetit für mich zu haben, weil ich jung
+                  war.  Mein Begleiter forderte aber mehr für mich als sie geben wollten, er nahm
+                  mich deswegen wieder mit, brachte mich wieder an besagtes Revier, nahm mir da
+                  meine Kleider u. verkauffte mich an einen der in das Land hinein handelte.  Ich
+                  wurde gleich auf ein Fahrzeug gebracht mit einer Anzahl anderer, deren Sprache ich
+                  nicht verstund, das that mit sehr wehe, bis ich ein Mädgen aus meiner Landschaft
+                  fand, welches mich sehr tröstete.  Die ersten 3od<hi rend="italic">er</hi> 4 Tage
+                  gaben sie mir nichts zu essen u. nichts zu trinken, als Schweinefleisch, welches
+                  in meinem Lande verboten ist zu essen.  Wer Schweinsfleisch isset, den hassen u.
+                  scheuen die anderen als einen sehr bösen Menschen. Weil ich fast verhungert war,
+                  wurde ich endlich genöthigt ein wenig /// davon zu essen.  Wir wurden auf die
+                  Küste in Guinea gebracht, ich u. das Mädgen hielten uns da zusammen und erwarteten
+                  wie es uns gehen werde.  Einen Morgen wurden wir entsetzlich erschreckt, da wir 2.
+                  weiße Leute auf uns zu kommen sahen.  Wir dachten gewiß, daß sie Teufels wären,
+                  die uns holen wollten, denn wir hatten nie zuvor einen weissen Menschen gesehen u.
+                  hatten in unserem Leben nie gehört, daß es solche Menschen gebe.  Einer von ihnen,
+                  der Captain von einem Schiff, winckte uns, daß wir ihm folgen sollten, welches wir
+                  mit großer Furcht thaten u. wurden auf das Schiff gebracht, wo wir 3. oder 4.
+                  Neger sahen u. erwarteten alle Augenblick, daß man uns niederschlagen werde.  Da
+                  aber die Lucke im Schiff aufgemacht wurde u. etwa 60. Schwarze herauskamen, so
+                  vergieng unser Furcht u. ich tröstete mich, daß es mir gehen werde wie ihnen.  Wir
+                  wurden nach Antigua gebracht, wo ich mit etwa 30. anderen an einen Captain von
+                  N'york verkaufft wurde, welcher mich in Nyork an einen Juden verkauffte, der
+                  nennte mich York. </p>
+               <p> Das war 1741. und ich war damals etwa 12. Jahre alt. </p>
 
-Das war 1741. und ich war damals etwa 12. Jahre alt.
+               <p> Das erste Jahr hatte ich nichts zu thun, als mit anderen Jungen in der Straße zu
+                  lauffen, wo ich viel Gottlosigkeit lernte. Im 2ten Jahr wollte mich mein Meister
+                  nach Madeira verkauffen für eine Pfeiffe Wein, darüber war ich sehr bekümmert,
+                  sagte es einigen Nachbarn u. fragte um ihren Rath. Sie sagten, sie könten mir
+                  nicht helffen, ich sollte Gott bitten, mir zu helfen.  Ich fragte wie und was ich
+                  beten solle. Sie lernten mich das Gebet des Herrn.  Des Abends kniete ich nieder
+                  u. sagte:  O Herr, unsere Nachbarn sagen, du seyst so sehr gut u. du gäbest
+                  jedermann was er von dir bittet. Wenn du mir zu einem guten Meister in dieser
+                  Stadt helfen willt (sic), so will ich dich darauf lieben.  Tages drauf bot mich
+                  mein Meister den Mr. Noble an, welchem er schuldig war u. Bruder Henry van Fleck
+                  (sein Clerk od apprentice) holte mich.  Mr Noble wollte mich zu meinr großen
+                  Betrübniß nicht haben, weil ich zu jung u. zu schwach zu seiner Arbeit schien. 
+                  Nachdem ich zum 2ten Mal zu ihm gebracht u. aus dem Grunde wieder rufusirt worde
+                  (sic) erzählte ich es unseren Nachbarn: daß Mr. Noble eine Neigung hätte mich zu
+                  kauffen, wenn ich stärker wäre; sie sagten darauf; es sey kein beßerer Mann in
+                  Nyork als er, ich sollte ja den Herrn bitten, ihn zu disponieren, daß er mich
+                  kauffe, welches ich denselben Abend that u. sagte zu meinem unbekannten Herrn, daß
+                  unsre Nachbarn hätte(n) Ihn mir wieder sehr gnädig beschrieben u. den Mr. Noble
+                  als einen sehr guten Meister u. wenn Er es so fügen wolle, daß ich zu Mr. Noble
+                  käme, so wolle ich Ihn hernach immer lieb habn. </p>
+               <p> Den Tag drauf wurde ich mit einem anderen Neger- Knaben in Mr. Nobles Haus
+                  gebracht und zu einer Probe auf 4. Wochen.  Zu Ende derselben wurde der andere
+                  Knabe zurückgeschickt u. ich wurde von Mr. Noble gekauft. Um diese Zeit kamen die
+                  ersten Brüder nach Nyork u. logirten bey Mr. Noble.  Sie sagten mir oft, daß unser
+                  Heiland sein Blut für mich u. alle Schwarzen Menschen vergossen habe u. daß er
+                  mich und alle eben so lieb habe, als die weissen Leute, welches ich nicht glaubte
+                  sondern dachte, daß Gott nur die Personen liebe, die eine Figur in der Welt
+                  machen, Reichthümer besitzen usw.  Ich resolvirte aber doch, es wo möglich
+                  auszufinden, ob es wahr sey, was ich so oft von den Brüdern hörte.  Mr Noble
+                  schickte mich in die Schule u. weil ich sehr begierig war, so lernte ich in
+                  weniger als einem halben Jahr lesen.  Von der Zeit an hatte ich immer das N.
+                     Test<hi rend="italic">ament</hi> oder ein ander gutes Buch im Sack u. las
+                  drinnen wo ich Zeit u. Gelegenheit dazu hatte.  Mr. Noble hatte mit seiner Familie
+                  morgens u. abends Gebet u. ob ich gleich oft in derselben Stube war, so betete ich
+                  doch nie mit, sondern kroch in einen Winckel, gieng darauf in meine Kammer u.
+                  betete u. that wie ich von ihnen gesehen u. gehöret hatte, bis mir die Mrs Noblin
+                  einmal sagte, daß weil unser Heiland so wol für mich als für sie gelitten habe u.
+                  gestorben sey, so könnte ich so selig seyn wie sie u. ich sollte mit ihnen beten,
+                  welches ich denn that. Ich repetirte es aber, immer in meiner Cammer wenn ich
+                  allein war.  Ich war sehr ängstlich um meine Seligkeit u. suchte sie durch eigene
+                  Kraft zu erhalten.  Ich nahm mir oft des Morgens vor, nach meines Meisters
+                  Ermahnung, meine Arbeit den Tag fröhlich zu thun, mit jedermann in Liebe zu
+                  handeln und beständig zu beten, aber leider es kam oft balde nach der resolution
+                  etwas vor, das mich für den Tag das Ziel errückte u. mich in Angst brachte, daß
+                  ich mir nicht wieder zu beten getrauete, bis den nächsten Tag, da ich hoffte der
+                  Herr werde mein Vergehen vergessen haben.  Es überfiel mich oft bey dem Gebet in
+                  meiner Kammer eine solche Furcht, daß ich dachte, der Teufel stünde hinter mir. 
+                  Einmal da ich dieses harten u. mühsamen Weges zur Seligkeit gantz müde war u.
+                  keine Möglichkeit sah meinen Zweck zu erreichen, resolvirte ich mich zum Fenster
+                  hinauszustürzen, und so ein Ende von meinem sündigen Leben zu machen.  Ich stund
+                  schon in der Öffnung u. wollte den Sprung thun, da war es als ob mich jemand
+                  zurück zöge, ich kam darüber zu mir selbst u. bat mit tausend Thränen den Heiland
+                  um Vergebung.  Von der Zeit an kriegte ich meine Unwürdigkeit u. Unvermögenheit
+                  tägl. zu erkennen u. des Heilands Liebe u. Barmherzigkeit u. sein verdienstliches
+                  Leiden u. sterben machten einen solchen Eindruck in meinem Herzen, daß ich nichts
+                  so sehr wünschte als ein wahrer Schmerzens-Lohn Jesu zu werden u. auch ein Glied
+                  der Brüder-Gemeine.  Ich hatte oft ein großes Verlangen getauft zu werden u. Mr.
+                  Whitefield offerirte sich einmal mich zu tauffen.  Mr Noble lehnte es aber ab.  Zu
+                  Ende des Jahres 1745 erlaubte mir Mr Noble nach Bethlehem zu gehen wo ich mit den
+                  Brüdern W<hi rend="italic">illia</hi>m Edmonds u. John Hopson den 9. Jan. 1746 mit
+                  einem frölichen Herzen ankam.  Ich hatte mit Br. Nathanael verschiedene gesegnete
+                  Unterredungen u. eröffnete ihm mein gantzes Herz.  Etlich Wochen nach mir kam Mr.
+                     Noble<note n="2">der mich dem Bruder Spangenberg geschenkt hatte</note> (mein
+                  Meister) auch nach Bethlehem, zu einem Synod.  Während seines Aufenthaltes wurde
+                  ich d. 15. Febr. n. St. durch Bruder Christian Rauch in Jesu Tod getaufft u.
+                  Andreas genennt.  (Er war der erste Neger den die Brüder in Pennsylv. taufften) 
+                  Es ist mir unmöglich die Seligkeit meines Herzens, die ich dabey fühlte zu
+                  beschreiben. Den darauf folgenden Sabbath hatte ich die große Gnade den Leib u.
+                  das Blut meines l. Erlösers im h. Sacrament mit der Gemeine zu geniessen.  Im
+                  April desselben Jahres gieng ich nach Nyork, den Mr. Noble in seiner Krankheit zu
+                  bedienen u. nach seinem Verscheiden kehrte ich nach meinem lieben Bethlehem
+                  zurück.  So weit seine Nachricht. </p>
+               <p> 1762 den 21. Jan. wurde er hier mit der nunmehrigen Witwe, Magdalene, zur h. Ehe
+                  verbunden welche der l. Heiland mit 3. Kindergen segnete, wovon sich nur ein
+                  Söhnlein Andreas eine kurze Zeit über der Hütte sehnte.  Unser seliger Bruder
+                  gieng einen seligen erbaulichen Gang in der Gemeine u. es war ihm ein wahres
+                  Vergnügen, wenn er einem armen schwarzen etwas vom Heiland sagen konnte.  Er
+                  erzehlte gern was der Heiland an seiner Seele gethan.<note n="3">und seine
+                     Gnadenwahl, dass er aus der Finternis ins Licht und von der Gewalt des Satans
+                     zu Gott und in die Gemeine der Glaübigen gekommen, war ihm immer sehr gross und
+                     wichtig</note>  In seinen äußeren Geschäften war er treu u. fleißig.  Seit
+                  etlichen Jahren war er mit einem starken Husten beschwert.  Seine Sehnsucht bey
+                  dem Herren daheim zu seyn, wurde zuletzt so, daß er das selige Stündlein kaum
+                  erwarten konnte u. oft seufzete, O my dr Saviour, o come soon and fetch me.  Doch
+                  war er sehr geduldig und gelassen. Am 13. abends verschied er sehr sanfte u. sein
+                  Ende zeigte, daß er geglaubt. </p>
 
-Das erste Jahr hatte ich nichts zu thun, als mit anderen Jungen in der Straße zu lauffen, wo ich viel Gottlosigkeit lernte. Im 2ten Jahr wollte mich mein Meister nach Madeira verkauffen für eine Pfeiffe Wein, darüber war ich sehr bekümmert, sagte es einigen Nachbarn u. fragte um ihren Rath. Sie sagten, sie könten mir nicht helffen, ich sollte Gott bitten, mir zu helfen.  Ich fragte wie und was ich beten solle. Sie lernten mich das Gebet des Herrn.  Des Abends kniete ich nieder u. sagte:  O Herr, unsere Nachbarn sagen, du seyst so sehr gut u. du gäbest jedermann was er von dir bittet. Wenn du mir zu einem guten Meister in dieser Stadt helfen willt (sic), so will ich dich darauf lieben.  Tages drauf bot mich mein Meister den Mr. Noble an, welchem er schuldig war u. Bruder Henry van Fleck (sein Clerk od apprentice) holte mich.  Mr Noble wollte mich zu meinr großen Betrübniß nicht haben, weil ich zu jung u. zu schwach zu seiner Arbeit schien.  Nachdem ich zum 2ten Mal zu ihm gebracht u. aus dem Grunde wieder rufusirt worde (sic) erzählte ich es unseren Nachbarn: daß Mr. Noble eine Neigung hätte mich zu kauffen, wenn ich stärker wäre; sie sagten darauf; es sey kein beßerer Mann in Nyork als er, ich sollte ja den Herrn bitten, ihn zu disponieren, daß er mich kauffe, welches ich denselben Abend that u. sagte zu meinem unbekannten Herrn, daß unsre Nachbarn hätte(n) Ihn mir wieder sehr gnädig beschrieben u. den Mr. Noble als einen sehr guten Meister u. wenn Er es so fügen wolle, daß ich zu Mr. Noble käme, so wolle ich Ihn hernach immer lieb habn.
-
-Den Tag drauf wurde ich mit einem anderen Neger- Knaben in Mr. Nobles Haus gebracht und zu einer Probe auf 4. Wochen.  Zu Ende derselben wurde der andere Knabe zurückgeschickt u. ich wurde von Mr. Noble gekauft. Um diese Zeit kamen die ersten Brüder nach Nyork u. logirten bey Mr. Noble.  Sie sagten mir oft, daß unser Heiland sein Blut für mich u. alle Schwarzen Menschen vergossen habe u. daß er mich und alle eben so lieb habe, als die weissen Leute, welches ich nicht glaubte sondern dachte, daß Gott nur die Personen liebe, die eine Figur in der Welt machen, Reichthümer besitzen usw.  Ich resolvirte aber doch, es wo möglich auszufinden, ob es wahr sey, was ich so oft von den Brüdern hörte.  Mr Noble schickte mich in die Schule u. weil ich sehr begierig war, so lernte ich in weniger als einem halben Jahr lesen.  Von der Zeit an hatte ich immer das N. Test<i>ament</i> oder ein ander gutes Buch im Sack u. las drinnen wo ich Zeit u. Gelegenheit dazu hatte.  Mr. Noble hatte mit seiner Familie morgens u. abends Gebet u. ob ich gleich oft in derselben Stube war, so betete ich doch nie mit, sondern kroch in einen Winckel, gieng darauf in meine Kammer u. betete u. that wie ich von ihnen gesehen u. gehöret hatte, bis mir die Mrs Noblin einmal sagte, daß weil unser Heiland so wol für mich als für sie gelitten habe u. gestorben sey, so könnte ich so selig seyn wie sie u. ich sollte mit ihnen beten, welches ich denn that. Ich repetirte es aber, immer in meiner Cammer wenn ich allein war.  Ich war sehr ängstlich um meine Seligkeit u. suchte sie durch eigene Kraft zu erhalten.  Ich nahm mir oft des Morgens vor, nach meines Meisters Ermahnung, meine Arbeit den Tag fröhlich zu thun, mit jedermann in Liebe zu handeln und beständig zu beten, aber leider es kam oft balde nach der resolution etwas vor, das mich für den Tag das Ziel errückte u. mich in Angst brachte, daß ich mir nicht wieder zu beten getrauete, bis den nächsten Tag, da ich hoffte der Herr werde mein Vergehen vergessen haben.  Es überfiel mich oft bey dem Gebet in meiner Kammer eine solche Furcht, daß ich dachte, der Teufel stünde hinter mir.  Einmal da ich dieses harten u. mühsamen Weges zur Seligkeit gantz müde war u. keine Möglichkeit sah meinen Zweck zu erreichen, resolvirte ich mich zum Fenster hinauszustürzen, und so ein Ende von meinem sündigen Leben zu machen.  Ich stund schon in der Öffnung u. wollte den Sprung thun, da war es als ob mich jemand zurück zöge, ich kam darüber zu mir selbst u. bat mit tausend Thränen den Heiland um Vergebung.  Von der Zeit an kriegte ich meine Unwürdigkeit u. Unvermögenheit tägl. zu erkennen u. des Heilands Liebe u. Barmherzigkeit u. sein verdienstliches Leiden u. sterben machten einen solchen Eindruck in meinem Herzen, daß ich nichts so sehr wünschte als ein wahrer Schmerzens-Lohn Jesu zu werden u. auch ein Glied der Brüder-Gemeine.  Ich hatte oft ein großes Verlangen getauft zu werden u. Mr. Whitefield offerirte sich einmal mich zu tauffen.  Mr Noble lehnte es aber ab.  Zu Ende des Jahres 1745 erlaubte mir Mr Noble nach Bethlehem zu gehen wo ich mit den Brüdern W<i>illia</i>m Edmonds u. John Hopson den 9. Jan. 1746 mit einem frölichen Herzen ankam.  Ich hatte mit Br. Nathanael verschiedene gesegnete Unterredungen u. eröffnete ihm mein gantzes Herz.  Etlich Wochen nach mir kam Mr. Noble<a title="" href="#_ftn2">**</a> (mein Meister) auch nach Bethlehem, zu einem Synod.  Während seines Aufenthaltes wurde ich d. 15. Febr. n. St. durch Bruder Christian Rauch in Jesu Tod getaufft u. Andreas genennt.  (Er war der erste Neger den die Brüder in Pennsylv. taufften)  Es ist mir unmöglich die Seligkeit meines Herzens, die ich dabey fühlte zu beschreiben. Den darauf folgenden Sabbath hatte ich die große Gnade den Leib u. das Blut meines l. Erlösers im h. Sacrament mit der Gemeine zu geniessen.  Im April desselben Jahres gieng ich nach Nyork, den Mr. Noble in seiner Krankheit zu bedienen u. nach seinem Verscheiden kehrte ich nach meinem lieben Bethlehem zurück.  So weit seine Nachricht.
-
-1762 den 21. Jan. wurde er hier mit der nunmehrigen Witwe, Magdalene, zur h. Ehe verbunden welche der l. Heiland mit 3. Kindergen segnete, wovon sich nur ein Söhnlein Andreas eine kurze Zeit über der Hütte sehnte.  Unser seliger Bruder gieng einen seligen erbaulichen Gang in der Gemeine u. es war ihm ein wahres Vergnügen, wenn er einem armen schwarzen etwas vom Heiland sagen konnte.  Er erzehlte gern was der Heiland an seiner Seele gethan.<a title="" href="#_ftn3">***</a>  In seinen äußeren Geschäften war er treu u. fleißig.  Seit etlichen Jahren war er mit einem starken Husten beschwert.  Seine Sehnsucht bey dem Herren daheim zu seyn, wurde zuletzt so, daß er das selige Stündlein kaum erwarten konnte u. oft seufzete, O my dr Saviour, o come soon and fetch me.  Doch war er sehr geduldig und gelassen. Am 13. abends verschied er sehr sanfte u. sein Ende zeigte, daß er geglaubt.
-<div>
-
-
-<hr align="left" size="1" width="33%" />
-
-<div><a title="" href="#_ftnref1">*</a>er legte mir eine Tobacks Pfeife in den Weg, dass ich die zertrat und das nahm er dann zur Ursache</div>
-<div><a title="" href="#_ftnref2">**</a> der mich dem Bruder Spangenberg geschenkt hatte</div>
-<div><a title="" href="#_ftnref3">***</a> und seine Gnadenwahl, dass er aus der Finternis ins Licht und von der Gewalt des Satans zu Gott und in die Gemeine der Glaübigen gekommen, war ihm immer sehr gross und wichtig</div>
-</div>            
-            
-            </p>
             </div>
-            
+         </div>
+
 
       </body>
-  </text>
+   </text>
 </TEI>
