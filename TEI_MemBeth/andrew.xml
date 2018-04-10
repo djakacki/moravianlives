@@ -66,17 +66,16 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
+   <text type="memoir">
       <body>
 
-         <div type="memoir">
+         <div type="page">
             <pb n="1"/>
             <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-01.jpg"/>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-02.jpg"/>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0257a-03.jpg"/>
             </figure>-->
-            <div>
                <p> Der sel<hi rend="italic">ige</hi> Bruder Andrew der Mohr hat von seinem Lauff
                   folgendes aufsetzen lassen. </p>
 
@@ -211,12 +210,8 @@
                   dem Herren daheim zu seyn, wurde zuletzt so, daß er das selige Stündlein kaum
                   erwarten konnte u. oft seufzete, O my dr Saviour, o come soon and fetch me.  Doch
                   war er sehr geduldig und gelassen. Am 13. abends verschied er sehr sanfte u. sein
-                  Ende zeigte, daß er geglaubt. </p>
-
-            </div>
+                  Ende zeigte, daß er geglaubt. </p>            
          </div>
-
-
       </body>
    </text>
 </TEI>

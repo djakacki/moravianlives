@@ -74,9 +74,9 @@
 
          <div type="page">
             <pb n="1"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-01.jpg"/>
-            </figure>
+            </figure>-->
             <p> Lebenslauf des seligen Bruder <persName>Nicolaus Lorenz Bage</persName>, zeithergen
                   <orgName>Arbeiters </orgName>des <orgName>Geml</orgName>. zu
                   <placeName>Hebron</placeName>, welcher den <date>20<hi rend="sup">ten</hi> Jun
@@ -104,12 +104,12 @@
          </div>
          <div type="page">
             <pb n="2"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-02.jpg"/>
-            </figure>
+            </figure>-->
             <p> vor daß es hier unmö;glich mit mir gehen kö;nnte und ich von hier weg mü;ste. Es
-               wurde mir wo<del>h</del>l <del>und </del>leicht<corr>e</corr> ums Herze; <del>doch
-               </del>blieb <del>ich</del><corr> </corr><add>aber</add><corr> </corr>bey allem, was
+               wurde mir wo<del>h</del>l <del>und </del>leicht<corr>e ums Herze; <del>doch
+               </del>blieb <del>ich</del> <add>aber</add></corr> bey allem, was
                ich that, unruhig; und vor dem <persName>Heiland </persName>und meinen Eltern erst
                darauf bestehen, daß ich von hier weg mü;ste. Doch ge- reichte mir die Bekanntschaft
                mit dem <persName>Bruder Christian Hansen</persName>, der als Schmiedegesell bey
@@ -135,9 +135,9 @@
          </div>
          <div type="page">
             <pb n="3"/>
-            <figure>
-               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-31.jpg"/>
-            </figure>
+            <!--<figure>
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-3.jpg"/>
+            </figure>-->
             <p>
                <add>die </add>Leute schon beysammen waren; so suchten es noch unsere Freunde zu
                verhindern; besonders arbeiteten meine Vormü;nder und Pa- then an mir, daß ich sagen
@@ -155,23 +155,22 @@
                gehen durften, nach <placeName>Herrnhut</placeName>. Da ich <placeName>Herrnhut
                </placeName>von weitem sahe, wurde ich ü;ber den Anblick des Orts, den ich in meinem
                Leben nicht vergessen werde, so froh, daß ich vor lauter Freuden weinte. Wir kamen
-               den <date>7</date><hi rend="sup"><date>ten</date></hi><date> Juli 1744 </date>mit
-               unsrer Familie in <placeName>Herrnhut </placeName>an. Es hielt schwer, daß mein Vater
-               Erlaub- niß kriegte, da zu bleiben, weil er ohne anzufragen gekommen war; doch
-               erhielt er sie auch und ich war zufrieden, froh und dank- bar, daß ich da war. Hier
-               kam ich noch unter die Kinder, unter denen ich recht vergnü;gt war, und ging in die
+               den <date>7<hi rend="sup">ten</hi> Juli 1744</date> mit unsrer Familie in
+                  <placeName>Herrnhut </placeName>an. Es hielt schwer, daß mein Vater Erlaub- niß
+               kriegte, da zu bleiben, weil er ohne anzufragen gekommen war; doch erhielt er sie
+               auch und ich war zufrieden, froh und dank- bar, daß ich da war. Hier kam ich noch
+               unter die Kinder, unter denen ich recht vergnü;gt war, und ging in die
                   <orgName>Tages-Anstalt</orgName>. <date>1746 </date>wurde ich zum Nagelschmidt
-               gethan und in demselben Jahr am Knabenfest den <date>27</date><hi rend="sup"
-                     ><date>ten</date></hi><date> April</date> ins <orgName>Knabenchor
-               </orgName>aufgenommen. Von da an nahmen micht die <orgName>ledigen Brü;der</orgName>
-               in besondere Pflege und Aufsicht. Der damalige <orgName>Knabenpfleger </orgName>der
-               selige </p>
+               gethan und in demselben Jahr am Knabenfest den <date>27<hi rend="sup">ten</hi>
+                  April</date> ins <orgName>Knabenchor </orgName>aufgenommen. Von da an nahmen micht
+               die <orgName>ledigen Brü;der</orgName> in besondere Pflege und Aufsicht. Der damalige
+                  <orgName>Knabenpfleger </orgName>der selige </p>
          </div>
          <div type="page">
             <pb n="4"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-04.jpg"/>
-            </figure>
+            </figure>-->
             <p>
                <persName>Bruder Metschel</persName> nahm sich meiner besonders an, und hielt eine
                grü;ndliche Bande ü;ber mein ganzes Leben in der Welt mit mir. Dieses kam mir zwar im
@@ -204,9 +203,9 @@
          </div>
          <div type="page">
             <pb n="5"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-05.jpg"/>
-            </figure>
+            </figure>-->
             <p> und große Freude war. Nun fing der <persName>Heilige Geist</persName> eine neue
                Schule mit mir an; ich lernte mich in meiner Verdorbenheit immer besser ken- nen;
                aber die trö;stliche Anweisung, mit dem lieben <persName>Heiland</persName> und auch
@@ -227,141 +226,130 @@
                ich <orgName>Chordiener </orgName>in meinem <orgName>Chor</orgName>, <add>(</add>und
                dazu vom seligen <persName>Christel </persName>gesegnet.<add>)</add> Anno <date>1748
                </date>bekam ich <add>(</add>durch denselben<add>)</add> einen Ruf nach dem
-                  <placeName>Herrnhaag</placeName>, wo ich den <date>20</date><hi rend="sup"
-                     ><date>ten</date></hi><date> November</date> mit <persName>Bruder Gottlieb
-                  Hofmann</persName> ankam und den Knaben als ihr <orgName>Arbei- ter</orgName>
-               vorgestellt wurde. Es gefiel mir hier gut und ich blieb in meinem einfältigen Umgang
-               mit dem <persName>Heiland</persName>. Die Eigenlie- be regte sich wol bey mir sowol
-               hier als schon in <placeName>Herrnhut</placeName>, daß ich mich gerne bey meinen
-               Kameraden beliebt gemacht hätte, weil ich aber die Zucht des <persName>Geistes
-               </persName>im Herzen fü;hlte, wenn ich was nach machen wolte, so schämte ich mich und
-               blieb erst da- rauf gestellt nach meinem Herzen zu handeln. <date>1749</date>. da der
-               selige <persName>Christel </persName>nach <placeName>England </placeName>reiste,
-               solte ich mitgehen; es </p>
+                  <placeName>Herrnhaag</placeName>, wo ich den <date>20<hi rend="sup">ten</hi>
+                  November</date> mit <persName>Bruder Gottlieb Hofmann</persName> ankam und den
+               Knaben als ihr <orgName>Arbei- ter</orgName> vorgestellt wurde. Es gefiel mir hier
+               gut und ich blieb in meinem einfältigen Umgang mit dem <persName>Heiland</persName>.
+               Die Eigenlie- be regte sich wol bey mir sowol hier als schon in
+                  <placeName>Herrnhut</placeName>, daß ich mich gerne bey meinen Kameraden beliebt
+               gemacht hätte, weil ich aber die Zucht des <persName>Geistes </persName>im Herzen
+               fü;hlte, wenn ich was nach machen wolte, so schämte ich mich und blieb erst da- rauf
+               gestellt nach meinem Herzen zu handeln. <date>1749</date>. da der selige
+                  <persName>Christel </persName>nach <placeName>England </placeName>reiste, solte
+               ich mitgehen; es </p>
          </div>
          <div type="page">
             <pb n="6"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-06.jpg"/>
-            </figure>
+            </figure>-->
             <p> änderte sich aber <add>(</add>und ich kam zu den Knaben nach
                   M<placeName>rborn</placeName>, bald darauf kam ich auf etliche Wochen nach dem
-                  <placeName>Herrnhaag </placeName>und am <date>17</date><hi rend="sup"
-                     ><date>ten</date></hi><date> December</date> nach
-                  <placeName>Herrnhut</placeName>. Den <date>19</date><hi rend="sup"
-                     ><date>ten</date></hi> zog ich nach <placeName>Hennersdorf </placeName>zu den
-               Knaben wo ich selige Zeiten hatte und viel fü;r mein Herz profitirte. Den
-                  <date>14</date><hi rend="sup"><date>t.</date></hi><date> April</date> wurde ich
-               zum erstenmal <orgName>Chorjü;nger </orgName>in <placeName>Herrnhut </placeName>und
-               zog den <date>16</date><hi rend="sup"><date>t.</date></hi> dahin; kam auch bald ins
-                  <orgName>Beterchor</orgName>. Auch solte ich hier <orgName>Knabenarbeiter
-               </orgName>seyn, verbat es mir aber, weil ich gerne ganz im <orgName>Brü;der
-                  Chor</orgName>, unter selches ich bald kommen solte, seyn wolte.<add>)</add> Am
-                  <date>29</date><hi rend="sup"><date>ten</date></hi><date> August des Jahres</date>
+                  <placeName>Herrnhaag </placeName>und am <date>17<hi rend="sup">ten</hi>
+                  December</date> nach <placeName>Herrnhut</placeName>. Den <date>19<hi rend="sup"
+                     >ten</hi></date> zog ich nach <placeName>Hennersdorf </placeName>zu den Knaben
+               wo ich selige Zeiten hatte und viel fü;r mein Herz profitirte. Den <date>14<hi
+                     rend="sup">t.</hi> April</date> wurde ich zum erstenmal <orgName>Chorjü;nger
+               </orgName>in <placeName>Herrnhut </placeName>und zog den <date>16<hi rend="sup"
+                     >t.</hi></date>> dahin; kam auch bald ins <orgName>Beterchor</orgName>. Auch
+               solte ich hier <orgName>Knabenarbeiter </orgName>seyn, verbat es mir aber, weil ich
+               gerne ganz im <orgName>Brü;der Chor</orgName>, unter selches ich bald kommen solte,
+               seyn wolte.<add>)</add> Am <date>29<hi rend="sup">ten</hi> August</date> des Jahres
                kam ich ins <orgName>ledige Brü;der Chor</orgName>. Das Jahr <date>1752 </date>war
                fü;r mich ein ausgezeichnet seliges Jahr, in welchem ich sowol im Umgang mit dem
                   <persName>Schmerzensmann </persName>als auch sonst viele Gnaden vom lieben
                   <persName>Heiland </persName>genoß. Auch werde ich die Passi- onszeit im Jahr
-                  <date>54 </date>nie vergessen. Den <date>17</date><hi rend="sup"
-                  ><date>ten</date></hi><date> Juny 1754</date> wurde mir angetragen, nach
-                  <placeName>Amerika </placeName>zu reisen, wozu ich auch willig war. Den
-                  <date>23</date><hi rend="sup"><date>ten</date></hi><date> July</date> reiste ich
+                  <date>54 </date>nie vergessen. Den <date>17<hi rend="sup">ten</hi> Juny
+                  1754</date> wurde mir angetragen, nach <placeName>Amerika </placeName>zu reisen,
+               wozu ich auch willig war. Den <date>23<hi rend="sup">ten</hi> July</date> reiste ich
                von <placeName>Herrnhut </placeName>ab; es wurde mir sehr schwer diesen Ort und meine
-               lieben Herzensfreunde daselbst zu verlassen. Den <date>8</date><hi rend="sup"
-                     ><date>ten</date></hi><date> August </date>kam ich mit meiner Reisegesellschaft
-               in <add><placeName>Zeist </placeName>an</add>: nach dem <orgName>Brü;derfest
-               </orgName>reisten wir nach <placeName>England</placeName>, musten aber 14 Tage vor
-                  <placeName>Helvontsluis </placeName>liegen und kamen erst am <date>17</date><hi
-                  rend="sup"><date>t</date></hi><date> September</date> bey <placeName>London
-               </placeName>in <placeName>Chelsea</placeName>, wo das <orgName>Jü;ngerhaus
-               </orgName>war, an. Hier blie- ben wir einige Tage, und nach dem wir am
-                  <date>20</date><hi rend="sup"><date>ten</date></hi><date> </date>ein seliges
-                  <orgName>Abendmahl</orgName> gehabt, gingen wir am <date>23</date><hi rend="sup"
-                     ><date>ten</date></hi> in See, hatte eine gute Reise und liefen am
-                  <date>16</date><hi rend="sup"><date>ten</date></hi><date> November</date> in
-                  <placeName>Newyork </placeName>ein. Den <date>24</date><hi rend="sup"
-                     ><date>t</date></hi><date> November</date> kamen wir gesund und wohl in
+               lieben Herzensfreunde daselbst zu verlassen. Den <date>8<hi rend="sup">ten</hi>
+                  August </date>kam ich mit meiner Reisegesellschaft in <add><placeName>Zeist
+                  </placeName>an</add>: nach dem <orgName>Brü;derfest </orgName>reisten wir nach
+                  <placeName>England</placeName>, musten aber 14 Tage vor <placeName>Helvontsluis
+               </placeName>liegen und kamen erst am <date>17<hi rend="sup">t</hi> September</date>
+               bey <placeName>London </placeName>in <placeName>Chelsea</placeName>, wo das
+                  <orgName>Jü;ngerhaus </orgName>war, an. Hier blie- ben wir einige Tage, und nach
+               dem wir am <date>20<hi rend="sup">ten</hi></date> ein seliges
+                  <orgName>Abendmahl</orgName> gehabt, gingen wir am <date>23<hi rend="sup"
+                  >ten</hi></date> in See, hatte eine gute Reise und liefen am <date>16<hi
+                     rend="sup">ten</hi> November</date> in <placeName>Newyork </placeName>ein. Den
+                     <date>24<hi rend="sup">t</hi> November</date> kamen wir gesund und wohl in
                   <placeName>Bethlehem </placeName>an, wo es mir wohl und besser ge- fiel, als ich
-               mir vorgestellt hatte. <date>1755 den 12</date><hi rend="sup"
-                  ><date>ten</date></hi><date> Februar</date> erhielt ich ei- nen Ruf zu den Knaben
-               nach <placeName>Christiansbrunn </placeName>und wurde den <date>8</date><hi
-                  rend="sup"><date>t</date></hi><date> May</date> zur <orgName>Acoluthie
+               mir vorgestellt hatte. <date>1755 den 12<hi rend="sup">ten</hi> Februar</date>
+               erhielt ich ei- nen Ruf zu den Knaben nach <placeName>Christiansbrunn </placeName>und
+               wurde den <date>8<hi rend="sup">t</hi> May</date> zur <orgName>Acoluthie
                </orgName>angenommen. Die damaligen Kriegsunruhen machten mir im Anfang viel zu thun,
                da ich mich aber ganz dem lieben <persName>Heiland </persName>ü;bergab, wurde ich
                ruhig und nicht mehr <del>da</del>durch dieselben im meinem seligen Gang gestö;rt.
                   <add>(</add>Anno <date>1758</date> erhielt ich einen Ruf zu den Knaben nach
-                  <placeName>Bethlehem</placeName>, mit welchen ich den <date>28</date><hi
-                  rend="sup"><date>t</date></hi><date> September </date>wieder nach
-                  <placeName>Christi- ansbrunn</placeName> kam. Anno <date>61 </date>wurde ich
-                  <orgName>Chordiener </orgName>daselbst<add>)</add>
+                  <placeName>Bethlehem</placeName>, mit welchen ich den <date>28<hi rend="sup"
+                     >t</hi> September </date>wieder nach <placeName>Christi- ansbrunn</placeName>
+               kam. Anno <date>61 </date>wurde ich <orgName>Chordiener
+                  </orgName>daselbst<add>)</add>
                <del>und </del><date>1762 </date>erhielt ich einen </p>
          </div>
          <div type="page">
             <pb n="7"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-07.jpg"/>
-            </figure>
+            </figure>-->
             <p> Ruf als <orgName>Chorhelfer </orgName>der <orgName>ledigen Brü;der</orgName> nach
-                  <placeName>Litiz </placeName>und wurde den <date>19</date><hi rend="sup"
-                     ><date>t</date></hi><date> Merz</date> dem <orgName>Chor</orgName> vor-
-               gestellt. Am <date>16</date><hi rend="sup"><date>t.</date></hi><date> May</date>
-               wurde ich in <placeName>Lancaster </placeName>zu einem <orgName>Diaconus
-               </orgName>der <orgName>Brü;der Kirche</orgName> ordinirt. Im <date>September
-                  1764</date> bekam ich einen Ruf nach der <placeName>Wachau</placeName>, ging
-               zuerst nach <placeName>Bethlehem </placeName>und trat von da am <date>4</date><hi
-                  rend="sup"><date>ten</date></hi><date> October</date> mit 12 Knaben meine Reise
-               nach <placeName>Bethabara </placeName>an, wo wir den <date>1</date><hi rend="sup"
-                     ><date>t</date></hi><date> November</date> glü;cklich und wohlbehalten anka-
-               men und am <date>11</date><hi rend="sup"><date>ten</date></hi> wurde ich dem dasigen
-                  <orgName>ledigen Brü;der Chor</orgName> als <orgName>Chorhelfer </orgName>vor-
-               gestellt. Auch hier und in <placeName>Salem</placeName>, wohin ich zu eben dem Zweck,
-               nachdem das <orgName>Chorhaus </orgName>der <orgName>ledigen Brü;der</orgName>
-               daselbst fertig war, nebst noch mehreren Brü;dern zog, hielt ich mich bey allen
-               Umständen kindlich an den lieben <persName>Heiland</persName>, Er bekannte Sich zu
-               mir und half mir in allem gnädig durch. Anno <del>1743 </del><corr><date>1773
-                  </date></corr><date> im April</date> erhielt ich einen Ruf, die <orgName>Gemeine
-               </orgName>in <placeName>Bethabara </placeName>zu be- dienen und wurde dazu am
-                  <date>18</date><hi rend="sup"><date>ten</date></hi><date> Juny desselben
-                  Jahres</date> in <placeName>Litiz </placeName>mit der ledigen <persName>Schwester
-                  Elisabeth Bü;rstlerin</persName> zur heiligen Ehe verbunden. Wir reisten den
-                  <date>22</date><hi rend="sup"><date>ten</date></hi> nach <placeName>Bethabara
-               </placeName>ab, und kamen den <date>16</date><hi rend="sup"
-                  ><date>t.</date></hi><date> July</date> gesund und wohl da- selbst an.
-                  <add>(</add>Den <date>17</date><hi rend="sup"><date>t</date></hi><date>
-                  October</date> wurde meine liebe Frau zu einer <orgName>Diaconisse</orgName> der
-                  <orgName>Brü;der Kirche</orgName> eingesegnet.<add>)</add> Am <date>14</date><hi
-                  rend="sup"><date>ten</date></hi><date> Januar 1775</date> schenkte uns der
-                  <persName>Heiland </persName>ein Tö;chterlein welches am <date>15ten</date> in
-                  <persName>Jesu </persName>Tod getauft und <persName>Susanna Elisabeth</persName>
-               genannt wurde. Am <date>11</date><hi rend="sup"><date>ten </date></hi><date>September
+                  <placeName>Litiz </placeName>und wurde den <date>19<hi rend="sup">t</hi>
+                  Merz</date> dem <orgName>Chor</orgName> vor- gestellt. Am <date>16<hi rend="sup"
+                     >t.</hi> May</date> wurde ich in <placeName>Lancaster </placeName>zu einem
+                  <orgName>Diaconus </orgName>der <orgName>Brü;der Kirche</orgName> ordinirt. Im
+                  <date>September 1764</date> bekam ich einen Ruf nach der
+                  <placeName>Wachau</placeName>, ging zuerst nach <placeName>Bethlehem
+               </placeName>und trat von da am <date>4<hi rend="sup">ten</hi> October</date> mit 12
+               Knaben meine Reise nach <placeName>Bethabara </placeName>an, wo wir den <date>1<hi
+                     rend="sup">t</hi> November</date> glü;cklich und wohlbehalten anka- men und am
+                     <date>11<hi rend="sup">ten</hi></date> wurde ich dem dasigen <orgName>ledigen
+                  Brü;der Chor</orgName> als <orgName>Chorhelfer </orgName>vor- gestellt. Auch hier
+               und in <placeName>Salem</placeName>, wohin ich zu eben dem Zweck, nachdem das
+                  <orgName>Chorhaus </orgName>der <orgName>ledigen Brü;der</orgName> daselbst fertig
+               war, nebst noch mehreren Brü;dern zog, hielt ich mich bey allen Umständen kindlich an
+               den lieben <persName>Heiland</persName>, Er bekannte Sich zu mir und half mir in
+               allem gnädig durch. Anno <del>1743 </del><corr><date>1773 </date></corr><date> im
+                  April</date> erhielt ich einen Ruf, die <orgName>Gemeine </orgName>in
+                  <placeName>Bethabara </placeName>zu be- dienen und wurde dazu am <date>18<hi
+                     rend="sup">ten</hi> Juny</date> desselben Jahres in <placeName>Litiz
+               </placeName>mit der ledigen <persName>Schwester Elisabeth Bü;rstlerin</persName> zur
+               heiligen Ehe verbunden. Wir reisten den <date>22<hi rend="sup">ten</hi></date> nach
+                  <placeName>Bethabara </placeName>ab, und kamen den <date>16<hi rend="sup">t.</hi>
+                  July</date> gesund und wohl da- selbst an. <add>(</add>Den <date>17<hi rend="sup"
+                     >t</hi> October</date> wurde meine liebe Frau zu einer
+                  <orgName>Diaconisse</orgName> der <orgName>Brü;der Kirche</orgName>
+                  eingesegnet.<add>)</add> Am <date>14<hi rend="sup">ten</hi> Januar 1775</date>
+               schenkte uns der <persName>Heiland </persName>ein Tö;chterlein welches am
+                  <date>15ten</date> in <persName>Jesu </persName>Tod getauft und <persName>Susanna
+                  Elisabeth</persName> genannt wurde. Am <date>11<hi rend="sup">ten </hi>September
                   1778</date> muste sich meine liebe Frau an einer hitzigen Krankheit legen und am
-                  <date>29</date><hi rend="sup"><date>ten</date></hi> gefiel es dem lieben
+                     <date>29<hi rend="sup">ten</hi></date> gefiel es dem lieben
                   <persName>Heiland</persName>, sie sanft und selig zu vollenden, welches mir sehr
                schmerzlich war. Soweit des seligen Bruders eigenhändige Nachricht. Im Jahr
-                  <date>1779 den 30</date><hi rend="sup"><date>ten</date></hi><date> November</date>
-               wurde er zum andermal mit der <del>verheirateten</del> verwitweten
-                  <persName>Schwester <abbr>Mar.</abbr> Fockelin geborene Leiberthin </persName>zur
-               heiligen Ehe verbunden: <add>(</add>und sie wurde den <date>24</date><hi rend="sup"
-                     ><date>t.</date></hi><date> May 1781 </date>zu einer <orgName>Diaconisse
-                  </orgName>eingesegnet.<add>)</add> Diese ebenfalls vergnü;gte Ehe segnete der
-                  <persName>Heiland </persName>mit 2 Zwillings- Kindern. <persName>Johannes
-               </persName>und <persName>Maria </persName>die ihr <add><del>vor
+                  <date>1779 den 30<hi rend="sup">ten</hi> November</date> wurde er zum andermal mit
+               der <del>verheirateten</del> verwitweten <persName>Schwester <abbr>Mar.</abbr>
+                  Fockelin geborene Leiberthin </persName>zur heiligen Ehe verbunden:
+               <add>(</add>und sie wurde den <date>24<hi rend="sup">t.</hi> May 1781</date> zu einer
+                  <orgName>Diaconisse </orgName>eingesegnet.<add>)</add> Diese ebenfalls vergnü;gte
+               Ehe segnete der <persName>Heiland </persName>mit 2 Zwillings- Kindern.
+                  <persName>Johannes </persName>und <persName>Maria </persName>die ihr <add><del>vor
                   </del></add><del>bereits </del><corr>aber </corr>in die Ewigkeit voran- gegangen
                sind. Noch in demselben Jahr wurde er zum andernmal Witwer. Anno <date>1784</date> im
                November wurde er aus der <placeName>Wachau </placeName>nach
-                  <placeName>Bethlehem</placeName> berufen und daselbst den <date>9</date><hi
-                  rend="sup"><date>ten</date></hi><date> Merz 1785</date> mit der ledigen Schwester
-                  <persName>Anna Benigna Hessler</persName> verheirathet und kam als
-                  <orgName>Arbeiter </orgName>nach <placeName>Emmaus</placeName>. In dieser Ehe
-               schenkte ihn der <persName>Heiland </persName>ein <persName>Sö;hnlein</persName>, das
-               aber gleich nach der Geburt heimging. Im <date>November desselben Jahres</date>
-               erhielt er einen Ruf als </p>
+                  <placeName>Bethlehem</placeName> berufen und daselbst den <date>9<hi rend="sup"
+                     >ten</hi> Merz 1785</date> mit der ledigen Schwester <persName>Anna Benigna
+                  Hessler</persName> verheirathet und kam als <orgName>Arbeiter </orgName>nach
+                  <placeName>Emmaus</placeName>. In dieser Ehe schenkte ihn der <persName>Heiland
+               </persName>ein <persName>Sö;hnlein</persName>, das aber gleich nach der Geburt
+               heimging. Im <date>November desselben Jahres</date> erhielt er einen Ruf als </p>
          </div>
          <div type="page">
             <pb n="8"/>
-            <figure>
+            <!--<figure>
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0304a-08.jpg"/>
-            </figure>
+            </figure>-->
             <p>
                <orgName>Arbeiter </orgName>nach <placeName>Hebron</placeName>; daselbst wurde ihm
                manches schwer: doch bewieß er alle Geduld und Treue in seinem Amte und freute sich,
@@ -384,15 +372,15 @@
                </persName>und <persName>Heiland</persName>. Es war ihm aber damals noch nicht
                ausgemacht, daß er bald heimgehen wü;rde. Als er jedoch kurz darauf von dem
                   <persName>Medico </persName>erfuhr, daß auch dieser seinen nahen Heimgang
-               vermuthete, erhielt er selbst die Versicherung davon; machte am <date>14</date><hi
-                  rend="sup"><date>ten</date></hi> mit seiner lieben Frau einen zärtlichen Abschied,
+               vermuthete, erhielt er selbst die Versicherung davon; machte am <date>14<hi
+                     rend="sup">ten</hi></date> mit seiner lieben Frau einen zärtlichen Abschied,
                und empfahl sie, seine liebe Tochter in <placeName>Bethle- hem</placeName>, und die
                ihm bisher anvertraute <orgName>Gemeine </orgName>in <placeName>Hebron
                </placeName>dem lieben <persName>Heiland </persName>in einem brü;nstigen Gebet: blieb
                ü;brigens ganz gelas- sen und geduldig; erkannte die liebreiche Bemü;hung seiner
-               lieben Frau und Geschwister mit aller Dankbarkeit, und entschlief den
-                  <date>20</date><hi rend="sup"><date>ten</date></hi><date> Juny</date> Abends um 6
-               Uhr sanft und selig: seines Alters 57 Jahr 4 Monate und 17 Tage. </p>
+               lieben Frau und Geschwister mit aller Dankbarkeit, und entschlief den <date>20<hi
+                     rend="sup">ten</hi> Juny</date> Abends um 6 Uhr sanft und selig: seines Alters
+               57 Jahr 4 Monate und 17 Tage. </p>
          </div>
       </body>
    </text>
