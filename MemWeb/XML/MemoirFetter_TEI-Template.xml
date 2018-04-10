@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Karen Borg: Memoir <lang>English</lang>
+            <title>[name]: Memoir <lang>English</lang>
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
@@ -41,6 +41,11 @@
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -60,7 +65,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of Karen Borg</p>
+            <p>The Life of [name]</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -68,10 +73,11 @@
       <body xml:lang="eng">         
          
          <div type="page" n="1">
-            <head>Karen Borg memoir, page 1
-               <seg ana="MemLon_300009-01"/>
-               <graphic url="http://moravianlives.bucknell.edu/MCH/MemLon_300009-01.jpg"/>
+            <head>[name] memoir, page 1
+               <seg ana="MemLon_xx1"/>
+               <graphic url="http://moravianlives.bucknell.edu/xx.jpg"/>
             </head>
+         </div>
 
       </body>
   </text>
