@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir
-               <lang>English</lang>
-            </title>               
+            <title>[name]: Memoir <lang>English</lang>
+            </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
                <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
-               <email>faull@bucknell.edu</email>
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal Investigator
                <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
-               <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
                <persName>Diane Jakacki</persName>
@@ -44,6 +41,11 @@
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -58,34 +60,24 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-            </availability>               
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                  International</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of [NAME]</p>
+            <p>The Life of [name]</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-  <text>
-      <body>
-
-<!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. 
-            
-              <text type="memoir">
+   <text type="memoir">
       <body xml:lang="eng">         
-                                                          
-            <div type="page" n="$">
-               <head>[NAME] memoir, page 1
-               <seg ana="LOCATOR from GITHUB"/>
-               <graphic url="http://moravianlives.bucknell.edu/##.jpg"/>
-               </head>
-            <p>
-            
-            
-            </p>
-            </div>
-            
-         -->
+         
+         <div type="page" n="1">
+            <head>[name] memoir, page 1
+               <seg ana="MemLon_xx1"/>
+               <graphic url="http://moravianlives.bucknell.edu/xx.jpg"/>
+            </head>
+         </div>
 
       </body>
   </text>

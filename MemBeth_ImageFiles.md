@@ -524,7 +524,7 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0072-01.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0072-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0072-03.jpg<br />
 
-Johann Fritsch (0073)<br />
+Johann Gottlieb Fritsch (0073)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0073-01.jpg<br />	
 http://moravianlives.bucknell.edu/MAB/MemBeth_0073-02.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0073-03.jpg<br />
