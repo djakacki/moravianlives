@@ -28,7 +28,7 @@
 
 <!-- This should be used for the "title" of the memoir -->
     <xsl:template match="tei:head">
-        <h4><xsl:apply-templates/></h4>
+        <h5><xsl:apply-templates/></h5>
     </xsl:template>
 
     
