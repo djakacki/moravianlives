@@ -26,10 +26,9 @@
         </html>
     </xsl:template>
 
-<!-- This should be used for the "title" of the memoir -->
-    <xsl:template match="tei:head">
-        <h5><xsl:apply-templates/></h5>
-    </xsl:template>
+<!-- This hides "title" of the memoir -->
+    <xsl:template match="tei:head" />
+
 
     
 <!-- This breaks the text into paragraphs as marked up in text (not the same as pages) -->
@@ -71,9 +70,9 @@
         </br>
     </xsl:template>
 
-<!-- This captures the catchword form of note  -->
+<!-- This captures the catchword form of note 
     <xsl:template match="tei:note[@type='catchword']">
         <h5><xsl:apply-templates/></h5>
-    </xsl:template>
+    </xsl:template> -->
 
 </xsl:stylesheet>

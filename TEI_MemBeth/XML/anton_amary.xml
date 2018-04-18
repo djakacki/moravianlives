@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -96,14 +96,11 @@
                in poor Circumstances &amp; became excomunicated for a time <del rend="strikethrough">from</del> by the Congregation till our Saviour bestowed Mercy on me that I could disclose all my
                hidden Tricks. </p>
             <p> Anno 53 in <date>April</date> I was received into the Congregation. <note type="catchword">I was</note></p>
-            <p>
-               
-               I was ashamed about this Grace, but by all that I came not farther then my Heart was not open &amp; secure before God &amp; Man. I soon came in my former Snares again &amp; begun
-               to doubt if it would come with me to any Thing at all. However Anno 54 the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of Feb.</date> as I toock a walk in the Field
-               I <add>accidently</add> fell in a intime Conversation w<hi rend="superscript">th</hi> our Sav<hi rend="superscript">r</hi>. &amp; could discover my whole Heart towards him &amp; so
+            <p> I was ashamed about this Grace, but by all that I came not farther then my Heart was not open &amp; secure before God &amp; Man. I soon came in my former Snares again &amp; begun to
+               doubt if it would come with me to any Thing at all. However Anno 54 the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of Feb.</date> as I toock a walk in the Field I
+                  <add>accidently</add> fell in a intime Conversation w<hi rend="superscript">th</hi> our Sav<hi rend="superscript">r</hi>. &amp; could discover my whole Heart towards him &amp; so
                begged Mercy under many Tears &amp; that he would let me from This Day experience how good it is w<hi rend="superscript">th</hi> a happy Heart <add>to be</add> in the Congregation. By
                this inter_ cource he was as near to me the as if he was visible. </p>
-            
             <p> Anno 1755 the Month of <date>Jan.</date> I came in my Choir-House as wherefore I loockd out a good while. The first time I was happy again, but as I disliked to appear as such a wicked
                &amp; naughty Siner, then it <del rend="strikethrough">didn</del>'t went as well as it could; but the Truest Friend of my Soul whose Patiens persecuted me from my youth, did not draw
                back his Hand, wicked as I was. They holy Ghost licke a true Mother begun his Work anew &amp; showed to me de deplorable Condition of my wicked Heart &amp; brought <add>me</add> in the
