@@ -17,7 +17,8 @@
     <xsl:output method="text" encoding="UTF-8"/> 
     
     
-    <!-- Match Root Node 
+     <!--Match Root Node -->
+    
     <xsl:template match="/">
         <xsl:text>"elementName", "elementContent", "typeAttributeIfPresent"</xsl:text>
         <xsl:for-each select="//text//persName | //text//placeName | //text//roleName | //text//orgName | //text//objectType | //text//date | //text//trait | //text//time | //text//state | text//name">
@@ -26,8 +27,8 @@
             <xsl:sort select="@type"/>
             <xsl:value-of select="jc:createCSV(.)"/>
         </xsl:for-each> 
-    </xsl:template> -->
-    
+    </xsl:template> 
+    <!--
     <xsl:template match="/">
         <xsl:text>"elementName", "elementContent", "typeAttribute"</xsl:text>
         <xsl:for-each select="//text//persName">
@@ -36,7 +37,7 @@
             <xsl:sort select="@type"/>
             <xsl:value-of select="jc:createCSV(.)"/>
         </xsl:for-each>
-    </xsl:template>
+    </xsl:template>-->
     
     
     <!-- This function creates a string from the node provided to it --> 
