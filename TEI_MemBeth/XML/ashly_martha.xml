@@ -65,6 +65,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
+                  <idno></idno>
                   <msName type="memoir">Martha Ashly</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0164a-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0164a-02.jpg" />
@@ -76,7 +77,6 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="eng">
-         
          <head>Martha Ashley memoir</head>
          <div type="page" n="1">
             <head>Page 1 <seg ana="MemBeth_0164a-01" />

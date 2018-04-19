@@ -9,14 +9,12 @@
             <title>[name]: Memoir <lang>English</lang>
             </title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-               <orgName>Bucknell University</orgName>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
-               <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -60,8 +58,7 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-                  International</licence>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -69,28 +66,26 @@
                <msIdentifier>
                   <repository>#</repository>
                   <msName type="memoir">#</msName>
-                  <msName facs="#"/>
+                  <msName facs="#" />
                   <!-- add as many image URLs as needed -->
                </msIdentifier>
             </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="#"/>
-      <graphic url="#"/>
-      <graphic url="#"/>
-      <graphic url="#"/>
-   </facsimile>
    <text type="memoir">
-      <body xml:lang="eng">         
-         
+      <body xml:lang="?">
+         <head>[name] memoir, page 1</head>
          <div type="page" n="1">
-            <head>[name] memoir, page 1
-               <seg ana="MemBeth_xx1"/>
+            <head>Page 1 <seg ana="MemBeth____" />
             </head>
+            <p> </p>
          </div>
-
+         <div type="page" n="2">
+            <head>Page 2 <seg ana="MemBeth____" />
+            </head>
+            <p> </p>
+         </div>
       </body>
-  </text>
+   </text>
 </TEI>

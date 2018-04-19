@@ -29,30 +29,11 @@
 <!-- This hides "title" of the memoir -->
     <xsl:template match="tei:head" />
 
-
     
 <!-- This breaks the text into paragraphs as marked up in text (not the same as pages) -->
     <xsl:template match="tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-
-<!-- This keeps the linebreaks that were established in the transcription 
-    <xsl:template match="tei:lb">       
-        <br/><xsl:apply-templates/>   
-    </xsl:template> -->
-
-
-<!-- This presents the image and caption 
-    <xsl:template match="tei:figure">
-        <br />
-        <xsl:apply-templates/>
-        <br />
-    </xsl:template>
-    
-    <xsl:template match="tei:graphic">
-        <img src="{@url}"/><br />
-    </xsl:template>
-    -->
 
     
 <!-- This hides the sic spelling, leaving only the correct spelling -->
@@ -62,17 +43,23 @@
     <xsl:template match="tei:hi[@rend='superscript'] | tei:sup">
         <sup xmlns="http://www.w3.org/1999/xhtml">
             <xsl:value-of select="."/>
-        </sup>
+        </sup>        
+    </xsl:template>
+
+<!-- This renders strikethrough in HTML -->
+    <xsl:template match="tei:del">
+        <del xmlns="http://www.w3.org/1999/xhtml">
+            <xsl:value-of select="."/>
+        </del>
     </xsl:template>
     
-    <xsl:template match="tei:l">
-        <br><xsl:apply-templates/>
-        </br>
+<!-- This hides the catchword form of note -->
+    <xsl:template match="tei:note[@type='catchword']" />
+
+<!-- This adds /// at each page break -->
+    <xsl:template match="tei:div[@type='page']">
+        <p><xsl:apply-templates/>
+        <xsl:text>///</xsl:text>
+        </p>
     </xsl:template>
-
-<!-- This captures the catchword form of note 
-    <xsl:template match="tei:note[@type='catchword']">
-        <h5><xsl:apply-templates/></h5>
-    </xsl:template> -->
-
 </xsl:stylesheet>

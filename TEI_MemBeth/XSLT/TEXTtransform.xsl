@@ -30,17 +30,17 @@
     </xsl:template> -->
 
     
-    <xsl:template match="tei:teiHeader"/>    
+    <xsl:template match="tei:teiHeader | tei:head"/>    
     <xsl:template match="*">
         <xsl:apply-templates/>
         <xsl:text></xsl:text>
     </xsl:template>
-
+<!--
     <xsl:template match="tei:head"/>
     <xsl:template match="*">
         <xsl:apply-templates/>
     </xsl:template>
-    
+-->    
     <xsl:template match=
         "text()[not(string-length(normalize-space()))]"/>
     
