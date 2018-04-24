@@ -2409,12 +2409,12 @@ http://moravianlives.bucknell.edu/MAB/MemBeth_0340a-40.jpg<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0340a-41.jpg<br />
 
 Daniel Kliest (0341)<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-01.jpg<br />	
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-02.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-03.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-04.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-05.jpg<br />
-http://moravianlives.bucknell.edu/MAB/MemBeth_0341-06.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-01.jpg<br />	
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-02.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-03.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-04.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-05.jpg<br />
+http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-06.jpg<br />
 
 Heinrich Krause (0342)<br />
 http://moravianlives.bucknell.edu/MAB/MemBeth_0342a-01.jpg<br />
