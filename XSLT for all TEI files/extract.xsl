@@ -28,7 +28,7 @@
             <xsl:value-of select="jc:createCSV(.)"/>
         </xsl:for-each> 
     </xsl:template> 
-    <!--
+<!--
     <xsl:template match="/">
         <xsl:text>"elementName", "elementContent", "typeAttribute"</xsl:text>
         <xsl:for-each select="//text//persName">

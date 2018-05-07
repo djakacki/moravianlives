@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johann Georg Stoll: Memoir
+               <lang>German</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Matthaeus Wittke</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0342a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0342a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0342a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0342a-04.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="de">
+         <head>Johann Georg Stoll memoir</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="MemBeth_0342a-01" />
+            </head>
+            <p>
+            
+Eine kurze und simple Beschreibung von meinem Lebensumständen: Ich bin geboren im Fürstentum Oettingen, unweit Nördlingen im Dorf Balkheim im Jahr 1717, den 8. Oktober. Meine Eltern Jakob und Anna-Margareta Stoll, die Mutter eine geborene Grüningem, waren gottsuchende, um ihre Seligkeit bekümmerte Leute, hielten mich fleißig zur Kirche, sonderlich zur Lesung der Bibel an , wozu ich sonderinklinierte von Jugend auf.
+
+
+Ward auch unruhig von Kindesbeinen an; und sonderlich da ich das erste Mal zum Abendmahl ging. Da kam mich Zittern und Beben an; resolvierte auch von nun an ein gottesfürchtiges Leben zu führen. Weil ich aber keinen Heiland hatte, so wurde nichts daraus. Kam dann endlich auf die Idee, wenn ich heuraden würde, so würde es besser gehen. Daher beschloß ich bald, zu heuraden, welches auch geschah 1737 und wurde den 23. Dezember getraut mit einer lieben Anna, geborene Hütterin, die ich von Jugend auf liebhatte. Zwar nicht nach meinem Willen, auch nicht meiner Freunde Willen, aber ich glaube, es war des lieben Heilands Will, denn wir hatten und behielten einander lieb. Aber mit meiner Bekehrung wollte es noch nicht gehen.
+
+Anno 1740 hörte ein Gerüchte aus meiner Nachbarschaft, daß da ein frommer Pfarrer wäre, der sagte viel von einem Heiland und er hätte auch etliche fromme Leude, die unglaublich fromm wären. Viele sagten auch viel Böses von ihnen. Dies machte mich sehr attent, weil ich gelesen, alle die Gott selig leben wollen in Christo Jesu, die müssen Verfolgung leiden. Ich sagte oft zu den Leuden, die so Böses von ihnen sagten: Habt Ihr die Leude gesehen oder gesprochen? Habt Ihr das und das von ihnen gesehen? Antwort: Nein. Nun sagte ich ihnen: "So urteilt nicht, so geht und seht und hört, ich will es auch tun." Welches ich auch 1741 tat, am Ostermontag, den 3. April da predigt Pfarrer Dödelein über die Worde aus dem Evangelium des Tages: "Brannte nicht unser Herze in uns, da er mit uns redete auf dem Weg und uns die Schrift offrierte..." Da er denn so vom Heiland Verdienst und Leiden zeigte, daß mir mein Herz in tausend Tränen zerfloß. Da wußte ich erst, wo mir fehlt. Den Augenblick fuht ich zu und der Heiland machte sich meinem Herze, daß ich nicht mehr loskonnte.
+
+1743, als Bruder Peiste von Augsburg zurück nach Herrnhag besuchte er uns. Da nahm ich Gelegenheit, mit ihm von meinem Herzen zu reden. Ganz simpel und einfäldig, sagte ihm auch , daß ich zur Gemein wollte, er mir aber viel Schwierigkeit machte in diesem, vollzog ich`s doch dasselbe Jahr noch, nachdem ich vorher einen Besuch tat in Herrnhag, da es alles nach meinem ganzen Herzen war, was ich sah, hörte und fühlte. Und kam am ersten November in Marienborn an, am 25. in Herrnhag an, da ich herzlich bewillkommen war.
+
+1744, am vierten Januar, wurde ich nebst meiner Frau und 27 Geschwister in die Gemeine aufgenommen. Bald darauf kam ich ins Gemeinlogis zu Schulius (?)
+
+Den 26. Mai, als das erst Abendmahl in der Kirch zu Marienborn war, ging ich das erste Mal mit. Nachdem ging ich einen seligen Gang von Gnad in Gnad in der Gemeine fort. Hatte auch die Gnade und das Glück, daß ich 1745, im Oktober, in die Gemein er kam, wo ich viel Seliges gefunden.
+
+1747 kam ich mit meiner Frau nach Marienborn in Wirtschaft; weil es aber sich nicht zu der intendierten Einrichtung daselbst machen wollte, kam ich nach fünf Monat wieder nach &lt;em&gt;Seite 2                                                                                                          Johann Georg Stoll &lt;/em&gt;Herrnhag, da ich bis im Oktober blieb. Da ich dem meine Reise über Holand und England von kurzem Aufenthalt daselbst meine Reise Anno 1749 im Februar mit ... (?) ...und seine übrige Kolonne auf der See fortsetzte, da wir nach zwölfwöchiger Seereise im Mai hier in Bethlehem glücklich und wohl da ankamen.
+
+1750 im Januar kam ich nach Gnadental, wo ich zwei Jahr und vier Monat haushielt mit meiner Frau. 1752 zog ich nach Friedenstal, da ich denn eine kurze aber selige Zeit haushielt mit meiner Frau. 1753 hatte die Gnade nach Bethelehem zu kommen und auszuruhen, welches ich mir gut zu uns machte. Da hatt ich ganz was besonders erfreuliches, daß ich just auf meinen Trauungstag die Ehre hatte, mit meiner Frau die Ehrchorjüngerwürde zu tragen, 1753, den 23. Dezember.
+
+<hi rend="bold">Volle Version - Die spätere Version</hi>
+
+Lebenslauf des seligen Bruders Johann Georg Stoll, welcher am 10. März 1801 allhier in Bethlehem selig verschieden. Er hat folgendes schriftlich hinterlassen:
+
+Ich bin den 8. Oktober 1717 zu Balkheim im Fürstentum Oettingen geboren. Meine Eltern Jakob und Anna-Margareta Stoll waren gottsuchende und um ihre Seligkeit bekümmerte Leute, hielten mich fleißig zu Kirche und Schule und zur Lesung der Bibel, wozu ich besonders inklinierte, an. Schon in meinen Kinderjahren war ich oft unruhig über mich und ums Seligwerden verlegen. Als ich das erste Mal zum heiligen Abendmahl ging, kam mich Zittern und Beben an. Ich resolvierte auch von nun an ein gottesfürchtiges Leben zu führen. Weil ich aber den Heiland und sein Verdienst nicht kannte, so wurde nichts daraus. Ich kam auf den Gedanken, es würde besser gehen, wenn ich heiraten könnte, trat auch im Jahr 1737 mit der ledigen Anna Hütter in die Ehe, welches wohl nicht nach dem Willen meiner Freunde, auch anfänglich auch nicht ganz nach meinem Willen war, wir hatten aber und behielten einander lieb und hintenach sah ich ein, daß es so Gottes Fügung war. Mit meiner Bekehrung wollte es aber nicht gleich nach meiner gefaßten Meinung gehen.
+
+Anno 1740 hörte ich, daß in der Nachbarschaft ein frommer Pfarrer sei, der viel von einem Heiland rede und verschiedene Leute bei sich habe, die sehr fromm wären. Von diesen Leuten wurde zugleich auch viel Böses geredet. Dies machte mich aufmerksam, weil ich gelesen hatte, alle, die gottselig leben wollen, in Christu Jesu, müssen Verfolgung leiden. Ich fragte diejenigen, welche nicht vorteilhaft von den erwähnten Leuten sprachen: "Habt Ihr die Leute gesehen und gesprochen? Habt Ihr das Böse, dessen Ihr sie beschuldiget, selbst gesehen?" Es hieß: "Nein". Nun erwiderte ich: "So urteilt auch nicht, sondern gehet, sehet und höret; ich will es auch tun." Ich hörte darauf besagten Pfarrer, namens Dödelein, Anno 1741, den 3. April, am Ostermontag, über die Worte aus dem Evangelio "Brannte nicht unser Herz in uns, da er mit uns redete auf dem Wege ..." - und uns der Schrift öffnete, von dem Verdienst des Heilands meinem Herzen so zusagend predigte, daß dasselbe in tausend Tränen zerfloß. Nun lernte ich erst einsehen, wo es mir bisher gefehlt hatte. Ich fuhr den Augenblick zu. Der Heiland ließ mich Gnade vor seinen Augen finden und faßte mein Herz so, daß ich nicht mehr von ihm lassen konnte.
+
+Seite 3       Anno 1743 besuchte uns Bruder Peistel auf seiner Retour von Augsburg nach Herrnhag. Ich nahm Gelegenheit, einfältig mit ihm von meinem Herzen zu reden, sagte ihm auch meinen Vorsatz, zur Brüdergemeine zu gehen, worüber er mir aber viel Schwierigkeiten machte.
+
+Indessen besuchte ich bald den Herrnhag. Alles was ich da sah, hörte und fühlte, vermehrte meinen Trieb zur Gemeine und ich nahm die Überzeugung mit zurück, daß ich dahin gehöre. Auf erhaltene Erlaubnis bin ich mit meiner lieben Frau, die mit mir ganz eines Sinnes war, am 2. November desselben Jahres im Herrnhag an. Wir wurden mit herzlicher Liebe empfangen. Ich kam fürs erste zum Dienst ins Gemeinlogis. Am 4. Januar 1744 wurden wir nebst noch 27 Geschwistern in die Gemeine aufgenommen und am 26. Mai desselben Jahres in, als das erste Abendmahl in der Kirche zu Marienborn gehalten wurde, hatte ich die Gnade, dasselbe zum ersten Mal mit der Gemeine zu genießen. Ich ging beim Gefühl meines Elends aus Gnade in Gnade und war vergnügt.
+
+Anno 1747 kamen wir in die Wirtschaft nach Marienborn und von da Anno 1748 wieder nach Herrnhag, wo wir bis im Oktober blieben und dann unserem erhaltenen Ruf zufolge über Holand und England nach Nordamerika reisten.
+
+<p>Nach einer zwölfwöchentlicher Seereise trafen wir den 20. Mai 1749 wohlbehalten hier in Bethlehem ein. Im folgenden Jahr kamen wir in die Wirtschaft nach Gnadental und Anno 1752 nach Friedenstal, wo wir einen zwar kurzen aber vergnügten Aufenthalt hatten. Das Jahr darauf kamen wir wieder nach Bethlehem mit der Zuversicht zum Heiland. Er werde uns halten seinen teuren Eid, daß wir noch sollen werden seine ganze Freud.</p>
+
+So weit geht seine eigenhändige Nachricht.</p>
+            </div>
+            
+
+
+      </body>
+  </text>
+</TEI>
