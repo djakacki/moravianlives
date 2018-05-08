@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christiane Eleonora Seidel: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, PA USA</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <idno></idno>
+                  <msName type="memoir">Christiane E. Seidel</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-07.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="eng">
+         <head>Christiane Seidel memoir</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="MemBeth_0138-01" />
+            </head>
+            <p>
+               2. The Widow <persName>Christine Eleonore Seidel</persName>.
+               (her Maiden Name was Peistel)
+               She <sic>wrot</sic>  <corr>wrote</corr> of herself:
+               I am born the <date>28</date><hi rend="superscript"><date>th</date></hi><date> of May 1707</date> at <placeName>Litowiz</placeName> in
+               <placeName>Misonie</placeName>. Myn Vater has been <persName>Carl Fridric Peistel</persName>
+               and my Mother <persName>Eleonore</persName> born of <placeName>Bradenstein</placeName>,
+               of the generation Zoeshen by Merseburg. We have
+               been 5 <del rend="strikethrough">Brethren &amp; Sisters</del>Children, two of them 
+               are gone home in their tender Ages, and we three
+               have been brought up at home, and <add>we</add> came according
+               to our Pradestination to the Congregation.
+               We had a Lovefull but a serious Mother,
+               who had our true best at Heart, She was a 
+               Lover of the Cross of Christ &amp; <sic>aknowlegd</sic>  <corr>acknowledged</corr>
+               Christ crucified for her only <sic>Happeness</sic>  <corr>Happiness</corr> in time
+               &amp; Eternity for every Body. She had a <sic>Conexion</sic>  <corr>Connection</corr>
+               w.<hi rend="superscript">th</hi> our Saviour &amp; did not Love the World, &amp;
+               This has been the Subsect of <add>her</add> discoursing w.<hi rend="superscript">th</hi> us, in a very
+               evangelical Manner &amp; this effected towards our Mother by us
+               a great Love &amp; respect. By <sic>occassion</sic>  <corr>occasion</corr> She very often
+               declard to us: that our Saviour certified her Heart,
+               that not one of her Children should be lost, but all
+               should become his Property &amp; live for him in this World.
+               This made some times a deep Impression on our Hearts,
+               I for my Part was not without Feeling, nevertheless I
+               did not know my Redeemer. In the Time following
+               the Lust to the World begun to stir &amp; I <sic>begun</sic>  <corr>began</corr> to like
+               the World &amp; the World liked me &amp; seekd for me.
+            </p>
+         </div>
+         <div type="page" n="2">
+            <head>Page 2 <seg ana="MemBeth_0138-02" />
+            </head>
+               <p>
+                  Alone my true Saviour did't leave me Rest in
+                  Pleasure whatsoever but transformed all wordly <sic>Plesures</sic>  <corr>Pleasures</corr>
+                  into Bitterness, Grief &amp; Mourning. I knew very well
+                  I was not converted &amp; therefore <sic>toock</sic>  <corr>took</corr> one Resolution
+                  after the other, but without Effect; then I <sic>allways</sic>  <corr>always</corr> begun
+                  driven by the Restlessness of my Heart w.<hi rend="superscript">th</hi> my own
+                  Power, therefore I never found rest or get into a 
+                  true <sic>Conexion</sic>  <corr>Connection</corr> w.<hi rend="superscript">th</hi> our Saviour. By the <unclear>infattigable</unclear>
+                  <sic>Disire</sic>  <corr>Desire</corr> of our dear Mother our Saviour provideth for
+                  us, and we got a Proceptor from <persName>D</persName><hi rend="superscript"><persName>r</persName></hi><persName> Buddei</persName>, Named
+                  <persName>Hofman</persName> (a intimate Friend to our blessed <persName>B.</persName><hi rend="superscript"><persName>r</persName></hi><persName> Vierroth</persName>)
+                  who <sic>recommented</sic>  <corr>recommended</corr> contualy <sic>continualy</sic>  <corr>continually</corr> the Love of
+                  our crucified Saviour w.<hi rend="superscript">th</hi> a burning Heart to
+                  us; and was of one <sic>Opinon</sic>  <corr>Opinion</corr> w.<hi rend="superscript">th</hi> our Dear Mammy.
+               </p>
+               <p>
+                  A.<hi rend="superscript">o</hi> <date>1735</date> our dear Saviour took our dear Mother
+                  on a sudden but very happy home to himself.
+                  We, her three Children where present, because our
+                  Brother to the same time a Prussian <sic>Officir</sic>  <corr>Officer</corr> came
+                  home by a instinct unknown for what, he found
+                  her still well, but had not long to wait to see her
+                  <sic>clossing</sic>  <corr>closing</corr> her Eyes happy &amp; in Peace. Her so happy
+                  &amp; <sic>Joyfull</sic>  <corr>Joyful</corr> <sic>Far well</sic>  <corr>Farewell</corr>, had such a Effect on our Hearts
+                  that we three together <sic>tock</sic>  <corr>took</corr> the resolution at once,
+                  to have no part w.<hi rend="superscript">th</hi> the World, but to give our
+                  whole Hearts to our Saviour Jesus Christ.
+                  But I for my part did't know this true Friend
+                  of <sic>Siners</sic>  <corr>Sinners</corr>. I tried all the means I could, I read very
+                  often the History of the Suffering &amp; Death of our Saviour
+                  not without Effect upon my Heart; but I <sic>allways</sic>  <corr>always</corr> <sic>begun</sic>  <corr>began</corr>
+                  by becoming Pious &amp; to Show my Duty to God, and
+                  so I came by all my restlessness not farther.
+                  Then I became <sic>aquainted</sic>  <corr>acquainted</corr> with Separatists, &amp; would
+                  undoubtedly have fallen deeper &amp; deeper in my own Working;
+                  had not our Saviour directed, that <persName>Magister Seidel </persName><add>was calld</add> as
+                  Deacon to <unclear><placeName>Mutschen</placeName></unclear><placeName></placeName> as the Place of our Residence.
+                  He begun to preach our Saviour w.<hi rend="superscript">th</hi> Power &amp; Grace &amp;
+                  our Sav.<hi rend="superscript">r</hi> regulated it so that I became his Wife, <sic>noth_
+            withsanding</sic>  <corr>notwithstanding</corr> all the <sic>Dificultys</sic>  <corr>Difficulties</corr> which would arise in this
+                  respect. This Marriage was a great Blessing to my
+                  Heart. My Husbands' tender Conversation w.<hi rend="superscript">th</hi> our 
+                  Saviour moved my Heart anew, that as he ask'd me
+                  in the first Days of our Marriage: how it would be
+                  with me? if <sic>Poeple</sic>  <corr>People</corr> would drive him <add>out</add> for the <sic>Sacke</sic>  <corr>Sake</corr>
+                  of our dear Saviour out of the Town &amp; Country?
+                  I made a Covenant w.<hi rend="superscript">th</hi> him, to follow him willingly [.]
+                  and partake w.<hi rend="superscript">th</hi> him for our Saviours Sake what
+                  would follow. A. <date>1740</date>. He went to see the Congregation
+                  in <placeName>Hhuth</placeName>. This Visit brought a great Blessing about
+                  his Heart and I got my Share by that dreams to.
+                  From this Time quite a new a happy Period begun
+                  w.<hi rend="superscript">th</hi> us. A.<hi rend="superscript">o</hi> <date>1741</date>. The <date>22</date><hi rend="superscript"><date>d</date></hi><date> of March</date> as he was
+                  Preaches to the Garrison at the <sic><placeName>Castel</placeName></sic><placeName> of Königs Stone</placeName>
+                  our dear Saviour took him home in his eternal
+                  <unclear>favoty</unclear>. He Witnesseth still on his Sick Bed towards all 
+               </p>
+            </div>
+         <div type="page" n="3">
+            <head>Page 3 <seg ana="MemBeth_0138-03" />
+            </head>  
+            <p>
+         
+                  who came to see him, from the Power of the Blood
+                  of Christ with a becoming Tenderness.
+                  His happy &amp; <sic>Joyfull</sic>  <corr>Joyful</corr> Departure to our Saviour renewd
+                  &amp; fastened the Impression, I had, of the blessed Con_
+                  versation w.<hi rend="superscript">th</hi> him.
+               </p>
+               <p>
+                  Now my former Inclination to the had fixd <add>in me</add> such a
+                  Fear of myself, that I no where trusted to live, &amp;
+                  imagined Danger every where; but the Friend of
+                  my Soul soon recollected to me, that I lookd more
+                  on my blessed Husband as on the <sic>Conexion</sic>  <corr>Connection</corr> w.<hi rend="superscript">th</hi> him.
+                  This made me prostrate myself before &amp; I begged
+                  w.<hi rend="superscript">th</hi> 1000 Fears forgiveness over all what passed.
+                  He Mercy took me as I was, &amp; I had from
+                  thence a more happy Period. By all that, I could
+                  not get rid of my Scrupulosity by the feelings of
+                  my Misery &amp; like a Child draw near to him
+                  according to my Wish, <sic>therfore</sic>  <corr>therefore</corr> the Fear of myself
+                  darkneth my happy Hours very often. In this
+                  very Year, I &amp; my Sister went to see the Con_
+                  gregation at <placeName>Hhuth</placeName>, there I <sic>feeld</sic>  <corr>felt</corr> the very
+                  Peace of God, and the Brethren &amp; Sisters I
+                  <sic>loockd</sic>  <corr>looked</corr> on as Children of God and had a great
+                  respect towards them &amp; I wishd incognito to
+                  live in this Place. <date>1742</date>. We came to see <placeName>Hhuth</placeName> a
+                  second time &amp; there we <sic>detemind</sic>  <corr>determined</corr> to remove thither.
+                  But by setting out for <placeName>Herrnhuth</placeName> some Accident
+                  happened &amp; we <sic>possponed</sic>  <corr>postponed</corr> our Journey. Hereby
+         
+         
+                  a dangerous Period for my poor Heart begun,
+                  a false <unclear>Poeple</unclear> filled our Minds with so much
+                  dangerous Expectations and Things against the
+                  Congregation, that our Journey was quite <sic>dropt</sic>  <corr>dropped</corr>.
+                  By all that our Saviour was so <sic>gratious</sic>  <corr>gracious</corr> to
+                  beware that I did't sin against his Church, &amp;
+                  my <sic>Disire</sic>  <corr>Desire</corr> still remaining to <sic>spent</sic>  <corr>spend</corr> my Days under
+                  this <unclear>Poeple</unclear>. I was busy in reading the <sic>Deciples</sic>  <corr>Disciples</corr>
+                  <sic>Semons</sic>  <corr>Sermons</corr> deliverd at <placeName>Berlin</placeName> &amp; begged our Saviour
+                  very often that if I belonged to this Folks, 
+                  he would himself find means to bring me <sic>thiter</sic>  <corr>thither</corr>.
+                  As my Brother moved from <placeName>Wetteravia</placeName> to <placeName>Bertholsdorf</placeName>,
+                  I &amp; my Sister paid him a Visit there for some
+                  Weeks, by that we saw what false Opinions
+                  had for foundation. But for all that I <sic>knowd</sic>  <corr>knew</corr>
+                  very well that some <sic>Poeple</sic>  <corr>People</corr> who came to the Con_
+                  gregation have been sent by &amp; by back again, this
+                  made me terribly afraid to venture asking Leave
+                  nevertheless I <sic>feeled</sic>  <corr>felt</corr> a Instinct in my Heart
+                  that I belonged to this People. At last I &amp; my
+                  Sister desireth Leave to stay in <placeName>Bertholsdorf</placeName>
+                  (only to be near <placeName>Hhuth</placeName> &amp; to try if we belong
+                  to the Congregation or not) We got Leave
+                  &amp; then the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of Jan. 1747</date>. we arrived in
+                  <placeName>Bertholsdorf</placeName> to stay there.
+               </p>
+               <p>
+                  Exact a Month <sic>past</sic>  <corr>passed</corr> as the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of Febr</date>. in a 
+                  <note type="catchword">Meeting</note>
+
+               </p>
+         </div>
+         <div type="page" n="4">
+            <head>Page 4 <seg ana="MemBeth_0138-04" />
+            </head>  
+            <p>
+         
+                  Meeting at the Hall in <placeName>Hhuth</placeName> as they sung this
+                  <sic>vers</sic>  <corr>verse</corr>: Wie bin ich doch so herzlich froh. My bloody
+                  Redeemer on a sudden appeard before me, &amp; my
+                  poor Heart melted away by feeling his blessed
+                  Nearness for Shame about my deep Misery &amp;
+                  Sinful Condition. I never can forget this
+                  blessed Moment &amp; I shall remember it &amp; adore
+                  my Saviour therefore in Eternity.
+               </p>
+               <p>
+                  From this Time the Sisters took more particular
+                  Care upon me, &amp; for all I liveth in <placeName>Berthols_
+            dorf</placeName> I got <sic>Lieve</sic>  <corr>Leave</corr> to partake on the Communion_
+                  Meetings in <placeName>Hhuth</placeName>.
+               </p>
+               <p>
+                  <date>1747 the 22</date><hi rend="superscript"><date>d</date></hi><date> of Octob.<hi rend="superscript">r</hi></date> to the greatest Joy
+                  &amp; Shame of my poor Heart, I was received in
+                  the Congregation in <placeName>Hhuth</placeName>, this gave one a new
+                  Spirit to lay down my whole Heart before my
+                  Redeemer as a poor Reward for his Trouble;
+                  and still I remember by every Reception, the 
+                  Grace beflowed upon my <add>Soul</add> by this Opportunity.
+                  A.<hi rend="superscript">o</hi> <date>1748 March 20</date><hi rend="superscript"><date>th</date></hi> I removed from Hh
+                  <placeName>Bertholsdorf</placeName> to <placeName>Hhuth</placeName>
+               </p>
+               <p>
+                  <date>March 25</date><hi rend="superscript"><date>th</date></hi> our Saviour <add>beflowed</add> the great Mercy on me
+                  to partake w.<hi rend="superscript">th</hi> the Congregation the holy
+                  Sacrament of his inestimable Flesh &amp; Blood.
+                  Here all Words fall to short to express what my
+                  <note type="catchword">poor</note>
+                  poor Heart felt thereby.
+               </p>
+               <p>
+                  From that Time I passd my Time as well in the
+                  Congregation as my dear Choir <sic>chearfull</sic>  <corr>cheerful</corr> and
+                  happy and my Heart was <sic>realy</sic>  <corr>really</corr> attached to our dear
+                  Saviour. If some times a cloudy Hour came
+                  upon me, as whereto my poor Temper much
+                  inclined, it was soon dispersed as soon as my
+                  Heart <sic>weept</sic>  <corr>wept</corr> for our dear Saviours feet.
+               </p>
+               <p>
+                  A.<hi rend="superscript">o</hi> <date>1756 the 14</date><hi rend="superscript"><date>th</date></hi><date> of March</date> I was taken among
+                  the hourly Intercessors, by this special Conversation
+                  w.<hi rend="superscript">th</hi> our dear Saviour, I had many Blessings &amp;
+                  for fo my own part many <add>delightful</add> Insights into the <unclear>Siner_
+            loving</unclear> Heart of our Redeemer.
+               </p>
+               <p>
+                  The <date>3</date><hi rend="superscript"><date>th</date></hi><date> of Febr</date>. a.c. I was <add>received</add> amongst the Acoluths.
+                  received. the <date>8 of July</date> as the new Classes who were
+                  errected I became a Help Mate in one of them.
+                  The <date>3</date><hi rend="superscript"><date>th</date></hi><date> of Febr</date>. I became the first time Choir Disciple
+                  which was a Opportunity to keep <sic>closse</sic>  <corr>close</corr> to the Heart
+                  of my dearest Redeemer &amp; a true blessing for my
+                  poor Soul (after that this Grace happened oftener to
+                  her, and She was the last Choir Disciple.)
+                  In the Beginning of the <date>Year 61</date>. Our dear Saviour
+                  was very <sic>gratious</sic>  <corr>gracious</corr> to me &amp; <sic>blest</sic>  <corr>blessed</corr> me w.<hi rend="superscript">th</hi> his Nearness
+                  &amp; my constant Prayer was only: Dear Saviour
+                  remain so with me, till I see thy face to Face.
+                  <note type="catchword"><date>18</date><hi rend="superscript"><date>th</date></hi><date> Febr.</date></note>
+               </p>
+         </div>
+         <div type="page" n="5">
+            <head>Page 5 <seg ana="MemBeth_0138-05" />
+            </head>  
+            <p>
+         
+                 The <date>16</date><hi rend="superscript"><date>th</date></hi><date> of Febr</date>. a.c. I had the Pleasure to move in
+                 our new Choir-House. I desireth by that means by
+                 our Saviour as a Present a quite happy Choir Heart.
+                 (Since that I had lived in the House of my Brother.)
+                 He alone knoweth the Fears of my Heart, and I know
+                 he'll transfer me by his Mercy to his own &amp; holy Pleasure.
+              </p>
+
+               <p>
+                 So far her own Words.
+                 That our Saviour was near to our blessed Sister in her
+                 Choir-House &amp; heard her <sic>Disires</sic>  <corr>Desires</corr> may <sic>easely</sic>  <corr>easily</corr> be
+                 seen by the following verses, which she made on her
+                 last Birth Day the <date>28</date><hi rend="superscript"><date>th</date></hi><date> of May</date>:
+                 Wie dank ich dir mein ewger Mann
+                 for das, was du dis Jahr gethan
+                 an deinem armen sundgen Kind
+                 das nichts als Mängel an sich findt.
+               </p>
+
+            <figure><ab>X      X</ab></figure>
+            
+            <div type="verse">
+            <lg>
+                  <l>Ich gebe deinen blutgen Fuss</l>
+                  <l>den sünderhafsten Gruss und Kuss</l>
+                  <l>for alle Gnade und Geduld</l>
+                  <l>und fors vergeben meiner Schuld.</l>
+            </lg>
+            
+            <figure><ab>         X    X</ab></figure>
+               
+               <lg>
+
+                  <l>Ach wie beshämt es mich so sehr</l>
+                  <l>Dass ich dir noch nicht mehr zur Ehr</l>
+                  <l>Schenk mir ein ganz zersehmolzen Herz</l>
+                  <l>verliebt in deinen Todt und Schmerz</l>
+               </lg>
+                  
+                  <figure><ab>X   X</ab></figure>
+                 
+                 <lg>
+                  <l>Gott heilger Geist du Mutter mein</l>
+                  <l>lehr mich dir recht gehorsam sein</l>
+                  <l>ergiess Dich reichlich uber mich</l>
+                  <l>Zum Pfingst-Fest das erwarte ich.</l>
+                 </lg>
+
+            </div>
+            <div type="page" n="6">
+               <head>Page 6 <seg ana="MemBeth_0138-06" />
+               </head>  
+                  
+                  <figure><ab>X      X</ab></figure>
+               <lg>
+                     <l>Und hofe auf ein seligs Jahr</l>
+                     <l>Als sonsten noch Nie keines war.</l>
+                     <l>O dass du mich so schmuktest aus,</l>
+                     <l>Dass mich mein Mann nehm bald nach Houss.</l>
+               </lg>
+                     
+                 <figure><ab>X      X</ab></figure>
+               
+               <lg>
+                    
+                    <l>Wie würde doch dem Würmelein</l>
+                    <l>Beym Sehn des Lams zu Muthe sein</l>
+                    <l>Vielleicht ben ich heut ubers Iahr</l>
+                    <l>By Ihm in seiner obern Sohaar.</l>
+               </lg>
+                    
+                    
+                  <figure><ab>X        X</ab></figure>
+               <lg>
+                  <l>Drum soll myn Aug auf nichls mehr Sehn</l>
+                  <l>Als nur auf seine Leidens Schön</l>
+                  <l>Dem Ohr gefalle sonst kein Klang</l>
+                  <l>als nur der Passions Gesang.</l>
+               </lg>
+
+               <p>
+         
+                  It was very plain to be perceived, that the
+                  holy Ghost hastened with her Adornment;
+                  She could herself nothing imagine more
+                  sweet as to receive the last Kiss from
+                  the lovely Lips of her Lover; and <del rend="strikethrough">this</del> her
+                  last Sickness was the Opportunity to still her
+                  <sic>Disire</sic>  <corr>Desire</corr>. The <date>23</date><hi rend="superscript"><date>th</date></hi><date> of March</date>, She was taken
+                  by a hard fit of Colic, that She was forced to
+                  keep to her Bed, but by all her Pain, the
+                  Conversation w.<hi rend="superscript">th</hi> our dear Saviour &amp; his
+                  Smart &amp; Sufferings made her Sick bed
+                  <sic>easly</sic>  <corr>easily</corr> &amp; suportable  supportable to her.
+               </p>
+
+               <p>
+                  The <date>24</date><hi rend="superscript"><date>th</date></hi> She found herself very weak &amp;
+                  <note type="catchword">expected</note>
+               </p>
+
+            </div>
+            <div type="page" n="7">
+               <head>Page 7 <seg ana="MemBeth_0138-07" />
+               </head>  
+               <div>
+                  <p>
+                  
+         
+                  her great Sabbath Day with extaordnary Longing
+                  took tender Leave by Words so much for Weakness'
+                  would allow to express by her Brother, Sister &amp; other
+                  <sic>Aquaint</sic><sic><sic>ances</sic></sic>  <corr>Acquaintances</corr>, but <sic>afterwarts</sic>  <corr>afterwards</corr> She expressd her tender
+                  Love by a smiling Look on, [a] so She remaineth
+                  present to herself to the last Gap or Breath.
+                  When They sung verses, She refresheth her Heart by
+                  and sung <add>accompanied</add> w.<hi rend="superscript">th</hi> a broken Voice, sometimes strechd
+                  out her Arms towards her Brautigroom!
+               </p>
+
+               <p>
+                  As the last Moment came nearer, then they
+                  <sic>Blest</sic>  <corr>Blessed</corr> her in the Name of her Choir w.<hi rend="superscript">th</hi> a <sic>un-
+                     comon</sic>  <corr>uncommon</corr> Feeling of the Nearness of our dear
+                  Saviour, &amp; under these Words: Ihr Glieder
+                  rein Gott ehr euch, des heilge Geist ver-
+                  klär euch. flew the <date>23</date><hi rend="superscript"><date>th</date></hi> in the Evening
+                  her reconciled Soul happy home in the 
+                  Wounds of Jesus Christ. A still &amp; blessed
+                  Peace of God <sic>extented</sic>  <corr>extended</corr> themselves about all
+                  who were present &amp; left to her <sic>Corps</sic>  <corr>Corpse</corr> a 
+                  lovely Prospect.
+               </p>
+            </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
