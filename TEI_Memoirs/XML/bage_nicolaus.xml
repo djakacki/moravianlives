@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -81,7 +80,6 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="de">
-         
          <head>Nicolaus Lorenz Bage memoir</head>
          <div type="page" n="1">
             <head>Page 1 <seg ana="MemBeth_0304a-01" />
@@ -89,46 +87,46 @@
             <p> Lebenslauf des seligen Bruder <persName>Nicolaus Lorenz Bage</persName>, zeithergen <orgName>Arbeiters </orgName>des <orgName>Geml</orgName>. zu <placeName>Hebron</placeName>, welcher
                den <date>20<hi rend="sup">ten</hi> Jun 1789</date> in seine ewige Ruhe einging. Ich bin geboren im Jahr <date>1732 den 3<hi rend="sup">ten</hi> Februar </date>in <placeName>dänischen
                   Hollstein</placeName> im <placeName>Amte Tondern</placeName>. Mein Vater starb, da ich etwa im 3ten Jahr war: daher verheirathete sich meine Mutter wieder mit <persName>Christian
-                  Petersen</persName>. Ich wurde fleißig angehalten in die Schule zu gehen, und nachdem mein Vater erweckt wurde und sein Leben änderte, hielt er mich sehr scharf, weil er gerne
-               einen frommen Menschen aus mir haben wollte. Dennoch gerieth ich in schlechte Umstände und wurde durch die übrige Jugend in der Schule verführt: wiewol ich dabey immer unschuldig war
-               und gut wuste, daß es nicht recht <del>war</del> sey. Endlich brachte es mein Vater dahin, daß ich eingezogen und fromm wurde. In meinem 10<hi rend="sup">ten</hi> Jahr, wurde ich an
-               einem Sonnabend, da der Schulmeister die Schule mit einem Ge- sang schloß, in meinem Herzen vom <persName>Heiligen Geist</persName> erweckt und mein elender Zustand stund mir so
-               lebendig vor Augen, daß ich glaubte, ich müste verloren gehen. Ich weinte sehr und konnte nicht aufhören. Mein Schulmeister wollte wissen, was mir fehle; weil ich aber glaubte, er
-               könne mir nicht helfen, so sagte ich es ihm nicht. Ich ging nach Hause, weils mir aber auch da nicht recht war und auch meine Eltern etwas ausserordentliches bey mir merkten; so bat
-               ich sie, mich über Feld zu schicken, damit ich allein seyn könnte. Sie erlaubten es mir und da redete ich recht gründlich mit dem lieben <persName>Heiland </persName>aus, gab mich
-               ihm ganz hin und stellte <del>es</del> ihm </p>
+                  Petersen</persName>. Ich wurde fleißig angehalten in die Schule zu gehen, und nachdem mein Vater erweckt wurde und sein Leben änderte, hielt er mich sehr scharf, weil er gerne einen
+               frommen Menschen aus mir haben wollte. Dennoch gerieth ich in schlechte Umstände und wurde durch die übrige Jugend in der Schule verführt: wiewol ich dabey immer unschuldig war und gut
+               wuste, daß es nicht recht <del>war</del> sey. Endlich brachte es mein Vater dahin, daß ich eingezogen und fromm wurde. In meinem 10<hi rend="sup">ten</hi> Jahr, wurde ich an einem
+               Sonnabend, da der Schulmeister die Schule mit einem Ge- sang schloß, in meinem Herzen vom <persName>Heiligen Geist</persName> erweckt und mein elender Zustand stund mir so lebendig vor
+               Augen, daß ich glaubte, ich müste verloren gehen. Ich weinte sehr und konnte nicht aufhören. Mein Schulmeister wollte wissen, was mir fehle; weil ich aber glaubte, er könne mir nicht
+               helfen, so sagte ich es ihm nicht. Ich ging nach Hause, weils mir aber auch da nicht recht war und auch meine Eltern etwas ausserordentliches bey mir merkten; so bat ich sie, mich über
+               Feld zu schicken, damit ich allein seyn könnte. Sie erlaubten es mir und da redete ich recht gründlich mit dem lieben <persName>Heiland </persName>aus, gab mich ihm ganz hin und stellte
+                  <del>es</del> ihm </p>
          </div>
          <div type="page" n="2">
             <head>Page 2 <seg ana="MemBeth_0304a-02" />
             </head>
             <p> vor daß es hier unmöglich mit mir gehen könnte und ich von hier weg müste. Es wurde mir wo<del>h</del>l <del>und </del>leicht<corr>e ums Herze; <del>doch </del>blieb <del>ich</del>
-                  <add>aber</add></corr> bey allem, was ich that, unruhig; und vor dem <persName>Heiland </persName>und meinen Eltern erst darauf bestehen, daß ich von hier weg müste. Doch ge-
-               reichte mir die Bekanntschaft mit dem <persName>Bruder Christian Hansen</persName>, der als Schmiedegesell bey meinem Vater arbeitete und erweckt war, zu großem Trost und Segen. Er nahm
-               mich überall mit, wo er hinging und ich sagte ihm mein ganzes Herz. Einmal hörte ich ihn mit einem andern von der <orgName>Ge- meine</orgName> und was da für Leute wären, reden; das
-               einzige Wort <hi rend="underline"><orgName>Gemeine</orgName></hi> blieb mir erst im Herzen und es war mir ausgemacht, daß ich zu den Leuten gehöre: bat auch den lieben Heiland oft, daß
-               Er mich dahin bringen möchte <add>und </add>machte <del>auch</del> mit <persName>Bruder Christian Hansen</persName>, von dem ich wuste, daß er dahin wolte, aus, mich mitzunehmen,
-               welches er mir auch ver- sprach. Ich sagte es auch meinem Vater, der antworte- te mir aber so, daß ich es ihm nie wieder sagte: denn er dachte; ich müste erst ein ganz anderer Mensch
-               wer- den, ehe das geschehen könnte. Ersteres glaubte ich auch von ganzem Herzen, dachte aber, wenn ich nur erst bey den Leuten bin, so wird das schon werden. In dieser Hofnung lebte
-               ich über ein halbes Jahr. An einem Morgen, sagte mir <persName>Chrisian Hansen</persName>, daß mein Vater Haus und Hof ver- lassen <add>und zur <orgName>Gemeine</orgName> gehen</add>
-               wolle: dieses war mir etwas sehr unerwartetes und ich konnte es vor Freuden kaum glauben, doch da er es mich versicherte, so dankte ich sogleich dem lieben <persName>Heiland</persName>
-               herzlich dafür. Mein Vater machte Anstalt zum Verkauf und der Tag dazu wurde vestgesezt. Als nun an dem dazu bestimmten Tage </p>
+                  <add>aber</add></corr> bey allem, was ich that, unruhig; und vor dem <persName>Heiland </persName>und meinen Eltern erst darauf bestehen, daß ich von hier weg müste. Doch ge- reichte
+               mir die Bekanntschaft mit dem <persName>Bruder Christian Hansen</persName>, der als Schmiedegesell bey meinem Vater arbeitete und erweckt war, zu großem Trost und Segen. Er nahm mich
+               überall mit, wo er hinging und ich sagte ihm mein ganzes Herz. Einmal hörte ich ihn mit einem andern von der <orgName>Ge- meine</orgName> und was da für Leute wären, reden; das einzige
+               Wort <hi rend="underline"><orgName>Gemeine</orgName></hi> blieb mir erst im Herzen und es war mir ausgemacht, daß ich zu den Leuten gehöre: bat auch den lieben Heiland oft, daß Er mich
+               dahin bringen möchte <add>und </add>machte <del>auch</del> mit <persName>Bruder Christian Hansen</persName>, von dem ich wuste, daß er dahin wolte, aus, mich mitzunehmen, welches er mir
+               auch ver- sprach. Ich sagte es auch meinem Vater, der antworte- te mir aber so, daß ich es ihm nie wieder sagte: denn er dachte; ich müste erst ein ganz anderer Mensch wer- den, ehe das
+               geschehen könnte. Ersteres glaubte ich auch von ganzem Herzen, dachte aber, wenn ich nur erst bey den Leuten bin, so wird das schon werden. In dieser Hofnung lebte ich über ein halbes
+               Jahr. An einem Morgen, sagte mir <persName>Chrisian Hansen</persName>, daß mein Vater Haus und Hof ver- lassen <add>und zur <orgName>Gemeine</orgName> gehen</add> wolle: dieses war mir
+               etwas sehr unerwartetes und ich konnte es vor Freuden kaum glauben, doch da er es mich versicherte, so dankte ich sogleich dem lieben <persName>Heiland</persName> herzlich dafür. Mein
+               Vater machte Anstalt zum Verkauf und der Tag dazu wurde vestgesezt. Als nun an dem dazu bestimmten Tage </p>
          </div>
          <div type="page" n="3">
             <head>Page 3 <seg ana="MemBeth_0304a-03" />
             </head>
             <p>
                <add>die </add>Leute schon beysammen waren; so suchten es noch unsere Freunde zu verhindern; besonders arbeiteten meine Vormünder und Pa- then an mir, daß ich sagen sollte, <hi
-                  rend="underline">ich</hi> wolle es nicht haben. Darü- ber wurde ich sehr betrübt, weinte und betete zum <persName>Heiland</persName>, daß Er doch helfen möchte und zu meiner
-               großen Freude ging endlich alles glücklich von statten. Da nun mein Vater ganz reise- fertig war; so kam die Nachbarschaft zusammen, weinte und sagte meinem Vater: er würde sein Geld
-               alles verzehren und dann arm wieder zurück kommen; die Leute, wo wir hin wolten, hätten nur Wasser und Brod; daraus machte ich mir nichts: es kam mir vor, als ob das alles nicht wahr
-               wäre. Und o wie froh war ich, daß es nur einmal vom Lande wegging. (Wir konnten von unserm Orte zu Was- ser bis <placeName>Hamburg </placeName>kommen.) In <placeName>Altona
+                  rend="underline">ich</hi> wolle es nicht haben. Darü- ber wurde ich sehr betrübt, weinte und betete zum <persName>Heiland</persName>, daß Er doch helfen möchte und zu meiner großen
+               Freude ging endlich alles glücklich von statten. Da nun mein Vater ganz reise- fertig war; so kam die Nachbarschaft zusammen, weinte und sagte meinem Vater: er würde sein Geld alles
+               verzehren und dann arm wieder zurück kommen; die Leute, wo wir hin wolten, hätten nur Wasser und Brod; daraus machte ich mir nichts: es kam mir vor, als ob das alles nicht wahr wäre.
+               Und o wie froh war ich, daß es nur einmal vom Lande wegging. (Wir konnten von unserm Orte zu Was- ser bis <placeName>Hamburg </placeName>kommen.) In <placeName>Altona
                </placeName>hielten wir uns 8 Tage auf, und sezten unsre Reise fort über <placeName>Berlin</placeName>, wo wir etliche Tage blieben, und in die <orgName>Versammlungen </orgName>der
                Brüder gehen durften, nach <placeName>Herrnhut</placeName>. Da ich <placeName>Herrnhut </placeName>von weitem sahe, wurde ich über den Anblick des Orts, den ich in meinem Leben nicht
                vergessen werde, so froh, daß ich vor lauter Freuden weinte. Wir kamen den <date>7<hi rend="sup">ten</hi> Juli 1744</date> mit unsrer Familie in <placeName>Herrnhut </placeName>an. Es
                hielt schwer, daß mein Vater Erlaub- niß kriegte, da zu bleiben, weil er ohne anzufragen gekommen war; doch erhielt er sie auch und ich war zufrieden, froh und dank- bar, daß ich da
-               war. Hier kam ich noch unter die Kinder, unter denen ich recht vergnügt war, und ging in die <orgName>Tages-Anstalt</orgName>. <date>1746 </date>wurde ich zum Nagelschmidt gethan und
-               in demselben Jahr am Knabenfest den <date>27<hi rend="sup">ten</hi> April</date> ins <orgName>Knabenchor </orgName>aufgenommen. Von da an nahmen micht die <orgName>ledigen
-                  Brüder</orgName> in besondere Pflege und Aufsicht. Der damalige <orgName>Knabenpfleger </orgName>der selige </p>
+               war. Hier kam ich noch unter die Kinder, unter denen ich recht vergnügt war, und ging in die <orgName>Tages-Anstalt</orgName>. <date>1746 </date>wurde ich zum Nagelschmidt gethan und in
+               demselben Jahr am Knabenfest den <date>27<hi rend="sup">ten</hi> April</date> ins <orgName>Knabenchor </orgName>aufgenommen. Von da an nahmen micht die <orgName>ledigen Brüder</orgName>
+               in besondere Pflege und Aufsicht. Der damalige <orgName>Knabenpfleger </orgName>der selige </p>
          </div>
          <div type="page" n="4">
             <head>Page 4 <seg ana="MemBeth_0304a-04" />
@@ -145,8 +143,8 @@
                doch ganz zu Seinem Schmerzenslohn ma- chen möchte. Der Vers: &quot;Erschein mir in dem Bilde, wie Du für meine Noth am Kreutze Dich so milde geblutet hast zu Tod&quot;, war mir sehr
                eindrücklich und wichtig. Es war meine Seligkeit, Ihn immer vor Herz und Augen zu haben, in Seiner Kreutzgestalt und wenn es mir daran fehlte; so bat ich immer wieder: Erschein mir in
                dem Bilde <abbr>p</abbr> Von der Zeit an war dieser Vers mein Symbolum, ist es noch und soll es bleiben, bis ich in Seinen Arm und Schooß erblasse. Doch machte mir noch diese Nacht und
-               dem folgenden Tag der Gedanke, daß mich die Brüder fortschicken würden; weil ich glaubte <add>es</add> kann <corr>nichts</corr> schlechteres als ich seyn, große Verlegenheit; ich
-               wurde aber sehr beschämt, da ich noch denselben Tag - es war im <date>May 1746</date> - in die Gemeine aufge- nommen wurde, welches mir was unerwartetes und eine neue </p>
+               dem folgenden Tag der Gedanke, daß mich die Brüder fortschicken würden; weil ich glaubte <add>es</add> kann <corr>nichts</corr> schlechteres als ich seyn, große Verlegenheit; ich wurde
+               aber sehr beschämt, da ich noch denselben Tag - es war im <date>May 1746</date> - in die Gemeine aufge- nommen wurde, welches mir was unerwartetes und eine neue </p>
          </div>
          <div type="page" n="5">
             <head>Page 5 <seg ana="MemBeth_0304a-05" />
@@ -174,12 +172,12 @@
                den Knaben wo ich selige Zeiten hatte und viel für mein Herz profitirte. Den <date>14<hi rend="sup">t.</hi> April</date> wurde ich zum erstenmal <orgName>Chorjünger </orgName>in
                   <placeName>Herrnhut </placeName>und zog den <date>16<hi rend="sup">t.</hi></date>> dahin; kam auch bald ins <orgName>Beterchor</orgName>. Auch solte ich hier <orgName>Knabenarbeiter
                </orgName>seyn, verbat es mir aber, weil ich gerne ganz im <orgName>Brüder Chor</orgName>, unter selches ich bald kommen solte, seyn wolte.<add>)</add> Am <date>29<hi rend="sup"
-                     >ten</hi> August</date> des Jahres kam ich ins <orgName>ledige Brüder Chor</orgName>. Das Jahr <date>1752 </date>war für mich ein ausgezeichnet seliges Jahr, in welchem ich
-               sowol im Umgang mit dem <persName>Schmerzensmann </persName>als auch sonst viele Gnaden vom lieben <persName>Heiland </persName>genoß. Auch werde ich die Passi- onszeit im Jahr <date>54
+                     >ten</hi> August</date> des Jahres kam ich ins <orgName>ledige Brüder Chor</orgName>. Das Jahr <date>1752 </date>war für mich ein ausgezeichnet seliges Jahr, in welchem ich sowol
+               im Umgang mit dem <persName>Schmerzensmann </persName>als auch sonst viele Gnaden vom lieben <persName>Heiland </persName>genoß. Auch werde ich die Passi- onszeit im Jahr <date>54
                </date>nie vergessen. Den <date>17<hi rend="sup">ten</hi> Juny 1754</date> wurde mir angetragen, nach <placeName>Amerika </placeName>zu reisen, wozu ich auch willig war. Den <date>23<hi
                      rend="sup">ten</hi> July</date> reiste ich von <placeName>Herrnhut </placeName>ab; es wurde mir sehr schwer diesen Ort und meine lieben Herzensfreunde daselbst zu verlassen. Den
-                     <date>8<hi rend="sup">ten</hi> August </date>kam ich mit meiner Reisegesellschaft in <add><placeName>Zeist </placeName>an</add>: nach dem <orgName>Brüderfest </orgName>reisten
-               wir nach <placeName>England</placeName>, musten aber 14 Tage vor <placeName>Helvontsluis </placeName>liegen und kamen erst am <date>17<hi rend="sup">t</hi> September</date> bey
+                     <date>8<hi rend="sup">ten</hi> August </date>kam ich mit meiner Reisegesellschaft in <add><placeName>Zeist </placeName>an</add>: nach dem <orgName>Brüderfest </orgName>reisten wir
+               nach <placeName>England</placeName>, musten aber 14 Tage vor <placeName>Helvontsluis </placeName>liegen und kamen erst am <date>17<hi rend="sup">t</hi> September</date> bey
                   <placeName>London </placeName>in <placeName>Chelsea</placeName>, wo das <orgName>Jüngerhaus </orgName>war, an. Hier blie- ben wir einige Tage, und nach dem wir am <date>20<hi
                      rend="sup">ten</hi></date> ein seliges <orgName>Abendmahl</orgName> gehabt, gingen wir am <date>23<hi rend="sup">ten</hi></date> in See, hatte eine gute Reise und liefen am
                      <date>16<hi rend="sup">ten</hi> November</date> in <placeName>Newyork </placeName>ein. Den <date>24<hi rend="sup">t</hi> November</date> kamen wir gesund und wohl in
@@ -199,14 +197,14 @@
                </placeName>und trat von da am <date>4<hi rend="sup">ten</hi> October</date> mit 12 Knaben meine Reise nach <placeName>Bethabara </placeName>an, wo wir den <date>1<hi rend="sup">t</hi>
                   November</date> glücklich und wohlbehalten anka- men und am <date>11<hi rend="sup">ten</hi></date> wurde ich dem dasigen <orgName>ledigen Brüder Chor</orgName> als
                   <orgName>Chorhelfer </orgName>vor- gestellt. Auch hier und in <placeName>Salem</placeName>, wohin ich zu eben dem Zweck, nachdem das <orgName>Chorhaus </orgName>der <orgName>ledigen
-                  Brüder</orgName> daselbst fertig war, nebst noch mehreren Brüdern zog, hielt ich mich bey allen Umständen kindlich an den lieben <persName>Heiland</persName>, Er bekannte Sich zu
-               mir und half mir in allem gnädig durch. Anno <del>1743 </del><corr><date>1773 </date></corr><date> im April</date> erhielt ich einen Ruf, die <orgName>Gemeine </orgName>in
+                  Brüder</orgName> daselbst fertig war, nebst noch mehreren Brüdern zog, hielt ich mich bey allen Umständen kindlich an den lieben <persName>Heiland</persName>, Er bekannte Sich zu mir
+               und half mir in allem gnädig durch. Anno <del>1743 </del><corr><date>1773 </date></corr><date> im April</date> erhielt ich einen Ruf, die <orgName>Gemeine </orgName>in
                   <placeName>Bethabara </placeName>zu be- dienen und wurde dazu am <date>18<hi rend="sup">ten</hi> Juny</date> desselben Jahres in <placeName>Litiz </placeName>mit der ledigen
                   <persName>Schwester Elisabeth Bürstlerin</persName> zur heiligen Ehe verbunden. Wir reisten den <date>22<hi rend="sup">ten</hi></date> nach <placeName>Bethabara </placeName>ab, und
                kamen den <date>16<hi rend="sup">t.</hi> July</date> gesund und wohl da- selbst an. <add>(</add>Den <date>17<hi rend="sup">t</hi> October</date> wurde meine liebe Frau zu einer
                   <orgName>Diaconisse</orgName> der <orgName>Brüder Kirche</orgName> eingesegnet.<add>)</add> Am <date>14<hi rend="sup">ten</hi> Januar 1775</date> schenkte uns der <persName>Heiland
-               </persName>ein Töchterlein welches am <date>15ten</date> in <persName>Jesu </persName>Tod getauft und <persName>Susanna Elisabeth</persName> genannt wurde. Am <date>11<hi rend="sup"
-                     >ten </hi>September 1778</date> muste sich meine liebe Frau an einer hitzigen Krankheit legen und am <date>29<hi rend="sup">ten</hi></date> gefiel es dem lieben
+               </persName>ein Töchterlein welches am <date>15ten</date> in <persName>Jesu </persName>Tod getauft und <persName>Susanna Elisabeth</persName> genannt wurde. Am <date>11<hi rend="sup">ten
+                  </hi>September 1778</date> muste sich meine liebe Frau an einer hitzigen Krankheit legen und am <date>29<hi rend="sup">ten</hi></date> gefiel es dem lieben
                   <persName>Heiland</persName>, sie sanft und selig zu vollenden, welches mir sehr schmerzlich war. Soweit des seligen Bruders eigenhändige Nachricht. Im Jahr <date>1779 den 30<hi
                      rend="sup">ten</hi> November</date> wurde er zum andermal mit der <del>verheirateten</del> verwitweten <persName>Schwester <abbr>Mar.</abbr> Fockelin geborene Leiberthin
                </persName>zur heiligen Ehe verbunden: <add>(</add>und sie wurde den <date>24<hi rend="sup">t.</hi> May 1781</date> zu einer <orgName>Diaconisse </orgName>eingesegnet.<add>)</add> Diese
@@ -222,17 +220,17 @@
             <p>
                <orgName>Arbeiter </orgName>nach <placeName>Hebron</placeName>; daselbst wurde ihm manches schwer: doch bewieß er alle Geduld und Treue in seinem Amte und freute sich, daß er hier Gele-
                genheit fand, auch vielen Fremden, die ihn gerne hörten, das Evangelium zu verkündigen, dazu ihm der <persName>HErr</persName> schöne Gaben verliehen hatte. Er war dabey von Herzen
-               demüthig, hielt sich in allen Dingen kindlich zum <persName>Heiland</persName>, an den er sich von Jugend auf gewöhnt hatte, und bewieß sich als ein liebreicher Ehemann, als ein
-               gütiger Vater und als ein wahrer Freund der Menschen: sonderlich aber derer, die mit ihm gleicher Gnade theilhaftig worden und Mitglieder der <orgName>Brüder Gemeine</orgName> waren.
-               Bald nach <date>Ostern </date>wurde er kränklich, welches endlich zur Wassersucht ausschlug: dabey er vieles leiden muste, aber auch viele Tröstungen vom <persName>Heiland
-               </persName>und viele Liebe von seiner lieben Frau und den Brüdern in seiner <orgName>Gemeine </orgName>genoß. Auch besuchten ihn zu verschiede- nen Zeiten von <placeName>Litiz
-               </placeName>die <persName>Brüder Denke</persName>, <add><persName>Mülker </persName></add>und <persName>KlingsOhr</persName> und letzerer richtete ihm den <date>11ten Juny</date> das
-               heilige <orgName>Abendmahl </orgName>unter einer seligen Gnadenbewegung, und übergab <del>ilm </del>ihn seinen <persName>Schöpfer </persName>und <persName>Heiland</persName>. Es war
-               ihm aber damals noch nicht ausgemacht, daß er bald heimgehen würde. Als er jedoch kurz darauf von dem <persName>Medico </persName>erfuhr, daß auch dieser seinen nahen Heimgang
-               vermuthete, erhielt er selbst die Versicherung davon; machte am <date>14<hi rend="sup">ten</hi></date> mit seiner lieben Frau einen zärtlichen Abschied, und empfahl sie, seine liebe
-               Tochter in <placeName>Bethle- hem</placeName>, und die ihm bisher anvertraute <orgName>Gemeine </orgName>in <placeName>Hebron </placeName>dem lieben <persName>Heiland </persName>in
-               einem brünstigen Gebet: blieb übrigens ganz gelassen und geduldig; erkannte die liebreiche Bemühung seiner lieben Frau und Geschwister mit aller Dankbarkeit, und entschlief den
-                     <date>20<hi rend="sup">ten</hi> Juny</date> Abends um 6 Uhr sanft und selig: seines Alters 57 Jahr 4 Monate und 17 Tage. </p>
+               demüthig, hielt sich in allen Dingen kindlich zum <persName>Heiland</persName>, an den er sich von Jugend auf gewöhnt hatte, und bewieß sich als ein liebreicher Ehemann, als ein gütiger
+               Vater und als ein wahrer Freund der Menschen: sonderlich aber derer, die mit ihm gleicher Gnade theilhaftig worden und Mitglieder der <orgName>Brüder Gemeine</orgName> waren. Bald nach
+                  <date>Ostern </date>wurde er kränklich, welches endlich zur Wassersucht ausschlug: dabey er vieles leiden muste, aber auch viele Tröstungen vom <persName>Heiland </persName>und viele
+               Liebe von seiner lieben Frau und den Brüdern in seiner <orgName>Gemeine </orgName>genoß. Auch besuchten ihn zu verschiede- nen Zeiten von <placeName>Litiz </placeName>die
+                  <persName>Brüder Denke</persName>, <add><persName>Mülker </persName></add>und <persName>KlingsOhr</persName> und letzerer richtete ihm den <date>11ten Juny</date> das heilige
+                  <orgName>Abendmahl </orgName>unter einer seligen Gnadenbewegung, und übergab <del>ilm </del>ihn seinen <persName>Schöpfer </persName>und <persName>Heiland</persName>. Es war ihm aber
+               damals noch nicht ausgemacht, daß er bald heimgehen würde. Als er jedoch kurz darauf von dem <persName>Medico </persName>erfuhr, daß auch dieser seinen nahen Heimgang vermuthete,
+               erhielt er selbst die Versicherung davon; machte am <date>14<hi rend="sup">ten</hi></date> mit seiner lieben Frau einen zärtlichen Abschied, und empfahl sie, seine liebe Tochter in
+                  <placeName>Bethle- hem</placeName>, und die ihm bisher anvertraute <orgName>Gemeine </orgName>in <placeName>Hebron </placeName>dem lieben <persName>Heiland </persName>in einem
+               brünstigen Gebet: blieb übrigens ganz gelassen und geduldig; erkannte die liebreiche Bemühung seiner lieben Frau und Geschwister mit aller Dankbarkeit, und entschlief den <date>20<hi
+                     rend="sup">ten</hi> Juny</date> Abends um 6 Uhr sanft und selig: seines Alters 57 Jahr 4 Monate und 17 Tage. </p>
          </div>
       </body>
    </text>

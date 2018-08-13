@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -89,13 +89,12 @@
                along to <placeName><hi rend="underline" n="red">Berlin</hi></placeName>, which was a great Loss to me, then I heard &amp; saw there many Things good for nothing for me &amp; had had
                not our Sav<hi rend="superscript">r</hi>. preserved me, I had natural Instincts &amp; Occasion <add>enough</add> to commit many wicked Things. A.<hi rend="superscript">o
                   </hi><date>1747</date>. I moved w<hi rend="superscript">th</hi> my Parents from thence to <placeName><hi rend="underline" n="red">Bertholdsdorf</hi></placeName>, because the gat yet
-               no Leave to come to <placeName>Hhuth</placeName>. Anno 48 we removed to <placeName>Hhuth</placeName> &amp; after a short Stay there, to
-                  <placeName>Hhaag</placeName>. Here I came soon to my great Joy in the Anstalt of the Children. In the Begin I was very happy, but my lightminded Temper made the feeling of our
-               Saviour soon vanishing. Anno 49. the <date>25</date><hi rend="superscript"><date>th</date></hi><date> of March</date> I was received into the Girls Choir but soon observed in the first
-               Conversation that this meant some Thing more then they <add>were</add> upright &amp; Sincere &amp; that I could not do. In this year I came with my Parents to
-                  <placeName>Ebersdorf</placeName> &amp; served the, but resided very often in my Choir-House. I was here not long I begun to grow indifferent &amp; came by means of a wicked Compagnie
-               in poor Circumstances &amp; became excomunicated for a time <del rend="strikethrough">from</del> by the Congregation till our Saviour bestowed Mercy on me that I could disclose all my
-               hidden Tricks. </p>
+               no Leave to come to <placeName>Hhuth</placeName>. Anno 48 we removed to <placeName>Hhuth</placeName> &amp; after a short Stay there, to <placeName>Hhaag</placeName>. Here I came soon to
+               my great Joy in the Anstalt of the Children. In the Begin I was very happy, but my lightminded Temper made the feeling of our Saviour soon vanishing. Anno 49. the <date>25</date><hi
+                  rend="superscript"><date>th</date></hi><date> of March</date> I was received into the Girls Choir but soon observed in the first Conversation that this meant some Thing more then
+               they <add>were</add> upright &amp; Sincere &amp; that I could not do. In this year I came with my Parents to <placeName>Ebersdorf</placeName> &amp; served the, but resided very often in
+               my Choir-House. I was here not long I begun to grow indifferent &amp; came by means of a wicked Compagnie in poor Circumstances &amp; became excomunicated for a time <del
+                  rend="strikethrough">from</del> by the Congregation till our Saviour bestowed Mercy on me that I could disclose all my hidden Tricks. </p>
             <p> Anno 53 in <date>April</date> I was received into the Congregation. <note type="catchword">I was</note></p>
             <p> I was ashamed about this Grace, but by all that I came not farther then my Heart was not open &amp; secure before God &amp; Man. I soon came in my former Snares again &amp; begun to
                doubt if it would come with me to any Thing at all. However Anno 54 the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of Feb.</date> as I toock a walk in the Field I
@@ -123,8 +122,8 @@
                from here towards <placeName>Herrnhuth</placeName> &amp; arrived the <date>8</date><hi rend="superscript"><date>th</date></hi><date> of August</date>, where I had the Pleasure to live
                into the Choir-House. Here I enjoyd his happy Nearness as a poor Sinner, but weep <sic>dayly</sic>
                <corr>daily</corr> for Want &amp; <sic>Insuffiency</sic>
-               <corr>Insufficiency</corr>. His Grace &amp; Mercy is my only "Holdfast, without, I easily could <add>be</add> come inshared again. My only Desire is to live as his Property to the Joy of
-               his Heart, &amp; that his holy <sic>Corps</sic>
+               <corr>Insufficiency</corr>. His Grace &amp; Mercy is my only "Holdfast, without, I easily could <add>be</add> come inshared again. My only Desire is to live as his Property to the Joy
+               of his Heart, &amp; that his holy <sic>Corps</sic>
                <corr>Corpse</corr> &amp; Blood may irradicate all what's unJesuslicke in my Soul &amp; Body. So far She herself. </p>
             <p> However <del rend="strikethrough">[illegible]</del> unsettled <add>her</add> State of Mind, She was for all that Sincere &amp; openhearted. Anno <date>1760</date>. Our blessed Disciple
                spoke her &amp; from this Time our Saviour settled her Mind &amp; brought <add>her</add> to a sure foundation. She has been for a Time <sic>excomunicated</sic>

@@ -53,7 +53,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <distributor>The Moravian Lives Project</distributor>      
+            <distributor>The Moravian Lives Project</distributor>
             <availability>
                <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
             </availability>
@@ -74,25 +74,24 @@
       </fileDesc>
    </teiHeader>
    
-   <text type="memoir" >
+   <text type="memoir" xml:id="MemBeth_0186a">
       <body xml:lang="en">
-         <div type="chapter">
          <head>Georg Jacob Engelbach</head>
-            <div type="page" n="1">
+         <div type="page" n="1" xml:id="div1">
             <head>Page 1 <seg ana="MemBeth_0186a-01" />
             </head>
-            <p>
+            <p xml:id="p1">
 
                   Personals of our d.<hi rend="superscript"><abbr>r</abbr></hi> deceased Brother <hi rend="underline"><persName>George Jacob Engelbach</persName></hi> who departed to the
                   Joy of his Lord at <placeName>Herrnhuth</placeName>
                   the <date>12<hi rend="superscript">th</hi> of November 1768</date>. The account he has left behind is as follows: </p>
             
-               <p>
+               <p xml:id="p2">
                   Nothing but obedience moves me to give an account of my Path <sic>thro</sic>
                   <corr>through</corr> this dying Life. I had rather be Unknown and un= =noticed, to all but that loving heart beyond compare! to be known to <hi rend="underline">him</hi>
                   is all my wish and desire. </p>
             
-               <p>
+               <p xml:id="p3">
                   I was born the <date>24<hi rend="superscript">th</hi> of October 1709</date> at <placeName>Auenheim</placeName> a Village near the <placeName>Rhine</placeName>, in which
                   Place my Father was Parson. My Mothers maiden Name was <persName>Michaelis</persName> and descended from <placeName>Polish Lissa</placeName>. In the year <date>1711</date>
                   myself and a younger Brother was deprived of our Father in our Tenderesh Infancy. After 3 years Widdowhood my Mother Married an Intendant of the Finaces named
@@ -114,11 +113,11 @@
                   had <abbr>suffer'd</abbr> death for me, would not suffer the <sic>Merrits</sic>
                   <corr>Merits</corr> of his bitter Passion to be lost on me, But would receive me to his </p>
          </div>
-            <div type="page" n="2">
+         <div type="page" n="2" xml:id="div2">
             <head>Page 2 <seg ana="MemBeth-0186a-02" />
             </head>
             
-            <p>
+            <p xml:id="p4">
                   his Mercy at the End of all Distress, as he did the Penitent Thief. In the Year <date>1726</date> I was sent to the University at <placeName>Strassburg</placeName>; In
                   the year <date>1727</date>
                   to <placeName>Jena</placeName> and <date>1728</date> to <placeName>Wittenberg</placeName>. Here that Corruption broke loose like a Deluge, which had hither to been
@@ -176,11 +175,11 @@
             </p>
          </div>
          
-            <div type="page" n="3">
+         <div type="page" n="3" xml:id="div3">
             <head>Page 3 <seg ana="MemBeth_0186a-03" />
             </head>
             
-            <p>and as my poor Heart, notwithstanding its Corruption was always <abbr>soften'd</abbr> and my Eyes swam in Tears whenever I read of Jesus <abbr>Suffring</abbr>
+            <p xml:id="p5">and as my poor Heart, notwithstanding its Corruption was always <abbr>soften'd</abbr> and my Eyes swam in Tears whenever I read of Jesus <abbr>Suffring</abbr>
                   for the Sins of the World, I felt the same Emotion at reading these Hymns and had a desire to hear more of these people, and this I <abbr>obtain'd</abbr>
                   by means of my dear deceased Uncle <sic>Councellor</sic>
                   <persName><corr>Counselor</corr> Engelbach</persName> who was in <sic>Connexion</sic>
@@ -230,11 +229,11 @@
             </p>
          </div>
          
-            <div type="page" n="4">
+         <div type="page" n="4" xml:id="div4">
             <head>Page 4 <seg ana="MemBeth_0186a-04" />
             </head>
             
-            <p>as I <abbr>observ'd</abbr> above, I had <abbr>obtain'd</abbr> a promise from our dear Saviour that I should come to his People, but that did not come to pass till
+            <p xml:id="p6">as I <abbr>observ'd</abbr> above, I had <abbr>obtain'd</abbr> a promise from our dear Saviour that I should come to his People, but that did not come to pass till
                   the year <date>1756</date>. In the year <date>1751</date> I came to <placeName>Treweiler</placeName> as Chaplain and Inspector. Here at length the Hour of my deliverance
                   struck. I was severly taken to task for my <sic>Conexion</sic>
                   <corr>Connection</corr> with the <abbr>Brns</abbr>
@@ -250,7 +249,7 @@
                   Blessings and <sic>Benifits</sic>
                   <corr>Benefits</corr>. </p>
             
-               <p>
+               <p xml:id="p7">
                   Thus far his own Words. By reason of the Vacancy at <placeName>Berthelsdorff</placeName>
                   <abbr>occasion'd</abbr> by the death of <abbr>Br</abbr>. <persName>Groh</persName>our<abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Brother often
                      <abbr>preach'd</abbr> there with great Blessing so as he likewise frequently <abbr>Preach'd</abbr> here in <placeName>Herrnhuth</placeName> on Sundays. In the Fall of
@@ -285,11 +284,11 @@
                </p>
          </div>
          
-            <div type="page" n="5">
+         <div type="page" n="5" xml:id="div5">
              <head>Page 5 <seg ana="MemBeth_0186a-05" />
              </head>
             
-            <p>He spent his time in earnest longing to be with his beloved Jesus His Memory had been for some time pretty much <abbr>d</abbr> and he seldom attended to what was
+            <p xml:id="p8">He spent his time in earnest longing to be with his beloved Jesus His Memory had been for some time pretty much <abbr>d</abbr> and he seldom attended to what was
                      <abbr>talk'd</abbr> off, But when the Discourse <abbr>turn'd</abbr> to heart Matters, he was presently cheerful and attentive expressing himself in such a Manner that
                   it was a pleasure to hear him He <abbr>believ'd</abbr> his most beloved and Faithful Friend would soon call him to his Presence, and would not take any Medicines: Sayings
                   nothing keeps me and nothing helps me Yet when he was <sic>perswaded</sic>
@@ -305,8 +304,6 @@
                   dear Breast recline &amp;c<hi rend="superscript">a</hi> his Breath <abbr>stopd</abbr> and he fell sweetly <sic>assleep</sic>
                   <corr>asleep</corr> leaving a fine look on his Countenance Aged 59 Years 19 days. </p>
             </div>
-         </div>
-         
       </body>
    </text>
 </TEI>

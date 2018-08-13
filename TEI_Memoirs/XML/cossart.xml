@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heinrich Fridrich Cossart: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+                  <addrLine>United States of America</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg</addrLine>
+                  <addrLine>Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Heinrich Friedrich Cossart (1714-1763)</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-09.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <head>Heinrich Friedrich Cossart</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="MemBeth_0115-01" />
+            </head>
+            <p>III. Our dear Brother <persName><hi rend="underline" n="red">Henry Friedr. Cossart</hi></persName>. As he did not write the full Account of his Life himself, then we only can aquaint
+               the Congregation with the following, viz: I am born (he writes on a Place of himself) the <date>20<hi rend="superscript">th</hi> of Apr. 1714</date> at
+                  <placeName><sic>Francofourt</sic></placeName>
+               <corr>Frankfurt </corr>on the <placeName>Oder</placeName>, where my Vater was Fencing Master by the <sic>Academie</sic>
+               <corr>Academy</corr> but dyed <date>Anno 1715</date>. He was born at <placeName>Raven in </placeName><placeName><sic><placeName>Normandie</placeName></sic></placeName>
+               <corr>Normandy</corr> &amp;amp; left <placeName>France</placeName> for the Sake of his Religion, he travelled to the <placeName>Isle of Jersey</placeName>
+               <note type="catchword">where</note>
+            </p>
+         </div>
+         <div type="page" n="2">
+            <head>Page 2 <seg ana="MemBeth_0115-02" />
+            </head>
+            <p> >where he <sic>marryed</sic>
+               <corr>married</corr> my Mother, who by French Parents was born in <placeName>England</placeName>. She died <add>1725</add> at <placeName>Pomerswiz</placeName> in
+                  <placeName>Silesie</placeName> by Baron de Frash. </p>
+            <p> Soon in my tender years I feeld the work of Grace in my Heart, therefore I often wrote Letters to our Saviour &amp; bid my Mother to send it by the Post. I very often prayeth to dear
+               God with many a Tears, to make me a Martyr, because I could nothing greater for me imagine, as to loose my Life for our Saviour. Anno <date>1730.</date> I came to
+                  <placeName>Saxonia</placeName> &amp; here I lost all the feeling of Grace <add>I had</add> in my poor Heart again; but for all that behaved like a Gentleman, &amp; in the
+                  <sic>Botom</sic>
+               <corr>Bottom</corr> of my Heart believed nothing more at all. Anno <date>1734</date>. I got a Call of <persName>Sr. de Ziegler</persName> of <placeName>Renersdorf</placeName>. Here I
+               studied with great eagerness the Languages, Philosophie &amp; especially Moral; <persName>Seneka</persName> was my Idol on whom I hung my very Heart, but this had its intercourses to,
+               then the Love of the World conquered me very often. I frequently went to <placeName>Strawalde</placeName> to divert myself, but once Curiosity inticed me in <hi rend="strikethrough"
+                  >going hom</hi>e passing by to visit the Church in <placeName>Bertholsdorf</placeName>, where <persName>Magister Rothe</persName> just preached. The Gospel of the Cross of Christ
+               soon conquered my Heart again &amp; I went <note type="catchword">to see</note>
+            </p>
+         </div>
+         <div type="page" n="3">
+            <head>Page 3 <seg ana="MemBeth_0115-03" />
+            </head>
+            <p> to see <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Rothe</persName> at his own House, He recomanded me to <placeName>Herrnhuth</placeName> &amp;
+               I came &amp; got Leave to abide there. So far his own Words.</p>
+            <p> Some Weeks after his Arrival the Brethren sent him to <persName>Fr. de Shweiniz </persName>to instruct his two Lady Daughters (Our S.<hi rend="superscript">rs</hi>
+               <persName>Lorel Luedcke</persName> &amp; <persName>Lizel Marshall</persName>) which he did w<hi rend="superscript">th</hi> all possible love &amp; according to his extraordinary Genius;
+               Thereby he had a happy Time for his own Heart, but <sic>allways</sic>
+               <corr>always</corr> was sorry that he was so soon taken away from the Care of the Congregation.</p>
+            <p> A<hi rend="superscript">o</hi>
+               <date>1736</date>. He arrived at <placeName>Herrnhuth</placeName> again &amp; <date>1737 the 19th of Octob.</date> he was confirmed according to the Custom of the same Time into the
+                  Congregat..<hi rend="superscript">n </hi>Soon after he was sent to <placeName>Hermsdorf</placeName> as Praeceptor of the young <persName>S.</persName><hi rend="superscript"
+                     ><persName>r de Schachmann</persName> with whom he got a Call to <placeName>Berlin</placeName></hi>
+               <date>1738</date> to the <orgName>Pilgrims Congregation</orgName>. The Month of June h. a. he was called to come to <placeName>Mborn. </placeName>&amp; there was <sic>marryed</sic>
+               <corr>married</corr> to <persName>S</persName><hi rend="superscript"><persName>t</persName></hi><persName>. Taillard</persName> (as to his present Widow) he was blessed in this Marriage
+               State w<hi rend="superscript">th</hi> 3 Sons &amp; 4 Daughters, which all are at several Places in the Congregation. Soon of his Marriage he travelled with his Wife to
+                  <placeName>Holland</placeName> where they receivd a Comission to visit the<placeName> Isle of Man</placeName> &amp; to deliver a Letter of the Disciple to the well- meaning Bishops
+               there &amp; to make a more near <sic>Aquaintance</sic>
+               <corr>Acquantaince</corr> w<hi rend="superscript">th</hi> Him &amp; as Well as to see if <note type="catchword">there</note>
+            </p>
+            <p>there is any Appearance of a Congregation, or at least some awakened Souls on that Island. They <sic>toock</sic>
+               <corr>took</corr> their Route over <placeName>Holland</placeName> &amp; <placeName>London</placeName>, but our B<hi rend="superscript">n</hi>. fell sick on his Way by a violent Fever at
+                  <placeName>Liverpool</placeName> where he was to stay for a Ship. The People there <sic>was</sic>
+               <corr>were</corr> very kind towards him. Amongst the rest a Awakened Man who heard of him, came &amp; said: that he came to him, upon a <sic>Ordre</sic>
+               <corr>Order</corr> of God to serve &amp; take Care upon him, but in the Place he must tell him to provide for his poor Soul, because of the Danger he was in. Our Brother very
+                  <sic>thanckfull</sic>
+               <corr>thankful</corr> for his Love, <sic>aquanted</sic>
+               <corr>acquainted</corr> him, that in the Point of his Soul he was very [eassy] &amp; quiet, because <hi rend="strikethrough">he</hi> of his being <sic>aquainted</sic>
+               <corr>acquianted</corr> w<hi rend="superscript">th</hi>. our Saviour &amp; can keep close to his Wounds &amp; by that means if he would take him from this World, he was sure he came in
+               his eternal Safety. This <sic>Joyfull</sic>
+               <corr>Joyful</corr> Certainty of our B<hi rend="superscript">rs</hi>. <sic>Happyness</sic>
+               <corr>Happiness</corr>
+               <sic>toutched</sic>
+               <corr>touched</corr> the Heart of this Man in such a Manner that he served him with the greatest Pleasure &amp; said: that he preceived, he was sent hither for his own best. Our Saviour
+               took this Opportunity &amp; set the Heart of this Man towards his slaughtered Person &amp; not long after took him happy Home. As soon our B<hi rend="superscript">r</hi>. was a little
+               better they set out for the <placeName>Isle of Man</placeName>, where the was very friendly received by the Bishop &amp; 6 Weeks entertained in the tenderest <sic>Maner</sic>
+               <corr>Manner</corr> at his own House; <sic>afterwarts</sic>
+               <corr>afterwards</corr> the visited the Isle but found little or nothing of a Work of God there, they <sic>toock</sic>
+               <corr>took</corr> their heartyly Leave by the Bishop <note type="catchword">and were</note>
+            </p>
+         </div>
+         <div type="page" n="4">
+            <head>Page 4 <seg ana="MemBeth_0115-004" />
+            </head>
+            <p> and were with a feeling of his true Love dismissed, &amp; returned a.c: in the <date>Month of Aug.</date> over <placeName>London</placeName> to <placeName>Heerendyk</placeName>. From
+               thence he was sent to <placeName>Roterdam</placeName> to <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Blows</persName> Children. </p>
+            <p> A<hi rend="superscript">o</hi>. <date>1740</date>. He <sic>accompanyed</sic>
+               <corr>accompanied</corr>
+               <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Gradin</persName> through <placeName>France</placeName> on his Journey to
+                  <placeName>Constantinople</placeName>, &amp; by this Opportunity made himself <sic>aquainted</sic>
+               <corr>acquainted</corr> w<hi rend="superscript">th</hi>. the <sic>Prostestants</sic>
+               <corr>Protestants</corr> at <placeName>Lion, Nimes, Marsaille</placeName> etc which was a great Hazard to his Life. In the Time following he came to <persName>B</persName><hi
+                  rend="superscript"><persName>r</persName></hi><persName>. Fishers</persName> Children at <placeName>Bern</placeName> &amp; had there according to his Inclination many Occurences to
+               witness the Redemption by the Blood of the Lamb with very good Effect. </p>
+            <p> A<hi rend="superscript">o</hi>. <date>1741</date>. He and his Wife set out for <placeName>Geneva</placeName> to the Pilgrims Congregation &amp; on the Road his Wife was
+                  <sic>delieverd</sic>
+               <corr>delivered</corr> of her second Son. Hujus Anni he returned to <placeName>Marienborn</placeName> &amp; from thence got A<hi rend="superscript">o</hi>. <date>1742</date>. a Message
+               to <placeName>Berlin</placeName> to treat of the intended Establishment of the Brethren in <placeName>Newshatel</placeName>, where to the King most <sic>gratiously</sic>
+               <corr>graciously</corr>
+               <sic>aggreed</sic>
+               <corr>agreed</corr>, but some <sic>Dificultys</sic>
+               <corr>Difficulties</corr> arose by the Classe of Newshatel. At the End of this year he followed the Call with his Wife to <placeName>Montmirail</placeName> to take Care of the awakened
+               Souls in that Quarter, which he did with all possible Exactness &amp; every Weeks did a Journey to <placeName>Newshatell</placeName>
+               <note type="catchword">to <sic>visite</sic>
+                  <corr>visit</corr></note>
+               <pb type="double_right" />
+               <sic>visite</sic>
+               <corr>visit</corr> the <sic>Awackened</sic>
+               <corr>Awakened</corr> Souls there to. He was in the mean while very busy to translate some of our public Books into the French Language, whereof separat Pieces to the same time have
+               been printed.</p>
+            <p> Ao. 1744. By the Syrod at <placeName>Mborn</placeName> He &amp; his Wife were <sic>apointed</sic>
+               <corr>appointed</corr> for a Journey into the Dales <add>or <sic>Valleys</sic>
+                  <corr>Vallies</corr></add> of the <placeName>Waldensers</placeName> to <sic>loock</sic>
+               <corr>look</corr> after their Seed or Children how they do. They both accepted this dangerous Enterprice w<hi rend="superscript">th</hi>. much Pleasure &amp; set out from
+                  <placeName>Montmiraile</placeName> the <date>21<hi rend="superscript">st</hi> of July</date> a.c: Our Sav.<hi rend="superscript">r</hi> conducted them <sic>savely</sic>
+               <corr>safely</corr> over the <sic>fearfull</sic>
+               <corr>fearful</corr> Precipices of <placeName>Mount St. Bernard</placeName>. In the City of <placeName>Aosta</placeName> they met two prostestand <sic>Ladys</sic>
+               <corr>Ladies</corr> (whereof one lay dangerously ill &amp; had been very much tormented by the popish Priests to change her Religion) &amp; he preached her our Saviour &amp; his bloody
+               Attonement for our Sins, that She resolved the very Day to set out, &amp; so echapped the Hands of her Prosecutors; but before She could reach <placeName><sic>Geneve</sic>
+                  <corr>Geneva</corr></placeName> She <sic>dyed</sic>
+               <corr>died</corr> on the Road happy &amp; full of Faith on the redemption of our Lord. As he arrived at <placeName>Farin</placeName> our B<hi rend="superscript">r</hi>. deliverd his
+               Recomentation to the englsh Minister, but he demonstrated to him the <sic>Impossibilytis</sic>
+               <corr>Impossibilities</corr> to come by the present <sic>crytical</sic>
+               <corr>critical</corr> Con- junctures into the <hi rend="strikethrough">[?]</hi> Valleys, &amp; ensur'd him that when he insist'd for this <add>Time</add> on his <sic>Refolution</sic>
+               <corr>Revolution</corr>, he would not only <add>bring</add> himself, but the <orgName>Waldensers</orgName> so into the utmost Dangers. Nevertheless they continued their Journey to
+                  <placeName>Pignerole</placeName> and there waited on <persName>Count de Peruse</persName>, Governor of the Castle <note type="catchword">of this OutPost.</note>
+            </p>
+         </div>
+         <div type="page" n="5">
+            <head>Page 5 <seg ana="MemBeth_0115-05" />
+            </head>
+            <pb type="double_left" n="5" ana=".10115.25649" />
+            <p>of this Outpost; but he advised them to <sic>bak</sic>
+               <corr>back</corr> to <placeName>Turin</placeName> &amp; get there Leave, &amp; they instead to give 'em Leave, sent them a Order which route they have to take on their return home
+               again. A<hi rend="superscript">o</hi>. <date>1745</date>. Our B<hi rend="superscript">r</hi>. ventured a second time to <sic>visite</sic>
+               <corr>visit</corr> the Valeys Vallies, he toock took his route through France, &amp; by that means visited Li<placeName>on</placeName>, <placeName>Orange</placeName>,
+                  <placeName>Marseille</placeName>, <placeName>Nimes</placeName> every where of them Places he wittnesses of the Power of the Blood of Christ &amp; found <sic>especialy</sic>
+               <corr>especially</corr> at <placeName>Marseille</placeName> &amp; <placeName>Nimes</placeName> hungry Hearts to hear the Gospel of their Redemptions which he <sic>deliverd</sic>
+               <corr>delivered</corr> w<hi rend="superscript">th</hi>. great Freedom. By this Occassion he had the Pleasure to <sic>met</sic>
+               <corr>meet</corr>
+               <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Nolbek</persName> at <placeName>Marseille</placeName> on his retour from
+                  <placeName>Algier</placeName> &amp; was to him of real Service. From thence he proceedeth &amp; was on his Road wonderfully preserved by our Saviour, then as he was walking in the
+               dark of Night over a shmal Bridge fell down a Story high on a whole Bank of Steep Rocks without any Damage. In the <date>Month of April</date> left <placeName>France</placeName> &amp;
+                  <sic>carryed</sic>
+               <corr>carried</corr> on his Journey ove Genua <placeName>Turin</placeName> &amp; <placeName>Susa</placeName> &amp; arrived happily into the <sic>Valleys</sic>
+               <corr>Vallies</corr>. He was <sic>aquainted</sic>
+               <corr>acquainted</corr> that there were about 5000.</p>
+            <p> People in the <sic>Valleys</sic>
+               <corr>Vallies</corr> &amp; had 13 Preachers among them, with whom our B<hi rend="superscript">r</hi>. made himself <sic>aquainted</sic>
+               <corr>acquainted</corr> &amp; brought them the good Tidings of our dear <sic>Serviours</sic>
+               <corr>Saviour's</corr> Redemption &amp; Bloodshed &amp; of the rightiousness of a poor Sinner before God by his <note type="catchword">Blood &amp; Suffering</note>
+               <pb type="double_right" /> Blood &amp; Suffering &amp; so remaineth with them 10 Days. After that he return'd over the high &amp; rough <placeName>Moun_ tain Se Col de la
+                  Croix</placeName>, who is taken inpassable &amp; was the same Time covered w<hi rend="superscript">th</hi>. <sic>Shnow</sic>
+               <corr>Snow</corr>, never- theless there was a Watch kept of 40 Men at the very Top of the Mountain but out Sav.<hi rend="superscript">r</hi> caused it, that they saw neither him or his
+               Guide. On this Top he prostrated himself in the <sic>Shnow</sic>
+               <corr>Snow</corr> before our Sav.<hi rend="superscript">r</hi> towards the <sic>Valleys</sic>
+               <corr>Vallies</corr> &amp; recomanted them once more to the Mercy of our Saviour. On the other Side of the Mountain was again a French Watch, but went <sic>happely</sic>
+               <corr>happily</corr> in a near Town where they kept a Marked; &amp; so our Br. <sic>luckely</sic>
+               <corr>luckily</corr> passd the Simits &amp; arrived in <placeName>France</placeName> again. He witnesseth in <placeName>France</placeName> on several Places, but from
+                  <placeName>Arvies</placeName> he was con_ ducted by 4 Soldiers, however they did not deter him but let him go in Peace, &amp; so he arrived by way of <placeName>Geneve, Lausanne,
+               </placeName>after a <sic>thousend</sic>
+               <corr>thousand</corr> Dangers happily at <placeName>Montmirail</placeName> again.</p>
+            <p> A<hi rend="superscript">o</hi>. <date>1745</date> he came from <placeName>Montmirail</placeName> to <placeName>Mariendorn</placeName> &amp; was there at the End of the Synod ordained
+               Deacon of the Brethren Church, &amp; from thence he got a Call for <placeName>England</placeName>. He made a tour to <placeName>Herrnhuth</placeName>, <placeName>Silesie</placeName>
+               <placeName>Polonie</placeName>, where he made a <sic>Visite</sic>
+               <corr>Visit</corr> to <persName>Bishop Sitkovies</persName> from thence over <placeName>Berlin</placeName>, <placeName>Hamburg</placeName>, <placeName>Zeist</placeName> to
+                  <placeName>London</placeName>. Here he was so happy as to negotiate the Pensilvanien_ <note type="catchword">Act.</note>
+            </p>
+         </div>
+         <div type="page" n="6">
+            <head>Page 6 <seg ana="MemBeth_0115-06" />
+            </head>
+            <p> Act, had several Conferences w<hi rend="superscript">th</hi>. the Arch Bishop &amp; other Bishops &amp; preached the Gospel at <placeName>St. James</placeName> in French, in the Savoy,
+               German, &amp; in our Chapel english.</p>
+            <p> A<hi rend="superscript">o</hi>. <date>1747</date>. He received a Invitation to the <placeName>Synod</placeName> at <placeName>Hhaag.</placeName> On his Passage our Sav.<hi
+                  rend="superscript">r</hi> again protected him in a violent Danger, then a french Caper came so near his Ship &amp; attackd it so warmly that whole Heaps of Balls flew into it and
+               damaged the Vessel very much, but happily echappd. <hi rend="strikethrough">The very Year he returnd again w.<hi rend="superscript">th</hi> his Wife to <placeName>London</placeName>
+                  from thence they visited the awakened Souls in North of <placeName>England</placeName>, <placeName>Plymouth</placeName>, &amp; <placeName>Cornwallis</placeName>; In
+                     <placeName>Exeter</placeName> a old Methodist <add>(conversly called aed Adam)</add> caused a <sic>Mobb</sic>
+                  <corr>Mob</corr> but out B.<hi rend="superscript">r</hi> by Way of his pleasing &amp; friendly Disposition sooth'd them again &amp; by that means obstructed great Misfortunes.</hi>
+               In general this Journey was very dangerous because of the high Waters. This &amp; the following Year he has been Agent of the Brethren Unity in <placeName>London</placeName>, &amp; had
+               a great deal of <sic>Busyness</sic>
+               <corr>Business</corr>. For all he made a Intercourse &amp; did a Journey to <sic><placeName>Irland</placeName></sic>
+               <corr><placeName>Ireland</placeName></corr>, preachd preach there the Gospel &amp; visited our good old <sic>Biship</sic>
+               <corr>Bishop</corr> of Man a second time. What our dear B.<hi rend="superscript">r</hi> did A<hi rend="superscript">o</hi>. <date>1749</date> by the Act of Parliament is more
+                  <sic>then</sic>
+               <corr>than</corr> worth to be <sic>remembred</sic>
+               <corr>remembered</corr>. His <unclear>indefaticable</unclear>, true &amp; <sic>Sorrowfull</sic>
+               <corr>Sorrowful</corr> Activity, &amp; the Glad &amp; Willingness w.<hi rend="superscript">th</hi> which he <add>travlled</add> plagued himself every Day; how he executed the most <note
+                  type="catchword">heavy[?] &amp;</note>
+            </p>
+         </div>
+         <div type="page" n="7">
+            <head>Page 7 <seg ana="MemBeth_0115-07" />
+            </head>
+            <p> heavy &amp; intricate Commissions (but necessary for the Safety of the Work of our Saviour) by the english Lords, who very often in the Begin grew impatient, but were cooled &amp;
+               friendly again by his humble &amp; obliging Temper, that he at last <sic>allways</sic>
+               <corr>always</corr> attaineth the very Point of his Commission. That a <sic>usefull</sic>
+               <corr>useful</corr> Tool he was into the Hand of his Master as well in Church as other weighty Affairs, is <sic>to</sic>
+               <corr>too</corr> extensive to describe, but it is no more but reasonable to be <sic>thanckfull</sic>
+               <corr>thankful</corr> for him, &amp; not to forget what our Sav.<hi rend="superscript">r</hi> has done by the Hands of our dear Brother.</p>
+            <p> In general we must of him: Nothing was <sic>to</sic>
+               <corr>too</corr> great &amp; heavy &amp; nothing <sic>to</sic>
+               <corr>too</corr> mean &amp; poor &amp; well in Church Affairs, or by Single <sic>Membres</sic>
+               <corr>Members</corr>, or Friends, or any Person whatsoever, it was his Pleasure to serve or oblige them. This his <sic>peculier</sic>
+               <corr>peculiar</corr> Disposition to help &amp; serve, &amp; the good Opinion he had <hi rend="strikethrough">by any</hi> of every Body, by whom he only could detect any Thing inclining
+               to Good, insnared him very often in difficult Consequences. However if we <sic>loock</sic>
+               <corr>look</corr> on the Basis on which his Actions were raised, we find indeed more reason to praise &amp; admire <sic>then</sic>
+               <corr>than</corr> to charge this noble character with a Fault. A<hi rend="superscript">o</hi>. <date>1750</date> He <sic>get</sic> got <sic>a</sic>
+               <corr>an</corr> Invitation to the <placeName>Synod</placeName> in <placeName>Barby</placeName> &amp; A<hi rend="superscript">o</hi>. <date>53</date> returned with
+                  <persName>Johannes</persName> &amp; <persName>Charl.</persName><hi rend="superscript"><persName>s</persName></hi><persName> Tschirsky</persName> through
+                     <placeName><sic>Swizerland</sic></placeName>
+               <corr><placeName>Switzerland</placeName></corr> &amp; <placeName>France</placeName> to <placeName>London</placeName> again &amp; stayd there to A<hi rend="superscript">o</hi>.
+                  <date>55</date>. In this Time he bought Lindsey House <note type="catchword">&amp; was Agent again</note>
+            </p>
+         </div>
+         <div type="page" n="8">
+            <head>Page 8 <seg ana="MemBeth_0115-08" />
+            </head>
+            <p>
+               <date>1756</date>. He got a Call to <placeName>Hhuth</placeName>, where he stay'd this Year to rest himself till <date>1757</date>. When he receiveth <sic>a</sic>
+               <corr>an</corr> Invitation to come to the Disciple in the <sic><placeName>Swizerland</placeName></sic>
+               <corr><placeName>Switzerland</placeName></corr> &amp; from thence according to his Instruction set out the <date>24<hi rend="superscript">th</hi> of Nov.</date> a.c. first for
+                  <placeName>France</placeName>, where he visited <add>again</add> all his former <sic>Aquaintances</sic>
+               <corr>Acquaintances</corr> &amp; in the Spring <date>1758</date> he Proceedeth from <placeName>Marsaille</placeName> &amp; L<placeName>ivorno</placeName> into
+                  <placeName>Egypt</placeName>, arrive the <date>28<hi rend="superscript">th</hi> of May</date> at <placeName>Alexandria</placeName> &amp; the <date>6<hi rend="superscript">th</hi> of
+                  June</date> by our <persName>Brethren Hocher</persName> &amp; <persName>Pilder</persName> at <placeName>Cairo</placeName>; what <sic>a</sic>
+               <corr>an</corr> unexpected <sic>Joyfull</sic>
+               <corr>Joyful</corr> News it was to them to see a Brother from the Con- gregation there, is easily to be imagind; it contributed not a little to <persName>B.</persName><hi
+                  rend="superscript"><persName>r</persName></hi><persName> Hockers</persName> Recovery from his very hard Sicknes. Our B.<hi rend="superscript">r</hi> visited not only the
+                  <orgName>Patriarch of the Coptes</orgName>, but had to three different times <sic>Conferenzes</sic>
+               <corr>Conferences</corr> with the<orgName> Patriarch of the Greeks</orgName> at <placeName>Cairo</placeName>, by whom he got <sic>a</sic>
+               <corr>an</corr> Opportunity to become <sic>aquainted</sic>
+               <corr>acquainted</corr> with the Arch-Bishop of Libien. After he made himself several more <sic>Aquaintances</sic>
+               <corr>Acquaintances</corr> there, by whom he took especial Pain to get some true Account about the Copts &amp; Abysineers, &amp; was by a little Sickness some Day <hi
+                  rend="strikethrough">long</hi> more detained, he set out on Foot the <date>7</date><hi rend="superscript"><date>th</date></hi><date> of July</date>, had from
+                  <placeName>Rosetta</placeName> to <placeName>Alexandria</placeName> a very difficult Road to pass &amp; arrived there the <date>4</date><hi rend="superscript"
+                  ><date>th</date></hi><date> of August</date> &amp; put himself on Board of a <sic>shweedish</sic>
+               <corr>Swedish</corr> Ship. He had by reason of the War a very long &amp; dangerous Voyage, but arrived <note type="catchword">at last the <date>18</date><hi rend="superscript"
+                        ><date>th</date></hi><date> Sept</date>.</note>
+            </p>
+            <p> at last the <date>18</date><hi rend="superscript"><date>th</date></hi><date> Sept</date>. happy at <placeName>Livorno</placeName>. After having <sic>past</sic>
+               <corr>passed</corr> the usual Quarantine on Board, set out the Month following for <placeName>Florence</placeName>, <placeName>Rome</placeName>, <placeName>Neaple</placeName>
+               <placeName>Naples</placeName>, <placeName>Bologne</placeName>, <placeName>Lorette</placeName> &amp; other <sic>remarquable</sic>
+               <corr>remarkable</corr> Place of <placeName>Italy</placeName>, made himself <sic>aquainted</sic>
+               <corr>acquainted</corr> wth several eminent Prelates of the<orgName> </orgName><sic><orgName>roman</orgName></sic><orgName> </orgName><corr><orgName>Roman</orgName></corr><orgName>
+                  Church </orgName>&amp; found by means of his peculiar sincere &amp; confident Disposition, as whereby he <sic>knowed</sic>
+               <corr>knew</corr> to insinuate his Plan <add>Design</add> into their <sic>Confideration</sic>
+               <corr>Confederation</corr> very much Ingress, so that They <hi rend="strikethrough">[?]</hi> ensured him not only of their respect &amp; Love but congratulated as well him as his
+               Brethren with all fidelity to their so bad Laudable &amp; well <sic>intented</sic>
+               <corr>intended</corr> Undertakings. At the End of the Year <date>1758</date> he arrived at <placeName>Venetia</placeName> as from whence he wrote the following "I fell down before the
+               feet of my Lord &amp; adored him very <sic>thankfull</sic>
+               <corr>thankful</corr> for <add>his</add> all <sic>gratious</sic>
+               <corr>gracious</corr> Guards, Safety &amp; Mercy bestowed on poor me this whole Year, in so many Dangers by Sea &amp; Land. He was in every Distress at Hand &amp; <add>tented me</add>
+               like a fond Mother her poor weak Child. I lay'd myself, Family &amp; dear B.<hi rend="superscript">rn</hi> &amp; Sisters anew on his Heart in the whole World. He was very near to me
+               &amp; my Heart was full of Joy about his <sic>deer</sic>
+               <corr>dear</corr> Wounds &amp; by this tender feeling I slept into the New-Year; with this firm Resolution, to remain his own Property with whom he may do as he pleaseth. A<hi
+                  rend="superscript">o</hi>. <date>1759</date> He returnd over <placeName><sic>Viena</sic></placeName>
+               <corr><placeName>Vienna</placeName></corr>; <placeName>Praga</placeName> to <placeName>Hhuth</placeName>
+               <note type="catchword">&amp; had</note>
+            </p>
+         </div>
+         <div type="page" n="9">
+            <head>Page 9 <seg ana="MemBeth_0115-09" />
+            </head>
+            <p> and had the Pleasure to find himself amongst his flock again (after <sic>a</sic>
+               <corr>an</corr>
+               <sic>Absense</sic>
+               <corr>Absence</corr> of 16 Months) &amp; to nourish &amp; feed w<hi rend="superscript">th</hi>. them the whole following Year on unspeakable <sic>Happyness</sic>
+               <corr>Happiness</corr> in the Congregation.</p>
+            <p> A<hi rend="superscript">o</hi>. <date>1761</date>. He conducted <persName>S.</persName><hi rend="superscript"><persName>r</persName></hi><persName> de Damniz</persName> oldest Son upon
+               his so sincere Desire to <placeName>France</placeName>, but returnd this Year again. <sic>Afterwarts</sic>
+               <corr>Afterwards</corr> a sudden Alteration took Place on our B.<hi rend="superscript">r</hi> he became pleasing amiable &amp; <persName>Sinerlicke</persName> took Notice of all
+               Remembrances of his Brethren &amp; was full of Tenderness, to the Heart Toy of all his <sic>Aquaintances</sic>
+               <corr>Acquaintances</corr>, they thought our Sav.<hi rend="superscript">r</hi> prepared him anew for the sacred Service of his Church. All they Servants of our Church <sic>knowed</sic>
+               <corr>knew</corr> his Talent very well &amp; only waited for the right Moment in this respect <hi rend="strikethrough">to</hi> pointed out by their Master. But at once our Sav.<hi
+                  rend="superscript">r</hi> decideth, that He would not call him from his Sabbath for more Work again, but in his eternal Rest &amp; Safety.</p>
+            <p> Our B.<hi rend="superscript">r</hi>
+               <sic>toock</sic>
+               <corr>took</corr> notice <hi rend="strikethrough">[?]</hi> of himself of a unusual Weakness of his Body since last Winter, but Nobody else could observe it because of his lively &amp;
+               nimble Temper. However he very often spoke w.<hi rend="superscript">th</hi> his Wife of his going Home, &amp; put several Things in her Mind which he would to be done after his
+               Departure &amp; that a a good While before his last Sickness. Sometimes he uttereth to her: Weak as you are, it is very possible that I go home before you. His last sickness begun <note
+                  type="catchword">the 17<hi rend="superscript">th</hi></note>
+               <pb type="double_right" /> the <date>17</date><hi rend="superscript"><date>th</date></hi><date> of Apr</date>. but the <date>19</date><hi rend="superscript"><date>th</date></hi> was
+               still at the <add>meeting</add> Hall in Hope to enjoy once more w.<hi rend="superscript">th</hi> his Choir our Lords Supper, but could not hold it out &amp; was forced to go home &amp;
+               partake it w.<hi rend="superscript">th</hi> his Wife. </p>
+            <p> They following Days he grew better &amp; the <date>29</date><hi rend="superscript"><date>th</date></hi> he <sic>toock</sic>
+               <corr>took</corr> a Walk again; but the <date>2</date><hi rend="superscript"><date>d</date></hi><date>. of May</date> in the Night a sudden Pleuresie set on him, that Nobody thought he
+               could live till Morning. On all Sign could be observed that he was ready to go, &amp; when Others made some Hope of his Recovery, his Heart thought quite reverse. He was by his
+               excessive Pain full of Love, friendly &amp; patient, that it was a Heart Pleasure to behold him. He begged &amp; desireth by every B.<hi rend="superscript">r</hi> &amp; Sist.<hi
+                  rend="superscript">r</hi> who visited him, to love him &amp; think on him before our dear Saviour. He <hi rend="strikethrough">himself</hi> amused himself w.<hi rend="superscript"
+                  >th</hi> his dear &amp; bloody redeemer in <sic>Sylence</sic>
+               <corr>Silence</corr>. Once he sigheth: Deine Marter Angst und Stich, O Herr Jesu trösten mich! The excessive Heat surrounded his Senses, but asoon any Body spoke to him, he directly was
+               present to himself; &amp; so he continued to the <date>7</date><hi rend="superscript"><date>th</date></hi> in the Afternoon between one &amp; two a Clock when he w.<hi
+                  rend="superscript">th</hi> the Blessings of the Congregat.<hi rend="superscript">n</hi> (which <persName>B.</persName><hi rend="superscript"><persName>r</persName></hi><persName>
+                  Leonhard</persName> beflowed on him) went in Peace to his dear Lord, after 49 years, of his Pilgrimage.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -6,19 +6,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir
-               <lang>English</lang>
-            </title>               
+            <title>[NAME]: Memoir <lang>English</lang>
+            </title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-               <orgName>Bucknell University</orgName>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018
-               <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -59,26 +56,31 @@
             <distributor>The Moravian Lives Project</distributor>
             <availability>
                <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
-            </availability>               
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of [NAME]</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
-
-<!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. 
+         <!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. 
             
-              <text type="memoir">
-      <body xml:lang="eng">         
-                                                          
-            <div type="page" n="$">
-               <head>[NAME] memoir, page 1
-               <seg ana="LOCATOR from GITHUB"/>
-               <graphic url="http://moravianlives.bucknell.edu/##.jpg"/>
-               </head>
+   <text type="memoir">
+      <body xml:lang="en">
+         <head>name</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+            </head>
             <p>
             
             
@@ -86,7 +88,6 @@
             </div>
             
          -->
-
       </body>
-  </text>
+   </text>
 </TEI>
