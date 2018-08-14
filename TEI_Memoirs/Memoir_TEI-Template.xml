@@ -77,6 +77,7 @@
             
    <text type="memoir">
       <body xml:lang="en">
+      <dev type="memoir">
          <head>name</head>
          <div type="page" n="1">
             <head>Page 1 <seg ana="Repo#_page# from GitHub" />
@@ -85,6 +86,7 @@
             
             
             </p>
+            </div>
             </div>
             
          -->
