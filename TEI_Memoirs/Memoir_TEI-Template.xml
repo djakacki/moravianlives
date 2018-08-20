@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="out/MemBeth.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir <lang>English</lang>
-            </title>
+            <title>[NAME]: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -70,14 +69,10 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <!-- THIS SHOULD BE USED AT THE BEGINNING OF THE DOCUMENT. 
-            
+   </teiHeader>            
    <text type="memoir">
       <body xml:lang="en">
-      <dev type="memoir">
+      <div type="memoir">
          <head>name</head>
          <div type="page" n="1">
             <head>Page 1 <seg ana="Repo#_page# from GitHub" />
@@ -89,7 +84,6 @@
             </div>
             </div>
             
-         -->
       </body>
    </text>
 </TEI>

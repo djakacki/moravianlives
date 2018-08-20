@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eleanor Francke: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir">Eleanor Francke (1763-1827)</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-10.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-11.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-12.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-13.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-14.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-15.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-16.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-17.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-18.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-19.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-20.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-21.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-22.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-23.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-24.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-25.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-26.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300021-27.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>eleanor Francke</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="MemLon_300021-01" /></head>
+               <p>Course of Life of the married <abbr>S</abbr><hi rend="superscript"><abbr>r</abbr></hi>
+                  <persName>Eleanor Francke</persName> who fell asleep in Jesus between 12 &amp; 1 o&#39; in the morning of the <date>18th of April 1827</date> at <placeName>Malivesbury</placeName>
+                  Aged 64 years </p>
+            </div>
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemLon_300021-02" /></head>
+               <p>A short memoir of the life of <abbr>S</abbr><hi rend="superscript"><abbr>r</abbr></hi>
+                  <persName>Ellenor Franeker</persName>, whose maiden- name was <persName>Sutton</persName>, &amp; who departed this life at <placeName>Malmesbury</placeName> in the 64th
+                     <abbr>yr</abbr> of her age. ----------------- I was born <date>July 14<hi rend="superscript">th</hi> 1763</date> in the Parrish of <placeName>Brinkworth</placeName> in the Country
+                  of <placeName>Wilts</placeName>. My Parents were members of the <orgName>Church of England</orgName> &amp; brought up their children in that persuasion &amp; in a very strict manner.
+                  It was their sincere desire that all of their children should imbibe the principles of the Christian Religion &amp; have the fear of God implanted in their hearts. In my childrens
+                  years I remember to have had drawings of grace in my soul, &amp; frequently prayed the Lord to keep &amp; preserve me for himself &amp; to guard me from every thing which might be
+                  hurtful to me. _ My Mother often spoke very tenderly of the love of our Saviour to children &amp; what pleasure it gave him when he saw that young people were inclined to follow </p>
+            </div>
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="MemLon_300021-03" /></head>
+               <p>Him in this world, which at times affect me much. However with increasing years, I began to have a hankering after the pleasures of this world <abbr>altho</abbr>&#39; I often felt a
+                  remorse of conscience when I indulged the thought of seeking to gratify this my desire. When I was in my 17<hi rend="superscript">th</hi> year, my dear Father departed this life
+                  happily, which was a severe trial to me, <abbr>altho</abbr>&#39; not equally as painful as if the Lord had taken my dear Mother, as she being at that time very ill, so that her life
+                  was despaired of. This constrained me with earnestness to beseech &amp; supplicate the Lord, rather to take me to himself, than to deprive me of my dear Mother, who was the only
+                  friend &amp; comfort I had in this world. He graciously con= discended to grant my prayer &amp; restored her to her former health, which gave me confidence </p>
+            </div>
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="MemLondon_300021-04" /></head>
+               <p>towards my dear Lord &amp; Saviour, <abbr>altho</abbr> alas in the sequel I often proved unfaithful to <add>the</add> kind leadings of his holy Spirit. After the departure of my dear
+                  Father, my Mother attended the preaching of the Brethren, finding more pasture for her heart, than she did in the sermons at Church, which were not so evangelical. Sometimes she took
+                  me with her, <abbr>tho</abbr>&#39; I would rather have gone to Church: but having a great love for my Mother, I could not feel at liberty to act contrary to her desire. _ After
+                  having for sometime attended the preachings of the Brethren, I began to have a fervent wish in my heart to be like those happy people of whom the Brethren spoke &amp; described &amp;
+                  who they said shewed in their very countenances that they belonged to our Savior <abbr>altho</abbr> I did not understand how this could be, yet I ardently longed to become acquainted
+                  with our Saviour. I felt disposed to give up every thing if I could but obtain this favour but did not fully understand what was </p>
+            </div>
+            <div type="page" n="5">
+               <head>Page 5 <seg ana="MemLon_300021-05" /></head>
+               <p><add>the</add> heart to him. He that alone knows the secrets of every heart, taught me by degrees to see into my own nothingness &amp; to discover the deep corruption &amp; depravity
+                  of my heart by nature, &amp; that unless I had his holy Spirit to direct me, I should remain unstable &amp; fluctuating as the water. _ Feeling this to be my case, &amp; being
+                  sensible how wavering I was, I thought sometimes that it would be in vain to give myself much trouble, &amp; that if I was to be saved, I should, &amp; if not that all my endeavours
+                  to attain salvation would be fruitless. _ Mentioning once these thoughts to a Sister, she replied, that she was very sorry to hear this from me; I told her, that it was my firm
+                  belief. She then said, that she hoped our Savior would convince me of my error before it was too late. From that time forward my ideas concerning the means of salvation became quite
+                  different &amp; I was brought to believe that if I was not saved, the fault would be entirely my own. </p>
+            </div>
+            <div type="page" n="6">
+               <head>Page 6 <seg ana="MemLon_300021-06" /></head>
+               <p>Thus was I led into a childlike disposition of heart, and I prayed fervently to our Saviour to bring me into that path which leadeth to eternal life. _ About this time my dear Mother
+                  departed this life in almost a sudden manner &amp; I believe she went happily to our Saviour, since it was her daily prayer to be prepared for this important change. This took place
+                  in <date>December 1788</date>. I shall never forget in what a wonderful manner our Saviour supported me on this most trying occasion. I had formerly spent many autious[?] hours in
+                  thinking that I could never bear to live in this world, in case my tenderly beloved Mother was taken from me, &amp; had often entreated the Lord in prayer to take me first to
+                  himself, but as He did not see good to comply with my petition, He gave me grace at that juncture, to cast all my care upon Him, who careth for the poor &amp; distitute. Being thus
+                  situated by this bereavment, I begged our dear Saviour to direct my steps &amp; to make a </p>
+            </div>
+            <div type="page" n="7">
+               <head>Page 7 <seg ana="MemLon_300021-07" /></head>
+               <p>way for me to come <abbr>thro</abbr>&#39; this life, according to His mind. I had at that time various thoughts &amp; ideas concerning the Brethrens Congregation, for
+                     <abbr>tho</abbr>&#39; I had attended their meetings I yet knew very little concerning their constitution, however I was soon convinced &amp; firmly believed that this was the
+                  people to whom I should belong. _ Being timorous &amp; seeing many difficulties in my way, &amp; not knowing how to proceed, I begged our Saviour fervently, that if He thought I
+                  should prosper for him in the <abbr>Br</abbr><hi rend="superscript"><abbr>ns</abbr></hi>
+                  <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi>, that he would, with his own hand, lead me to it, but if not, that he would hedge up my way, &amp; thus I delivered myself
+                  entirely to his own guidance. _ <date>April 9<hi rend="superscript">th</hi> 1780</date> I obtained leave to live in the Single Sisters House in <placeName>Futherton</placeName>,
+                     <del>[???????????]</del> which was the palce I wished to retire in, if but for one year. _ I received this permission as from himself &amp; thanked him for it with bowedness of
+                  heart. _ On <date>May the 1<hi rend="superscript">st</hi></date> I removed to <placeName>Futherton</placeName>, <abbr>altho</abbr>&#39; I met with much opposition on the part of my
+                  relations for as none of them belonged to the <abbr>Breth</abbr><hi rend="superscript"><abbr>ns</abbr></hi>
+                  <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi> &amp; were entirely strangers to their </p>
+            </div>
+            <div type="page" n="8">
+               <head>Page 8 <seg ana="MemLon_300021-08" /></head>
+               <p>constitution they would not comprehend why I left &amp; went to such a place regarding it as a wild scheme, They did what they could to dissuade me from going, but finding this
+                  ineffectual they endeavoured to entice me to remain with them, by making me a very advantageous offer, but as they found all to be of no avail, they desisted &amp; gave me up. __ In
+                  the Sisters House in <placeName>Futherton</placeName>, I had much enjoyment, every thing pleased me &amp; our dear Saviour was very precious to my soul, he let me feel daily more
+                  &amp; more of my innate depravity, but at the same <add>time</add> he comforted me with letting me enjoy his gracious presence &amp; nearness. _ <date>July 19</date> the year
+                  following I was solemnly received into the Congregation as one of its members, &amp; what I felt on that occasion I cannot express in words, but my prayers to the Lord was that I
+                  might never lose the impression again. <date><abbr>Aug.</abbr><hi rend="superscript">st</hi> 29</date> following I was permitted to be a Spectator at the Holy Communion which was
+                  also the means of a sick blessing for my heart. However I had </p>
+            </div>
+            <div type="page" n="9">
+               <head>Page 9 <seg ana="MemLon_300021-09" /></head>
+               <p>to wait a longer season than I had expected before I was permitted to have the favour to partake of this divine repast. _ When I had been but one year in the <abbr>S</abbr><hi
+                     rend="superscript"><abbr>rs</abbr></hi> house an Oe-conamy for young Sisters was begun in a separate building, &amp; I was among the number of those who were selected to enter it
+                  as an inhabitant; which was a trial to me; but as I requested our Saviour to let me live in the Sisters house if it were but for one year, I <abbr>remember&#39;d</abbr> my request,
+                  &amp; was resigned &amp; we lived together very agreeably. _ In <date>March 1791</date> I had the unspeakable favour to be permitted to enjoy with the <abbr>Cong</abbr><hi
+                     rend="superscript"><abbr>n</abbr></hi> the body &amp; blood of my dear Saviour in the Holy Communion, after waiting a year &amp; a half, which time had appeared very long to me;
+                  especially as I obtained the other privileges of the <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi> as soon as I requested them. I was now very happy &amp; would not
+                  have exchanged my situation for all this poor world could have offered me. _ In <date>January 1792</date> I received a proposal to undertake the joint care of a Boarding school, </p>
+            </div>
+            <div type="page" n="10">
+               <head>Page 10 <seg ana="MemLon_300021-10" /></head>
+               <p>which was to be begun the following spring. To this I felt a great objection in my mind, feeling my great incapacity for such a situation. I was in a great strait &amp; laid this my
+                  concern before my ever faithful Saviour in prayer, intreating him, that if it was his blessed will that <del>[???????????????????]</del> I should accept this proposal, that he would
+                  make it clear to me, for I was very much afraid, that my disinclination to such a live of life might be the means of tempting me to act contrary to his will, &amp; He graciously
+                  heard my prayer &amp; made it clear to me that I should do right in declining it, &amp; I never after felt that I had acted wrong in following this con= -viction. I lived very
+                  comfortable in this small family, till in <date>October</date> the same year, I received a proposal to remove to <placeName>Kingswood</placeName> &amp; to have the care of the
+                     <add>family of</add> Girls there. Our dear Saviour gave me the needful clearness in this case, so that I accepted it in his name &amp; in reliance upon his help,
+                     <abbr>altho</abbr>&#39; I felt at the same time my great insufficiency being </p>
+            </div>
+            <div type="page" n="11">
+               <head>Page 11 <seg ana="MemLon_300021-11" /></head>
+               <p>however apured[?] that He would make his strength perfect in my weakness, In reliance upon Him I left <placeName>Futherton</placeName>
+                  <date><abbr>Nov<hi rend="superscript">r</hi></abbr> 5 1792</date> &amp; after spending a few days in <placeName>Bath</placeName> &amp; <placeName>Bristol</placeName> I arrived on the
+                        <date>11<hi rend="superscript">th</hi></date> at <placeName>Kingswood</placeName>. The family consisted only of nine persons, the most of whom were Girls. _ This situation
+                  proved a new-school to my heart, as I had never before been entrusted with the care of a family. I felt great timidity, being afraid lest I should spoil any thing by my perhaps too
+                  great zeal or inattention to the teachings and <add>lasting</add> of the Holy Spirit. I was often constrained to approach the <abbr>thro</abbr>&#39; pierced feet of my Saviour, as a
+                  poor needy sinner, &amp; to entreat him with fervor to guide &amp; direct me according to his mind, &amp; I must own, to his praise &amp; with bowedness of heart that He did hear my
+                  prayers &amp; helped me <abbr>thro</abbr>&#39; in a remarkable manner, in all those concerns which had been committed to my care. He has indeed been every thing to me, &amp; often
+                  filled my poor heart with the feeling of his </p>
+            </div>
+            <div type="page" n="12">
+               <head>Page 12 <seg ana="MemLon_300021-12" /></head>
+               <p>which [????very illegible and faint] divine presence, so that I could go on with cheerfulness &amp; look to him daily for his assistance of which I found great need. All those who
+                  have to care for young people know by experience, how needful it is to teach them both by word &amp; example, how to act according to the mind of Christ, as alas what patience must
+                  be exercised toward them. I can say, that I had a sincere love for them, &amp; an ardent wish that they all might prosper for our dear Saviour, &amp; I had also the pleasure to see
+                  that this was the case with some of them, which richly rewarded me for the trouble &amp; anxiety I had at times on their account. In <date>October</date> a proposal of marriage was
+                  made to me. This brought me with an upright heart before the Lord, &amp; having seriously weighed it as in his presence, I felt perfect freedom to decline the [???] I continued in my
+                  proper calling till <date>October 1794</date> when I received a proposal from the M[?]itys Elders </p>
+            </div>
+            <div type="page" n="13">
+               <head>Page 13 <seg ana="MemLon_300021-13" /></head>
+               <p>Conference to fill the office of labourer of the Single Sisters in <placeName>Gracefield</placeName> in <placeName>Ireland</placeName>, which I accepted in humility &amp; no reliance
+                  upon the same kind support I had hitherto experienced from our Saviour. Here I continued to labour <abbr>altho</abbr>&#39; in great weakness till I received another call from the
+                     <abbr>U. E. Conf</abbr><hi rend="superscript"><abbr>ce</abbr></hi> to serve the family of Single Sisters in <placeName>Dublin</placeName> as their labouress, &amp; where I arrived
+                     <date>May the 15<hi rend="superscript">th</hi> in the year 1800</date>. _ I would still remark that after having received my call to <placeName>Gracefield</placeName>, I left
+                     <placeName>Bristol</placeName>
+                  <date><abbr>Nov<hi rend="superscript">r</hi></abbr> 6</date> &amp; having waited two days in <placeName>Holyhead</placeName>, I proceeded from thence to <placeName>Dublin</placeName>
+                  where I [?] arrived on the <date>12<hi rend="superscript">th</hi></date> &amp; spent 5 weeks in that <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi>, I then travelled
+                  with <persName><abbr>B</abbr></persName><hi rend="superscript"><persName><abbr>r</abbr></persName></hi><persName> &amp; <abbr>S</abbr></persName><hi rend="superscript"
+                           ><persName><abbr>r</abbr></persName></hi><persName> West</persName> to the North and arrived in <placeName>Gracefield</placeName> on the <date>27th</date>. At first every
+                  thing appeared strange to me, the customs of the country being so different from those in <placeName>England</placeName>. I found the family, particularly the younger part in a very
+                  unsettled state. _ <persName><abbr>B</abbr></persName><hi rend="superscript"><persName><abbr>r</abbr></persName></hi><persName> Schaukirch</persName> having come from
+                     <placeName>Gracehill</placeName>, I was on <date><abbr>Janr</abbr> 18<hi rend="superscript">th</hi></date> solemnly blessed for my office. I surrendered myself on this </p>
+            </div>
+            <div type="page" n="14">
+               <head>Page 14 <seg ana="MemLon_300021-14" /></head>
+               <p>for our Saviour, &amp; felt no wish to part from those who had been entrusted to my care. In the year <date>1798</date> the well known rebellion in <placeName>Ireland</placeName>,
+                  created much disturbance in the North, but our good Lord protected us from all danger. When in <date>April 1800</date> I received my call to <placeName>Dublin</placeName>, it caused
+                  me no small pain &amp; perplexity. I had no wish to part with this dear family, which was now in a prosperous state, enjoying mutual love &amp; confidence. Fearing however that I
+                  should grieve our Saviour if I suffered myself to be influenced and guided by these feelings, I prayed him to direct me how to act, &amp; felt that nothing would relieve my troubled
+                  mind and set it at ease, but to follow his gracious direction <abbr>altho</abbr> it would at the same time be painful for me &amp; this dear family to part. I therefore accepted my
+                  appointment to <placeName>Dublin</placeName>, as out of our Saviours hands, saying not<hi rend="underline">my will</hi>, but thine be done. I served the family in
+                     <placeName>Gracefield</placeName> 5 1/2 years, &amp; we parted from each other with feelings of love &amp; regret, which I cannot describe in words. _ </p>
+            </div>
+            <div type="page" n="15">
+               <head>Page 15 <seg ana="MemLon_300021-15" /></head>
+               <p>In <placeName>Dublin</placeName> I came into a new School and the custom then prevailing that the Inhabitants went where they choose in the City, caused me much uneaseiness of mind,
+                  as I considered it not right &amp; that it might prove determental to the Spiritual course of the Sisters, and as some of the older Sisters in the family advocated the cause of the
+                  others, I was not immediately able to put a stop to such irregularity. _ my good old Friend <persName><abbr>Pd</abbr> Benade</persName> was however a great encouragement to me, &amp;
+                  I gradually got more at home. In <date>August 1801</date> I received &amp; acceped a proposal to enter into the married state with the Widower <persName><abbr>B</abbr></persName><hi
+                     rend="superscript"><persName><abbr>r</abbr></persName></hi><persName> Ignatius Sraneker</persName>, who was at that time[?] Labourer &amp; Minister of the <abbr>Con</abbr><hi
+                     rend="superscript"><abbr>gn</abbr></hi> of the Brethren at <placeName>Gomerwall</placeName> in <placeName>Yorkshire</placeName>, &amp; having taken an affectionate farewell of the
+                  family in <placeName>Dublin</placeName>, I went to <placeName>England</placeName> &amp; we were married <date><abbr>Oct</abbr> 12 1801</date> in the Church at
+                     <placeName>Birstall</placeName>. We continued to serve this dear congregation for nearly 6 years, &amp; then removed to <placeName>Woodford</placeName> &amp; in the sequel to
+                  various </p>
+            </div>
+            <div type="page" n="16">
+               <head>Page 16 <seg ana="MemLon_300021-16" /></head>
+               <p>other congregations, experiencing the support of our gracious Lord amidst various difficulties &amp; trials and at present we are [????] the small congregation in
+                     <placeName>Marburesbury</placeName>[?]. Whilst I am writing this it as now 25 years since we have lived together in the married state, during which period our Saviour has blessed
+                  us with 2 Sons &amp; 1 Daughter, but one of our Sons he was pleased to take into his eternal security in his infancy. It is our most earnest wish &amp; prayer that he would grant our
+                  other two Children the grace to live for him in this world &amp; to be his devoted servants. _ I can truly say that amidst all our failings we have loved each other - had each others
+                  real welfare at heart, &amp; have been disirous to serve our merciful Lord, who has redeemed us, &amp; his cause, according to the grace given us, and our small abilities. _ I have
+                  much to be thankful for, in having a kind and indulgent partner, who does </p>
+            </div>
+            <div type="page" n="17">
+               <head>Page 17 <seg ana="MemLon_300021-17" /></head>
+               <p>all in his power for my comfort. _ May our Saviour bless him abendant[?] -ly for his kind attention to all my concerns. _ I would still observe that with regard to our Son &amp;
+                  Daughter, who<hi rend="underline">both</hi>are employed as teachers in our Boarding Schools, that I ardently wish that they may give their whole heart to our Saviour, &amp; he truly
+                  impress&#39;d with his redeeming love, and be enabled to devote themselves to his service in what ever way they may be employed. _ Their prosperity lies very near my heart, And I
+                  trust my poor prayers will be heard in their behalf._ I have to grieve over much mispent time, In seeing many faults in others, &amp; in not deaing so faithfully with my own heart,
+                  by passing over things in myself, which ought to have brought me to the feet of a crucified Saviour with penitential tears, and to have sought forgiveness with him. _ I am indeed
+                     <sic>thankfull</sic>
+                  <corr>thankful</corr>, that my </p>
+            </div>
+            <div type="page" n="18">
+               <head>Page 18 <seg ana="MemLon_300021-18" /></head>
+               <p>kind &amp; loving Saviour hath borne me with patience, &amp; unexampled long suffering. I have, alas, made him very poor returns for all his love, &amp; what can I say, but _ O take
+                  my heart, &amp; <abbr>whatsoere</abbr>&#39; is mine. Beloved Jesus, I&#39;ll be only thine. _ May our Blessed Lord accept me, poor &amp; worthless as I am, as his blood-bought
+                  property, &amp; guide me by his Holy Spirit, till that happy time shall arrive, when I shall be called over to his arms of love._ My petition is &quot;Here comes a sinner who would
+                  fain, <abbr>thro</abbr>&#39; the Lambs ransom entrance gain&quot; _ I am frequently reminded by my kind &amp; gracious Lord, that this is at no great distance, by the great
+                  dibility[?] I feel from day to day. May his Holy Spirit lead me through the last stage of this probationary state, so that I may leave close to him by faith. I must beg my dear
+                  partner to forgive my manifold mistakes in offending him, <note type="catchword">which</note>
+               </p>
+            </div>
+            <div type="page" n="19">
+               <head>Page 19 <seg ana="MemLon_300021-19" /></head>
+               <p>which have not been intentionally, yet I know it has been the case repeatedly. Oh, when I look back on my past life, what need have I to prostrate in the dust before our Saviour; no
+                  one has more reason to admire the long suffering &amp; patience of my best friend &amp; Saviour. Oh, that to his praise, each blood drop within me were hallowed always. I have now to
+                  look forward when this great change will come. O Lord! grant that I may be found ready to enter <add>into</add> my Redeemers kingdom. At what time thou mayest call me hence, give me
+                  to feel daily more of that love which urged thee to die, to fit and prepare me for the meanseons[?] of bliss. The following prayer was found among her manuscripts Dated
+                     <placeName>Fairfield</placeName>
+                  <date>July 1817</date> O my dear &amp; merciful Saviour, who hast laid down thy most in= valuable life, for me a lost and </p>
+            </div>
+            <div type="page" n="20">
+               <head>Page 20 <seg ana="MemLon_300021-20" /></head>
+               <p>undone sinner. Thou didst submit to that cruel &amp; ignominous death on the cross, that I might become an heir of eternal life &amp; salvation. O grant that My precious blood may
+                  cleanse my polluted soul, from every spot &amp; stain of sin, and so draw me by thy grace unto thyself that I may with new life in my soul be strong thence to run my appointed race
+                  more pleasing unto thee. Grant unto me the undwelling of thy Holy Spirit to guide my steps aright. <abbr>Altho</abbr>&#39; I am now arrived to 54 years of age, I feel daily more need
+                  of thy divine assistance, and most humbly intreat thee to fill my soul with love and peace, that love which urged thee to die for my sins. Grant, most gracious Redeemer &amp;
+                  Saviour, that the remainder of my days, may be spent in sweet communion with thee. I feel conscious that I have not inproved my time as I might have done, enjoying all </p>
+            </div>
+            <div type="page" n="21">
+               <head>Page 21 <seg ana="MemLon_300021-21" /></head>
+               <p>those <sic>priviledges</sic>
+                  <corr>privileges</corr> in thy dear Brethrens <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi> &amp; which causes me to prostrate at thy <abbr>thro</abbr>&#39; pierced
+                  feet &amp; to bathe them with peni=tential tears. _ Oh that thou wouldst wash all my sins away <abbr>thro</abbr>&#39; thy atoning sacrifice. _ Strip me of every idol, which may be a
+                  hindrance to thy work of grace. The time is short, may I not lose on moment, But improve every opportunity in making my calling &amp; election sure. I own it the highest
+                     <sic>priveledge</sic>
+                  <corr>priviliege</corr> here below, to be employed in thy service, &amp; which I have been now 25 years. But when I reflect on my conduct in many instances, how much self love there
+                  has been entwined in every action, thou alone knowest what grief this has caused me at times, yet how apt have I been to fill into that dangerous path again. O that thou, my dearest
+                  Lord &amp; Saviour, wouldst conde[???] <note type="catchword">to</note>
+               </p>
+            </div>
+            <div type="page" n="22">
+               <head>Page 22 <seg ana="MemLon_300021-22" /></head>
+               <p>to look in mercy on me, and guide me safe <abbr>thro</abbr>&#39; this vale of tears. tis alone owing to thy love, patience, &amp; tenderness that I have been spared so long. May the
+                  continual remembrance of this be a powerful magnet to draw my heart into union with thee, so that death itself shall never part, mine &amp; my Redeemer&#39;s heart. Grant that my
+                  dear partner in life, may be strength= -ened by thy grace &amp; should it be thy blessed will, that I should be called out of time into eternity, support him by thy gracious
+                  presence, that he may be enabled to acquiesce in thy leadings, for to thee he hath devoted himself. Grant that our 2 dear children, may be thy children. _ O take them into thy
+                  hau[?]s anew, &amp; form &amp; fashion them according to thy mind. May their dear Father impress upon their minds the importance of being wholly given up to thee in their youth &amp;
+                  do thou crown his endeavours with success, by laying thy blessing upon it, so that if they are permitted to continue for a time in this vale of tears, they may be useful members in
+                  thy <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi>. O, my most beloved Saviour, do thou </p>
+            </div>
+            <div type="page" n="23">
+               <head>Page 23 <seg ana="MemLon_300021-23" /></head>
+               <p>sprinkle their hearts with thy redeeming blood, &amp; fill them with thy love, let them feel that they are not their own, but thy blood bought property, to live alone for thee in
+                  this world be their highest aim; so that we may be enabled to say, when <abbr>favord</abbr> to surround thy throne: &quot;Here are we, and the children thou hast given us&quot;.
+                  Grant most gracious Redeemer &amp; Saviour, these petitions, which flow from a heart truly penetrated with thy special love to me a poor sinner, for it is <abbr>thro</abbr>&#39;
+                  grace alone that I hope to obtain mercy. Cleanse me from every sin, &amp; forgive, for the sake of thy blood &amp; death all my transgressions &amp; receive me into thy favour. _
+                  Under date of <date>September 6 1822</date>
+                  <placeName>Gracehill</placeName>; is the following which she had written but left unfinished; What shall I say to the faithfulness of my adorable Redeemer &amp; Saviour, who hath led
+                  me with <add>such</add> un[????] patience, but fall at his feet &amp; devote soul &amp; body unto him who hath an= -swered my prayer, when in distress of mind, I expected my dear
+                  partner would be taken from me, &amp; not be permitted <note type="catchword">to</note>
+               </p>
+            </div>
+            <div type="page" n="24">
+               <head>Page 24 <seg ana="MemLon_300021-24" /></head>
+               <p>to see his children again. This obstacle appears removed, as we have received a call to <placeName>Kingswood</placeName>, where we hope to serve our Saviour in that small
+                     <abbr>Cong</abbr><hi rend="superscript"><abbr>n</abbr></hi>. _ From this short account of our late beloved &amp; respected Sisters course <abbr>thro</abbr>&#39; time, drawn up by
+                  herself, It is apparent, that her earnest wish &amp; prayer was to enjoy in her soul, all those blessings which our gracious Lord has merited for his followers, &amp; to devote
+                  herself to him and to his service in the <orgName>church of the Brethren</orgName>. She was indeed deeply sensible that she was a sinner, &amp; that all her happiness &amp; salvation
+                  was free grace &amp; mercy, flowing from the merit of Christs blood &amp; death. She took great delight in frequenting the assemblies of Gods People, &amp; never suffered any thing
+                  to prevent her attendance, even when it was thought not advisable on account of her great dibility. She often mourned over those, who on any trivial occasion would vacate their seat
+                  in the house of God, or suffer their secular concerns to interfere with the higher duties of their soul. Her sincereity in her attachments to her Saviour &amp; his service to which
+                  she had devoted herself was very edifying. Her husband has lost in her an affectionate partner, who made it her study to afford him <note type="catchword">every</note>
+               </p>
+            </div>
+            <div type="page" n="25">
+               <head>Page 25 <seg ana="MemLon_300021-25" /></head>
+               <p>every comfort that lay in her power, &amp; who was truly devoted to her Saviour, &amp; to those services to which they were called in the <orgName>church of the Brethren</orgName>. _
+                  Her children have lost in her an affectionate, faithful, &amp; discreet mother, who was always solicitous to promote their present &amp; eternal happiness. So the poor she was, as
+                  far as her abilities went a benevolent friend. She had been in a declining state of health for several years, having had repeated paralytic seizures, the last of which she had on
+                     <date>March the 11<hi rend="superscript">th</hi></date> which [??]ned her left side and rendered her left hand almost useless, from whence it became evident that her continuance
+                  here below could not be much longer. She was herself aware of it, &amp; often spoke of her dissolution as not being far distant. _ her mind was fully prepared to meet this event,
+                  &amp; her humility &amp; confidence in her Saviour, &amp; love to him, as also the gratitude she expressed for all the mercies &amp; favors she enjoyed was very edifying. She had no
+                  doubts &amp; fears to perplex her mind </p>
+            </div>
+            <div type="page" n="26">
+               <head>Page 26 <seg ana="MemLon_300021-26" /></head>
+               <p>regarding her final acceptance and eternal safety, but spoke of her departure with serenity &amp; composure, &amp; with a full conviction of her intrest in our Saviours merits &amp;
+                  death. She attended all the meetings in the Chapel during the Passion Week. But on the Friday preceding her departure, she was troubled with an obstinate cough &amp; which was
+                  attended with sickness &amp; a continual inclination to sleep, however she did not take to her bed till Tuesday the <date>17<hi rend="superscript">th</hi> April</date>, when she was
+                  seized with a lethargy, which prevented her from saying much. She requested her husband on that day to bless her for her final departure, which he did, after <add>having</add>
+                  commended her in a fervent prayer to our Lord &amp; Savior, beseeching him to support her in her dying moments by the feeling of his divine peace &amp; presence, &amp; to receive her
+                  dear bought soul into his presence above, thanking him for all the grace &amp; mercy he had bestowed upon her here below, &amp; delivering her up into his faithful hands. She said I
+                  shall go to our Saviour. She continued the </p>
+            </div>
+            <div type="page" n="27">
+               <head>Page 27 <seg ana="MemLon_300021-27" /></head>
+               <p>most part of her time to a cup till about 25 minutes before one <abbr>o&#39;c</abbr> on <date><abbr>Ap<hi rend="superscript">l</hi></abbr> 18<hi rend="superscript">th</hi></date> she
+                  breathed her last in an easy &amp; peaceful manner, and her redeemed soul went over into the presence of her Lord &amp; Saviour, there to enjoy in fullest measure what he has
+                  prepared for them that love him &amp; wait for his appearing. She now rests with Jesus, &amp; our loss is her eternal gain. She was in the 64th year of her age. _ </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
