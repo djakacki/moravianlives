@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mary Anton: Memoir <lang>English</lang>
+            <title>Mary Anton: Memoir 
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
@@ -79,7 +79,7 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="en">
-         <head>A. Mary Anton memoir</head>
+         <div type="memoir">
          <div type="page" n="1">
             <head>Page 1 <seg ana="MemBeth_0116-01" />
             </head>
@@ -159,6 +159,7 @@
                Notice of any Thing; the formerly so very acceptable Visits of her Sisters, became now very indifferent to her. Her Heart continually conversd w<hi rend="superscript">th</hi> her only
                Friend: She made <add>some</add> Motions w<hi rend="superscript">th</hi> her Lips but nothing could be understood, &amp; between 10 &amp; 11 a Clock in the Evening her Soul departed to
                her eternal Home, after a Sojourning in this World of 24 Years, wanting one Day. </p>
+         </div>
          </div>
       </body>
    </text>

@@ -14,7 +14,7 @@
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator 2015-18 <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -80,6 +80,7 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="en">
+         <div type="memoir">
          <head>Sarah Verney memoir, page 1</head>
          <div type="page" n="1">
             <head>Page 1 <seg ana="MemLon_300047-01" />
@@ -239,6 +240,7 @@
                   rend="superscript"><abbr>rs</abbr></hi> divine presence, after which she said she felt very happy, and now she <abbr>long'd</abbr> for the happy moment to come when she
                   <abbr>shou'd</abbr> see her Re- -deemer face to face, which came to pass <add>about 5 o clock</add> next morning when she <abbr>expir'd</abbr> gently <hi rend="underline">Aged 36
                   years</hi> 3 months and 3 days. </p>
+         </div>
          </div>
       </body>
    </text>
