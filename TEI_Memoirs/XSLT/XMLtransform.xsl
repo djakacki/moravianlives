@@ -11,8 +11,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:sic" />
-
+    <xsl:template match="tei:sic"/>
     
     <!-- you can add this template to run many documents at once: add this code in
         by un-commenting it, and then run this xslt to transform list.xml (in the
@@ -28,5 +27,10 @@
         </xsl:for-each>
     </xsl:template> -->
     
+    <xsl:template match="@* | node()">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+    </xsl:template>
     
 </xsl:stylesheet>

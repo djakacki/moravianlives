@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judith Quitt: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal>
+               <persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, PA USA</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal>
+               <persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Judith Quitt (1683-1763)</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0122-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0122-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0122-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="chapter">
+            <head>Judith Quitt</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="MemBeth_0122-01" />
+               </head>
+               <p> I. The Widow <persName>
+                     <hi rend="underline" n="red">Judith Quïtt</hi>
+                  </persName>. The following are her own Words, which She left in writing behind her. </p>
+               <p> I am born <date>1683 the 29</date>
+                  <hi rend="superscript">
+                     <date>th</date>
+                  </hi>
+                  <date> of Sept</date>. at <placeName>Kunewalde</placeName> in <placeName>Moravia</placeName>. My Vater <persName>Dav. Shindler</persName> &amp; my Mother have been <del
+                     rend="strikethrough">concerd</del> concern'd about their Salvation, &amp; so they did whatever they could to bring me up in a religious Way. In the 8<hi rend="superscript">th</hi>
+                  Year of my Age, I <corr>felt</corr> the first Labour of Grace in my Heart, but afterwarts afterwards went to divert myself w.<hi rend="superscript">th</hi> the World, not without
+                  restlessness &amp; Disatisfaction in my Heart. In my 22<hi rend="superscript">d</hi> Year of Age I <corr>married</corr> &amp; <corr>intended</corr> to carry on with my Husband a
+                  pious Life. I indeed <corr>began</corr>
+                  <add>to be</add> confident towards my Redeemer, who very <corr>graciously </corr>vouchsaved towards us. We soon get Intelligence of the great Awakening in
+                     <placeName>Teshen</placeName>, but as our Daughter made a Visit there, She <note type="catchword">was betrayed</note>
+               </p>
+            </div>
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemBeth_0122-02" />
+               </head>
+               <p> was betrayed &amp; my Husband was for that put in Prison. However soon as he was set free again, he <del rend="strikethrough">did't [?]</del>
+                  <del rend="strikethrough">[?]</del> could for all that not be silent by the Visit of Christ.<hi rend="superscript">n</hi>
+                  <persName>David</persName> &amp; the following <hi rend="underline" n="red">great Awakening</hi> in this Country; and was by that means <hi rend="underline" n="red">imprisoned</hi> a
+                     <hi rend="underline" n="red">second time</hi>. I came in hard Circumstances for his Sake at last I got Bail &amp; he was set at Liberty again. Now we seriously
+                     <corr>intended</corr> to leave our Mother-Country, because we had no rest &amp; to follow our B<hi rend="superscript">rrn</hi> which went before us. But as <corr>afterwards</corr>
+                  <persName>
+                     <hi rend="underline" n="red">Melchious Nitshman</hi>
+                  </persName> with two <corr>families</corr> more went away, such a wild Commotion ensued that we must in half a Hours time determine to leave our whole Habitation for our Souls Sake.
+                  I <corr>intended</corr> to take some Linen along w.<hi rend="superscript">th</hi> me, but could not find in haste the key-hole, <del rend="strikethrough">[?]</del>
+                  <del rend="strikethrough">[?]</del> flung the key away &amp; went w.<hi rend="superscript">th</hi> my Husband &amp; three Daughters out the Door. Scarce had I left my Habitation then
+                  Heart <corr>felt</corr> Rest &amp; Peace, that nothing in this World would have inticed me to return again. But <unclear>scarly</unclear> we had pursued our Journey some Miles, we
+                  fell in with 8 young Men who brought us in the greatest Distress &amp; sevel times <corr>tied</corr> us. O in what <corr>Difficulty</corr> were we in! We <corr>knew</corr> what sort
+                  of Holes <add>were</add>
+                  <unclear>preport</unclear> for us in Prison; therefore we took refuge to begging &amp; told them the would consider our Distress &amp; let us go, They were very hard &amp;
+                     <corr>immovable</corr> but at last they said, as we go for our Con- siences Sake they would let at Liberty. Who was more glad <corr>than</corr> we, we <corr>proceedeth</corr> our
+                  Journey w.<hi rend="superscript">th</hi> a more firm Con_ fidence &amp; Faith. At <placeName>Schönbrunn</placeName>, where our dear <persName>Brother de Seidliz</persName> had part
+                  of his Dominion, we heard the first <note type="catchword">Protestant Pr.</note>
+                  <pb /> Protestant Preaching en enjoy'd the Love &amp; Goodness of every Body. This we enjoyed every where, on our Journey till we at last save arrived at
+                     <placeName>Bertholsdorf</placeName>. We went the same Day to <placeName>Hhuth</placeName>, where they was just a building the Congregation House, the Brethren which was on the
+                  Roof knowd us, came down, saluted us with great Joy &amp; Amazement that we escapd so happily. But as to the same Time was no Employment for us there, then we lived 8 Weeks at
+                     <placeName>Bertholsdorf</placeName> w.<hi rend="superscript">th</hi>
+                  <persName>Vater Nitschmann</persName>, but afterwards the blessed Lady the <persName>Gersdorf</persName> took us under her Care &amp; pro- vided us a Lodging &amp; Boarding at
+                     <placeName>Kemniz</placeName>. But as our dear Lady a Year after went to her Saviour, we beggd by our blessed Disciple for a Place in <placeName>Hhuth</placeName>. We aquainted
+                  our Lord &amp; the Minister at <placeName>Kemniz</placeName> w.<hi rend="superscript">th</hi> our Intention, But they disuadeth us: saying what we would do in this
+                     <corr>Desert</corr>? &amp; who would give us there our Allimendation? My Husband <corr>answered</corr>: Our Saviour who nourished 4000 Men in the <corr>Desert</corr>, He hoped
+                  will find <corr>Advice</corr> to bring us there through to. We moved also A.<hi rend="superscript">o</hi>
+                  <date>1726</date> to <placeName>Hhuth</placeName>, where we found several Trials in the first Years, &amp; I found out very soon, that the bare Emigration from <add>my</add> Mother
+                  Country, was not enough to set my Heart at Rest. The fundamental Him: not to belief on the Son of God &amp; his meritorious Wounds, was here laid open to me, so that I did't venture
+                  to go to our Lords Supper &amp; thereby lost the great &amp; blessed <corr>Communion</corr> the <date>13</date>
+                  <hi rend="superscript">
+                     <date>th</date>
+                  </hi>
+                  <date> Augs</date> at <placeName>Berthols- <note type="catchword">dorf</note>
+                  </placeName>. </p>
+            </div>
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="MemBeth_0122-03" />
+               </head>
+               <p> dorf. In this Situation I pined a good While, till our Sav.<hi rend="superscript">r</hi> once very graciously <corr>look</corr> on comforted &amp; absolved me from all my Sins &amp;
+                  tresspasses &amp; I experienced the Power of his bloody Redepmtion very emphatically in my <corr>Heart</corr>: This was the <date>9</date>
+                  <hi rend="superscript">
+                     <date>th</date>
+                  </hi>
+                  <date> of March 1728</date>. After that I enjoyd w.<hi rend="superscript">th</hi> the Congregation the first time the holy <corr>Sacrament</corr>. <corr>Afterwards</corr> I came
+                  under the hourly Intercessors, &amp; so by Degrees <add>in</add> Several Employ- ments in the Congregation, &amp; I could every thing where I was <corr>appointed</corr> for, execute
+                     w.<hi rend="superscript">th</hi> the greatest <corr>Pleasure</corr> &amp; willingness of my Heart. After passing 10 Years in <placeName>Hhuth</placeName>, my Husband &amp; I got a
+                  Call to <placeName>Ebersdorf</placeName> as Parents for the Children in the Anstalt there. After a Stay of 3 Years we came at the <placeName>Roneburg</placeName>, &amp; then to
+                     <placeName>Mborn</placeName> &amp; <placeName>Hhaag</placeName>, every where in the same Quality. After my dear Husband (w.<hi rend="superscript">th</hi> whom I lived 37 Years in
+                  a happy &amp; <corr>cheerful</corr> marriage State, &amp; had w.<hi rend="superscript">th</hi> him three Daughters, wherefrom only one is still alive) A.<hi rend="superscript">o</hi>
+                  <date>1742</date> went to our dear Saviour; then I was <corr>appointed</corr> Labourer with the <persName>Sister Hofer</persName> by the <corr>Widows</corr> at
+                     <placeName>Hhaag</placeName>. &amp; A.<hi rend="superscript">o</hi>
+                  <date>1746</date> I came hither to <placeName>Hhuth</placeName> in my Choir_House to rest myself. Our Saviour like formerly also here to proved himself the best &amp; most true
+                  Friend of my poor Soul. A.<hi rend="superscript">o</hi>
+                  <date>1756 the 23</date>
+                  <hi rend="superscript">
+                     <date>th</date>
+                  </hi>
+                  <date> of March</date> I moved upon our blessed Disciples <corr>Advice</corr> to <placeName>Gnadenfry</placeName> &amp; was very sure that this was the Place where my &amp; eternal
+                  true Husband would finish me to go happy &amp; in Peace in his eternal Joy So far She herself. <note type="catchword">She</note>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
