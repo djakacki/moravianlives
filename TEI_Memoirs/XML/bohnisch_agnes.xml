@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Agnes Böhnisch: Memoir <lang>English</lang>
+            <title>Agnes Böhnisch: Memoir
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
@@ -59,14 +59,24 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>The Life of Agnes Böhnisch: Manuscript in English, 3 pp. From Original - Box 4</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir">Mary Startin (1745-</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-03.jpg" />
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text type="memoir">
       <body xml:lang="eng">
+         <div type="memoir">
+            <head>>Agnes Böhnisch</head>
          <div type="page" n="1">
-            <head>Agnes Böhnisch memoir, page 1 <seg ana="MemBeth_0114-01" />
+            <head>Page 1 <seg ana="MemBeth_0114-01" />
                <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0114-01.jpg" />
             </head>
             <!-- check on <personGroup -->
@@ -74,8 +84,8 @@
                   Groenland</placeName> born, &amp; <sic>baptised</sic>
                <corr>baptized</corr> by <persName>B<hi rend="superscript">r</hi>. Johanes</persName> who was just there, the same time, In her Childhood she made her Parents as well as the B<hi
                   rend="superscript">rn</hi>. &amp; Sisters there many happy Hours. <date>A<hi rend="superscript">o</hi>. 57. the 25th. of Nov.</date>
-               <persName>B<hi rend="superscript">r</hi>.</persName> &amp; <persName>Sist<hi rend="superscript">r</hi>. Beck</persName> brought her
-               along to <placeName>Herrnhuth</placeName> &amp; there She came in the Girls-House. She has been extraordinary lively &amp; <sic>activ</sic>
+               <persName>B<hi rend="superscript">r</hi>.</persName> &amp; <persName>Sist<hi rend="superscript">r</hi>. Beck</persName> brought her along to <placeName>Herrnhuth</placeName> &amp; there
+               She came in the Girls-House. She has been extraordinary lively &amp; <sic>activ</sic>
                <corr>active</corr> &amp; loved the Children very much &amp; so did the Children to her, <hi rend="strikethrough">not caring that</hi>
                <add>and never <sic>mindet</sic>
                   <corr>minded</corr> that</add> the could't talk w<hi rend="superscript">th</hi>. one another then <persName>Agnes</persName>
@@ -113,6 +123,7 @@
                   <sic>a</sic>
                <corr>o'</corr> Clock her long wishd &amp; blessed Hour struck &amp; she departed w<hi rend="superscript">th</hi>. the Blessing of the Congregation happy &amp; <sic>easly</sic>
                <corr>easily</corr> in her 11th. Year of Age. </p>
+         </div>
          </div>
       </body>
    </text>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Startin: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir">Mary Startin (1745-</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300026-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300026-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300026-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300026-04.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Mary Startin</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="MemLon_300026-01" />
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Memorandum of my course of life</cell>
+                        <cell>The Lord hath done great things for me. O what to his precise each blood drop within me were followed always</cell>
+                     </row>
+                     <row>
+                        <cell>widow of Thos Warsley? + Bradfd, Wilts</cell>
+                        <cell />
+                     </row>
+                  </table>
+                  <add place="margin">My Fathers name was Ebeneser Craddoch</add> My Maiden name was <persName>Craddoch</persName> I was born in <placeName>Bristol</placeName>
+                  <date>April 17 1745</date> Old <sic>Stile</sic><corr>style</corr> and was Baptized in the Church of England my Father<add place="above">first</add>was Clerk to the Chamberlain of the
+                  City. I had one Brother a year younger than myself at the Age of Seven years I lost my Father who died of a Fever not having the use of his <sic>sences</sic>
+                  <corr>senses</corr> to the last. my Mother had been <sic>aflicted</sic>
+                  <corr>afflicted</corr> with Convulsion Fits for years and unable to take care of her family. her Grief for the loss of my Father increas'd her disorder which terminated in a
+                  Consumption. She went happily home calling upon Our Lord Jesus Christ to take care of her dear Children. My Grandmother who lived with us brought us up in a very strict legal, way we
+                  had an <sic>Esate</sic>
+                  <corr>Estate</corr> of 50 Pounds a year but it was in Houses and Life land - by an Aunt&#39;s Rersvations I was sent to Boarding School for a year here I got such a love for the
+                  World that my home seemed like a Prison to me - I was then placed with my Grandmothers <abbr>Sis.<hi rend="superscript">tr</hi></abbr> who was just as religious as herself but I made
+                  my escape like a Bird out of a Cage My Brother was put Apprentice to an Engraver. I wanted to be a Millener but this my <abbr>Grand<hi rend="superscript">mr</hi>.</abbr> would not
+                  suffer lest I should be seduced by the men - this I could not comprehend, having very high Notion of my virtuous inclinations / upon this I would learn Nothing and went to live with
+                  a young Woman whose Parents were not so Strict - and who was just of my own way of thinking - this griev'd her so much that she gave up the Estate to my Brothers management
+                     <sic>tho</sic><corr>though</corr> with a strict charge for it to be divided between us as my Father died without a Will - I went on with a full resolution to enjoy the World &amp;
+                  took great delight in Reading Novels and Plays and seeing them acted my <abbr>B<hi rend="superscript">r</hi></abbr>. indulged his inclinations also but restrain me in some degree by
+                  refusing to give me money except when he thought proper - I was at times reduced to the greatest extremity and would pray most earnestly to God Almighty and promise how good I would
+                  be if he would help me I got work at my Needle of various sort, but my Trouble often returned for I could not bear to be in debt being in a poor State of Healthy my <abbr>B<hi
+                        rend="superscript">r</hi></abbr>. advised me to go and live Near <placeName>Bath</placeName> with some Acquaintance of my late Father promising to pay for my Board, this I did
+                  but he forgot his promise so I was obliged to leave them and lived in <placeName>Bath</placeName> as a <sic>Ladys</sic><corr>ladies</corr> Maid by this means I got acquainted with
+                        <abbr>Tho<hi rend="superscript">s</hi></abbr>. <persName>Startten</persName>? who lived as Butler in a Noblemans family - he was the only Man I ever liked. my liking went so
+                  far that I was several times off my Guard and it was a Miracle that I was kept from </p>
+            </div>
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemLon300026-02" /></head>
+               <p>from actual pollution, I felt at those times as <sic>tho</sic><corr>though</corr> I was in the Presence of some <sic>Awfull</sic>
+                  <corr>Awful</corr> Being who would not suffer him to touch me - My <abbr>B<hi rend="superscript">r</hi>.</abbr>. being very ill of a Fever I was sent for He was quite
+                     <sic>sencless</sic>
+                  <corr>senseless</corr> and died the next day - at his Decease two thirds of the Estate fell to the City for want of renewing the lives - part of the remainder I sold to pay his debt
+                     <sic>tho</sic><corr>though</corr> he was not quite of <gap reason="ink blot" /> Age - at this time I grew very <sic>thoughtfull</sic>
+                  <corr>thoughtful</corr> leaving my <abbr>B<hi rend="superscript">r</hi>.</abbr> was lost and that I should be so two ... to pass it <sic>of</sic><corr>off</corr> I went to
+                     <placeName>London</placeName> from thence to <placeName>Southampton</placeName> and various other places but the <sic>uneasyness</sic>
+                  <corr>uneasiness</corr> of my heart followed me everywhere ... I grew sick and tired of the World and of every thing I used to delight in I return'd to <placeName>Bristol</placeName>
+                  for soon all my Gay companions went to <gap reason="ink blot" /> live by myself and was resolv'd to try if there was any happiness to be found in Religion - went constantly to Church
+                  &amp; I kept a School for children for my Support as I had but one small House left which brought me in but 4 Pounds a year. the remainder I had spent.. and now my whole life was
+                  painted before my eyes - every fault I had <sic>commited</sic>
+                  <corr>committed</corr> in the strongest colours .. my outward affairs seemd very bad, as my School did not answer my expectation But that text came strongly into my mind - Seek ye
+                  first the kingdom of God and his Righteousness and all these things shall be added into you - I was now effectually Awaken'd from the sleep of Death seeing myself a poor lost undone
+                  creature without a <abbr>Sav<hi rend="superscript">r</hi>.</abbr> what brought me to the brink of Despair was I felt what I had been asham'd of had despis'd and even
+                  hated the Lord Jesus who had bought me with his Blood - how then could I love to appear at his Judgment seat, and he might call me hence in a moment - - these words at times gave me
+                  a ray of hope - - - the Wages of Sin is death. But the gift of God is Eternal Life <sic>thro</sic><corr>through</corr> Jesus Christ our Lord - but my distress return'd again with a
+                  greater force - one day as I was in my <sic>Appartment</sic>
+                  <corr>Apartment</corr> quite alone in such Anguish of mind as no words can express - - it came into my mind. Believe in the Lord Jesus Christ and thou shalt be saved - I cried out,
+                  Lord what is believing O save one save me - at that moment Our <abbr>Sav<hi rend="superscript">r</hi>.</abbr> stood before my heart in his Crucified form. I fell at his feet - and
+                  when I arose found all my load of guilt was gone. I could now believe and not till now that Jesus Christ was God overall Blessed for evermore and my <abbr>Sav<hi rend="superscript"
+                        >r</hi>.</abbr> - - my Soul was full of Life, Light and Love - the Scriptures of truth which before was seal'd up was now open to my <sic>viens</sic>
+                  <corr>veins</corr> . and wondered at my former blindness. When I read the Sufferings of our <abbr>Sav<hi rend="superscript">r</hi>.</abbr> my heart burn'd with love to Him, and
+                  thought I could suffer the most cruel Death <note type="catchword">for</note>
+               </p>
+            </div>
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="MemLon_300026-03" /></head>
+               <p>for the name of Jesus <note type="editorial">top of page is cut off</note>
+                  <lb /> attempted before, <sic>tho</sic><corr>though</corr> I was confirmed &amp; the Bishop at the age of <note type="editorial">[cut off]</note> this was in the year
+                     <date>1773</date> . . on Easter Sunday early I waked from a Dream I had of being in Heaven where I saw in letters of Gold the Resurrection of Jesus Christ and believ'd
+                  there was a people on earth assembled at this very moment to sing the Praises of the Lord and that I should once belong to them . . I went on my way rejoicing thinking my heart was
+                  quite clean - but to my great surprise found <sic>evill</sic>
+                  <corr>evil</corr> thoughts arise in my mind - - and that word of Scripture <sic>occurd</sic><corr>occurred</corr> often -- Take heed lest there be in any of you an <sic>Evill</sic>
+                  <corr>Evil</corr> heart of unbelief in departing from the living God - this caused me great perplexity for instead of <sic>submiting</sic>
+                  <corr>submitting</corr> to the teachings of the Holy Spirit - I was like a <sic>froward</sic><corr>forward</corr> child who thought I could now go alone and fell . . I got into
+                  reasonings about the Holy Trinity and abundance of things <sic>untill</sic>
+                  <corr>until</corr> I was quite confus'd . . I still corresponded with <persName>Tho<hi rend="superscript">r</hi>. Starttyn</persName> who had been in <placeName>London</placeName>
+                  and <placeName>Hampshire</placeName> with the same family. He <sic>beged</sic>
+                  <corr>begged</corr> my pardon for his misbheaviour some years ago and intreated me to marry him saying he had saved 300 Pounds in his Service. I wrote him an account of my awakening
+                  and imagined by his answer that a work of grace was begun in his heart - my Aunt died soon <sic>afer</sic>
+                  <corr>after</corr> and left me 270 Pounds besides valuables - - I now conceiv'd the proud vain hope of converting him to our <abbr>Sav<hi rend="superscript">r</hi>.</abbr> and with
+                  this view gave my consent . . <sic>tho</sic><corr>though</corr> it often <sic>occurd</sic><corr>occurred</corr> to my mind Be ye not unequally yoked with <sic>unbeleivers</sic>
+                  <corr>unbelievers</corr> and other texts of Scripture which was certainly Admonitions from the Holy Spirit . . I also dream'd I saw a Man stand with his Back towards me in a Garment
+                  of a Blood colour. . in his hand he held a ring which he threw into the sky I saw it turn into 2 bright stars with a small snau[???] between . . while I was looking a voice said to
+                  me you will be <sic>maried</sic>
+                  <corr>married</corr> - but soon separated - - the small star signifies a child the man who stands there is Our Lord Jesus Christ</p>
+               <p>- - - his <sic>comming</sic>
+                  <corr>coming</corr> to <placeName>Bristol</placeName> left me no time to think . . we were <sic>maried</sic>
+                  <corr>married</corr> the <date>first of June 1775</date> and went to live at <placeName>Bradford</placeName> in <placeName>Wiltshire</placeName> entering into the brewing busyness -
+                  - - and Now instead of the happiness I had expected my <abbr>Sav.<hi rend="superscript">r</hi>.</abbr> hid his Face from me I met with nothing but affliction - I was brought to to
+                  bed of a little girl in <date>March 1776</date> who died at eleven weeks old and <date><abbr>Feb.<hi rend="superscript"> r</hi></abbr> 1 1777</date> became a truly disconsolate Widow
+                  - - for tho my <abbr>Sav<hi rend="superscript">r.</hi></abbr> at the moment of my Husbands departure took me as it were in his Arms and promis'd to be my Everlasting Husband. . Yet I
+                  had lost that tender constant communion with him which I had before I was <sic>maried</sic>
+                  <sic>married</sic> . . my Husbands relations <sic>perswaded</sic>
+                  <corr>persuaded</corr> him to make a Will to their mind <sic>tho</sic><corr>though</corr> contrary to the dictates <note type="catchword">of</note>
+               </p>
+            </div>
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="MemLon_300026-04" /></head>
+               <p>of his own Conscience and no one taking to the <sic>Busyness</sic>
+                  <corr>Business</corr> I sold of with great loss - so that when I had paid the legacy I had but 250 Pounds left - 200 of which would have been theirs if I had <sic>maried</sic>
+                  <corr>married</corr> again</p>
+               <p>I return'd to <placeName>Bristol</placeName>; and now the Holy Spirit labour'd to convince me that the cause of all my Sufferings was that I had left my first Love often
+                     <sic>aplying</sic>
+                  <corr>applying</corr> the words which had been said the Church of old. But I still went on in a self righteous way for several years</p>
+               <p>At last the Lord turned and <sic>lookt</sic><corr>looked</corr> upon me just as he did upon <persName>Peter</persName> - - this look struck me to the heart. I shed numberless tears
+                  for my Care ingratitude I think it a great mercy being a person of Strong <sic>Pasion</sic>
+                  <corr>Passion</corr> I did not attempt my own life, for now I thought I had sinn'd against the Holy Ghost, of course could never be forgiven, [??] acquaintance Being my distress took
+                  me often to hear preaching - - but I could <add>find</add> no rest for the sole of my foot - - once she <abbr>askt</abbr> me to go to the Moravian <sic>Chappel</sic>
+                  <corr>Chapel</corr> saying there was a fine man there - having never heard of these people before I said what are they - &amp; dont know she said but I never heard the name of Jesus
+                  repeated so often in my life - <sic>tho</sic><corr>though</corr> was just what I wanted - - but I would not go till Easter Sunday - <persName><abbr>B<hi rend="superscript"
+                        >r</hi>.</abbr> Worthington's</persName> text was: the Lord is risen indeed and hath appear'd unto Simon - this was the first time I heard the pure Gospel preached - that full
+                  free salvation which I had felt in my own heart formerly - my own case was described in that of Peter and a full pardon was held out to me in the Suffering and Death of my Dear
+                        <abbr>Sav<hi rend="superscript">r</hi></abbr> which were painted in the most beautiful colours to my poor distressed heart - I attended the preaching constantly till
+                           <date><abbr>Jan<hi rend="superscript">y</hi>.</abbr> 1783</date> and always with blessing but at times my distress returned - and hearing <persName><abbr>B<hi
+                           rend="superscript">r</hi>. W</abbr></persName> was going to leave the city I went to buy a hymn Book he <sic>askt</sic><corr>asked</corr> me several questions, in particular
+                  - if I lov'd our Lord Jesus Christ - this I could only answer with tears - next day I was as it were <sic>compeld</sic><corr>compelled</corr> to go to him and open all my heart -
+                  his Wife was present he gave me true Consolation in Christ Jesus and came to see me . . I felt such a union of Spirit with these dear people that I could not rest till I asked then
+                  if it was <sic>posible</sic>
+                  <corr>possible</corr> such a vile creature could be receiv'd into the congregation: they said it I desir'd it I might be receiv'd into the Society - by way of preparation - in time
+                  our <abbr>Sav<hi rend="superscript">r</hi>.</abbr> might receive me into his congregation describing it in a <sic>beautifull</sic>
+                  <corr>beautiful</corr> light I was receiv'd on the <date>9 of March</date> and went to live with <persName><abbr>B<hi rend="superscript">r</hi>.</abbr> and <abbr>Sis<hi
+                           rend="superscript">r</hi>.</abbr> Mineard</persName> soon after visited an old acquaintance - she was sadly afraid I should be sent to a Widows house which she said was 300
+                  miles distant - and intreated me to be on my guard - this was news to <add place="above">me</add> having never heard there was such a house she left the room - I saw in the window a
+                  piece of an old <sic>himn</sic>
+                  <corr>hymn</corr>, with these lines which I never saw before nor since - Where thou determinst my abode Even there my choice shall be. for in thy presence death is life. And earth is
+                  heaven with thee - I was sure this was the spot my <abbr>Sav<hi rend="superscript">r</hi>.</abbr> designed for me - - when I went home our people said the place was call'd
+                     <placeName>Fulneck</placeName> and gave me an <sic>excelist</sic><corr>excellent</corr> Character of <persName><abbr>Sis<hi rend="superscript">r</hi>.</abbr> Stedman</persName> I
+                  long'd to be under her care believing she would be a Mother to me - - this impression was renewed to me when I read the Brethrens history - I simply asked our <abbr>Sav<hi
+                        rend="superscript">r</hi>.</abbr> if I should write for Reception into the <abbr>Cong<hi rend="superscript">n</hi>.</abbr> or speak about the Choir house first. I felt him near
+                  my heart and was directed to write and then to speak about Fulneck - - he also gave me the power to do it - which I could not before <sic>tho</sic><corr>though</corr> I had
+                  attempted it many times. <persName><abbr>B<hi rend="superscript">r</hi>.</abbr> Sulger</persName> wrote to <persName><abbr>B<hi rend="superscript">r</hi>.</abbr> Latrobe</persName>
+                  who came soon after and gave me great encouragement . . the <date>13 of <abbr>Nov<hi rend="superscript">br</hi>.</abbr></date> following the gracious Head and Elder of his Church,
+                  Receiv'd me into his Congregation with a <sic>blesed</sic>
+                  <corr>blessed</corr> feeling of His Presence<lb />
+                  <persName>Mary Startton</persName>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
