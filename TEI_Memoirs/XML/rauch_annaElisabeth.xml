@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[NAME]: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>              
+            </respStmt>   
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Anna Elizabeth Rauch</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  3 #0102<br />
+                  A smal account of<persname> Sister<br />
+                     Anna Henrich</persname>&#39;s Life and<br />
+                  Departure from the year 1756<br />
+                  till the year 1762.<br />
+                  <br />
+                  in the year <date>1756 the 18th of Novem.</date>&nbsp;<br />
+                  she took lief of the <sic>Congrigation <corr>Congregation</corr></sic><br />
+                  in <placename>Bethlehem</placename> with manny a&nbsp;<br />
+                  hundred Sinner Tears and set&nbsp;<br />
+                  besides her Husband, me and<br />
+                  my Wife, of for Jamaica.<br />
+                  the Danger where we was in<br />
+                  on see she behav&#39;d as a real<br />
+                  Sister and put all hir trust<br />
+                  in our Dear Savior. and spent<br />
+                  manny an Hours in praying<br />
+                  to him and believed He would<br />
+                  bring us safe on land--<br />
+                  the<date> 24th Dec.</date> When we came<br />
+                  for ancor at Portugal [Port Royal?]<br />
+                  near Kingston&nbsp;in <placename>Jamaica</placename>.<br />
+                  She was so rejoiced in his Heart,<br />
+                  that she <sic>prosterrated</sic>&nbsp;<corr> prostrated</corr> her<br />
+                  self before our Savior under<br />
+                  manny a Thousand Tears<br />
+                  and Thank&#39;d him Humble for
+               </p>
+            </div>
+            
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  Women to be baptised which<br />
+                  arose such a joy in her, that<br />
+                  she&nbsp;brock out in those words.&nbsp;<br />
+                  Dear Savior it&#39;s worth while to<br />
+                  Sacrify ones self for such a<br />
+                  people etc. on the <date>29th<br />
+                     December</date>. on Evining when my dear<br />
+                  wife went home to our Dear<br />
+                  Savior, S<persname>ister Anna</persname> was not to<br />
+                  be comforted because she found<br />
+                  herself now quit(e) alone without<br />
+                  anny&nbsp; assistents&nbsp;of hir sect<br />
+                  She retired for some Days<br />
+                  To <placename>Carmel</placename> (which is our own<br />
+                  Place) where she was quit alone<br />
+                  to converse with hir only<br />
+                  Comforter. from that time<br />
+                  she got the rumatik&nbsp;which<br />
+                  afterwords turnt out in a&nbsp;<br />
+                  consumption.&nbsp;<br />
+                  on the <date>28th March in the year<br />
+                     1759</date> when Br and Sister Powell<br />
+                  and Geschwister Leverings ariv&#39;d at&nbsp;<br />
+                  Carmel/ where she just hapened<br />
+                  to be there/ new Life came&nbsp; in&nbsp;<br />
+                  her, and all her Sorrow and&nbsp;<br />
+                  grif was gon, for joy over
+               </p>
+            </div>
+            
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  Those Sisters. on the <date>11th<br />
+                     April</date> she took leave of<br />
+                  the Negroes at the Bogue<br />
+                  and removed to Carmel&nbsp;<br />
+                  with her husband and&nbsp;<br />
+                  B. Powell &amp; his Wife came<br />
+                  on the place . on <date><placename>Carmel</placename></date><br />
+                  she was a faithful house<br />
+                  mother and was much be&nbsp;<br />
+                  loved by the Negroes there<br />
+                  hear she Experienced manny&nbsp;<br />
+                  havy circumstances, but&nbsp;<br />
+                  Kept Clost to our Dear Savior<br />
+                  She Every now and then visit-<br />
+                  let the Negroes at the<font color="#9b9b9b">&nbsp;Boque</font><br />
+                  <date><placename>Mesopotamia</placename></date> see and<br />
+                  sweetned hir&nbsp;grif and sorrow<br />
+                  again by conversationes<br />
+                  with thise poor People<br />
+                  in the year 62 she became<br />
+                  weeker &amp; weeker &amp; hir con-<br />
+                  stitution&nbsp;brock very vast;<br />
+                  one perceivd on hir some<br />
+                  thing extraordinary especi-<br />
+                  ally in conversations whe <gap>(page fold)</gap><br />
+                  she often times pointed <gap>(page fold)</gap><br />
+                  up<gap>(page fold)</gap><br />
+                  <br />
+               </p>
+            </div>
+            
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  upon being soon by hir&nbsp;<br />
+                  beloved one and rest of&nbsp;<br />
+                  all his Labor. Hir<br />
+                  <sic>Hosbend <corr>Husband</corr></sic> was severel Times<br />
+                  obld (obliged?) to live hir at home<br />
+                  | when visiting the Negroes |<br />
+                  on aet?? of hir Illnes&nbsp;which<br />
+                  She took much to Heart.<br />
+                  in the<date> beginning of July</date>&nbsp;she,<br />
+                  was so ill that she hardly<br />
+                  Could stur about, but when<br />
+                  hir Husbend Propos&#39;d her<br />
+                  to goe to <placename>Mesopotamia</placename><br />
+                  She maid hirself ready to<br />
+                  goe with hum He advised&nbsp;<br />
+                  hir not to goe but she in-<br />
+                  sisted upon, told me the<br />
+                  evining before that the<br />
+                  Fever was very smart upon<br />
+                  hir, and if hir Hosbend knew<br />
+                  the condition she was in He<br />
+                  would bit hir to stay at home&nbsp;<br />
+                  but said she I&nbsp; know what<br />
+                  I have maid out with my<br />
+                  Savior concerning this<br />
+               </p>
+            </div>
+            
+            <div type="page" n="5">
+               <head>Page 5 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  Jurney, He will strongthen<br />
+                  me and bring me Save<br />
+                  there etc. the next morning<br />
+                  She got up, she was Exiding<br />
+                  Happy &amp; so rejoiced over<br />
+                  hir journy as She never<br />
+                  was before, when she<br />
+                  set of she told hir<br />
+                  Hosbend to goe before<br />
+                  but she stopt, call&#39;d me&nbsp;<br />
+                  and said: Dear Charles<br />
+                  you have bestoed much<br />
+                  kindness to me where<br />
+                  fore I give you thousand<br />
+                  thanks; Pray forgive&nbsp;<br />
+                  me all wherwith I have&nbsp;<br />
+                  grivet you, I think on<br />
+                  one hir tears begun<br />
+                  to rol Down her Cheeks<br />
+                  Farwell said she, and<br />
+                  Sead off. . I was so struck<br />
+                  by her Talking live in...page folded<br />
+                  tha...page folded
+               </p>
+            </div>
+            
+            <div type="page" n="6">
+               <head>Page 6 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  that manner, that it<br />
+                  Directly came in my mind<br />
+                  this is the last Time I&nbsp;<br />
+                  see her. after two days<br />
+                  journey they arrived at&nbsp;<br />
+                  <placename>Mesopotamia</placename> she felt<br />
+                  herself quit Brisk &amp; was&nbsp;<br />
+                  visited by many of the&nbsp;<br />
+                  Negroe Women whom she<br />
+                  told with emphasis how&nbsp;<br />
+                  Happy a poor sinner<br />
+                  can be in the wounds<br />
+                  of our <persname>Dear Savior</persname>, and&nbsp;<br />
+                  that her being now at&nbsp;<br />
+                  <placename>Mesopotamia </placename>were a&nbsp;<br />
+                  particular time for her.<br />
+                  soon after she began to&nbsp;<br />
+                  be ill again, so that she<br />
+                  was forced in the<date> beginning<br />
+                     of August</date> to keep hirself<br />
+                  in bed; from that Time&nbsp;<br />
+                  she was&nbsp;from Morning&nbsp;<br />
+               </p>
+            </div>
+            
+            <div type="page" n="7">
+               <head>Page 7 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  till night visitted by&nbsp;<br />
+                  the Negroes Especially<br />
+                  of those which are infirm&nbsp;<br />
+                  and can&#39;t do no work<br />
+                  in the field; she told her&nbsp;<br />
+                  Husband how near her&nbsp;<br />
+                  only friend and <abbr>Sav.&nbsp;</abbr><br />
+                  is to her &amp; o what hap-<br />
+                  piness Enjoy I &amp; every<br />
+                  Body who came to see<br />
+                  her she recommends&nbsp;<br />
+                  the wounds of <persname>Christ</persname> to&nbsp;<br />
+                  be recconciled with him<br />
+                  and so forth. on the 12th&nbsp;<br />
+                  she called her husband and&nbsp;<br />
+                  told him that our Dear&nbsp;<br />
+                  Savior had opened at<br />
+                  great mistry&nbsp;to her<br />
+                  and made it clear in her<br />
+                  Hear that that happy<br />
+                  Hour where she long ago&nbsp;<br />
+                  had long for to so eagerly
+               </p>
+            </div>
+            
+            <div type="page" n="8">
+               <head>Page 8 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  is at hand, and that her<br />
+                  soul and body is rejoyced&nbsp;<br />
+                  to see her bloody redeamer.<br />
+                  she took leave of him&nbsp;<br />
+                  and thank&#39;d him for all&nbsp;<br />
+                  love he had showed&nbsp;to her.<br />
+                  She remain&#39;d in that happy&nbsp;<br />
+                  condition, and in the&nbsp;<br />
+                  sweetest conversations<br />
+                  with the Negroe womens<br />
+                  (who did<b>&nbsp;</b>not leave her<br />
+                  bed till the last moment<br />
+                  she went home) till the&nbsp;<br />
+                  <date>14th August at 9 o clock<br />
+                     in the morning</date>. and&nbsp;<br />
+                  went home in Arms&nbsp;<br />
+                  of her Bright groom&nbsp;<br />
+                  under a happy Liturgy.<br />
+                  Many of the Negroes<br />
+                  were spectators to their<br />
+                  greatest satisfaction&nbsp;<br />
+                  so that&nbsp;
+               </p>
+            </div>
+            
+            <div type="page" n="9">
+               <head>Page 9 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  so that her End was&nbsp;<br />
+                  acompanied with many<br />
+                  tears<br />
+                  <br />
+                  In hir memorandum-<br />
+                  Book Chr. found a month<br />
+                  after her Departure<br />
+                  she had wrote Down&nbsp;<br />
+                  in the beginning of&nbsp;<br />
+                  this year I kept<br />
+                  a Band with my&nbsp;<br />
+                  intimate&nbsp;friend &amp;<br />
+                  Savior, where he&nbsp;<br />
+                  granted me my re-<br />
+                  quest with the strongest<br />
+                  assurence<b>&nbsp;</b>in my&nbsp;<br />
+                  hearts.<br />
+                  <p>
+                  </p>
+                  <placename><date>In the year 1763 the 11th<br />
+                     Nov.&nbsp;</date></placename><date></date>&nbsp;between a 11 and<br />
+                  12 o clock hir Dear<br />
+                  Husband followed hir.
+               </p>
+            </div>
+            
+            
+            
+            
+                  
+                  
+                  
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

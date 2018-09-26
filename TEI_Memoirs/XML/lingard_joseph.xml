@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[NAME]: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>              
+            </respStmt>   
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Joseph Lingard</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  Age<br />
+                  <br />
+                  <placename>Dukenfield</placename><br />
+                  <br />
+                  the <date>29th of March</date> was a blessed Lovefeast after the<br />
+                  Burying of <persname>Brother Joseph Lingard</persname>, for<br />
+                  the whole Society. He was born in <date>1680</date>. in the <placename>Parish&nbsp;<br />
+                     of Glossop&nbsp;</placename>in the <placename>County of Derby</placename> . He was brought&nbsp;<br />
+                  in the high <orgname>Church of Engelland</orgname>&nbsp;. In <date>1729</date> he marryed<br />
+                  the present Widdow, and had with her one son and one<br />
+                  Daughter (which last lived here in the Choir-Hause)<br />
+               </p>
+            </div>
+            
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  In the great Awakening which happened here round<br />
+                  about in the <date>Year 1743</date>. our Brethern and his Wife became<br />
+                  concerned to about their <sic><trait>happiness</trait></sic>. <date>Ao 44</date> was he<br />
+                  first aquainted with the Brethren and as the same year<br />
+                  our <persname>Brethern<sup>&nbsp;</sup>Okerthaufsen</persname> was put in prison for our Saviors.<br />
+                  Sake, he and some Brethren more had the Happinefs<br />
+                  to partake on his reproach of scorn for the Gospel of&nbsp;<br />
+                  Christ. The preachings were kept in his House; but<br />
+                  as his Son came of Age he became the Cause, that<br />
+                  it must be left. Our Brother was of very few words,<br />
+                  not <trait>talketive</trait> at all; however he loved the Brethern<br />
+                  with whom he was assembled so well and dearly, that he<br />
+                  very seldom stayed at home, notwithstanding<br />
+                  he had above three Miles to walk; and an his last<br />
+                  sickness he expressed himself thee about? as little&nbsp;<br />
+                  he sometimes understood, what the said or sung, for<br />
+                  all that he was a praying to our Savior that he would<br />
+                  let him partake on their blessing and this was richly<br />
+                  bestowed on him. He once met <persname>Brethern Bohler</persname> on the Road<br />
+                  to <placename>Brafsington</placename>, and brough him the first time about&nbsp;<br />
+                  this Place, whereover, he rejoiced still in this last<br />
+                  Days. He visited the <orgname>Congregation in Fullnek</orgname> several<br />
+                  times and felt a call in his Heart to seek his abode<br />
+                  in this Congregation. But this was not sooner<br />
+                  performed while he was persuaded by his son, to&nbsp;<br />
+                  give over to him his whole estate, however as soon&nbsp;<br />
+                  as he consented, the son pulled down his dwellinghome<br />
+                  that he was forced as it were to seek his shelter at <placename>Dukenfield</placename>.<br />
+               </p>
+            </div>
+            
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p> 
+                  <placename>Dukenfield.</placename> Whereover he shortly before his End, declared<br />
+                  himself towards his son. I lived above 80 years in this<br />
+                  world, and have done nothing better, as my going to<br />
+                  <placename>Dukenfield</placename>; and you never have done anymore good<br />
+                  for me: then to pull down my Dwellings.&nbsp;<br />
+                  He came hither as a stranger, with his wife and daughter<br />
+                  with a stick in his hand, without knowing where to<br />
+                  find a place of his abode; but a brother took him to<br />
+                  long in his house, till we could provide a lodging<br />
+                  for him. He now was very <trait>glad</trait> to find for himself under<br />
+                  the People of God. To be recieved into the Blessings of<br />
+                  the Congregation he must stay very long, however <date>1759</date>.<br />
+                  he was with his wife and daughter recieved into the Congregation<br />
+                  and <date>1760</date> was admitted to our dear Lords Supper. With<br />
+                  he took for his highest treasure in this world. His bodily<br />
+                  Constitution was very strong, but since 2 years his strength<br />
+                  <sic>decreased&nbsp;</sic>very <sic>remarkable</sic>&nbsp;and he begun to pine for<br />
+                  his eternal Reff. In his last <sic>sickness,&nbsp;</sic>he was very&nbsp;<br />
+                  certain that his <trait>Desire&nbsp;</trait>would be soon fulfilled.&nbsp;<br />
+                  His Patience contented Contemplations has been every<br />
+                  Body who saw him to admiration. Every Body&nbsp;<br />
+                  <sic>liked&nbsp;</sic>to be with him and therefore rather thronged them<br />
+                  selves which Brother was to watch him. The <trait>Happyness</trait><br />
+                  of his Heart spread itself from it so that every Stranger<br />
+                  could percieve what our Saviour has done on this old<br />
+                  Vater. After he had blessed his Wife and Daughter and recommended&nbsp;<br />
+                  them.
+               </p>
+            </div>
+            
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  them, to keep close,very close to our Saviour, he<br />
+                  expired sweet of early the <date>26th of March</date><br />
+                  in the 83 year of his age.<br />
+               </p>
+            </div>
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

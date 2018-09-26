@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[NAME]: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>              
+            </respStmt>   
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Christine Sieber</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p>
+                  Aged 55 years<br />
+                  III. The Girl Christine Sieber.<br />
+                  She was born at gnadenfry??? the 10th of Sept. 1757.<br />
+                  After her Valent Departure of this Life, she came<br />
+                  with her Mother as a little child into the Widows&nbsp;<br />
+                  House, where every Body loved her. In her tenderest&nbsp;<br />
+                  years she had a Feeling of our Saviour in her<br />
+                  Heart, and in the Day Time She was educated with<br />
+                  the Children in the Anstalt. Ano 50 the 18th October<br />
+                  She received quite in the Children Anstalt, where<br />
+                  She in Comunion with other Children kept many a&nbsp;<br />
+                  Liturgie to our Saviour. Ano 58 She was received&nbsp;<br />
+                  into the Children Congregation. Allway it was a<br />
+                  great Blessing to her, when She in comunion with the<br />
+                  Children was allowed ot prostrate her self to our Saviour.<br />
+                  Her poor Body was so weakly that at last all her limbs<br />
+                  grow lame. Therefore she must be carryed everywhere.<br />
+                  This caus&#39;d her many a Smart &amp; some tinier impatience&nbsp;<br />
+                  that She must loose so many fine Meetings. But<br />
+                  when She thought on our Saviour and is Smart,<br />
+                  then She was in her Heart ashamed &amp; of all Heart<br />
+                  contented. She wept many Tears &amp; very often confessed:<br />
+                  I am a poor &amp; miserable Child, &amp; for all that our<br />
+                  dear
+               </p>
+            </div>
+            
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p><!-- THERE IS NO TRANSCRIBED 2nd PAGE -->            
+                  
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

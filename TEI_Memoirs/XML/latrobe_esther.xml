@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[NAME]: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>              
+            </respStmt>   
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Esther Latrobe</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               </head>
+               <p> </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
