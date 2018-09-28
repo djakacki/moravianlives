@@ -34,16 +34,13 @@
           <moduleRef key="tei" />
           <!-- analysis module, include only span -->
           <moduleRef key="analysis" include="span" />
-          
           <!-- Include all of transcription -->
           <moduleRef key="transcr" />
-          
           <!-- certainty module-->
           <moduleRef key="certainty" include="certainty respons" />
-          
-          <!-- core module, lots of things. -->          
-          <moduleRef key="core" include="abbr add addrLine address author bibl biblScope cb choice cit citedRange corr date del desc editor email expan facs foreign gap gloss graphic head hi item label l lb lg list listBibl measure milestone name note orig p pb ptr pubPlace publisher quote ref reg region relatedItem resp respStmt rs sic term textLang title unclear" />
-          
+          <!-- core module, lots of things. -->
+          <moduleRef key="core" include="abbr add addrLine address author bibl biblScope cb choice cit citedRange corr date del desc editor email expan facs foreign gap gloss graphic head hi item
+            label l lb lg list listBibl measure milestone name note orig p pb ptr pubPlace publisher quote ref reg region relatedItem resp respStmt rs sic term textLang title unclear" />
           <!-- note:@type added location for notes ... but this might not be necessary-->
           <elementSpec ident="note" mode="change" module="core">
             <attList>
@@ -60,12 +57,11 @@
                   </valItem>
                   <valItem ident="editorial">
                     <desc>The note is longer form editorial note</desc>
-                  </valItem>                 
+                  </valItem>
                 </valList>
               </attDef>
             </attList>
           </elementSpec>
-          
           <!-- lg:@type There are hymns from lyrics in the memoirs, so this might be useful-->
           <elementSpec ident="lg" mode="change" module="core">
             <attList>
@@ -81,63 +77,43 @@
               </attDef>
             </attList>
           </elementSpec>
-
-          <!-- Not including corpus texts (corpus) unless we want to focus on corpus linguistics from within TEI -->         
+          <!-- Not including corpus texts (corpus) unless we want to focus on corpus linguistics from within TEI -->
           <moduleRef key="corpus" include="settingDesc" />
-
           <!-- Include all of dictionaries for language processing, just in case -->
           <moduleRef key="dictionaries" />
-          
           <!-- Do not include drama module unless we discover that memoirs include playtexts-->
-          
           <!-- Include all of gaiji for the time being - may go back and exclude some -->
           <moduleRef key="gaiji" />
-
           <!-- Include all of figures -->
           <moduleRef key="figures" />
-
           <!-- header module -->
           <moduleRef key="header" />
           <!--include="authority availability biblFull calendar calendarDesc catDesc category change classDecl correction country distributor edition editionStmt editorialDecl email encodingDesc fileDesc funder keywords idno langUsage language licence 
                namespace noteStmt orgName principal persName profileDesc projectDesc publicationStmt refsDecl region revisionDesc 
                seriesStmt sourceDesc sponsor tagUsage tagsDecl taxonomy teiHeader titleStmt"/>-->
-          
           <!-- Not including feature structures (iso-fs) unless we decide we need it -->
-
           <!-- include all for linking module -->
-          <moduleRef key="linking"/>          
-          
+          <moduleRef key="linking" />
           <!-- Include all of msdescription -->
-          <moduleRef key="msdescription" /> 
-          
+          <moduleRef key="msdescription" />
           <!--include="additions catchwords collation collection history institution locus msContents msDesc msIdentifier msItem msItemStruct msName msPart objectDesc
             objectType origDate origPlace origin repository signatures source summary" /> -->
-
           <!-- namesdates: include all for now. -->
           <moduleRef key="namesdates" />
-          
           <!-- add name:@event / birth, baptism, death, other -->
           <elementSpec ident="name" mode="change" module="namesdates">
             <attList>
-              <attDef ident="event" mode="add">
+              <attDef ident="type" mode="add">
                 <valList type="closed">
-                  <valItem ident="birth" />
-                  <valItem ident="baptism" />
-                  <valItem ident="death" />
+                  <valItem ident="object" />
+                  <valItem ident="emotion" />
+                  <valItem ident="event"/>
+                  <valItem ident="health" />
                   <valItem ident="other" />
                 </valList>
               </attDef>
-              <!-- add name:@emotion / joy, grief, other ... will adjust this over time, but is placeholder for now -->
-              <attDef ident="emotion" mode="add">
-                <valList type="closed">
-                  <valItem ident="joy"/>
-                  <valItem ident="grief"/>
-                  <valItem ident="other"/>
-                </valList>
-              </attDef>                                      
             </attList>
           </elementSpec>
-          
           <!-- add placeName:@metonym  THIS STILL DOESN"T WORK
           <elementSpec ident="placeName" mode="add" module="namesdates">
             <attList>
@@ -151,8 +127,6 @@
               </attDef>
             </attList>
           </elementSpec>-->
-
-   
           <!-- add relationships 
           <elementSpec ident="relation" mode="change" module="namesdates">
             <attList>
@@ -173,11 +147,8 @@
               </attDef>
             </attList>
           </elementSpec> -->
-          
-
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete" />
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete" />
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.datable" module="tei" type="atts" mode="change">
             <attList>
@@ -190,21 +161,18 @@
               <attDef ident="datingMethod" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.datcat" module="tei" type="atts" mode="delete" />
           <classSpec ident="att.declarable" module="tei" type="atts" mode="delete" />
           <classSpec ident="att.declaring" module="tei" type="atts" mode="delete" />
           <classSpec ident="att.divLike" module="tei" type="atts" mode="delete" />
           <classSpec ident="att.duration.iso" module="tei" type="atts" mode="delete" />
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.editLike" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="evidence" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.rangin" module="tei" type="atts" mode="change">
             <attList>
@@ -215,38 +183,32 @@
               <attDef ident="confidence" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.global.rendition" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="style" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.global.change" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="change" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.media" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="scale" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.interpLike" module="tei" type="atts" mode="delete" />
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.naming" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="nymRef" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.pointing" module="tei" type="atts" mode="change">
             <attList>
@@ -254,7 +216,6 @@
               <attDef ident="evaluate" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.pointing.group" module="tei" type="atts" mode="change">
             <attList>
@@ -264,7 +225,6 @@
               <attDef ident="evaluate" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.segLike" module="tei" type="atts" mode="change">
             <attList>
@@ -276,33 +236,26 @@
               <attDef ident="valueDatcat" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.timed" module="tei" type="atts" mode="delete" />
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.translatable" module="tei" type="atts" mode="delete" />
-          
           <!-- delete lots of attributes -->
           <classSpec ident="att.personal" module="tei" type="atts" mode="change">
             <attList>
               <attDef ident="nymRef" mode="delete" />
             </attList>
           </classSpec>
-          
           <!-- Do not include Graphs, networks, and trees (nets) unless we find we need it -->
           <!-- Do not include Transcribed speech (spoken) unless we decide we want to customize distinction between ownhand and dictated -->
-          
           <!-- tagsdoc module to include code -->
           <moduleRef key="tagdocs" include="code" />
-          
           <!-- Do not include textcrit module unless we decide to compare versions of memoirs across archives -->
-          
           <!-- textstructure module -->
           <moduleRef key="textstructure" include="TEI body byline closer dateline div docAuthor docDate floatingText group opener postscript salute signed text trailer" />
           <!-- div -->
           <elementSpec ident="div" mode="change" module="textstructure">
-            <attList>
+            <!--<attList>
               <attDef ident="type" mode="change">
                 <valList mode="add" type="semi">
                   <valItem ident="memoir">
@@ -322,9 +275,8 @@
                   </valItem>
                 </valList>
               </attDef>
-            </attList>
+            </attList>-->
           </elementSpec>
-          
           <!-- Do not include transcription module unless we decide we want to get more specific about describing the physical document-->
           <!-- Include all of verse module -->
           <moduleRef key="verse" />

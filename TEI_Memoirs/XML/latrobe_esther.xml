@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Esther Latrobe: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -98,11 +98,48 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <repository>Repository Name</repository>
-                  <msName type="memoir">Name Date</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir">Esther Latrobe</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-10.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-11.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-12.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-13.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-14.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-15.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-16.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-17.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-18.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-19.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-20.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-21.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-22.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-23.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-24.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-25.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-26.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-27.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-28.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-29.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-30.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-31.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-32.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-33.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-34.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-35.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-36.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-37.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-38.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-39.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-40.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>

@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Christine Sieber: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -98,11 +98,10 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <repository>Repository Name</repository>
-                  <msName type="memoir">Name Date</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Christine Sieber</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0141-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0141-02.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -113,40 +112,63 @@
          <div type="memoir">
             <head>Christine Sieber</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 1 <seg ana="MemBeth_0141-01" />
                </head>
                <p>
-                  Aged 55 years<br />
-                  III. The Girl Christine Sieber.<br />
-                  She was born at gnadenfry??? the 10th of Sept. 1757.<br />
-                  After her Valent Departure of this Life, she came<br />
-                  with her Mother as a little child into the Widows&nbsp;<br />
-                  House, where every Body loved her. In her tenderest&nbsp;<br />
-                  years she had a Feeling of our Saviour in her<br />
-                  Heart, and in the Day Time She was educated with<br />
-                  the Children in the Anstalt. Ano 50 the 18th October<br />
-                  She received quite in the Children Anstalt, where<br />
-                  She in Comunion with other Children kept many a&nbsp;<br />
-                  Liturgie to our Saviour. Ano 58 She was received&nbsp;<br />
-                  into the Children Congregation. Allway it was a<br />
-                  great Blessing to her, when She in comunion with the<br />
-                  Children was allowed ot prostrate her self to our Saviour.<br />
-                  Her poor Body was so weakly that at last all her limbs<br />
-                  grow lame. Therefore she must be carryed everywhere.<br />
-                  This caus&#39;d her many a Smart &amp; some tinier impatience&nbsp;<br />
-                  that She must loose so many fine Meetings. But<br />
-                  when She thought on our Saviour and is Smart,<br />
-                  then She was in her Heart ashamed &amp; of all Heart<br />
-                  contented. She wept many Tears &amp; very often confessed:<br />
-                  I am a poor &amp; miserable Child, &amp; for all that our<br />
-                  dear
+                  Aged 55 years
+                  III. The Girl Christine Sieber.
+                  She was born at gnadenfry??? the 10th of Sept. 1757.
+                  After her Valent Departure of this Life, she came
+                  with her Mother as a little child into the Widows 
+                  House, where every Body loved her. In her tenderest 
+                  years she had a Feeling of our Saviour in her
+                  Heart, and in the Day Time She was educated with
+                  the Children in the Anstalt. Ano 50 the 18th October
+                  She received quite in the Children Anstalt, where
+                  She in Comunion with other Children kept many a 
+                  Liturgie to our Saviour. Ano 58 She was received 
+                  into the Children Congregation. Allway it was a
+                  great Blessing to her, when She in comunion with the
+                  Children was allowed ot prostrate her self to our Saviour.
+                  Her poor Body was so weakly that at last all her limbs
+                  grow lame. Therefore she must be carryed everywhere.
+                  This caus'd her many a Smart &amp; some tinier impatience 
+                  that She must loose so many fine Meetings. But
+                  when She thought on our Saviour and is Smart,
+                  then She was in her Heart ashamed &amp; of all Heart
+                  contented. She wept many Tears &amp; very often confessed:
+                  I am a poor &amp; miserable Child, &amp; for all that our
+                  ​​​​​​​dear
                </p>
             </div>
             
             <div type="page" n="2">
-               <head>Page 2 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 2 <seg ana="MemBeth_0141-02" />
                </head>
-               <p><!-- THERE IS NO TRANSCRIBED 2nd PAGE -->            
+               <p>
+                  dear Saviour loveth me, as is very often on my 
+                  Place so near to me, that I am not able to 
+                  describe it. I am willing from all my Heart to renounce every Thing in his Way, to make
+                  me soon to his Pleasure.
+                  the 3th April She was still with her Children very
+                  amusing. The 4th She complaint about great Pain
+                  on her Breast, &amp; declared directly that she is to 
+                  go home, for that reason She took by her Sisters 
+                  who attended &amp; thanked them two times for their
+                  Care &amp; trouble whith She made &amp; promised to 
+                  think on them by our dear Saviour. After that
+                  She toock Leave in a very tender maner by her 
+                  Mother &amp; desireth she would sing Verses, as 
+                  among the rest these: Ich riech mich auf 
+                  Ven Sabbat ang. Mein Seelgen wird such
+                  bald einmal aus feinen Hüttchen shwingen.
+                  Her Children continued with a sweet Litgurgie
+                  around her Bed. After that her tender Desire by 
+                  our Saviour was to call her soon home. And said 
+                  very often: Lovely Lamb, pray come soon! Asoon
+                  and in the Evening at 11 a cllok she went happy
+                  home in our Heaven .Wound in her 12 Years of Age
+               </p>
                   
             </div>
          </div>

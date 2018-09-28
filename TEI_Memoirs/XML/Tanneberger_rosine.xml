@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Rosine Tanneberger: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -98,11 +98,9 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <repository>Repository Name</repository>
-                  <msName type="memoir">Name Date</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Rosine Tanneberger</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0140-01.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -113,33 +111,32 @@
          <div type="memoir">
             <head>Rosine Taneberger</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 1 <seg ana="MemBeth_0140-01" />
                </head>
                <p> 
-                  II. The married <abbr>Sist</abbr><b>.</b>&nbsp;<persname>Rosine Taneberger.</persname>&nbsp;<br />
-                  She was <date>Ao</date><date><date><b>&nbsp;</b></date>1708</date> born at <placename>Mammendorf in Moravia</placename>.<br />
-                  Her Vaters name was <persname>Geo. Weber</persname>. The holy<br />
-                  ghost had from her tender youth his work in<br />
-                  heart &amp; she spent her time continually &nbsp;<br />
-                  without Rest<b>&nbsp;</b>in her soul. In her 25th. year<br />
-                  of Age she married <persname>Michel Taneberger.</persname>&nbsp;she<br />
-                  [has] 2 Boys with him but they died very young. She&nbsp;<br />
-                  very often pineth<b>&nbsp;</b>to hear the <persname>Gospel of Jesus</persname><br />
-                  Sufferings of Death, therefore she very begged dear<br />
-                  God to still&nbsp;her Desire<b>&nbsp;</b>&amp; help her to a Place where<br />
-                  she could find rest for her poor soul<persname>,</persname> then she could<br />
-                  not find that in her Mother Country. <date>Ao<b>&nbsp;</b>1753. the 13th October</date><br />
-                  She got a feeling in her heart to move to <placename>Gnaden-<br />
-                     frey</placename>, they hastened&nbsp;as much as possible &amp; escaped<br />
-                  hardly&nbsp;from their pursuers<b>.&nbsp;</b><date>The 31</date> <date>of Dec</date>.<br />
-                  she arrived here very much rejoiced. Soon after<br />
-                  a critical occasion pretty nearly persuadeth<br />
-                  her husbands to remove from here to his son.<br />
-                  She therefore was so embarrassed &amp; intreated&nbsp;our&nbsp;<br />
-                  Serviour in her Perplexity saying: feared my heart catched a spark&nbsp;<br />
-                  of grace, &amp; instead to become a fire he will be quenched!
+                  II. The married Sist. Rosine Taneberger. 
+                  She was Ao 1708 born at Mammendorf in Moravia.
+                  Her Vaters name was Geo. Weber. The holy
+                  ghost had from her tender youth his work in
+                  heart &amp; she spent her time continually  
+                  without Rest in her soul. In her 25th. year
+                  of Age she married Michel Taneberger. she
+                  [has] 2 Boys with him but they died very young. She 
+                  very often pineth to hear the Gospel of Jesus
+                  Sufferings of Death, therefore she very begged dear
+                  God to still her Desire &amp; help her to a Place where
+                  she could find rest for her poor soul,then she could
+                  not find that in her Mother Country. Ao 1753. the 13th October
+                  She got a feeling in her heart to move to Gnaden-
+                  frey, they hastened as much as possible &amp; escaped
+                  hardly from their pursuers. The 31 of Dec.
+                  she arrived here very much rejoiced. Soon after
+                  a critical occasion pretty nearly persuadeth
+                  her husbands to remove from here to his son.
+                  She therefore was so embarrassed &amp; intreated our 
+                  Serviour in her Perplexity saying: feared my heart catched a spark 
+                  of grace, &amp; instead to become a fire he will be quenched!                  
                </p>
-            </div>
             </div>
          </div>
       </body>

@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Anna Elisabeth Rauch: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -98,11 +98,17 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <repository>Repository Name</repository>
-                  <msName type="memoir">Name Date</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+                  <repository>Moravian Archives Bethlehem</repository>
+                  <msName type="memoir">Anna Elisabeth Rauch</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0102-09.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -113,293 +119,282 @@
          <div type="memoir">
             <head>Anna Elizabeth Rauch</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 1 <seg ana="MemBeth_0102-01" />
                </head>
                <p>
-                  3 #0102<br />
-                  A smal account of<persname> Sister<br />
-                     Anna Henrich</persname>&#39;s Life and<br />
-                  Departure from the year 1756<br />
-                  till the year 1762.<br />
-                  <br />
-                  in the year <date>1756 the 18th of Novem.</date>&nbsp;<br />
-                  she took lief of the <sic>Congrigation <corr>Congregation</corr></sic><br />
-                  in <placename>Bethlehem</placename> with manny a&nbsp;<br />
-                  hundred Sinner Tears and set&nbsp;<br />
-                  besides her Husband, me and<br />
-                  my Wife, of for Jamaica.<br />
-                  the Danger where we was in<br />
-                  on see she behav&#39;d as a real<br />
-                  Sister and put all hir trust<br />
-                  in our Dear Savior. and spent<br />
-                  manny an Hours in praying<br />
-                  to him and believed He would<br />
-                  bring us safe on land--<br />
-                  the<date> 24th Dec.</date> When we came<br />
-                  for ancor at Portugal [Port Royal?]<br />
-                  near Kingston&nbsp;in <placename>Jamaica</placename>.<br />
-                  She was so rejoiced in his Heart,<br />
-                  that she <sic>prosterrated</sic>&nbsp;<corr> prostrated</corr> her<br />
-                  self before our Savior under<br />
-                  manny a Thousand Tears<br />
-                  and Thank&#39;d him Humble for
+                  A smal account of Sister
+                  Anna Henrich's Life and
+                  Departure from the year 1756
+                  till the year 1762.
+                  <lb />
+                  in the year 1756 the 18th of Novem. 
+                  she took lief of the Congrigation Congregation
+                  in Bethlehem with manny a 
+                  hundred Sinner Tears and set 
+                  besides her Husband, me and
+                  my Wife, of for Jamaica.
+                  the Danger where we was in
+                  on see she behav'd as a real
+                  Sister and put all hir trust
+                  in our Dear Savior. and spent
+                  manny an Hours in praying
+                  to him and believed He would
+                  bring us safe on land--
+                  the 24th Dec. When we came
+                  for ancor at Portugal [Port Royal?]
+                  near Kingston in Jamaica.
+                  She was so rejoiced in his Heart,
+                  that she prosterrated  prostrated her
+                  self before our Savior under
+                  manny a Thousand Tears
+                  and Thank'd him Humble for
                </p>
             </div>
             
             <div type="page" n="2">
-               <head>Page 2 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 2 <seg ana="MemBeth_0102-02" />
                </head>
                <p>
-                  Women to be baptised which<br />
-                  arose such a joy in her, that<br />
-                  she&nbsp;brock out in those words.&nbsp;<br />
-                  Dear Savior it&#39;s worth while to<br />
-                  Sacrify ones self for such a<br />
-                  people etc. on the <date>29th<br />
-                     December</date>. on Evining when my dear<br />
-                  wife went home to our Dear<br />
-                  Savior, S<persname>ister Anna</persname> was not to<br />
-                  be comforted because she found<br />
-                  herself now quit(e) alone without<br />
-                  anny&nbsp; assistents&nbsp;of hir sect<br />
-                  She retired for some Days<br />
-                  To <placename>Carmel</placename> (which is our own<br />
-                  Place) where she was quit alone<br />
-                  to converse with hir only<br />
-                  Comforter. from that time<br />
-                  she got the rumatik&nbsp;which<br />
-                  afterwords turnt out in a&nbsp;<br />
-                  consumption.&nbsp;<br />
-                  on the <date>28th March in the year<br />
-                     1759</date> when Br and Sister Powell<br />
-                  and Geschwister Leverings ariv&#39;d at&nbsp;<br />
-                  Carmel/ where she just hapened<br />
-                  to be there/ new Life came&nbsp; in&nbsp;<br />
-                  her, and all her Sorrow and&nbsp;<br />
+                  Women to be baptised which
+                  arose such a joy in her, that
+                  she brock out in those words. 
+                  Dear Savior it's worth while to
+                  Sacrify ones self for such a
+                  people etc. on the 29th
+                  December. on Evining when my dear
+                  wife went home to our Dear
+                  Savior, Sister Anna was not to
+                  be comforted because she found
+                  herself now quit(e) alone without
+                  anny  assistents of hir sect
+                  She retired for some Days
+                  To Carmel (which is our own
+                  Place) where she was quit alone
+                  to converse with hir only
+                  Comforter. from that time
+                  she got the rumatik which
+                  afterwords turnt out in a 
+                  consumption. 
+                  on the 28th March in the year
+                  1759 when Br and Sister Powell
+                  and Geschwister Leverings ariv'd at 
+                  Carmel/ where she just hapened
+                  to be there/ new Life came  in 
+                  her, and all her Sorrow and 
                   grif was gon, for joy over
                </p>
             </div>
             
             <div type="page" n="3">
-               <head>Page 3 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 3 <seg ana="MemBeth_0102-03" />
                </head>
                <p>
-                  Those Sisters. on the <date>11th<br />
-                     April</date> she took leave of<br />
-                  the Negroes at the Bogue<br />
-                  and removed to Carmel&nbsp;<br />
-                  with her husband and&nbsp;<br />
-                  B. Powell &amp; his Wife came<br />
-                  on the place . on <date><placename>Carmel</placename></date><br />
-                  she was a faithful house<br />
-                  mother and was much be&nbsp;<br />
-                  loved by the Negroes there<br />
-                  hear she Experienced manny&nbsp;<br />
-                  havy circumstances, but&nbsp;<br />
-                  Kept Clost to our Dear Savior<br />
-                  She Every now and then visit-<br />
-                  let the Negroes at the<font color="#9b9b9b">&nbsp;Boque</font><br />
-                  <date><placename>Mesopotamia</placename></date> see and<br />
-                  sweetned hir&nbsp;grif and sorrow<br />
-                  again by conversationes<br />
-                  with thise poor People<br />
-                  in the year 62 she became<br />
-                  weeker &amp; weeker &amp; hir con-<br />
-                  stitution&nbsp;brock very vast;<br />
-                  one perceivd on hir some<br />
-                  thing extraordinary especi-<br />
-                  ally in conversations whe <gap>(page fold)</gap><br />
-                  she often times pointed <gap>(page fold)</gap><br />
-                  up<gap>(page fold)</gap><br />
-                  <br />
+                  Those Sisters. on the 11th
+                  April she took leave of
+                  the Negroes at the Bogue
+                  and removed to Carmel 
+                  with her husband and 
+                  B. Powell &amp; his Wife came
+                  on the place . on Carmel
+                  she was a faithful house
+                  mother and was much be 
+                  loved by the Negroes there
+                  hear she Experienced manny 
+                  havy circumstances, but 
+                  Kept Clost to our Dear Savior
+                  She Every now and then visit-
+                  let the Negroes at the Boque
+                  Mesopotamia see and
+                  sweetned hir grif and sorrow
+                  again by conversationes
+                  with thise poor People
+                  in the year 62 she became
+                  weeker &amp; weeker &amp; hir con-
+                  stitution brock very vast;
+                  one perceivd on hir some
+                  thing extraordinary especi-
+                  ally in conversations whe (page fold)
+                  she often times pointed (page fold)
+                  up(page fold)
                </p>
             </div>
             
             <div type="page" n="4">
-               <head>Page 4 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 4 <seg ana="MemBeth_0102-04" />
                </head>
                <p>
-                  upon being soon by hir&nbsp;<br />
-                  beloved one and rest of&nbsp;<br />
-                  all his Labor. Hir<br />
-                  <sic>Hosbend <corr>Husband</corr></sic> was severel Times<br />
-                  obld (obliged?) to live hir at home<br />
-                  | when visiting the Negroes |<br />
-                  on aet?? of hir Illnes&nbsp;which<br />
-                  She took much to Heart.<br />
-                  in the<date> beginning of July</date>&nbsp;she,<br />
-                  was so ill that she hardly<br />
-                  Could stur about, but when<br />
-                  hir Husbend Propos&#39;d her<br />
-                  to goe to <placename>Mesopotamia</placename><br />
-                  She maid hirself ready to<br />
-                  goe with hum He advised&nbsp;<br />
-                  hir not to goe but she in-<br />
-                  sisted upon, told me the<br />
-                  evining before that the<br />
-                  Fever was very smart upon<br />
-                  hir, and if hir Hosbend knew<br />
-                  the condition she was in He<br />
-                  would bit hir to stay at home&nbsp;<br />
-                  but said she I&nbsp; know what<br />
-                  I have maid out with my<br />
-                  Savior concerning this<br />
+                  upon being soon by hir 
+                  beloved one and rest of 
+                  all his Labor. Hir
+                  Hosbend Husband was severel Times
+                  obld (obliged?) to live hir at home
+                  | when visiting the Negroes |
+                  on aet?? of hir Illnes which
+                  She took much to Heart.
+                  in the beginning of July she,
+                  was so ill that she hardly
+                  Could stur about, but when
+                  hir Husbend Propos'd her
+                  to goe to Mesopotamia
+                  She maid hirself ready to
+                  goe with hum He advised 
+                  hir not to goe but she in-
+                  sisted upon, told me the
+                  evining before that the
+                  Fever was very smart upon
+                  hir, and if hir Hosbend knew
+                  the condition she was in He
+                  would bit hir to stay at home 
+                  but said she I  know what
+                  I have maid out with my
+                  Savior concerning this
                </p>
             </div>
             
             <div type="page" n="5">
-               <head>Page 5 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 5 <seg ana="MemBeth_0102-05" />
                </head>
                <p>
-                  Jurney, He will strongthen<br />
-                  me and bring me Save<br />
-                  there etc. the next morning<br />
-                  She got up, she was Exiding<br />
-                  Happy &amp; so rejoiced over<br />
-                  hir journy as She never<br />
-                  was before, when she<br />
-                  set of she told hir<br />
-                  Hosbend to goe before<br />
-                  but she stopt, call&#39;d me&nbsp;<br />
-                  and said: Dear Charles<br />
-                  you have bestoed much<br />
-                  kindness to me where<br />
-                  fore I give you thousand<br />
-                  thanks; Pray forgive&nbsp;<br />
-                  me all wherwith I have&nbsp;<br />
-                  grivet you, I think on<br />
-                  one hir tears begun<br />
-                  to rol Down her Cheeks<br />
-                  Farwell said she, and<br />
-                  Sead off. . I was so struck<br />
-                  by her Talking live in...page folded<br />
+                  Jurney, He will strongthen
+                  me and bring me Save
+                  there etc. the next morning
+                  She got up, she was Exiding
+                  Happy &amp; so rejoiced over
+                  hir journy as She never
+                  was before, when she
+                  set of she told hir
+                  Hosbend to goe before
+                  but she stopt, call'd me 
+                  and said: Dear Charles
+                  you have bestoed much
+                  kindness to me where
+                  fore I give you thousand
+                  thanks; Pray forgive 
+                  me all wherwith I have 
+                  grivet you, I think on
+                  one hir tears begun
+                  to rol Down her Cheeks
+                  Farwell said she, and
+                  Sead off. . I was so struck
+                  by her Talking live in...page folded
                   tha...page folded
                </p>
             </div>
             
             <div type="page" n="6">
-               <head>Page 6 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 6 <seg ana="MemBeth_0102-06" />
                </head>
                <p>
-                  that manner, that it<br />
-                  Directly came in my mind<br />
-                  this is the last Time I&nbsp;<br />
-                  see her. after two days<br />
-                  journey they arrived at&nbsp;<br />
-                  <placename>Mesopotamia</placename> she felt<br />
-                  herself quit Brisk &amp; was&nbsp;<br />
-                  visited by many of the&nbsp;<br />
-                  Negroe Women whom she<br />
-                  told with emphasis how&nbsp;<br />
-                  Happy a poor sinner<br />
-                  can be in the wounds<br />
-                  of our <persname>Dear Savior</persname>, and&nbsp;<br />
-                  that her being now at&nbsp;<br />
-                  <placename>Mesopotamia </placename>were a&nbsp;<br />
-                  particular time for her.<br />
-                  soon after she began to&nbsp;<br />
-                  be ill again, so that she<br />
-                  was forced in the<date> beginning<br />
-                     of August</date> to keep hirself<br />
-                  in bed; from that Time&nbsp;<br />
-                  she was&nbsp;from Morning&nbsp;<br />
+                  that manner, that it
+                  Directly came in my mind
+                  this is the last Time I 
+                  see her. after two days
+                  journey they arrived at 
+                  Mesopotamia she felt
+                  herself quit Brisk &amp; was 
+                  visited by many of the 
+                  Negroe Women whom she
+                  told with emphasis how 
+                  Happy a poor sinner
+                  can be in the wounds
+                  of our Dear Savior, and 
+                  that her being now at 
+                  Mesopotamia were a 
+                  particular time for her.
+                  soon after she began to 
+                  be ill again, so that she
+                  was forced in the beginning
+                  of augustto keep hirself
+                  in bed; from that Time 
+                  she was from Morning
                </p>
             </div>
             
             <div type="page" n="7">
-               <head>Page 7 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 7 <seg ana="MemBeth_0102-07" />
                </head>
                <p>
-                  till night visitted by&nbsp;<br />
-                  the Negroes Especially<br />
-                  of those which are infirm&nbsp;<br />
-                  and can&#39;t do no work<br />
-                  in the field; she told her&nbsp;<br />
-                  Husband how near her&nbsp;<br />
-                  only friend and <abbr>Sav.&nbsp;</abbr><br />
-                  is to her &amp; o what hap-<br />
-                  piness Enjoy I &amp; every<br />
-                  Body who came to see<br />
-                  her she recommends&nbsp;<br />
-                  the wounds of <persname>Christ</persname> to&nbsp;<br />
-                  be recconciled with him<br />
-                  and so forth. on the 12th&nbsp;<br />
-                  she called her husband and&nbsp;<br />
-                  told him that our Dear&nbsp;<br />
-                  Savior had opened at<br />
-                  great mistry&nbsp;to her<br />
-                  and made it clear in her<br />
-                  Hear that that happy<br />
-                  Hour where she long ago&nbsp;<br />
-                  had long for to so eagerly
+                  till night visitted by 
+                  the Negroes Especially
+                  of those which are infirm 
+                  and can't do no work
+                  in the field; she told her 
+                  Husband how near her 
+                  only friend and Sav. 
+                  is to her &amp; o what hap-
+                  piness Enjoy I &amp; every
+                  Body who came to see
+                  her she recommends 
+                  the wounds of Christto 
+                  be recconciled with him
+                  and so fort on the 12th 
+                  she called her husband and 
+                  told him that our Dear 
+                  Savior had opened at
+                  great ministry to her
+                  and made it clear in her
+                  Hear that that happy
+                  Hour where she long ago 
+                  had long for to Egarte?
                </p>
             </div>
             
             <div type="page" n="8">
-               <head>Page 8 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 8 <seg ana="MemBeth_0102-08" />
                </head>
                <p>
-                  is at hand, and that her<br />
-                  soul and body is rejoyced&nbsp;<br />
-                  to see her bloody redeamer.<br />
-                  she took leave of him&nbsp;<br />
-                  and thank&#39;d him for all&nbsp;<br />
-                  love he had showed&nbsp;to her.<br />
-                  She remain&#39;d in that happy&nbsp;<br />
-                  condition, and in the&nbsp;<br />
-                  sweetest conversations<br />
-                  with the Negroe womens<br />
-                  (who did<b>&nbsp;</b>not leave her<br />
-                  bed till the last moment<br />
-                  she went home) till the&nbsp;<br />
-                  <date>14th August at 9 o clock<br />
-                     in the morning</date>. and&nbsp;<br />
-                  went home in Arms&nbsp;<br />
-                  of her Bright groom&nbsp;<br />
-                  under a happy Liturgy.<br />
-                  Many of the Negroes<br />
-                  were spectators to their<br />
-                  greatest satisfaction&nbsp;<br />
-                  so that&nbsp;
+                  is at hand, and that her
+                  soul and body is rejoyced 
+                  to see her bloody redeamer
+                  she took leave of him 
+                  and thank'd him for all 
+                  love he had showed to her.
+                  She remain'd in that happily 
+                  condition, and in the 
+                  sweetest conversations
+                  with the Negroe womens
+                  (who did not leave her
+                  bed till the last moment
+                  she went home) ill the 
+                  14th august at 9 o clock
+                  in the morning. and 
+                  went home in arms 
+                  of her Bright groom 
+                  under a happy Liturgy.
+                  Many of the Negroes
+                  were spectators to their
+                  greatest satisfaction 
+                  so that 
                </p>
             </div>
             
             <div type="page" n="9">
-               <head>Page 9 <seg ana="Repo#_page# from GitHub" />
+               <head>Page 9 <seg ana="MemBeth_0102-09" />
                </head>
                <p>
-                  so that her End was&nbsp;<br />
-                  acompanied with many<br />
-                  tears<br />
-                  <br />
-                  In hir memorandum-<br />
-                  Book Chr. found a month<br />
-                  after her Departure<br />
-                  she had wrote Down&nbsp;<br />
-                  in the beginning of&nbsp;<br />
-                  this year I kept<br />
-                  a Band with my&nbsp;<br />
-                  intimate&nbsp;friend &amp;<br />
-                  Savior, where he&nbsp;<br />
-                  granted me my re-<br />
-                  quest with the strongest<br />
-                  assurence<b>&nbsp;</b>in my&nbsp;<br />
-                  hearts.<br />
-                  <p>
-                  </p>
-                  <placename><date>In the year 1763 the 11th<br />
-                     Nov.&nbsp;</date></placename><date></date>&nbsp;between a 11 and<br />
-                  12 o clock hir Dear<br />
-                  Husband followed hir.
+                  so that her End was 
+                  accompanied with many
+                  tears
+                  <lb />
+                  In hir memorandum-
+                  Book she found a month
+                  after her Departure
+                  she had wrote Down 
+                  in the beginning of 
+                  this year I kept
+                  a Band with my 
+                  intimate friend &amp;
+                  Savior, where he 
+                  granted me my re-
+                  quest with the strongest
+                  assurence in my 
+                  hearts.
+                  <lb/>
+                  In the year 1763 the 11th
+                  Nov.  between a 11 and
+                  12 o clock hir Dear
+                  Husband followed hir.                  
                </p>
-            </div>
-            
-            
-            
-            
-                  
-                  
-                  
             </div>
          </div>
       </body>
