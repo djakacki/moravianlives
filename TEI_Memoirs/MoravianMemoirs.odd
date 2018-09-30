@@ -21,6 +21,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2018-09-30" who="#JAKA1">Added types for Faull's FA2018 HUMN100 course</change>
       <change when="2017-12-30" who="#JAKA1">Creation of ODD to version 0.1</change>
     </revisionDesc>
   </teiHeader>
@@ -62,6 +63,28 @@
               </attDef>
             </attList>
           </elementSpec>
+          <!-- name:@select adding names for emotions, events, health, objects -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="type" mode="change">
+            <valList mode="add" type="closed">
+              <valItem ident="emotion">
+                <desc>The name of an emotion (word of phrase)</desc>
+              </valItem>
+              <valItem ident="event">
+                <desc>A specific event named in the memoir (e.g., birth, baptism, wedding, death)</desc>
+              </valItem>
+              <valItem ident="health">
+                <desc>A description of wellness or illness</desc>
+              </valItem>
+              <valItem ident="object">
+                <desc>A specific object described in the memoir</desc>
+              </valItem>
+            </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
           <!-- lg:@type There are hymns from lyrics in the memoirs, so this might be useful-->
           <elementSpec ident="lg" mode="change" module="core">
             <attList>
@@ -100,53 +123,7 @@
             objectType origDate origPlace origin repository signatures source summary" /> -->
           <!-- namesdates: include all for now. -->
           <moduleRef key="namesdates" />
-          <!-- add name:@event / birth, baptism, death, other -->
-          <elementSpec ident="name" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="type" mode="add">
-                <valList type="closed">
-                  <valItem ident="object" />
-                  <valItem ident="emotion" />
-                  <valItem ident="event"/>
-                  <valItem ident="health" />
-                  <valItem ident="other" />
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-          <!-- add placeName:@metonym  THIS STILL DOESN"T WORK
-          <elementSpec ident="placeName" mode="add" module="namesdates">
-            <attList>
-              <attDef ident="type" mode="change">
-                <valList mode="add" type="closed">
-                  <valItem ident="standard"/>
-                  <valItem ident="preferred"/>
-                  <valItem ident="metonym"/>
-                  <valItem ident="variant"/>
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>-->
-          <!-- add relationships 
-          <elementSpec ident="relation" mode="change" module="namesdates">
-            <attList>
-              <attDef ident="family" mode="add">
-                <valList type="closed">
-                  <valItem ident="husband" />
-                  <valItem ident="wife" />
-                  <valItem ident="parent" />
-                  <valItem ident="child" />
-                </valList>
-              </attDef>
-              <attDef ident="congregation" mode="add">
-                <valList type="closed">
-                  <valItem ident="Herrnhut" />
-                  <valItem ident="Bethlehem" />
-                  <valItem ident="Fulneck" />
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec> -->
+
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete" />
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete" />
           <!-- delete lots of attributes -->
