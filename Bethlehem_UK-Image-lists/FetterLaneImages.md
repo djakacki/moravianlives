@@ -428,7 +428,7 @@ http://moravianlives.bucknell.edu/MCH/MemLon_300024-01.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300024-02.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300024-03.jpg<br />
 
-William Haley<br />
+William Hammond<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300025-01.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300025-02.jpg<br />
 http://moravianlives.bucknell.edu/MCH/MemLon_300025-03.jpg<br />
