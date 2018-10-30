@@ -1,0 +1,404 @@
+<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Hammond: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir">Name Date</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300025-10.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>William Hammond</head>
+            <div type="page" n="1">
+               <head type="page" ana="MCH/MemLon_300025-01">1</head>
+               <p> 
+                  Narrative of the Life of<lb/>
+                  Br William Hammond<lb/>
+                  written by himself in<lb/>
+                  Greek.<lb/>
+                  I was born Jan<hi rend="superscript">ry</hi> 6<hi rend="superscript">th</hi>. 1719 - And from my first
+                  infancy felt drawings towards my dearest Saviour
+                  in my heart. The occasion to this was, as I
+                  remember, a Sermon in which the minister
+                  treated largely of the Conversions &amp; Salvation
+                  of men, Saying, that those that were born Christian
+                  must be saved by their works, but such as were
+                  heathen born, by faith alone. O how often have
+                  I ardently wished, that I might have been born
+                  a heathen, that I thereby might be entitled
+                  to that justification, that is procured alone by
+                  faith in the most precious blood of my d<hi rend="superscript">r</hi> Sav<hi rend="superscript">r</hi>
+                  Jesus Christ.</p>
+               <p>
+                  When I grew up, and saw that the bible was
+                  however esteemed, the word of God, I wondered
+                  greatly, that at divine Service in the church
+                  the common prayer book was much more made
+                  use of &amp; read, than the bible.
+                  However some passages of Scripture that I
+                  once heard read in the Church of England to
+                  which I belonged, made a deep impression
+                  upon my mind, and these were the precious
+                  pearls, that by the grace of God, I found and
+                  reserved in my heart, meditating frequently upon
+               </p>
+            </div>
+            
+            <div type="page" n="2">
+               <head type="page" ana="MCH/MemLon_300025-02">2</head>
+               <p>             
+                  At School I was attacked by a violent fit of sickness,
+                  being an <sic>inflamatory</sic> <corr>inflammatory</corr> fever, which reduced me so
+                  far, that all despaired of my recovery, but God in
+                  his great loving kindness &amp; mercy had compassion
+                  on me &amp; healed me. However from that time
+                  I obtained a weakness in my tongue &amp; a pressure
+                  upon my breast, which to this hour renders speaking at times rather difficult to me: This was
+                  also a great disappointment to my parents, who
+                  had destined me for a preacher of the Gospel,
+                  and I myself thought, it would hinder me from
+                  [?] such a holy &amp; pious life, as was becoming a Servant of God, rendering me also
+                  incapable of doing the duty of this important
+                  office, aright.</p>
+               <p>
+                  In the year 1730, a most tremendous tempest
+                  arose, which threatened destruction to our whole
+                  neighbourhood. It is known to have laid waste
+                  almost the whole south part of England, did 
+                  great damage at Sea, &amp; also to the houses &amp;
+                  barns carrying many of them away, Trees 
+                  were blown down, &amp; plucked up by the roots; Yea
+                  it swept, as it were every thing before it.
+                  I slept that night in a lofty garret, heard the 
+                  rolling of the thunder, the violent rustling of the
+                  rain, saw the dreadful flashes of lightning,
+                  yea even felt the house tremble in which I
+                  was, but God in mercy preserved is from all
+                  danger, &amp; his hand covered us.
+               </p>
+            </div>
+
+            <div type="page" n="3">
+               <head type="page" ana="MCH/MemLon_300025-03">3</head>
+               <p>
+                  As I was to leave the school in which I had
+                  been hitherto: I <sic>travelled</sic> <corr>traveled</corr> in this year to London
+                  I had here serious calls of grace in my heart,
+                  to turn from my wicked way, to that Lord, who
+                  had bought &amp; saved me. 2. Pet. 2. 1. but, overpowered by the weakness of the flesh, &amp; the
+                  depravity &amp; corruption of my heart, I suffered
+                  myself to be still tossed to and fro, tho' I was
+                  often told in the school, to be obedient to the 
+                  Voice of the H. Ghost in my heart.
+                  However our Lord delivered me out of many
+                  dangers I was exposed to, during this period;
+                  in the water; among robbers; amongst wicked
+                  men, &amp;.c. yea he helped me in all distress.
+                  At home and abroad I experienced his powerful protection. Once, being in the country,
+                  I fell into a well, and narrowly escaped being
+                  drowned; Another time I fell into a large tub
+                  in a tanners yard in the city, and was but just
+                  saved from sinking entirely. Once a fire
+                  breaking out in my house, I with difficulty 
+                  escaped; another time I was saved from the
+                  murdering hands of some robbers on the highway,
+                  tho' I lost all my baggage. Besides the violent
+                  storm I spoke of above, I was graciously pre=
+                  -served in some other terreble  terrible tempests in the 
+                  years 1735, 1763, &amp; 1779.</p>
+               <p>
+                  Many distresses of soul, and dreadful grievances
+               </p>
+            </div>
+            
+            <div type="page" n="4">
+               <head type="page" ana="MCH/MemLon_300025-04">4</head>
+               <p>  
+                  of mind, which affected my life &amp; spirits, have
+                  been soothed &amp; alleviated by that only true
+                  Physician of Soul and Body, whose love I can
+                  never sufficiently reward, tho' I love him ardently. If I had always acted conformable to
+                  the dictates of my conscience, I should have
+                  been happier than I was, constantly opposing
+                  them. O my righteous Lord Jesus Christ! 
+                  Have mercy upon me, vile Sinner!</p>
+               <p>
+                  When I went to the University, I awoke.
+                  I began to explore the state of Mankind in 
+                  general, fallen by sin, into misery &amp; unhappiness
+                  &amp; in particular my own corrupted heart; and
+                  this caused me to seek the face of the Lord in
+                  truth: yea in all I did at the University,
+                  it became my first, middle &amp; last concern &amp;
+                  my chief hearts desire, to find peace and
+                  salvation, remission of sins &amp; eternal life in
+                  Jesus my Saviour. The load of my Sins lay
+                  heavy upon me, and the condemnation I felt
+                  in my conscience was so bitter &amp; dreadful 
+                  to me, that during that whole time, I conversed but little with those around me. The
+                  anxiety of my soul was exceeding great, so
+                  that I could not find words to express it,
+                  nor could I speak of it to any one. The fear
+                  of death, external Judgement &amp; hell seized 
+               </p>
+            </div>
+            
+            <div type="page" n="5">
+               <head type="page" ana="MCH/MemLon_300025-05">5</head>
+               <p>             
+                  and persecuted me for a whole Year together
+                  I spent the whole day in fear &amp; trembling,
+                  and when I went to bed at night, I shuddered
+                  at the thought that I might wake the next
+                  morning in Hell, and was destitute of 
+                  all comfort. -- But the holy Ghost in great
+                  mercy trained me up as a child, and gave
+                  me hope &amp; resolution, midst all my doubts
+                  &amp; unbelief, to press forward to obtain eternal 
+                  salvation. I followed his gracious leading
+                  and at length found, or rather was found by 
+                  that great Saviour, Jesus Christ, who revealed
+                  himself unto me Dec<hi rend="superscript">r</hi> 17<hi rend="superscript">th</hi> 1739 as the
+                  friend of publicans &amp; Sinners, and justified me,
+                  thro' faith in him, and the Atonement by his
+                  death, and imparted unto me the kiss of
+                  peace, he gave me the assurance of the
+                  forgiveness of my Sins.I immediately 
+                  began to testify to those around me, of the
+                  greatness of the depravity of human nature
+                  by the disobedience of man, &amp; of the necessity
+                  of faith in our crucified Redeemer, by which
+                  we obtain forgiveness of sins, and new life.
+                  In the following year I left the University,
+                  &amp; went back to my native country, where I
+                  lived subject unto my parents. I spent my
+                  time there in instructing children in different
+                  languages.
+               </p>
+            </div>
+            
+            <div type="page" n="6">
+               <head type="page" ana="MCH/MemLon_300025-06">6</head>
+               <p>                 
+                  After that I spent still 3 years at the University
+                  at Cambridge, preaching publicly and in private
+                  houses, both in town &amp; country, of the great [?]
+                  of the power given unto man, by the service of sin
+                  since the fall, and of the only true justification
+                  by faith in the [?]; of the necessity of the
+                  H. Ghost dwelling within us, and the righteousness
+                  grounded upon our [?], &amp; inseparable from
+                  the regeneration by the Holy spirit. All this I col=
+                  lated and painted in 2 volumes, the first of which
+                  was published in London, the other in Bristol.
+                  As a minister I was constantly attentive, not to
+                  forsake the word of God; and serve [?], but to
+                  dedicate all my time to the study of the word &amp;
+                  to prayer. Being known by name in the country
+                  every where, I now published the following books in
+                  the English language: Christian Holiness; Behold
+                  the Lamb of God.Only believe, &amp; Christian --
+                  Liberty. All these were published, before I set out
+                  for Germany.</p>
+               <p>
+                  I <sic>travelled</sic> <corr>traveled</corr> from England with a certain german
+                  &amp; some English Brn &amp; after a Voyage of 3 days arrived in Holland, where I found more B<hi rend="superscript">rn</hi> and <sic>staid</sic> <corr>stayed</corr>
+                  with them several days, then going, partly by water
+                  &amp; partly by land I arrived in Germany, where I remained several years, being occupied partly by 
+                  teaching the English language to several young &amp;
+                  old people, partly by [?] letters &amp; [?]
+                  good old hymns and Verses, &amp; [?] them.  
+               </p>
+            </div>
+            
+            <div type="page" n="7">
+               <head type="page" ana="MCH/MemLon_300025-07">7</head>
+               <p>  
+                  I was then called away suddenly, &amp; set out for my
+                  native country. Several B<hi rend="superscript">rn</hi> accompanied me as 
+                  far as the next town. I arrived, after a pleasant
+                  journey with some German B<hi rend="superscript">rn</hi> &amp; several of other
+                  nations in Holland; went there on board, and
+                  after having been 3 days at sea, arrived in Harwich.
+                  We proceeded immediately to London, and there I 
+                  lived in the house of the disciple. During my stay
+                  here, I partly assisted in preaching, partly in
+                  translating the Cong<hi rend="superscript">n</hi> Accounts; and also took a 
+                  journey to visit my aged mother &amp; other relations
+                  in the country.In the year 1740 two earthquakes
+                  happening in London, I was preserved from needless
+                  fear &amp; anxiety by the grace of our Lord. ---
+                  My future call requiring a change of my situation, I was married in the Year 1750 to the S<hi rend="superscript">le</hi>
+                  S<hi rend="superscript">r</hi> June Chambers. We then moved together to
+                  Northampton, where we staid  stayed some years. I preached
+                  both in town &amp; Country the gospel, and having 
+                  collected some of my Sermons, I went to London,
+                  and delivered the original of them to the Brethren
+                  there. They were afterwards published in the year
+                  1770. Sept<hi rend="superscript">r</hi> 3<hi rend="superscript">d</hi> 1752 my wife was happily delivered
+                  of a daughter, which rec<hi rend="superscript">d</hi> the name of Mary in holy
+                  baptism, but was taken home by the Lord some
+                  hours after her birth. In my distress I said to 
+                  my d<hi rend="superscript">r</hi> Sav<hi rend="superscript">r</hi> Thou hast given her &amp; thou hast 
+                  taken her hence, blessed be thy name. Thy will
+                  be done. and thus resigned to his will I felt
+                  comforted &amp; happy. 
+               </p>
+            </div>
+            
+            <div type="page" n="8">
+               <head type="page" ana="MCH/MemLon_300025-08">8</head>
+               <p>  
+                  1753 I left Northampton and moved to Chelsea,
+                  where I laid the orginal of my Collection of Hymns
+                  &amp; Psalms, <sic>wrote</sic>  <corr>written</corr> by me in Latin &amp; English before the 
+                  B<hi rend="superscript">rn</hi> for their perusal. This &amp; the second volume
+                  of them, containing psalms &amp; hymns containing
+                  the Saviour of the World, the holy Trinity &amp;c. &amp;c.
+                  written some in Latin, Greek, Hebrew &amp; English,
+                  begun in the year 1754 &amp; continued to 1756, I brought
+                  into more order at Chelsea where I <sic>staid</sic> <corr>stayed</corr> some time.
+                  I also translated some German discourses into English
+                  &amp; added a preface to them. I continued to preach
+                  both here &amp; in the country, and visited likewise
+                  my native place, where I saw my mother &amp; other
+                  relations. 1757 we left Chelsea &amp; London and went
+                  to Bristol &amp; Wales. I preached in many places;
+                  some of my Sermons I collected and they were
+                  printed in London in 1761. Having <sic>staid</sic> <corr>stayed</corr> some
+                  time in Wales, I <sic>travelled</sic> <corr>traveled</corr> to Yorkshire. Here
+                  I had a fit of illness owing to the fatigue of
+                  travelling  traveling, from which I did not recover in less
+                  than 6 months. About this time I likewise
+                  published several books, consisting of hymns &amp;c.
+                  After time we travelled  traveled again to London where we
+                  arrived Oct<hi rend="superscript">r</hi> 22<hi rend="superscript">d</hi>. 1760, The year following I paid
+                  again a visit to my old mother in my native
+                  country. I preached here &amp; my sermon was then
+                  printed in London in the year 1763.
+                  Upon my return to London, I was one day bathing 
+               </p>
+            </div>
+            
+            <div type="page" n="9">
+               <head type="page" ana="MCH/MemLon_300025-09">9</head>
+               <p> 
+                  in the Thames, when Suddenly the current overpowered me, and loosing ground I was carried
+                  away for some time by the water. However the
+                  Lord graciously preserved me, so that I escaped
+                  from being drowned. Thus also when a child I
+                  once fell headlong into a deep pond, but was
+                  miraculously saved. At Sea I was sometimes
+                  in danger of shipwreck but in this &amp; all other
+                  cases, my gracious Lord has delivered &amp; preserved
+                  me.</p>
+               <p>
+                  1763 I made a journey with my wife into the
+                  country, to visit my eldest Sister at her earnest
+                  request. I also saw my other relations, &amp; spoke
+                  with them of their eternal salvation. In all
+                  their houses I delivered freely a testimony of
+                  the Kingdom of God, and of the conversion of
+                  poor undone Sinners to God, of the atonement
+                  made by our Lord Jesus Christ, &amp; of his precious
+                  wounds Sufferings and death. After having
+                  spent 12 days with my Sister we returned
+                  to London. I spent my time in <sic>connexion</sic> <corr>connection</corr>
+                  and intercourse with our Sav<hi rend="superscript">r</hi> yea my very
+                  dreams were often blessed to me. Especially
+                  I remember one, in which I thought I found
+                  myself amongst my B<hi rend="superscript">rn</hi> with the whole d<hi rend="superscript">r</hi>
+                  Cong<hi rend="superscript">n</hi> standing around the throne of the Lamb,
+                  crying, Praise and adoration be unto thee,
+               </p>
+            </div>
+                  
+            <div type="page" n="10">
+               <head type="page" ana="MCH/MemLon_300025-10">10</head>
+               <p> 
+                  for thou hast redeemed us by thy blood. I had
+                  then a heavenly feeling of happiness; which
+                  accompanied me the following day, which I
+                  spent in sweet &amp; silent contemplation.</p>
+               <p>
+                  My comfort now is that I shall soon go to see him
+                  on whom I have believed, and depart to enjoy
+                  that eternal happiness procured by him for
+                  all believers. Amen.
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
