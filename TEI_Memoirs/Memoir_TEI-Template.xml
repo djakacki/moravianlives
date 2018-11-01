@@ -61,9 +61,9 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir">Name Date</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg"/>
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg"/>
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg"/>
+                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -74,12 +74,10 @@
          <div type="memoir">
             <head>name</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="Repo#_page# from GitHub"/>
-               </head>
+               <head type="page" ana="Repo#_page# from GitHub" >1</head>
                <p> </p>
             </div>
          </div>
-
       </body>
    </text>
 </TEI>
