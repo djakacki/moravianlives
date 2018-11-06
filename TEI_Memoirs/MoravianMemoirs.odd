@@ -63,28 +63,8 @@
               </attDef>
             </attList>
           </elementSpec>
-          <!-- name:@select adding names for emotions, events, health, objects -->
-          <elementSpec ident="name" mode="change" module="core">
-            <attList>
-              <attDef ident="type" mode="change">
-            <valList mode="add" type="closed">
-              <valItem ident="emotion">
-                <desc>The name of an emotion (word of phrase)</desc>
-              </valItem>
-              <valItem ident="event">
-                <desc>A specific event named in the memoir (e.g., birth, baptism, wedding, death)</desc>
-              </valItem>
-              <valItem ident="health">
-                <desc>A description of wellness or illness</desc>
-              </valItem>
-              <valItem ident="object">
-                <desc>A specific object described in the memoir</desc>
-              </valItem>
-            </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-          
+
+          <!-- name:@subtype adding names for events -->
           <!-- lg:@type There are hymns from lyrics in the memoirs, so this might be useful-->
           <elementSpec ident="lg" mode="change" module="core">
             <attList>
@@ -123,7 +103,6 @@
             objectType origDate origPlace origin repository signatures source summary" /> -->
           <!-- namesdates: include all for now. -->
           <moduleRef key="namesdates" />
-
           <classSpec ident="att.datable.custom" module="namesdates" type="atts" mode="delete" />
           <classSpec ident="att.cReferencing" module="tei" type="atts" mode="delete" />
           <!-- delete lots of attributes -->
@@ -181,11 +160,138 @@
           <!-- delete lots of attributes -->
           <classSpec ident="att.interpLike" module="tei" type="atts" mode="delete" />
           <!-- delete lots of attributes -->
+                    
+          <!-- added emotion, event, health, occupation attributes / English-->
+          <classSpec ident="att.naming" module="tei" type="atts" mode="change" >
+            <attList>
+              <attDef ident="emotion" mode="change"/>
+              <attDef ident="event" mode="change"/>
+              <attDef ident="health" mode="change"/>
+              <attDef ident="occupation" mode="change"/>
+            </attList>                
+          </classSpec>
+          
+          <!-- added gefühl, ereignis, beruf, gesundheitszustand attributes / German -->
           <classSpec ident="att.naming" module="tei" type="atts" mode="change">
             <attList>
-              <attDef ident="nymRef" mode="delete" />
+              <attDef ident="gefühl" mode="change"/>
+              <attDef ident="ereignis" mode="change"/>
+              <attDef ident="beruf" mode="change"/>
+              <attDef ident="gesundheitszustand" mode="change"/>
             </attList>
           </classSpec>
+                   
+          <!-- added name:@event / English -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="event" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="birth"/>
+                  <valItem ident="marriage"/>
+                  <valItem ident="conversion"/>
+                  <valItem ident="baptism"/>
+                  <valItem ident="communion"/>
+                  <valItem ident="death"/>
+                  <valItem ident="draw lot"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- added name:@ereignis / German -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="ereignis" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="geburt"/>
+                  <valItem ident="hochzeit"/>
+                  <valItem ident="bekehrung"/>
+                  <valItem ident="taufe"/>
+                  <valItem ident="abendmahl"/>
+                  <valItem ident="tod"/>
+                  <valItem ident="losen"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+
+          <!-- added en, de to distinguish language for roleName, orgName -->
+          <classSpec ident="att.naming" module="namesdates" type="atts" mode="change">
+            <attList>
+              <attDef ident="de" mode="change"/>
+              <attDef ident="en" mode="change"/>
+            </attList>
+          </classSpec>
+          
+          <!-- added roleName:@en / English -->
+          <elementSpec ident="roleName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="en" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="brother"/>
+                  <valItem ident="sister"/>
+                  <valItem ident="married couple"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- added roleName:@de / German -->
+          <elementSpec ident="roleName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="de" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="bruder"/>
+                  <valItem ident="schwester"/>
+                  <valItem ident="geschwister"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- added orgName:@en / English -->
+          <elementSpec ident="orgName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="en" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="congregation"/>
+                  <valItem ident="œconomy"/>
+                  <valItem ident="childrens choir"/>
+                  <valItem ident="greater boys choir"/>
+                  <valItem ident="greater girls choir"/>
+                  <valItem ident="single brother"/>
+                  <valItem ident="single sister"/>
+                  <valItem ident="single brother"/>
+                  <valItem ident="married choir"/>
+                  <valItem ident="widow"/>
+                  <valItem ident="widower"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- added orgName@de / German -->
+          <elementSpec ident="orgName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="de" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="gemeine"/>
+                  <valItem ident="œconomie"/>
+                  <valItem ident="kinderchor"/>
+                  <valItem ident="grosse knaben"/>
+                  <valItem ident="grosse maedchen"/>
+                  <valItem ident="ledige brueder"/>
+                  <valItem ident="ledige schwestern"/>
+                  <valItem ident="ehechor"/>
+                  <valItem ident="witwenchor"/>
+                  <valItem ident="witwerchor"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+                                      
+                            
           <!-- delete lots of attributes -->
           <classSpec ident="att.pointing" module="tei" type="atts" mode="change">
             <attList>
@@ -220,7 +326,7 @@
           <!-- delete lots of attributes -->
           <classSpec ident="att.personal" module="tei" type="atts" mode="change">
             <attList>
-              <attDef ident="nymRef" mode="delete" />
+              <attDef ident="Ref" mode="delete" />
             </attList>
           </classSpec>
           <!-- Do not include Graphs, networks, and trees (nets) unless we find we need it -->

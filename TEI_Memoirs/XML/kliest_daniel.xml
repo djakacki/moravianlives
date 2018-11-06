@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -109,7 +109,7 @@
                <add>ich </add>forschte <add>(</add>ich<add>)</add> zu weilen nach frommen Leuten, weil es mir aber nie rechte Ernst war, blieben mir selbige unerkannt, bis mich die treue Hand meines
                   <persName>guten Hirten</persName> im Jahr <date>1741</date>. in die <placeName>Schweitz </placeName>leitete <add>(</add>ich wolte von <placeName>Strasburg </placeName>nach
                   <placeName>Geneve</placeName> reisen, allein<add>)</add> da ich nach <placeName>Bern </placeName>kam, war es als ob es mir ins Ohr schallte: bis hirher sollst du kommen und nicht
-               weiter. Hier fing sich ein neuer periodus bey mir an, der zu meinem folgenden Gnaden Gang, den Grund gelegt hat; Ich wurde bald mit <orgName>erweckten </orgName><persName>Leuten
+               weiter. Hier fing sich ein neuer periodus bey mir an, der zu meinem folgenden Gnaden Gang, den Grundgelegt hat; Ich wurde bald mit <orgName>erweckten </orgName><persName>Leuten
                </persName>bekannt, besonders mit dem <persName>Herrn Professor König</persName>, der <orgName>Versammlungen </orgName>hielt, einmal begegnete mir der selige <persName>Samuel
                   Lucius</persName> auf der Straße und sagte zu mir: <persName>Gott </persName>grüße dich! Das fuhr mir ins Herze, er ritt seine Straße und ich fragte die ersten Leute, die mir
                begegneten, was das für ein Herr gewesen? sie sagten: der <persName>Pfarrer Lucius</persName> von <placeName>Diebach</placeName>. Ich ging den folgenden <date>Sontag </date>in seine
@@ -158,7 +158,7 @@
                   <persName>Fuß </persName>und <persName>Raillard </persName>von <placeName>Basel</placeName><add>)</add> ab und am <date>8</date><hi rend="superscript"><date>ten</date></hi><date> May
                   1745.</date> Kamen wir in <placeName>Marienborn </placeName>an, <add>(</add>nachdem ich 9. Jahre in der Fremde zu gebracht davon mir die 4. lezten die ich in der <placeName>Schweitz
                </placeName>verbracht jederzeit unvergeßlich seyn werden.<add>)</add>
-               <add>(</add>Ich hatte die Gnade vom <persName>seligen Jünger</persName> gesprochen zu werden, war mit bey einem <orgName>Sabbaths Liebesmahl</orgName> und in der
+               <add>(</add>Ich hatte die Gnade vom <persName>seligen Jünger</persName> esprochen zu werden, war mit bey einem <orgName>Sabbaths Liebesmahl</orgName> und in der
                   <orgName>Abendmahlsviertelstunde</orgName>, und wurde darauf von einigen Brüdern nach <placeName>Herrnhaag </placeName>begleitet,<add>)</add> wie danckbar und froh war ich, daß ich
                nun erhalten, wonach ich mich so lang gesehnt und dachte ich hätte nun den Himmel auf Erden. Allein ich kam bald in eine rechte Schule, darinnen mein Grundverderben so
                <add>(</add>gerüttelt und geschüttelt<add>)</add> wurde, daß ich darüber in Confusion gerieth, alles verwarf und nicht wußte, wo ich mich hinwenden solte, mein glaube an den
