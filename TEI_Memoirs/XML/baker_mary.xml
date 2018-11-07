@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -62,9 +62,9 @@
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
                   <msName type="memoir">Mary Elisabeth Baker (1737-1767)</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-01.jpg"/>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-02.jpg"/>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0152a-03.jpg"/>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -74,35 +74,27 @@
       <body xml:lang="en">
          <head>Mary Elisabeth Baker memoir</head>
          <div type="page" n="1">
-            <head>Page 1 <seg ana="MemBeth_0152a-01" />
+            <head>Page 1 <seg ana="MemBeth_0152a-01"/>
             </head>
             <p> V. The single Sister <persName>Mary Elisab.<hi rend="superscript">th</hi> Baker</persName>. She <sic>writs</sic>
-               <corr>writes</corr> herself: I am born the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of June 1737</date> at <placeName>Berlin</placeName>, My Parent did their best
-               to keep me out of bad <sic>Companie</sic>
+               <corr>writes</corr> herself: I am born the <date>9</date><hi rend="superscript"><date>th</date></hi><date> of June 1737</date> at <placeName>Berlin</placeName>, My Parent did their best to keep me out of bad <sic>Companie</sic>
                <corr>Company</corr>. I often went alone to pray, but <sic>toock</sic>
                <corr>took</corr> myself soon better then other <sic>Poeple</sic>
                <corr>People</corr>. A.<hi rend="superscript">o</hi>
-               <date>1743</date> I came to the Joy of my Heart in the Children Anstalt at <placeName>Hhuth</placeName>. <date>1746</date> I was among the Congregation of the Children received. I loved
-               our Saviour &amp; was taken for a pretty good Child, but as was grown older, then I begun to feel the <sic>Coruption</sic>
+               <date>1743</date> I came to the Joy of my Heart in the Children Anstalt at <placeName>Hhuth</placeName>. <date>1746</date> I was among the Congregation of the Children received. I loved our Saviour &amp; was taken for a pretty good Child, but as was grown older, then I begun to feel the <sic>Coruption</sic>
                <corr>Corruption</corr> of my Heart. A.<hi rend="superscript">o</hi>
-               <date>49</date> I came in the Girls Choir &amp; by that means in the <placeName>Choir House</placeName>. I was the same <add>year</add> received into the Congregation. A.<hi
-                  rend="superscript">o</hi>
+               <date>49</date> I came in the Girls Choir &amp; by that means in the <placeName>Choir House</placeName>. I was the same <add>year</add> received into the Congregation. A.<hi rend="superscript">o</hi>
                <date>52</date>
                <del rend="strikethrough">I moved</del> I came to <placeName>Berlin</placeName> again, where I in the Beginning </p>
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemBeth_0152a-02" />
+               <head>Page 2 <seg ana="MemBeth_0152a-02"/>
                </head>
                <p> about 1 Year went on without the <sic>Conexion</sic>
-                  <corr>Connection</corr> of the Congregation. After that, I instantly desireth, they would take me in their Care again, &amp; soon our Saviour bestowed the Grace on me to
-                     <sic>pertake</sic>
+                  <corr>Connection</corr> of the Congregation. After that, I instantly desireth, they would take me in their Care again, &amp; soon our Saviour bestowed the Grace on me to <sic>pertake</sic>
                   <corr>partake</corr> w.<hi rend="superscript">th</hi> the <del rend="strikethrough">[?]</del> germans there, on the holy <sic>Comunion</sic>
                   <corr>Communion</corr>. A.<hi rend="superscript">o</hi>
-                  <date>57</date> I was receiv<hi rend="superscript">d</hi> in the <unclear>Sgg.<hi rend="superscript">e</hi></unclear><hi rend="superscript" /> Sisters Choir, now begun my Desire, to
-                  be in the Congregation again to increase. I brought it very frequently before our dear Saviour &amp; upon my incessant Desire our Sav.<hi rend="superscript">r</hi> made it that my
-                  Father gave me Leave to travel to <placeName>Newsalz</placeName> where I <date>1758</date> arrived. The following Year I partaketh on our Lords Supper. From this Time <add>the
-                     Inclination of</add> my Heart [?] was: to become Jesuslike, and according to the Desire of his Heart. A.<hi rend="superscript">o</hi>
-                  <date>1759</date> I emigrated with the whole Congregation of <placeName>Newsalz</placeName> hither &amp; came in my Choir-House. By these Circumstances our Sav.<hi rend="superscript"
-                     >r</hi> drew nearer to my Heart, &amp; comforted me about all my Misery, so that I since very <sic>happely</sic>
+                  <date>57</date> I was receiv<hi rend="superscript">d</hi> in the <unclear>Sgg.<hi rend="superscript">e</hi></unclear><hi rend="superscript"/> Sisters Choir, now begun my Desire, to be in the Congregation again to increase. I brought it very frequently before our dear Saviour &amp; upon my incessant Desire our Sav.<hi rend="superscript">r</hi> made it that my Father gave me Leave to travel to <placeName>Newsalz</placeName> where I <date>1758</date> arrived. The following Year I partaketh on our Lords Supper. From this Time <add>the Inclination of</add> my Heart [?] was: to become Jesuslike, and according to the Desire of his Heart. A.<hi rend="superscript">o</hi>
+                  <date>1759</date> I emigrated with the whole Congregation of <placeName>Newsalz</placeName> hither &amp; came in my Choir-House. By these Circumstances our Sav.<hi rend="superscript">r</hi> drew nearer to my Heart, &amp; comforted me about all my Misery, so that I since very <sic>happely</sic>
                   <corr>happily</corr>
                   <del rend="strikethrough">[?]</del> proceedet. A.<hi rend="superscript">o</hi>
                   <date>61</date> I was the first time by a Choir-<sic>Comunion</sic>
@@ -115,12 +107,10 @@
                </p>
             </div>
             <div type="page" n="3">
-               <head>Page 3 <seg ana="MemBeth_0152a-03" />
+               <head>Page 3 <seg ana="MemBeth_0152a-03"/>
                </head>
-               <p> For all that her chief Object was the Conversation w.<hi rend="superscript">th</hi> our dear Saviour. She became since a certain Time a consumptic Fever &amp; by that was full of
-                  Hope soon to come to our Sav.<hi rend="superscript">r</hi> &amp; this her Wish was <sic>fullfilled</sic>
-                  <corr>fulfilled</corr> to her the <date>29</date><hi rend="superscript"><date>th</date></hi><date> of this Months</date> a 10 a Clock in the Morning as her Mouth grow pale under the
-                  Blessing of her Choir in the 26<hi rend="superscript">th</hi> Year of her Age. </p>
+               <p> For all that her chief Object was the Conversation w.<hi rend="superscript">th</hi> our dear Saviour. She became since a certain Time a consumptic Fever &amp; by that was full of Hope soon to come to our Sav.<hi rend="superscript">r</hi> &amp; this her Wish was <sic>fullfilled</sic>
+                  <corr>fulfilled</corr> to her the <date>29</date><hi rend="superscript"><date>th</date></hi><date> of this Months</date> a 10 a Clock in the Morning as her Mouth grow pale under the Blessing of her Choir in the 26<hi rend="superscript">th</hi> Year of her Age. </p>
             </div>
          </div>
       </body>
