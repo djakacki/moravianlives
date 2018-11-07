@@ -14,7 +14,7 @@
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -42,6 +42,11 @@
             <respStmt>
                <persName>Marita Gruner</persName>
                <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
             </respStmt>
          </titleStmt>
@@ -79,10 +84,9 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="de">
-         <head>Daniel Kliest memoir, page 1</head>
+         <head>Daniel Kliest</head>
          <div type="page" n="1">
-            <head>Page 1 <seg ana="MemBeth_0341a-01" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-01">1</head>
             <p> Unser lieber seliger <persName>Bruder Daniel Kliest</persName> hat von seinem Lebenslauf eine weitläuftige Nachricht gegeben, wovon folgendes ein Auszug ist. Ich bin geboren den
                   <date>15</date><hi rend="superscript"><date>ten</date></hi><date> April 1716</date> zu <placeName>Frankfurth an der Oder</placeName>, wo mein <persName>Vater
                </persName><add>(</add>der auch Daniel hieß<add>)</add> Bürger und Schlosser Meister war, meine <persName>Eltern</persName> waren <orgName>lutherischer Religion</orgName>, in welcher
@@ -102,8 +106,7 @@
                Orten und genoß der Welt vergnüglichkeiten; Ich war dabey oft unruhig über mich und die leute hielten </p>
          </div>
          <div type="page" n="2">
-            <head>Page 2 <seg ana="MemBeth_0341a-02" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-02">2</head>
             <p> mich für fromm <add>(</add>, auch glaubte ich selber, ich sey beßer als andere, die doch auch in den Himmel kommen wolten und sezte mich so gut ich konnte über die Unruh meines Herzens
                weg, doch<add>)</add>
                <add>ich </add>forschte <add>(</add>ich<add>)</add> zu weilen nach frommen Leuten, weil es mir aber nie rechte Ernst war, blieben mir selbige unerkannt, bis mich die treue Hand meines
@@ -117,20 +120,19 @@
                außerordentlich davon gerührt. Ich faßte den Schluß von nun an dem <persName>Herrn Jesu</persName> gantz und allein zu leben. Nach der <orgName>Predigt </orgName>ging ich mit vielen
                   <orgName>erweckten </orgName>ins Pfarrhaus, wo er uns in seiner Stube, eine sehr gesegnete <orgName>Rede </orgName>hielt, dergleichen ich zuvor nie gehört, zulezt fiel er mit uns auf
                die Knie und betete innbrünstig über uns, daß der <persName>Herr Jesus</persName> doch ja keines, welches er einmal mit seiner liebe zu sich gezogen aus seiner Hand lassen wolle. Ich
-               ging sehr bewegt nach Hause. der <persName>Heilige Geist</persName> arbeitete immer kräftiger an meinem Herzen, zeigte mir mein Natur verderben, absonderlich meinen Unglauben, darüber
+               ging sehr bewegt nach Hause. der <persName>Heilige Geist</persName> arbeitete immer räftiger an einem Herzen, zeigte mir mein Natur verderben, absonderlich meinen Unglauben, darüber
                wurde mir sehr bange und ich fühlte mich gantz verloren. Einmal fiel mir der Spruch sehr nachdrücklich auf: wo die Sünde mächtig ist worden, da ist die Gnade noch viel mächtiger. Ich
                seufzete: ach wenn doch auch Gnade für mich wäre! es war mir gleich, als sagte mir jemand: Ja! auch für <hi rend="underline">Dich</hi> ist gnade da! mein Herz wurde dabey leicht und mit
                trost erfreut. In derselben Nacht hatte ich einen unvergesslichen Traum, es war mir </p>
          </div>
          <div type="page" n="3">
-            <head>Page 3 <seg ana="MemBeth_0341a-03" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-03">3</head>
             <p> nemlich: als hörte ich eine himlische music und die <persName>Engel</persName> den Vers vernehmlich singen: <persName>Jesus </persName>will die Sünd vergeben! <persName>Jesus
                </persName>macht von Sünde rein! <persName>Jesus </persName>gibt das ew&#39;ge Leben! <persName>Jesus </persName>will nur <persName>Jesus </persName>seyn! O du schönes <persName>Jesus
                </persName>Wort! <persName>Jesu</persName> laß mich hier und dort mit gebücktem Geist <hi rend="underline">den</hi> Namen, ewiglich anbeten, Amen. Ich erwachte mit Gottesfrieden
                erfüllt. Bisher hatte ich noch nichts von der <orgName>Gemeine </orgName>gehört. Ich und noch 2. <orgName>erweckte</orgName>, <persName>Daniel und Lorenz Keller</persName> von
                   <placeName>Schafhausen</placeName>, hielten uns zusammen und vertrauten uns miteinander so gut wir konnten. So geschah es, daß <persName>Bruder Bossard</persName> ein Uhrmacher uns
-               besuchte, welcher uns von den <orgName>Versammlungen der Brüder</orgName> Nachricht gab und uns invitirte, mit ihm dahin zu gehn. Der Studiosus, <persName>Bruder
+               besuchte, welcher uns von den <orgName>Versammlungen der Brüder</orgName> Nachricht gab und ns invitirte, mit ihm dahin zu gehn. Der Studiosus, <persName>Bruder
                   Sontag</persName><add>,</add> hielt die <orgName>Versammlung </orgName>und redete sehr gefühlig, von der liebe <persName>Jesu </persName><del>gegen </del><corr>zu
                   </corr>alle<corr>n</corr> arme<corr>n</corr> Sünder <add>(</add>und daß man, wie man ist, zum Lamme kommen kan und wenn man kommt gleich angenommen wird.<add>)</add> alle seine Worte
                paßten für mich. Verschiedene <persName>fromme Leute</persName> gaben sich mühe uns an den <orgName>Brüdern </orgName>abzuziehen, ich bat aber den <persName>Heiland</persName>, mich
@@ -147,8 +149,7 @@
                alle Schätze der Welt besitzen! Da er mir endlich versprach mich zu einem Besuch in der <orgName>Gemeine </orgName>mitzunehmen. </p>
          </div>
          <div type="page" n="4">
-            <head>Page 4 <seg ana="MemBeth_0341a-04" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-04">4</head>
             <p>
                <add>(</add>hierauf ging ich zu dem lieben <persName>Pfarrer Lucius</persName> und sagte ihm ich wolte zu <hi rend="underline">meiner
                   <persName>Mutter</persName></hi><persName> </persName>reisen; er ertheilte mir seinen Segen und da ich von ihm ging, entließ er mich mit den Worten: Und er hub seine Füße auf und
@@ -175,8 +176,7 @@
             </p>
          </div>
          <div type="page" n="5">
-            <head>Page 5 <seg ana="MemBeth_0341a-05" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-05">5</head>
             <p> in <placeName>Newyork </placeName>und am <date>20</date><hi rend="superscript"><date>ten</date></hi> in <placeName>Bethlehem </placeName>an. Wo ich den <date>25</date><hi
                   rend="superscript"><date>ten</date></hi><date> August</date> mit der ledigen Schwester <persName>Anna Rosina Beyerin</persName> (die auch mit uns über die See gekommen) zur
                   <orgName>Heiligen Ehe</orgName> verbunden wurde in welcher uns der <persName>Heiland </persName>ein <persName>Söhnlein Johann Daniel</persName> schenckte welches er aber bald zu sich
@@ -195,8 +195,7 @@
                mir armen Erlösten gebracht! So weit er selbst.<add>)</add> Unser lieber Bruder, ging in seiner langen Witwer-Zeit </p>
          </div>
          <div type="page" n="6">
-            <head>Page 6 <seg ana="MemBeth_0341a-06" />
-            </head>
+            <head type="page" ana="MAB/MemBeth_0341a-06">6</head>
             <p> einen seligen erbaulichen Gang, zeigte eine große Liebe zu <persName>Gottes </persName>Wort und den <orgName>Gemein-Versammlungen</orgName>, die er nicht gern versäumte, war auch
                einige Jahre <orgName>Saal-Diener</orgName> und zulezt ein Mitglied des<orgName> Aufseher- Collegii</orgName> und zu jedermanns Freude ein seliger ver gnügter alter Vater. <add>Dabey
                   machte ihm der <persName>Heiland </persName>die Freude, daß er das Bebleiben (und Gedeihen) seiner <persName>Kinder </persName>in der <orgName>Gemeine </orgName>sehen und sich drüber

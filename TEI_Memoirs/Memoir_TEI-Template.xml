@@ -39,6 +39,16 @@
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -74,7 +84,7 @@
          <div type="memoir">
             <head>name</head>
             <div type="page" n="1">
-               <head type="page" ana="Repo#_page# from GitHub" >1</head>
+               <head type="page" ana="Repo#_page# from GitHub">1</head>
                <p> </p>
             </div>
          </div>

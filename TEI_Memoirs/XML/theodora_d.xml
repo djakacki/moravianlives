@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>D. Theodora: Memoir <lang>German</lang>
+            <title>D. Theodora: Memoir
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
@@ -14,10 +14,11 @@
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
+               <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
                <persName>Diane Jakacki</persName>
@@ -42,6 +43,11 @@
             <respStmt>
                <persName>Marita Gruner</persName>
                <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
             </respStmt>
          </titleStmt>
@@ -76,61 +82,58 @@
    </teiHeader>
    <text type="memoir">
       <body xml:lang="de">
-         <head>D. Theodora memoir, page 1</head>
+         <head>D. Theodora</head>
          <div type="page" n="1">
-            <head>Page 1 <seg ana="MemBeth_0088-01" />
-            </head>
-            <p><persName>D. Theodora</persName> die <persName>Indianerin </persName>war von der <placeName>Delawar</placeName> Nation, ist Anno <date>1742 </date>in
-                     <placeName>Mini</placeName><corr><placeName>s</placeName></corr><placeName>ink </placeName>geboren, ihre <persName>Mutter</persName> brachte Sie als ein Mädgen mit zum Besuch nach
-                  <placeName>Gnadenhütten</placeName>, und lies Sie bey ihrer <persName>GroßMutter</persName> der <add><persName>Schwester</persName></add><persName> Erdmuth</persName>, mit welcher
-               Sie auch <date>1755 </date><date>im November </date>da die <persName>Indianer </persName>von <placeName>Gnadenhütten </placeName>weg flüchteten nach <placeName>Bethlehem
-               </placeName>kam, blieb auch noch etliche Monat bey ihr. Der <persName>Heiland </persName>machte es ihr aber in ihrem Herzen so, daß Sie über sich selber verlegen wurde, hielteöfters um
-               die Taufe an, und bezeigte ihr verlangen daß Sie des <persName>Heilands </persName>werden wolte, wünschte sich auch die gnade zu haben ins <orgName>ledige Schwestern Haus</orgName> zu
-               kommen, welche gnade ihr auch den <date>22ten Februar 56</date> wiederfahren ist, Sie wurde an eben dem Tag durch <persName>Bruder Grube</persName> in <persName>Jesu </persName>Tod
-                  <orgName>getauft</orgName>, und kam gleich ins <orgName>Chorhaus </orgName>zu wohnen, worüber Sie sehr froh und danckbar war, da<corr>ß</corr> der <persName>Heiland </persName>ihr
+            <head type="page" ana="MemBeth_0088-01">1</head>
+            <p>D. Theodora die Indianerin war von der Delawar Nation, ist Anno 1742 in
+                     Mini<corr>s</corr>ink geboren, ihre Mutter brachte Sie als ein Mädgen mit zum Besuch nach
+                  Gnadenhütten, und lies Sie bey ihrer GroßMutter der <add>Schwester</add> Erdmuth, mit welcher
+               Sie auch 1755 im November da die Indianer von Gnadenhütten weg flüchteten nach Bethlehem
+               kam, blieb auch noch etliche Monat bey ihr. Der Heiland machte es ihr aber in ihrem Herzen so, daß Sie über sich selber verlegen wurde, hielteöfters um
+               die Taufe an, und bezeigte ihr verlangen daß Sie des Heilands werden wolte, wünschte sich auch die gnade zu haben ins ledige Schwestern Haus zu
+               kommen, welche gnade ihr auch den 22ten Februar 56 wiederfahren ist, Sie wurde an eben dem Tag durch Bruder Grube in Jesu Tod
+                  getauft, und kam gleich ins Chorhaus zu wohnen, worüber Sie sehr froh und danckbar war, da<corr>ß</corr> der Heiland ihr
                bitten erhört hatte. Ihre Taufe war ihr besonders wichtig, und ihrem Herzen zum wahren Segen, Sie brachte auch das erste Jahr nach ihrer Taufe recht selig zu, war lichte und vergnügt,
-               und man nahm der <persName>lieben Mutter</persName> ihre gnaden Arbeit an ihrem Herzen wahr, kam aber hernach in eine gleich gültigkeit ihres Herzens, und aus ihrer Taufgnade wieder
-               heraus, daß wir oftte betrübte Stunden über Sie hatten. Der <persName>Heiland </persName>aber war so treu und lies ihr keine Ruhe, bis Sie wieder auf ihr Herz kam, und über alles
+               und man nahm der lieben Mutter ihre gnaden Arbeit an ihrem Herzen wahr, kam aber hernach in eine gleich gültigkeit ihres Herzens, und aus ihrer Taufgnade wieder
+               heraus, daß wir oftte betrübte Stunden über Sie hatten. Der Heiland aber war so treu und lies ihr keine Ruhe, bis Sie wieder auf ihr Herz kam, und über alles
                Sünderin wurde, Sie bereuete auch hernach <del>ihre </del><corr>die </corr>Zeit oftt mit vielen </p>
          </div>
          <div type="page" n="2">
-            <head>Page 2 <seg ana="MemBeth_0088-02" />
-            </head>
-            <p>Thränen, und bat es dem <persName>Heiland </persName>ab. <date>1759 </date>da Sie am <date>4.</date><hi rend="superscript"><date>ten</date></hi><date> May</date> mit ins
-                  <orgName>Jungfern Chor</orgName> kam, machte Sie aufs Neue den Schlus in ihrem Herzen daß sie ganz vor den <persName>Heiland </persName>leben wolte. Sie wurde Anno<date> 60 den 19.
-                  Januar</date>
-               <orgName>Candidatin zum Abendmahl</orgName>, welches ihrem Herzen einen besondern Eindruck gab, und von da an hatte Sie eine aparte gnaden Zeit lernte sich mehr kennen, und kam mit
-               ihrem Herzen in eine wahre bekantschaftt mit dem <persName>Heiland</persName>, den <date>15.</date><hi rend="superscript"><date>ten</date></hi><date> Mart </date>wurde Sie
-                  <orgName>Confirmirt</orgName>, und hatte <add>am <date>Charfreytag</date></add><date> den 4. April </date>die große gnade <orgName>das erste mahl mit der Gemeine seines Leichnams und
-                  Blutes</orgName> theilhaftig zu werden, welches ihr so groß und wichtig war, das Sies nicht genug aus sprechen konte, wie ihr dabey war, von da an hatte Sie einen seligen fröhlichen
-               gnadengang, war in ihrem herzen kindlich und sünderhaft gegen den <persName>Heiland</persName>, bezeigte es oftt mit Thränen, wie froh Sie sey daß Sie in der <orgName>Gemeine
-               </orgName>wäre, Sie hatte, auch ver schieden malen von ihrer <persName>Mutter </persName><del>wie auch von </del><corr>und </corr>ihren <add>übrigen </add><persName>Freunden
-               </persName>versuchung, sie von der <orgName>Gemeine </orgName>abtrünnig zu machen, und wieder mit ihnen in <placeName>Busch </placeName>zu ziehen, das blieb ihr aber eine unmögliche
-               Sache <del>dazu thun</del>, und <del>Sie </del>hielt sich desto fester an <persName>Heiland</persName>, daß Er Sie doch bewahren <del>möchte</del>, und sie bey<orgName> seinem
-                  Volcke</orgName> erhalten <add>möchte</add>, im <date>Juny ver wichnen Jahrs</date> kriegte Sie durch einen kalten Trunck einen Schaden auf ihrer Brust, war aber doch noch mit in der
-               Erndte, so wohl hier in <placeName>Bethlehem</placeName>, als auch in <placeName>Gnadenthal</placeName> [Seitenwechsel] [page break] wurde aber zulezt so kräncklich, das sie muste nach
-                  <placeName>Bethlehem </placeName>gebracht werden, ehe die Erndte ganz vorbey war, von der Zeit an kränckelte Sie immer, so das man sahe, das sichs zu einer auszehrung bey ihr anlies,
-               zu end des <date>September </date>kam Sie ganz auf die <orgName>Krancken Stube</orgName>, es wolte ihr Anfangs die Zeit <del>oftte</del> zu lange währen, und wünschte sich wieder gesund
-               zu seyn, da Sie aber sahe da<corr>ß</corr> der <persName>Heiland </persName>mit ihr eilte zu ihrer auflößung, war sies auch ganz zufrieden, und brachte ihre Zeit recht sehr selig zu,
-               bezeigte oftte mit Thränen, wie wohl ihr sey, und wie Nahe ihr der <persName>Heiland </persName>wäre, und freute sich, Ihn balde zu sehen, zu End des <date>December </date>kriegte Sie
-               die Blattern, kam auch gut davon durch, aber man sahe immer mehr, das der <persName>Heiland </persName>mit ihr eilte, Sie hatte eine aparte selige Zeit, der Umgang mit dem
-                  <persName>Marter Mann</persName> war ihr das liebste, und wenn sie von den Schwestern besucht wurde, be zeigte Sie immer ganz besonders ihre Freude, da<corr>ß</corr> sie nun balde
-               den sehen würde, an den Sie gläubte, und der ihre Seele liebte, <date>1761 den 12. Januar</date> früh weinte sie, als Sie die <orgName>Kranckenwärterin </orgName>fragte, was ihr wäre,
-               sagte sie, Ach das <orgName>Abendmahl </orgName>hätte ich gerne, ich kan nicht mehr warten, da sie darauf die <persName>Schwester Anna Roßel</persName> besuchte, freute Sie sich gar
-               sehr, fing gleich mit ihr an zu reden, und bezeigte ihr sehnliches Verlangen nach dem <orgName>Abendmahl</orgName>, sagte, die Zeit wird mir zu lange bis auf </p>
+            <head type="page" ana="MemBeth_0088-02">2</head>
+            <p>Thränen, und bat es dem Heiland ab. 1759 da Sie am 4.<hi rend="superscript">ten</hi> May mit ins
+                  Jungfern Chor kam, machte Sie aufs Neue den Schlus in ihrem Herzen daß sie ganz vor den Heiland leben wolte. Sie wurde Anno 60 den 19.
+                  Januar
+               Candidatin zum Abendmahl, welches ihrem Herzen einen besondern Eindruck gab, und von da an hatte Sie eine aparte gnaden Zeit lernte sich mehr kennen, und kam mit
+               ihrem Herzen in eine wahre bekantschaftt mit dem Heiland, den 15.<hi rend="superscript">ten</hi> Mart wurde Sie
+                  Confirmirt, und hatte <add>am Charfreytag</add> den 4. April die große gnade das erste mahl mit der Gemeine seines Leichnams und
+                  Blutes theilhaftig zu werden, welches ihr so groß und wichtig war, das Sies nicht genug aus sprechen konte, wie ihr dabey war, von da an hatte Sie einen seligen fröhlichen
+               gnadengang, war in ihrem herzen kindlich und sünderhaft gegen den Heiland, bezeigte es oftt mit Thränen, wie froh Sie sey daß Sie in der Gemeine
+               wäre, Sie hatte, auch ver schieden malen von ihrer Mutter <del>wie auch von </del><corr>und </corr>ihren <add>übrigen </add>Freunden
+               versuchung, sie von der Gemeine abtrünnig zu machen, und wieder mit ihnen in Busch zu ziehen, das blieb ihr aber eine unmögliche
+               Sache <del>dazu thun</del>, und <del>Sie </del>hielt sich desto fester an Heiland, daß Er Sie doch bewahren <del>möchte</del>, und sie bey seinem
+                  Volcke erhalten <add>möchte</add>, im Juny ver wichnen Jahrs kriegte Sie durch einen kalten Trunck einen Schaden auf ihrer Brust, war aber doch noch mit in der
+               Erndte, so wohl hier in Bethlehem, als auch in Gnadenthal [Seitenwechsel] [page break] wurde aber zulezt so kräncklich, das sie muste nach
+                  Bethlehem gebracht werden, ehe die Erndte ganz vorbey war, von der Zeit an kränckelte Sie immer, so das man sahe, das sichs zu einer auszehrung bey ihr anlies,
+               zu end des September kam Sie ganz auf die Krancken Stube, es wolte ihr Anfangs die Zeit <del>oftte</del> zu lange währen, und wünschte sich wieder gesund
+               zu seyn, da Sie aber sahe da<corr>ß</corr> der Heiland mit ihr eilte zu ihrer auflößung, war sies auch ganz zufrieden, und brachte ihre Zeit recht sehr selig zu,
+               bezeigte oftte mit Thränen, wie wohl ihr sey, und wie Nahe ihr der Heiland wäre, und freute sich, Ihn balde zu sehen, zu End des December kriegte Sie
+               die Blattern, kam auch gut davon durch, aber man sahe immer mehr, das der Heiland mit ihr eilte, Sie hatte eine aparte selige Zeit, der Umgang mit dem
+                  Marter Mann war ihr das liebste, und wenn sie von den Schwestern besucht wurde, be zeigte Sie immer ganz besonders ihre Freude, da<corr>ß</corr> sie nun balde
+               den sehen würde, an den Sie gläubte, und der ihre Seele liebte, 1761 den 12. Januar früh weinte sie, als Sie die Kranckenwärterin fragte, was ihr wäre,
+               sagte sie, Ach das Abendmahl hätte ich gerne, ich kan nicht mehr warten, da sie darauf die Schwester Anna Roßel besuchte, freute Sie sich gar
+               sehr, fing gleich mit ihr an zu reden, und bezeigte ihr sehnliches Verlangen nach dem Abendmahl, sagte, die Zeit wird mir zu lange bis auf </p>
          </div>
          <div type="page" n="3">
-            <head>Page 3 <seg ana="MemBeth_0088-03" />
-            </head>
-            <p> den <date>Sabbath</date>, Sie könte es nicht mehr ausstehen, den <date>14.ten</date> war Sie sehr schwach, aber ungemein vergnügt, da ihr die <persName>Schwester Anna Roßel
-               </persName>sagte, das Sie heute ihr <orgName>Abendmahl</orgName> haben solte, war sie ganz außer sich vor Freuden, konte es kaum erwarten, so groß war ihr verlangen, Sie genoß daßelbe
-               mit noch einer kleinen <orgName>geselschaftt </orgName>unter einem unaussprechlich seligen gefühl und Nahe sein unsers geliebten <persName>Freundes </persName>unter einer Aparten
-               gefühligen <orgName>Heimgangs Liturgie</orgName> unsers lieben <persName>Bruder Petrus</persName>. Sie lag darauf ganz stille, und man sahe die Freuden Zähnlein von ihren Wangen laufen,
-               sagte Zur <orgName>Kranckenwärterin</orgName>, nun wird mein <persName>Bräutigam </persName>bald kommen, und mich zu sich holen, den <date>17.ten</date> Als am <date>Abendmahlstag
-               </date>war Sie sehr Schwach, aber voller freuden, glaubte dießes wird der lezte Tag sein, als sie die <persName>Schwester Anna Roßel</persName> Nach mittags fragte, ob Sie wüßte, was
+            <head type="page" ana="MemBeth_0088-03">3</head>
+            <p> den Sabbath, Sie könte es nicht mehr ausstehen, den 14.ten war Sie sehr schwach, aber ungemein vergnügt, da ihr die Schwester Anna Roßel
+               sagte, das Sie heute ihr Abendmahl haben solte, war sie ganz außer sich vor Freuden, konte es kaum erwarten, so groß war ihr verlangen, Sie genoß daßelbe
+               mit noch einer kleinen geselschaftt unter einem unaussprechlich seligen gefühl und Nahe sein unsers geliebten Freundes unter einer Aparten
+               gefühligen Heimgangs Liturgie unsers lieben Bruder Petrus. Sie lag darauf ganz stille, und man sahe die Freuden Zähnlein von ihren Wangen laufen,
+               sagte Zur Kranckenwärterin, nun wird mein Bräutigam bald kommen, und mich zu sich holen, den 17.ten Als am Abendmahlstag
+               war Sie sehr Schwach, aber voller freuden, glaubte dießes wird der lezte Tag sein, als sie die Schwester Anna Roßel Nach mittags fragte, ob Sie wüßte, was
                heute vor ein großer Tag wäre, sagte Sie Ach ja, wenn ich heute nicht heimginge würde ich sehr betrübt sein, bat, man solte ihr doch <corr>V</corr>erße singen, und so brachte sie ihre
-               lezte Stunden in der Allerseligsten Medi<corr>t</corr>ation zu, bis Abends da die <orgName>Gemeine</orgName> beym <orgName>Abendmahl </orgName>war, erblaßte Sie recht selig und sanftte
-               in <persName>Jesu </persName>Arm und Schooß unter den Worten, blaße Lippen küßt Sie aufs Herz, mit dem segen ihres <orgName>Chors </orgName>im 19.ten Jahr ihres Alters. </p>
+               lezte Stunden in der Allerseligsten Medi<corr>t</corr>ation zu, bis Abends da die Gemeine beym Abendmahl war, erblaßte Sie recht selig und sanftte
+               in Jesu Arm und Schooß unter den Worten, blaße Lippen küßt Sie aufs Herz, mit dem segen ihres Chors im 19.ten Jahr ihres Alters. </p>
          </div>
       </body>
    </text>

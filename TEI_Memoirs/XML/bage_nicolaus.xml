@@ -78,13 +78,16 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+
+
    <text type="memoir">
       <body xml:lang="de">
-         <head>Nicolaus Lorenz Bage memoir</head>
-         <div type="page" n="1">
-            <head>Page 1 <seg ana="MemBeth_0304a-01" />
-            </head>
-            <p> Lebenslauf des seligen Bruder <persName>Nicolaus Lorenz Bage</persName>, zeithergen <orgName>Arbeiters </orgName>des <orgName>Geml</orgName>. zu <placeName>Hebron</placeName>, welcher
+         <div type="memoir">
+         <head>Nicolaus Lorenz Bage</head>
+            <div type="page" n="1">
+               <head type="page" ana="MemBeth_0304a-01">1</head>               
+            <p> 
+               Lebenslauf des seligen Bruder <persName>Nicolaus Lorenz Bage</persName>, zeithergen <orgName>Arbeiters </orgName>des <orgName>Geml</orgName>. zu <placeName>Hebron</placeName>, welcher
                den <date>20<hi rend="sup">ten</hi> Jun 1789</date> in seine ewige Ruhe einging. Ich bin geboren im Jahr <date>1732 den 3<hi rend="sup">ten</hi> Februar </date>in <placeName>dänischen
                   Hollstein</placeName> im <placeName>Amte Tondern</placeName>. Mein Vater starb, da ich etwa im 3ten Jahr war: daher verheirathete sich meine Mutter wieder mit <persName>Christian
                   Petersen</persName>. Ich wurde fleißig angehalten in die Schule zu gehen, und nachdem mein Vater erweckt wurde und sein Leben änderte, hielt er mich sehr scharf, weil er gerne einen
@@ -96,9 +99,8 @@
                Feld zu schicken, damit ich allein seyn könnte. Sie erlaubten es mir und da redete ich recht gründlich mit dem lieben <persName>Heiland </persName>aus, gab mich ihm ganz hin und stellte
                   <del>es</del> ihm </p>
          </div>
-         <div type="page" n="2">
-            <head>Page 2 <seg ana="MemBeth_0304a-02" />
-            </head>
+            <div type="page" n="2">
+               <head type="page" ana="MemBeth_0304a-02">2</head>          
             <p> vor daß es hier unmöglich mit mir gehen könnte und ich von hier weg müste. Es wurde mir wo<del>h</del>l <del>und </del>leicht<corr>e ums Herze; <del>doch </del>blieb <del>ich</del>
                   <add>aber</add></corr> bey allem, was ich that, unruhig; und vor dem <persName>Heiland </persName>und meinen Eltern erst darauf bestehen, daß ich von hier weg müste. Doch ge- reichte
                mir die Bekanntschaft mit dem <persName>Bruder Christian Hansen</persName>, der als Schmiedegesell bey meinem Vater arbeitete und erweckt war, zu großem Trost und Segen. Er nahm mich
@@ -111,9 +113,8 @@
                etwas sehr unerwartetes und ich konnte es vor Freuden kaum glauben, doch da er es mich versicherte, so dankte ich sogleich dem lieben <persName>Heiland</persName> herzlich dafür. Mein
                Vater machte Anstalt zum Verkauf und der Tag dazu wurde vestgesezt. Als nun an dem dazu bestimmten Tage </p>
          </div>
-         <div type="page" n="3">
-            <head>Page 3 <seg ana="MemBeth_0304a-03" />
-            </head>
+            <div type="page" n="3">
+               <head type="page" ana="MemBeth_0304a-03">3</head> 
             <p>
                <add>die </add>Leute schon beysammen waren; so suchten es noch unsere Freunde zu verhindern; besonders arbeiteten meine Vormünder und Pa- then an mir, daß ich sagen sollte, <hi
                   rend="underline">ich</hi> wolle es nicht haben. Darü- ber wurde ich sehr betrübt, weinte und betete zum <persName>Heiland</persName>, daß Er doch helfen möchte und zu meiner großen
@@ -128,9 +129,8 @@
                demselben Jahr am Knabenfest den <date>27<hi rend="sup">ten</hi> April</date> ins <orgName>Knabenchor </orgName>aufgenommen. Von da an nahmen micht die <orgName>ledigen Brüder</orgName>
                in besondere Pflege und Aufsicht. Der damalige <orgName>Knabenpfleger </orgName>der selige </p>
          </div>
-         <div type="page" n="4">
-            <head>Page 4 <seg ana="MemBeth_0304a-04" />
-            </head>
+            <div type="page" n="4">
+               <head type="page" ana="MemBeth_0304a-04">4</head> 
             <p>
                <persName>Bruder Metschel</persName> nahm sich meiner besonders an, und hielt eine gründliche Bande über mein ganzes Leben in der Welt mit mir. Dieses kam mir zwar im Anfang derselben
                ganz aparte vor, weil ich, seit ich bey der <orgName>Gemeine</orgName> war, an so etwas nicht gedacht, auch nicht geglaubt hatte, daß man in der <orgName>Gemeine </orgName>von solchen
@@ -146,9 +146,8 @@
                dem folgenden Tag der Gedanke, daß mich die Brüder fortschicken würden; weil ich glaubte <add>es</add> kann <corr>nichts</corr> schlechteres als ich seyn, große Verlegenheit; ich wurde
                aber sehr beschämt, da ich noch denselben Tag - es war im <date>May 1746</date> - in die Gemeine aufge- nommen wurde, welches mir was unerwartetes und eine neue </p>
          </div>
-         <div type="page" n="5">
-            <head>Page 5 <seg ana="MemBeth_0304a-05" />
-            </head>
+            <div type="page" n="5">
+               <head type="page" ana="MemBeth_0304a-05">5</head> 
             <p> und große Freude war. Nun fing der <persName>Heilige Geist</persName> eine neue Schule mit mir an; ich lernte mich in meiner Verdorbenheit immer besser ken- nen; aber die tröstliche
                Anweisung, mit dem lieben <persName>Heiland</persName> und auch mit meinem <orgName>Chorhelfer</orgName> über alles auszureden, half mir selig durch und mein Herz kam in kindlichen
                Umgang mit dem lieben <persName>Heiland</persName>. Im <date>December desselben Jahres</date> ging ich mit der <orgName>Gemeine</orgName>, und in meinem Leben zum erstenmal, zum
@@ -164,9 +163,8 @@
                </persName>im Herzen fühlte, wenn ich was nach machen wolte, so schämte ich mich und blieb erst da- rauf gestellt nach meinem Herzen zu handeln. <date>1749</date>. da der selige
                   <persName>Christel </persName>nach <placeName>England </placeName>reiste, solte ich mitgehen; es </p>
          </div>
-         <div type="page" n="6">
-            <head>Page 6 <seg ana="MemBeth_0304a-06" />
-            </head>
+            <div type="page" n="6">
+               <head type="page" ana="MemBeth_0304a-06">6</head> 
             <p> änderte sich aber <add>(</add>und ich kam zu den Knaben nach M<placeName>rborn</placeName>, bald darauf kam ich auf etliche Wochen nach dem <placeName>Herrnhaag </placeName>und am
                      <date>17<hi rend="sup">ten</hi> December</date> nach <placeName>Herrnhut</placeName>. Den <date>19<hi rend="sup">ten</hi></date> zog ich nach <placeName>Hennersdorf </placeName>zu
                den Knaben wo ich selige Zeiten hatte und viel für mein Herz profitirte. Den <date>14<hi rend="sup">t.</hi> April</date> wurde ich zum erstenmal <orgName>Chorjünger </orgName>in
@@ -188,9 +186,8 @@
                      >t</hi> September </date>wieder nach <placeName>Christi- ansbrunn</placeName> kam. Anno <date>61 </date>wurde ich <orgName>Chordiener </orgName>daselbst<add>)</add>
                <del>und </del><date>1762 </date>erhielt ich einen </p>
          </div>
-         <div type="page" n="7">
-            <head>Page 7 <seg ana="MemBeth_0304a-07" />
-            </head>
+            <div type="page" n="7">
+               <head type="page" ana="MemBeth_0304a-07">7</head> 
             <p> Ruf als <orgName>Chorhelfer </orgName>der <orgName>ledigen Brüder</orgName> nach <placeName>Litiz </placeName>und wurde den <date>19<hi rend="sup">t</hi> Merz</date> dem
                   <orgName>Chor</orgName> vor- gestellt. Am <date>16<hi rend="sup">t.</hi> May</date> wurde ich in <placeName>Lancaster </placeName>zu einem <orgName>Diaconus </orgName>der
                   <orgName>Brüder Kirche</orgName> ordinirt. Im <date>September 1764</date> bekam ich einen Ruf nach der <placeName>Wachau</placeName>, ging zuerst nach <placeName>Bethlehem
@@ -214,9 +211,8 @@
                   <persName>Anna Benigna Hessler</persName> verheirathet und kam als <orgName>Arbeiter </orgName>nach <placeName>Emmaus</placeName>. In dieser Ehe schenkte ihn der <persName>Heiland
                </persName>ein <persName>Söhnlein</persName>, das aber gleich nach der Geburt heimging. Im <date>November desselben Jahres</date> erhielt er einen Ruf als </p>
          </div>
-         <div type="page" n="8">
-            <head>Page 8 <seg ana="MemBeth_0304a-08" />
-            </head>
+            <div type="page" n="8">
+               <head type="page" ana="MemBeth_0304a-08">8</head> 
             <p>
                <orgName>Arbeiter </orgName>nach <placeName>Hebron</placeName>; daselbst wurde ihm manches schwer: doch bewieß er alle Geduld und Treue in seinem Amte und freute sich, daß er hier Gele-
                genheit fand, auch vielen Fremden, die ihn gerne hörten, das Evangelium zu verkündigen, dazu ihm der <persName>HErr</persName> schöne Gaben verliehen hatte. Er war dabey von Herzen
@@ -231,6 +227,7 @@
                   <placeName>Bethle- hem</placeName>, und die ihm bisher anvertraute <orgName>Gemeine </orgName>in <placeName>Hebron </placeName>dem lieben <persName>Heiland </persName>in einem
                brünstigen Gebet: blieb übrigens ganz gelassen und geduldig; erkannte die liebreiche Bemühung seiner lieben Frau und Geschwister mit aller Dankbarkeit, und entschlief den <date>20<hi
                      rend="sup">ten</hi> Juny</date> Abends um 6 Uhr sanft und selig: seines Alters 57 Jahr 4 Monate und 17 Tage. </p>
+            </div>
          </div>
       </body>
    </text>
