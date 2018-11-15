@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-11-06T22:04:21Z. .
+Schema generated from ODD source 2018-11-15T19:43:07Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -932,18 +932,28 @@ Suggested values include: 1] m(metre) ; 2] kg(kilogram) ; 3] s(second) ; 4] Hz(h
    </define>
    <define name="att.naming.attributes">
       <ref name="att.canonical.attributes"/>
+      <ref name="att.naming.attribute.ceremony"/>
       <ref name="att.naming.attribute.emotion"/>
       <ref name="att.naming.attribute.event"/>
       <ref name="att.naming.attribute.health"/>
-      <ref name="att.naming.attribute.occupation"/>
-      <ref name="att.naming.attribute.gefühl"/>
-      <ref name="att.naming.attribute.ereignis"/>
+      <ref name="att.naming.attribute.relation"/>
       <ref name="att.naming.attribute.beruf"/>
-      <ref name="att.naming.attribute.gesundheitszustand"/>
+      <ref name="att.naming.attribute.ereignis"/>
+      <ref name="att.naming.attribute.gefühl"/>
+      <ref name="att.naming.attribute.verwandte"/>
+      <ref name="att.naming.attribute.zeremonie"/>
       <ref name="att.naming.attribute.de"/>
       <ref name="att.naming.attribute.en"/>
       <ref name="att.naming.attribute.role"/>
       <ref name="att.naming.attribute.nymRef"/>
+   </define>
+   <define name="att.naming.attribute.ceremony">
+      <optional>
+         <attribute name="ceremony">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
    </define>
    <define name="att.naming.attribute.emotion">
       <optional>
@@ -969,25 +979,9 @@ Suggested values include: 1] m(metre) ; 2] kg(kilogram) ; 3] s(second) ; 4] Hz(h
          </attribute>
       </optional>
    </define>
-   <define name="att.naming.attribute.occupation">
+   <define name="att.naming.attribute.relation">
       <optional>
-         <attribute name="occupation">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.naming.attribute.gefühl">
-      <optional>
-         <attribute name="gefühl">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            <text/>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.naming.attribute.ereignis">
-      <optional>
-         <attribute name="ereignis">
+         <attribute name="relation">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             <text/>
          </attribute>
@@ -1001,9 +995,33 @@ Suggested values include: 1] m(metre) ; 2] kg(kilogram) ; 3] s(second) ; 4] Hz(h
          </attribute>
       </optional>
    </define>
-   <define name="att.naming.attribute.gesundheitszustand">
+   <define name="att.naming.attribute.ereignis">
       <optional>
-         <attribute name="gesundheitszustand">
+         <attribute name="ereignis">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.gefühl">
+      <optional>
+         <attribute name="gefühl">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.verwandte">
+      <optional>
+         <attribute name="verwandte">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.zeremonie">
+      <optional>
+         <attribute name="zeremonie">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             <text/>
          </attribute>
@@ -3745,10 +3763,8 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
          <ref name="att.personal.attribute.sort"/>
          <ref name="att.naming.attribute.emotion"/>
          <ref name="att.naming.attribute.health"/>
-         <ref name="att.naming.attribute.occupation"/>
-         <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.beruf"/>
-         <ref name="att.naming.attribute.gesundheitszustand"/>
+         <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.de"/>
          <ref name="att.naming.attribute.en"/>
          <ref name="att.naming.attribute.role"/>
@@ -3759,23 +3775,63 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
          <ref name="att.editLike.attributes"/>
          <ref name="att.typed.attributes"/>
          <optional>
-            <attribute name="event">
+            <attribute name="ceremony">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] birth; 2] marriage; 3] conversion; 4] baptism; 5] communion; 6] death; 7] draw lot</a:documentation>
+Suggested values include: 1] choir festival; 2] communion; 3] foot washing; 4] lovefeast; 5] Mother Feast; 6] religious gathering; 7] singing hour</a:documentation>
                <choice>
-                  <value>birth</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>marriage</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>conversion</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>baptism</value>
+                  <value>choir festival</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>communion</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>foot washing</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>lovefeast</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Mother Feast</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>religious gathering</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>singing hour</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="event">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] baptism; 2] birth; 3] conversion; 4] death; 5] draw lot; 6] marriage; 7] reception</a:documentation>
+               <choice>
+                  <value>baptism</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>birth</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>conversion</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>death</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>draw lot</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>marriage</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>reception</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="relation">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] child; 2] parent; 3] sibling; 4] spouse</a:documentation>
+               <choice>
+                  <value>child</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>parent</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>sibling</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>spouse</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
@@ -3784,21 +3840,59 @@ Suggested values include: 1] birth; 2] marriage; 3] conversion; 4] baptism; 5] c
          <optional>
             <attribute name="ereignis">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] geburt; 2] hochzeit; 3] bekehrung; 4] taufe; 5] abendmahl; 6] tod; 7] losen</a:documentation>
+Suggested values include: 1] aufnahme; 2] bekehrung; 3] geburt; 4] hochzeit; 5] losen; 6] taufe; 7] tod</a:documentation>
                <choice>
+                  <value>aufnahme</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>bekehrung</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>geburt</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>hochzeit</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>bekehrung</value>
+                  <value>losen</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>taufe</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>abendmahl</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>tod</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>losen</value>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="verwandte">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] ehepartner; 2] eltern; 3] geschwister; 4] kind</a:documentation>
+               <choice>
+                  <value>ehepartner</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>eltern</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>geschwister</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>kind</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="zeremonie">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] ältestenfest; 2] chorfest; 3] fußwaschung; 4] liebesmahl; 5] singstunde; 6] versammlung</a:documentation>
+               <choice>
+                  <value>ältestenfest</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>chorfest</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>fußwaschung</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>liebesmahl</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>singstunde</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>versammlung</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
@@ -4475,18 +4569,21 @@ relatedItem element must be empty</sch:report>
       <element name="lg">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(line group) contains one or more verse lines functioning as a formal unit, e.g. a stanza, refrain, verse paragraph, etc. [3.12.1. Core Tags for Verse 3.12. Passages of Verse or Drama 7.2.5. Speech Contents]</a:documentation>
          <group>
+      
             <zeroOrMore>
                <choice>
                   <ref name="model.divTop"/>
                   <ref name="model.global"/>
                </choice>
             </zeroOrMore>
+      
             <choice>
                <ref name="model.lLike"/>
                <ref name="model.stageLike"/>
                <ref name="model.labelLike"/>
                <ref name="lg"/>
             </choice>
+      
             <zeroOrMore>
                <choice>
                   <ref name="model.lLike"/>
@@ -4496,12 +4593,17 @@ relatedItem element must be empty</sch:report>
                   <ref name="lg"/>
                </choice>
             </zeroOrMore>
+      
             <zeroOrMore>
                <group>
+        
                   <ref name="model.divBottom"/>
+        
+        
                   <zeroOrMore>
                      <ref name="model.global"/>
                   </zeroOrMore>
+        
                </group>
             </zeroOrMore>
          </group>
@@ -4525,22 +4627,7 @@ relatedItem element must be empty</sch:report>
             </rule>
          </pattern>
          <ref name="att.global.attributes"/>
-         <ref name="att.typed.attribute.subtype"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.
-Suggested values include: 1] hymn; 2] other</a:documentation>
-               <choice>
-                  <value>hymn</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This line group is a hymn</a:documentation>
-                  <value>other</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">This line group is some other form of verse that needs to be clarified (If you use this more than a handful of times we should update the TEI ODD Customisation.)</a:documentation>
-                  <data type="token">
-                     <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
-                  </data>
-               </choice>
-            </attribute>
-         </optional>
+         <ref name="att.typed.attributes"/>
          <empty/>
       </element>
    </define>
@@ -10219,14 +10306,16 @@ Suggested values include: 1] paper; 2] parch(parchment) ; 3] mixed</a:documentat
          <ref name="att.personal.attribute.Ref"/>
          <ref name="att.personal.attribute.full"/>
          <ref name="att.personal.attribute.sort"/>
+         <ref name="att.naming.attribute.ceremony"/>
          <ref name="att.naming.attribute.emotion"/>
          <ref name="att.naming.attribute.event"/>
          <ref name="att.naming.attribute.health"/>
-         <ref name="att.naming.attribute.occupation"/>
-         <ref name="att.naming.attribute.gefühl"/>
-         <ref name="att.naming.attribute.ereignis"/>
+         <ref name="att.naming.attribute.relation"/>
          <ref name="att.naming.attribute.beruf"/>
-         <ref name="att.naming.attribute.gesundheitszustand"/>
+         <ref name="att.naming.attribute.ereignis"/>
+         <ref name="att.naming.attribute.gefühl"/>
+         <ref name="att.naming.attribute.verwandte"/>
+         <ref name="att.naming.attribute.zeremonie"/>
          <ref name="att.naming.attribute.role"/>
          <ref name="att.naming.attribute.nymRef"/>
          <ref name="att.canonical.attribute.key"/>
@@ -10235,23 +10324,31 @@ Suggested values include: 1] paper; 2] parch(parchment) ; 3] mixed</a:documentat
          <optional>
             <attribute name="de">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] gemeine; 2] œconomie; 3] kinderchor; 4] grosse knaben; 5] grosse maedchen; 6] ledige brueder; 7] ledige schwestern; 8] ehechor; 9] witwenchor; 10] witwerchor</a:documentation>
+Suggested values include: 1] œconomie; 2] ehechor; 3] gemeine; 4] grosse knaben; 5] grosse maedchen; 6] jüngerhaus; 7] kinderchor; 8] ledige brueder; 9] ledige schwestern; 10] pilgergemeine; 11] seegemeine; 12] synode; 13] witwenchor; 14] witwerchor</a:documentation>
                <choice>
-                  <value>gemeine</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>œconomie</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>kinderchor</value>
+                  <value>ehechor</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>gemeine</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>grosse knaben</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>grosse maedchen</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>jüngerhaus</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>kinderchor</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>ledige brueder</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>ledige schwestern</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>ehechor</value>
+                  <value>pilgergemeine</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>seegemeine</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>synode</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>witwenchor</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -10264,29 +10361,37 @@ Suggested values include: 1] gemeine; 2] œconomie; 3] kinderchor; 4] grosse kna
          <optional>
             <attribute name="en">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] congregation; 2] œconomy; 3] childrens choir; 4] greater boys choir; 5] greater girls choir; 6] single brother; 7] single sister; 8] single brother; 9] married choir; 10] widow; 11] widower</a:documentation>
+Suggested values include: 1] childrens choir; 2] congregation; 3] disciple's house; 4] œconomy; 5] greater boys choir; 6] greater girls choir; 7] married choir; 8] pilgrim congregation; 9] pilgrim's house; 10] sea congregation; 11] single brothers choir; 12] single sisters choir; 13] synod; 14] widows choir; 15] widowers choir</a:documentation>
                <choice>
+                  <value>childrens choir</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>congregation</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>œconomy</value>
+                  <value>disciple's house</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>childrens choir</value>
+                  <value>œconomy</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>greater boys choir</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>greater girls choir</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>single brother</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>single sister</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>single brother</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>married choir</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>widow</value>
+                  <value>pilgrim congregation</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>widower</value>
+                  <value>pilgrim's house</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>sea congregation</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>single brothers choir</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>single sisters choir</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>synod</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>widows choir</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>widowers choir</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
@@ -10351,8 +10456,54 @@ Suggested values include: 1] congregation; 2] œconomy; 3] childrens choir; 4] g
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(additional name) contains an additional name component, such as a nickname, epithet, or alias, or any other descriptive phrase used within a personal name. [13.2.1. Personal Names]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attributes"/>
-         <ref name="att.personal.attributes"/>
+         <ref name="att.personal.attribute.Ref"/>
+         <ref name="att.personal.attribute.full"/>
+         <ref name="att.personal.attribute.sort"/>
+         <ref name="att.naming.attribute.ceremony"/>
+         <ref name="att.naming.attribute.emotion"/>
+         <ref name="att.naming.attribute.event"/>
+         <ref name="att.naming.attribute.health"/>
+         <ref name="att.naming.attribute.relation"/>
+         <ref name="att.naming.attribute.beruf"/>
+         <ref name="att.naming.attribute.ereignis"/>
+         <ref name="att.naming.attribute.gefühl"/>
+         <ref name="att.naming.attribute.verwandte"/>
+         <ref name="att.naming.attribute.zeremonie"/>
+         <ref name="att.naming.attribute.role"/>
+         <ref name="att.naming.attribute.nymRef"/>
+         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.canonical.attribute.ref"/>
          <ref name="att.typed.attributes"/>
+         <optional>
+            <attribute name="de">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] bruder; 2] geschwister; 3] schwester</a:documentation>
+               <choice>
+                  <value>bruder</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>geschwister</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>schwester</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="en">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] brother; 2] married couple; 3] sister</a:documentation>
+               <choice>
+                  <value>brother</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>married couple</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>sister</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
@@ -10364,14 +10515,16 @@ Suggested values include: 1] congregation; 2] œconomy; 3] childrens choir; 4] g
          <ref name="att.personal.attribute.Ref"/>
          <ref name="att.personal.attribute.full"/>
          <ref name="att.personal.attribute.sort"/>
+         <ref name="att.naming.attribute.ceremony"/>
          <ref name="att.naming.attribute.emotion"/>
          <ref name="att.naming.attribute.event"/>
          <ref name="att.naming.attribute.health"/>
-         <ref name="att.naming.attribute.occupation"/>
-         <ref name="att.naming.attribute.gefühl"/>
-         <ref name="att.naming.attribute.ereignis"/>
+         <ref name="att.naming.attribute.relation"/>
          <ref name="att.naming.attribute.beruf"/>
-         <ref name="att.naming.attribute.gesundheitszustand"/>
+         <ref name="att.naming.attribute.ereignis"/>
+         <ref name="att.naming.attribute.gefühl"/>
+         <ref name="att.naming.attribute.verwandte"/>
+         <ref name="att.naming.attribute.zeremonie"/>
          <ref name="att.naming.attribute.role"/>
          <ref name="att.naming.attribute.nymRef"/>
          <ref name="att.canonical.attribute.key"/>
@@ -10380,13 +10533,43 @@ Suggested values include: 1] congregation; 2] œconomy; 3] childrens choir; 4] g
          <optional>
             <attribute name="de">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] bruder; 2] schwester; 3] geschwister</a:documentation>
+Suggested values include: 1] accoluth; 2] almosenpfleger; 3] ältester; 4] ältestin; 5] aufseher; 6] bischof; 7] chorarbeiter; 8] chorhelfer/chorpfleger; 9] diener/diaconus; 10] dienerin/diaconisse; 11] ermahner; 12] generalältester; 13] generalältestin; 14] heidenarbeiter; 15] krankenwärter; 16] lehrer; 17] saaldiener; 18] vorsteher</a:documentation>
                <choice>
-                  <value>bruder</value>
+                  <value>accoluth</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>schwester</value>
+                  <value>almosenpfleger</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>geschwister</value>
+                  <value>ältester</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>ältestin</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>aufseher</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>bischof</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>chorarbeiter</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>chorhelfer/chorpfleger</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>diener/diaconus</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>dienerin/diaconisse</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>ermahner</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>generalältester</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>generalältestin</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>heidenarbeiter</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>krankenwärter</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>lehrer</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>saaldiener</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>vorsteher</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
@@ -10395,13 +10578,37 @@ Suggested values include: 1] bruder; 2] schwester; 3] geschwister</a:documentati
          <optional>
             <attribute name="en">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] brother; 2] sister; 3] married couple</a:documentation>
+Suggested values include: 1] acolyte; 2] bishop; 3] choir helper; 4] choir labourer; 5] deacon; 6] deaconess; 7] elder; 8] eldress; 9] general elder; 10] general eldress; 11] heathen worker; 12] overseer; 13] sick waiter; 14] supervisor; 15] teacher</a:documentation>
                <choice>
-                  <value>brother</value>
+                  <value>acolyte</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>sister</value>
+                  <value>bishop</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>married couple</value>
+                  <value>choir helper</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>choir labourer</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>deacon</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>deaconess</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>elder</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>eldress</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>general elder</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>general eldress</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>heathen worker</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>overseer</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>sick waiter</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>supervisor</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>teacher</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
