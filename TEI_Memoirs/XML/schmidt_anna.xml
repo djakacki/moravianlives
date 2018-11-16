@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Anna Elisabeth Schmidt: Memoir <lang>German</lang>
+            <title>Anna Elisabeth Schmidt: Memoir
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
@@ -65,7 +65,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
-                  <msName type="memoir">Anna Elisabeth Schmidt</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0311">Anna Elisabeth Schmidt</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-03.jpg" />

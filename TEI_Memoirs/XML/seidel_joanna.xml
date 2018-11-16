@@ -62,7 +62,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archive, Bethlehem</repository>
-                  <msName type="memoir">Anna Johanna Seidel</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0300">Anna Johanna Seidel</msName>
                   <msName facs="http:/moravianlives.bucknell.edu/MAB/MemBeth_0300a-07.jpg" />
                   <msName facs="http:/moravianlives.bucknell.edu/MAB/MemBeth_0300a-08.jpg" />
                   <msName facs="http:/moravianlives.bucknell.edu/MAB/MemBeth_0300a-09.jpg" />
@@ -96,9 +96,9 @@
                <p> Ich bin gebohren anno <name ereignis="geburt">1726 den 12ten January</name> in <placeName>Berthelsdorff</placeName> alhier meine lieben Eltern sich (interims Weise) aufhielten, bis
                   ihr Neu erbautes Haus in <placeName>Herrnhuth</placeName> fertig wurde, denn sie waren den <date when="1725">Herbst vorher</date> erst aus Mähren<note type="editorial">her parents
                      came originally from Moravia</note> angekommen.</p>
-               <p> wie ich <date when="1732">6 Jahr alt</date> war, verlohr ich meine liebe <name relation="parent">Mutter</name>, die an einer hitzigen Kranckheit gar sehr selig und geschwinde heimging. ich hatte <name
-                     relation="sibling" n="2">2 Brüder</name> die Jünger waren als ich, und wir wurden eben alle 3 in das damalige <orgName de="orphanage">Waysen=Haus</orgName> in
-                     <placeName>Herrnhuth</placeName> gethan. Unser lieber <name type="father">Vater</name> war selten zu Hause, weil er beständig mit dem <persName ana="Zinzendorf">seligen
+               <p> wie ich <date when="1732">6 Jahr alt</date> war, verlohr ich meine liebe <name relation="parent">Mutter</name>, die an einer hitzigen Kranckheit gar sehr selig und geschwinde
+                  heimging. ich hatte <name relation="sibling" n="2">2 Brüder</name> die Jünger waren als ich, und wir wurden eben alle 3 in das damalige <orgName de="orphanage">Waysen=Haus</orgName>
+                  in <placeName>Herrnhuth</placeName> gethan. Unser lieber <name type="father">Vater</name> war selten zu Hause, weil er beständig mit dem <persName ana="Zinzendorf">seligen
                      Papa</persName> auf Reisen war.<note type="editorial">her father was close to Zinzendorf</note> Die Behandlung in dem lieben <orgName>Waysen=Hause</orgName> war dazu mal hart und
                   schwer, (Meine armen kleinen rüder grämten sich daß sie beyde die <name health="consumption">auszehrung</name> krieg= ten, und ihrer lieben Mutter bald nachfolgten.<note
                      type="editorial">death of the brother is linked to the grief and bad conditions in the orphanage</note> ich (blieb also allein übrig, und) habe meine Zeit ab und zu daselbst zu

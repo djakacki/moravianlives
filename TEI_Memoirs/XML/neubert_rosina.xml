@@ -6,8 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rosina Neubert: Memoir
-            </title>
+            <title>Rosina Neubert: Memoir </title>
             <funder>The Moravian Lives Project</funder>
             <principal>Katherine Mary Faull, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -20,7 +19,7 @@
                </address>
             </principal>
             <respStmt>
-              <persName> Diane Jakacki</persName>
+               <persName> Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
                <resp>Project Manager</resp>
             </respStmt>
@@ -70,7 +69,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
-                  <msName type="memoir">Rosina Neubert</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0286">Rosina Neubert</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0286a-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0286a-02.jpg" />
                </msIdentifier>
@@ -83,41 +82,36 @@
          <head>Rosina Neubert memoir, page 1</head>
          <div type="page" n="1">
             <head type="page" ana="MAB/MemBeth_0286a-01">1</head>
-            <p> Ich bin gebohren in Mähren zu Conne Walte, im Jahr 1705 September den 14 mein Vater ward Dobias Hauer
-               meine Mutter eine gebohrne Friedrichin von meiner Kindheit auf hilt ich ijmmer eine liebe zum guten in meinem Herzen und worde von meinem
-                  Vater dazu angewissen, der seine Bücher gar fleissig im geheimen laß, da nun die Erste erweckung daselbst endstunde, so worde auch in meines
-                  Vaters Hauß, Versamlung mitgehalten, und mein Herz hatte sogleich gefill und geSchmack an der Sache, es währde nicht lang so warde mir mein
-               sündliches verderben klar und vor augen gestelt, bey einer gelegenheit die <add>der selige</add> Bruder Melgor Nischman äben hilt. dieser machte das ich hernach
-               nicht gerne eine gelegenheit verseimte, weil ich aber im Diensten war, so konde und dorfft ich nich alle mahl wie ich gerne wolte, dabey ward mirs in meinem Herzen gleich ausgemacht das
-               ich in meinem Vater Land nicht bleiben würde weil ich daselbst keinen Wege Sahe meine Seele zu erretten. ohneracht noch kein mensch aus
-                  Mähren gegangen ward <add>In meinem 18 Jahr ohngefehr war ich mit 5 andern led. weibs Leuten</add><gap /><add> der Neuen</add> in diesen
-               Seligen gange ging ich unver ruck fort und nahm mir öffters daß Testamend mit- under die Kich wan ich Melken <del>that</del>
+            <p> Ich bin gebohren in Mähren zu Conne Walte, im Jahr 1705 September den 14 mein Vater ward Dobias Hauer meine Mutter eine gebohrne Friedrichin von meiner Kindheit auf hilt ich ijmmer
+               eine liebe zum guten in meinem Herzen und worde von meinem Vater dazu angewissen, der seine Bücher gar fleissig im geheimen laß, da nun die Erste erweckung daselbst endstunde, so worde
+               auch in meines Vaters Hauß, Versamlung mitgehalten, und mein Herz hatte sogleich gefill und geSchmack an der Sache, es währde nicht lang so warde mir mein sündliches verderben klar und
+               vor augen gestelt, bey einer gelegenheit die <add>der selige</add> Bruder Melgor Nischman äben hilt. dieser machte das ich hernach nicht gerne eine gelegenheit verseimte, weil ich aber
+               im Diensten war, so konde und dorfft ich nich alle mahl wie ich gerne wolte, dabey ward mirs in meinem Herzen gleich ausgemacht das ich in meinem Vater Land nicht bleiben würde weil ich
+               daselbst keinen Wege Sahe meine Seele zu erretten. ohneracht noch kein mensch aus Mähren gegangen ward <add>In meinem 18 Jahr ohngefehr war ich mit 5 andern led. weibs
+                  Leuten</add><gap /><add> der Neuen</add> in diesen Seligen gange ging ich unver ruck fort und nahm mir öffters daß Testamend mit- under die Kich wan ich Melken <del>that</del>
                <corr>ging </corr><del>und </del>er litter <add>auch</add> wenigen aus Schmäller <add>darüber</add> wenn ich zu lange blieb, <add>estammer in andern Verborgen Art in Unterordnung,
                   und</add><gap />
-               <add>um der guten Sachen wegen ins Gefängnis gehen wollte, worüber sie sich entz worde ich aber gewillt aber alles darum zu leiden. </add>als nun die Versammlungen,
-               ijmmer grösser und Ernsthaffter fortgesezt worden, kam es Endlich an dag und ich worde auch mit angeklagt. und ich muste in meinem <del>19 und</del> 20<hi rend="superscript"
-                     ><add>ten</add></hi><add /> Jahr auch aus Straffe einen Monad mit dem karen fahren, nach dem That mich die Herrschaft auch aus Straffe </p>
+               <add>um der guten Sachen wegen ins Gefängnis gehen wollte, worüber sie sich entz worde ich aber gewillt aber alles darum zu leiden. </add>als nun die Versammlungen, ijmmer grösser und
+               Ernsthaffter fortgesezt worden, kam es Endlich an dag und ich worde auch mit angeklagt. und ich muste in meinem <del>19 und</del> 20<hi rend="superscript"><add>ten</add></hi><add />
+               Jahr auch aus Straffe einen Monad mit dem karen fahren, nach dem That mich die Herrschaft auch aus Straffe </p>
          </div>
          <div type="page" n="2">
             <head type="page" ana="MAB/MemBeth_0286a-02">2</head>
             <p> in ein Wirtshauß um mich auf einen andern Sin zu bringen, aber Sie konden das doch dadurch nicht zu Wege bringen <del>wolkj sehr we zls</del>
                <corr>ob sie gleich mich bei der Kirmeß zum tanzen zwangen denn</corr> das trieb mich Ernstlich die Enge so das ich dag und nacht S<del>ch</del>euffze aus dem zu Stande erlöst zu
-               werden. auch drungen sie fort mit den Eit auf uns, um uns in den schreck zu jagen aber der gute hirtte, den ich wohl zu der Zeit noch nicht kand und liebte wie ich
-               gesolt, wuste sein Schäfflein zu retten in Corzem weil nun schon ville mei- ner bekanden ausgegangen und in Herrnhut wohnden under andern auch unser Seliger
-                  Bruder Georg Pisch seine Frau unsser lieben Anna Johanna ihre Mut- ter die eine der das inntesten Freundin von mir
-               ward, <del>diese </del>konte <add>ia </add>nicht ruhen <corr>ohne </corr>mich errettet zu sehen, diese schickte ihren Mann nach Mähren
-               <add>mich </add>wider zu bringen oder gefangen zu werden und traff also zum Christtag daselbst ein Er hilte sich etlich Dage im verborgenen, weil ich die Feuerdage nicht
-               fort konde und sike mich under desen weil ich nicht wuste wie ich aus dem Wirtshauß kommen solte, und dabey noch ein grosser Schnee ward, ich nahm mein Bund und 3-4-mal Muste aber
-               allemal auf der Trebbe wieder um kehren, bis Endlich die Festtage vorbey waren, da alles Müth und Schäffrich ward, so macht eich mich den 28 December in der
-               abend Zeit in der Bekleidung meines Bruders, der als Knecht da selbst dinte, und etliche andern auf den Weg, die mich eine Meile wegs brachten, bis dahin wo ich den
-                  Bruder Pisch bestellt hatte, dan gingen meine Bekleiter wieder zurücke, mit uns ging auch die Mutter Waschkin und ihr
-                  Sohn, wir gingen die selbe ganße nacht in grossem Schnee 4 deusche Meillen, all wo wir folgenden dags in Kößnitz ein traffen da blieben
-               wir über das Neue Jahr [Seitenwechsel] [page break] Den 2 Januar Anno 27 machten wir uns auf die reiße in Schlössig begegte uns der
-                  Herr SteinMez Der von Herrnhut zu rüber kam, welcher uns vill guttes erwisse und Freute sich unssers ausgangs wir kamen aller wegs gut
-               durch Schlössig und gelangten den 14 glücklich und wohl in Herrnhut an zu unsser aller Freute, weil nun zu der Zeit in
-                  Herrnhut noch keine einrichtung noch arbeiter wahren, so bedinte sichs der Herr Pastor Rothe aus Berthelsdorff der
-               selber und nahm sich aller der Mährischen Brüder gar ins besondere an, und bewiss er an seinen treue an mir, vor Ostern ging ich noch mit etlichen 14 dag
-               zu ihn in das Exsamn, nach der daMahlichen art: und zu Ostern das Erste Mal mit zum heiligen AbendMahl. </p>
+               werden. auch drungen sie fort mit den Eit auf uns, um uns in den schreck zu jagen aber der gute hirtte, den ich wohl zu der Zeit noch nicht kand und liebte wie ich gesolt, wuste sein
+               Schäfflein zu retten in Corzem weil nun schon ville mei- ner bekanden ausgegangen und in Herrnhut wohnden under andern auch unser Seliger Bruder Georg Pisch seine Frau unsser lieben
+               Anna Johanna ihre Mut- ter die eine der das inntesten Freundin von mir ward, <del>diese </del>konte <add>ia </add>nicht ruhen <corr>ohne </corr>mich errettet zu sehen, diese schickte
+               ihren Mann nach Mähren <add>mich </add>wider zu bringen oder gefangen zu werden und traff also zum Christtag daselbst ein Er hilte sich etlich Dage im verborgenen, weil ich die
+               Feuerdage nicht fort konde und sike mich under desen weil ich nicht wuste wie ich aus dem Wirtshauß kommen solte, und dabey noch ein grosser Schnee ward, ich nahm mein Bund und 3-4-mal
+               Muste aber allemal auf der Trebbe wieder um kehren, bis Endlich die Festtage vorbey waren, da alles Müth und Schäffrich ward, so macht eich mich den 28 December in der abend Zeit in der
+               Bekleidung meines Bruders, der als Knecht da selbst dinte, und etliche andern auf den Weg, die mich eine Meile wegs brachten, bis dahin wo ich den Bruder Pisch bestellt hatte, dan
+               gingen meine Bekleiter wieder zurücke, mit uns ging auch die Mutter Waschkin und ihr Sohn, wir gingen die selbe ganße nacht in grossem Schnee 4 deusche Meillen, all wo wir folgenden
+               dags in Kößnitz ein traffen da blieben wir über das Neue Jahr [Seitenwechsel] [page break] Den 2 Januar Anno 27 machten wir uns auf die reiße in Schlössig begegte uns der Herr SteinMez
+               Der von Herrnhut zu rüber kam, welcher uns vill guttes erwisse und Freute sich unssers ausgangs wir kamen aller wegs gut durch Schlössig und gelangten den 14 glücklich und wohl in
+               Herrnhut an zu unsser aller Freute, weil nun zu der Zeit in Herrnhut noch keine einrichtung noch arbeiter wahren, so bedinte sichs der Herr Pastor Rothe aus Berthelsdorff der selber und
+               nahm sich aller der Mährischen Brüder gar ins besondere an, und bewiss er an seinen treue an mir, vor Ostern ging ich noch mit etlichen 14 dag zu ihn in das Exsamn, nach der daMahlichen
+               art: und zu Ostern das Erste Mal mit zum heiligen AbendMahl. </p>
          </div>
       </body>
    </text>

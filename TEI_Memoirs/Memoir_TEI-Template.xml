@@ -70,7 +70,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Repository Name</repository>
-                  <msName type="memoir">Name Date</msName>
+                  <msName type="memoir" ana="#">Name</msName>
                   <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
