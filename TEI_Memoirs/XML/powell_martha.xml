@@ -61,7 +61,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
-                  <msName type="memoir">Martha Powell (1704-1774)</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0224">Martha Powell (1704-1774)</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0224a-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0224a-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0224a-03.jpg" />
@@ -283,20 +283,21 @@
                   <sic>beliv'd</sic><corr>believed</corr> I had travel'd my last pilger journey. Here now I had obtain'd &amp; gained the greatest thing I <sic>Desier'd</sic><corr>desired</corr> on
                   Earth. Often telling my only friend and D<hi rend="superscript">r</hi> Saviour - now I am ready to leave this Clay &amp; sink into the sea of thy mercy then thou hast Redeem'd and
                   sav'd me by thy holy Blood - here <sic>thro</sic><corr>through</corr> the Care &amp; love of my D<hi rend="superscript">r</hi>
-                  <persName>Geshwr</persName> in the Bosom of the D<hi rend="superscript">r</hi> Congregation free from each Remembrance I in the Space of 20 Months was much recover'd 
-                  <note type="catchword">on</note>
+                  <persName>Geshwr</persName> in the Bosom of the D<hi rend="superscript">r</hi> Congregation free from each Remembrance I in the Space of 20 Months was much recover'd <note
+                     type="catchword">on</note>
                </p>
             </div>
             <div type="page" n="8">
                <head>Page 8 <seg ana="MemBeth_0224a-08" /></head>
                <p> On <date>May 30. 1766</date> we being propos'd to visit <placeName>Carrols Mannor</placeName> in <placeName>Maryland</placeName> now it was more plain to me why I so far recover'd
-                  to him all the things are possible, here my decaying <sic>impar'd</sic><corr>impaired</corr> nature something hem'd &amp; clog'd the the Spirit &amp; longing of the mind for the Salvation of my
-                  fellow Creatuers </p>
+                  to him all the things are possible, here my decaying <sic>impar'd</sic><corr>impaired</corr> nature something hem'd &amp; clog'd the the Spirit &amp; longing of the mind for the
+                  Salvation of my fellow Creatuers </p>
                <p> On <date>June the 12. 66</date>
-                  <del>we</del> I with my D<hi rend="superscript">r</hi> Husband set of for our appointed Plan where we <sic>ariv'd</sic><corr>arrived</corr> on <date>July 14</date> Where we Aboad 6 years
-                  &amp; 2 months lasting sweet &amp; bitter, rejoicing with those that <sic>rejoyc'd</sic><corr>rejoiced</corr> &amp; weeping with those who wept - In <date>Feb: 72</date> as I lay verry Ill yea was so
-                  far reduc'd that I gave up the hopes of laying to rest my wore out <sic>Remaines</sic><corr>remains</corr> in D<hi rend="superscript">r</hi> <placeName>Beth<hi rend="superscript">n</hi></placeName>. but out D<hi rend="superscript">r</hi> Saviour ever remembering his
-                  <sic>promis</sic><corr>promise</corr> of his first <sic>appering</sic><corr>appearing</corr> to me, heard me also herin.</p>
+                  <del>we</del> I with my D<hi rend="superscript">r</hi> Husband set of for our appointed Plan where we <sic>ariv'd</sic><corr>arrived</corr> on <date>July 14</date> Where we Aboad 6
+                  years &amp; 2 months lasting sweet &amp; bitter, rejoicing with those that <sic>rejoyc'd</sic><corr>rejoiced</corr> &amp; weeping with those who wept - In <date>Feb: 72</date> as I
+                  lay verry Ill yea was so far reduc'd that I gave up the hopes of laying to rest my wore out <sic>Remaines</sic><corr>remains</corr> in D<hi rend="superscript">r</hi>
+                  <placeName>Beth<hi rend="superscript">n</hi></placeName>. but out D<hi rend="superscript">r</hi> Saviour ever remembering his <sic>promis</sic><corr>promise</corr> of his first
+                     <sic>appering</sic><corr>appearing</corr> to me, heard me also herin.</p>
             </div>
          </div>
       </body>

@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Christiane Eleonora Seidel: Memoir <lang>English</lang>
+            <title>Christiane Eleonora Seidel: Memoir
             </title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
@@ -63,7 +63,7 @@
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
                   <idno />
-                  <msName type="memoir">Christiane E. Seidel</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0138">Christiane E. Seidel</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0138-03.jpg" />

@@ -61,7 +61,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives Bethlehem</repository>
-                  <msName type="memoir">Judith Brasher (1700-1772)</msName>
+                  <msName type="memoir" ana="MAB/MemBeth_0209">Judith Brasher)</msName>
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-03.jpg" />
@@ -90,9 +90,8 @@
             </div>
             <div type="page" n="2">
                <head>Page 2 <seg ana="MemBeth_0209a-02" /></head>
-               <p>This is a short Account of the Forbearance of God to- -wards Me poor Sinner, born <date><del>April 9<hi rend="superscript">th</hi></del></date>.
-                  <add><date>May 8<hi rend="underline"><hi rend="superscript">th</hi> 1700</hi></date></add>. and
-                     <abbr>baptiz&#39;d</abbr>
+               <p>This is a short Account of the Forbearance of God to- -wards Me poor Sinner, born <date><del>April 9<hi rend="superscript">th</hi></del></date>. <add><date>May 8<hi rend="underline"
+                              ><hi rend="superscript">th</hi> 1700</hi></date></add>. and <abbr>baptiz&#39;d</abbr>
                   <unclear><del>1729</del></unclear> in the <abbr>Reformd</abbr> Church by the Name of <persName>Judith</persName>. <gap />My Father was <persName>Stephen Gashery</persName> of
                      <placeName>Kingston in Esopus</placeName>. The Lord took my Mother from Me, when I was a Child of 2 Years and 9 Months, and a little Brother of 9 Months old: and so by the
                   Providence of God, We two Orphan Children fell under the Tuition of my very dear and kind Grandmother <persName>Judith Gashery</persName>; She had a tender Concern for Me, and
@@ -305,11 +304,11 @@
                      </row>
                   </table> By our Saviours Grace I was a Communicant in his Church the <date>same Year</date>, and from that Time, <abbr>thro&#39;</abbr> the Gift of the Holy Ghost, I could believe
                   that I was a Fellow Citizen with the Saints, and of the <sic>Houshold</sic>
-                  <corr>Household</corr> of God. <gap />I was born the <date>8<hi rend="superscript">th</hi>. of May</date>, and am now in the 30<hi rend="superscript"
-                     >th</hi>. <add>Year</add> of my Widowhood, the Consideration of Which is so weighty to Me, that I know not how to express my Thankfulness to my dear Saviour, for all the gracious
-                  Forgiveness he has <abbr>bestowd</abbr> upon Me; from one Year to Another, and from one Day to Another has the good Shepherd <abbr>shewd</abbr> to Me his Faithfulness, taking Me by
-                  the Hand like a Father, and <abbr>thro&#39;</abbr> his Spirit manifesting his beloved Son unto Me, and that in Him all my Happiness was <unclear><abbr>treasur&#39;d</abbr></unclear>
-                  up. <gap /><abbr>O</abbr> this was to my Heart like the Day Spring from on High, and the Dawnings of the blessed Hope of my Redemption from the Power of the Devil, of the World and
+                  <corr>Household</corr> of God. <gap />I was born the <date>8<hi rend="superscript">th</hi>. of May</date>, and am now in the 30<hi rend="superscript">th</hi>. <add>Year</add> of my
+                  Widowhood, the Consideration of Which is so weighty to Me, that I know not how to express my Thankfulness to my dear Saviour, for all the gracious Forgiveness he has
+                     <abbr>bestowd</abbr> upon Me; from one Year to Another, and from one Day to Another has the good Shepherd <abbr>shewd</abbr> to Me his Faithfulness, taking Me by the Hand like a
+                  Father, and <abbr>thro&#39;</abbr> his Spirit manifesting his beloved Son unto Me, and that in Him all my Happiness was <unclear><abbr>treasur&#39;d</abbr></unclear> up.
+                     <gap /><abbr>O</abbr> this was to my Heart like the Day Spring from on High, and the Dawnings of the blessed Hope of my Redemption from the Power of the Devil, of the World and
                   the Flesh who held Me in the Bondage of Sin; so that what I <abbr>approv&#39;d</abbr>, I did not, and what I <abbr>allowd</abbr> not, that I did: and <add>could</add> do no other-
                   -wise. This was my Condition in the Year <date>1736.</date> and the first of my Widowhood. <gap />From this Time forward I <abbr>perceivd</abbr> [page break] in my Heart that my
                   faithful Shepherd <abbr>followd</abbr> Me. <gap />When <abbr>thro&#39;</abbr> Unbelief or the Deceitfulness of Sin, I <abbr>strayd</abbr> at any Time; I then felt bitter Pains in my
