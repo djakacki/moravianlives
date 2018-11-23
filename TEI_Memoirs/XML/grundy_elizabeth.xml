@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -100,29 +105,29 @@
                <msIdentifier>
                   <repository>Moravian Archives, London</repository>
                   <msName type="memoir" ana="MCH/MemLon_300023">Elizabeth Grundy</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-03.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-04.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-05.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-06.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-07.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-08.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-09.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-10.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-11.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-12.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-13.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-14.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-15.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-16.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-17.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-18.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-19.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-20.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-21.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-22.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-23.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-01.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-02.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-03.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-04.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-05.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-06.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-07.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-08.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-09.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-10.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-11.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-12.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-13.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-14.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-15.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-16.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-17.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-18.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-19.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-20.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-21.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-22.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300023-23.jpg"></msName>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -133,7 +138,7 @@
          <div type="memoir">
             <head>Elizabeth Grundy</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="MemLon_300023-01" />
+               <head>Page 1 <seg ana="MemLon_300023-01"></seg>
                </head>
                <p> Page 1: -Vo.10. G. Gd Life I. Holmes of the widow Sr. Elizabeth Grundy, late Alvd, who departed thei life at Nayldon in York- shire, May the 9th 1799. She has dictated the following
                   account of her life to her son, our Br. James Grundy: I was born February 6. 1717. near Chowbent in the parish of Leigh in Lancashire, and brought up in the Presbyterian persuasion.
@@ -144,7 +149,7 @@
                   lying before </p>
             </div>
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemLon_300023-02" />
+               <head>Page 2 <seg ana="MemLon_300023-02"></seg>
                </head>
                <p> him. One of them he opened, which I took to be the book of life, as it appeared written with blood. Upon this I awoke, but the dream left an impression upon my mind, that our Savior
                   was very loving however, I left it again by having the law prea- ched to me. Thus I spent my years of child- hood like most others. I wanted to be good, but could not. Still I
@@ -155,7 +160,7 @@
                   was 14 years old I went to nurse a child of a relation; and going on to see my mother our Savior drew me in to my heart on the road: </p>
             </div>
             <div type="page" n="3">
-               <head>Page 3 <seg ana="MemLon_300023-03" />
+               <head>Page 3 <seg ana="MemLon_300023-03"></seg>
                </head>
                <p> and in my prayer I addressed him as the God of Abraham, Isaac and Jacob. It came into my mind to make a covenant with him, and then being some stones in the place, I took them for a
                   witness of it. But I soon broke this covenant, for getting into company I lived like others, yet my conscience always condemned me. Thus I formed good resolutions and as often brake
@@ -166,7 +171,7 @@
                   out: "Dear Savior, where is thy precious blood, that blood which thou did/ </p>
             </div>
             <div type="page" n="4">
-               <head>Page 4 <seg ana="MemLon_300023-04" />
+               <head>Page 4 <seg ana="MemLon_300023-04"></seg>
                </head>
                <p> shed to cleanse me from my sins?" Scarce had she uttered this ejaculation, when our Sa- vior appeared to the eye of her faith, in his bleeding attitude, which the soldier opened his
                   side with the spear, and she felt as it were his blood trickling upon her heart. Now she was enabled to rejoin in God our Savior. Short ly before her end she said: "Come, Lord Jesus,
@@ -177,7 +182,7 @@
                   had nothing to fear, as I had always been a good woman, and that God was merciful and would not mark iniquity so strictly. </p>
             </div>
             <div type="page" n="5">
-               <head>Page 5 <seg ana="MemLon_300023-05" />
+               <head>Page 5 <seg ana="MemLon_300023-05"></seg>
                </head>
                <p> Thus I was rightly served for having applied to him instead of our Savior. I expected he would have put me in the way of doing something whereby to merit heaven; but instead of
                   this, he addressed me to put it off by going into cheer- ful company, lest I should grow melancholy. I foolishly took his advice, endeavoring to shake off conviction as much as
@@ -188,7 +193,7 @@
                   would by no means agree. My hus- band read frequently in the New Testament and when he loved the book, used to say : "I </p>
             </div>
             <div type="page" n="6">
-               <head>Page 6 <seg ana="MemLon_300023-06" />
+               <head>Page 6 <seg ana="MemLon_300023-06"></seg>
                </head>
                <p> thank God for Paul's Epistles; best this of my taste at that to live, for I would rather read of Goliath, Lampoon, Joseph, he's brethren on of battles; however he continued reading
                   Paul's Epistles, without minding one. My husband being an officer is the exercise his duty was frequently too hard for, so that he was often ailing. In January 1749. he ever taken
@@ -199,7 +204,7 @@
                   fa- therly", were interpreted upon my mind; you </p>
             </div>
             <div type="page" n="7">
-               <head>Page 7 <seg ana="MemLon_300023-07" />
+               <head>Page 7 <seg ana="MemLon_300023-07"></seg>
                </head>
                <p> I was full of disbelief and not say, "Thy will be done." Then I was left with out house or home, having one child, called William, and far advanced in pregnancy with another. I soon
                   set off for my native plan, which was 200 miles different, and travelled on foot nine days, in frost and snow. On the arrival at the home of one of my sisters, my husband's father
@@ -210,7 +215,7 @@
                   when I did a- gain and again, I found no comfort; but </p>
             </div>
             <div type="page" n="8">
-               <head>Page 8 <seg ana="MemLon_300023-08" />
+               <head>Page 8 <seg ana="MemLon_300023-08"></seg>
                </head>
                <p> at last, it was impressed on end to call when Jesus, which I did, saying, "Lend Jesus have mercy upon me!" No sooner had I cal- led upon him by that name, them my condem- nation was
                   all taken away, and I rejoiced wondering at there at the same time, that I had read my Bible so often, and had never called u- pon Jesus before. Now then words came into my mind, "He
@@ -221,7 +226,7 @@
                   of doctrine, I left them, thinking they were not a people of God. </p>
             </div>
             <div type="page" n="9">
-               <head>Page 9 <seg ana="MemLon_300023-09" />
+               <head>Page 9 <seg ana="MemLon_300023-09"></seg>
                </head>
                <p> because they were not of one heart and mind. About this time I heard of the Brethren, getting my first impressions of them by means of their hymn book of which I was ve- ry fond,
                   especially of that hymn: "O tell me no more of this world's veins story; The time for such trifles with me now is o'er. I wished much to know, where to find thou people, who had
@@ -231,7 +236,7 @@
                   shortly before her departure for calling me alone to her bedside she said: "I have waited with our savior, and was </p>
             </div>
             <div type="page" n="10">
-               <head>Page 10 <seg ana="MemLon_300023-10" />
+               <head>Page 10 <seg ana="MemLon_300023-10"></seg>
                </head>
                <p> assured that thou shall be his and belong to the people of God, but what people and where and when I cannot tell; but it will not be yet; After this Mr. Valentine, the
                   abovementioned Arian Minister, told me, I had changed for the women by joining the Brother. I sent him the nine discourses on Christ's Divinity, by Count Zinzendorf; but they did not
@@ -243,7 +248,7 @@
                   but </p>
             </div>
             <div type="page" n="11">
-               <head>Page 11 <seg ana="MemLon_300023-11" />
+               <head>Page 11 <seg ana="MemLon_300023-11"></seg>
                </head>
                <p> now I know that Jesus Christ is my Savior." I re- plied. " He is a Savior to them that believe." To this he replied: "I do believe, and I have no me- rit of my own; but trust alone
                   in my Savi- or's death and merits. There is something to go through in death, but the prophet beyond it is bright; but I cannot say much, I was very weak. "We then took a tender
@@ -255,7 +260,7 @@
                   being drawn </p>
             </div>
             <div type="page" n="12">
-               <head>Page 12 <seg ana="MemLon_300023-12" />
+               <head>Page 12 <seg ana="MemLon_300023-12"></seg>
                </head>
                <p> away by worldly prosperity, and being afraid of losing by any means that happiness, which was then and has been ever since of the last im- portance to me, I gave my shopkeeping in
                   the midst of prosperity, and these words of our savior followed me continually, "What shall it profit a man, tho' he gains the whole world and loves his own soul." And I think it
@@ -267,7 +272,7 @@
                   our time, while at work, with singing of Him and his sufferings, being enabled to take our refuge to him in all our circumstances. </p>
             </div>
             <div type="page" n="13">
-               <head>Page 13 <seg ana="MemLon_300023-13" />
+               <head>Page 13 <seg ana="MemLon_300023-13"></seg>
                </head>
                <p> When things were at the worst we would sing: "As small birds are - a hole to cheer In hollow trees for cover, When whirlwinds blow - when hail and snow O'er man and beast do hover:
                   So I to then, - Lord Christ, do flee, Within thy wounds retired; When sin and death - did stop my breath, Here I again reposed." This time was indeed a blessed period. In January
@@ -277,7 +282,7 @@
                   prosperous, not questioning but I could stand any trial, for I fear, that he had possession of my heart, and I had an assurance that he would safely lead me. Not withstand- </p>
             </div>
             <div type="page" n="14">
-               <head>Page 14 <seg ana="MemLon_300023-14" />
+               <head>Page 14 <seg ana="MemLon_300023-14"></seg>
                </head>
                <p> ding this I had soon after a severe trial, which was augmented by my want of self knowledge. Falling sick and feeling myself very poor, and full of unbelief, I began to question the
                   love of our Savior, thinking, if the Lord be with me, why am I thus? Hitherto I had imagined that belie- vers had a fund of support within themselves, so that I thought, it was
@@ -289,7 +294,7 @@
                   all his selfishness, to our Savior and finding </p>
             </div>
             <div type="page" n="15">
-               <head>Page 15 <seg ana="MemLon_300023-15" />
+               <head>Page 15 <seg ana="MemLon_300023-15"></seg>
                </head>
                <p> in him a present help in time of need, which is an inexhaustible fund, where we may take grace for grace, and not look for it in any of our own attainments. Some time after I was
                   appointed to begin a school for girls in Dukenfield, which gave me great confidence in our Savior, considering it as an answer to my prayer; for I was at times so full of unbelief,
@@ -300,7 +305,7 @@
                   Dukenfield, </p>
             </div>
             <div type="page" n="16">
-               <head>Page 16 <seg ana="MemLon_300023-16" />
+               <head>Page 16 <seg ana="MemLon_300023-16"></seg>
                </head>
                <p> in the year 1760, and in 1766. He went to Ful- neck, This last removal went very near me, but I durst not stand in our Savior's way, be- lieving it would be for the best. Having
                   lodged for sometime with a private family [at some distance] from Dukenfield, who behaved very well to me, I began to grow tired of having so far to go to the meeting. I therefore,
@@ -311,7 +316,7 @@
                   would gradu- ally regain my wounded cheerfulness; and this I found verified. But what gave me comfort above all other things, in my greatest </p>
             </div>
             <div type="page" n="17">
-               <head>Page 17 <seg ana="MemLon_300023-17" />
+               <head>Page 17 <seg ana="MemLon_300023-17"></seg>
                </head>
                <p> trials, was the imperfection that my Savior had died for me, and this, I trust will remain so unto the end. I say indeed from my inmost soul: "His death and passion ever, Till soul
                   and body sever, Shall in my heart engraved remain." This has been indelibly impressed upon my mind, ever since he first manifested himself to my soul as my Redeemer. In May 1780. my
@@ -322,7 +327,7 @@
                   and him only. It was clear to me that I had a call to Bayl- don, and that I was in my proper place when teaching school; our Savior who often visited </p>
             </div>
             <div type="page" n="18">
-               <head>Page 18 <seg ana="MemLon_300023-18" />
+               <head>Page 18 <seg ana="MemLon_300023-18"></seg>
                </head>
                <p> me and blessed my endeavors. I became more stripped of my self righteousness, and learned to rely more fully on the merit and faithfulness of Jesus, in all circumstances for which I
                   can never thank him sufficiently. Neverthe- less I now and then got into a way of self , which caused me no small anxiety: but my all merciful Savior has helped me and been very
@@ -333,7 +338,7 @@
                   that my old age has been signally favored with respect both to external and internals; for which I </p>
             </div>
             <div type="page" n="19">
-               <head>Page 19 <seg ana="MemLon_300023-19" />
+               <head>Page 19 <seg ana="MemLon_300023-19"></seg>
                </head>
                <p> feel myself excited to the greatest grati- tude to my Savior. The above account of her life she dictated to her Son a short time before her end. She was mind beloved and respected
                   by all who knew her both here and at Duckenfield, and had proved a blessing to many. Soon after her arrival at Bayldon, she heard of an old lady, in one of whose tenements we had our
@@ -344,43 +349,43 @@
                   ​​​​​​​by the small number who came to the </p>
             </div>
             <div type="page" n="20">
-               <head>Page 20 <seg ana="MemLon_300023-20" />
+               <head>Page 20 <seg ana="MemLon_300023-20"></seg>
                </head>
                <p> chapel, and the apparent want of fruit to choir labours, as for some years there had been no in- crease to the Society, but rather a diminution in member, owing to the departure of
                   several of the first member; she animated them to do their part faithfully, saying the Lord would not be wanting on his side, adding: "You will see (better) brighter Days, after I am
-                  gone."*. <!-- Is this a footnote? --> *Their expectation was strikingly verified. At the funeral oration, previous to their- terment, which I was favoured to Deliver on May 15. 1799.
+                  gone."*. <!--  Is this a footnote?  --> *Their expectation was strikingly verified. At the funeral oration, previous to their- terment, which I was favoured to Deliver on May 15. 1799.
                   I had the please to see all the seats in the chapel occupied, tho' it was at the early hour of 7 in the morn- ing, to gain time for conveying her re- mains to Fulneck, where she
                   wished to be interred, and which is at the distance of 8 miles. The numerous procession, which followed her by high and low in Bayldon. And when on Lord's Day, June 9, I again offi-
                   ciated there, and previous to the after- noon sermon, read the above narration of her life, the meeting place was crowded and many stood before the door. From that time the
                   preachings continued ​​​​​​​to be numerously attended, so that the </p>
             </div>
             <div type="page" n="21">
-               <head>Page 21 <seg ana="MemLon_300023-21" />
+               <head>Page 21 <seg ana="MemLon_300023-21"></seg>
                </head>
                <p> She had for many years been troubled with a violent cough, which sometimes deprived her of natural rest; yet she never murmured, lest her complaint be ever so great; but al- ways
-                  prayed for resignation, and relied on Him, who had never forsaken or disappoin- ted her. <lb /> Her son saying to her on the Day of her Departure: "My Dear mother, I wish our Sa-
+                  prayed for resignation, and relied on Him, who had never forsaken or disappoin- ted her. <lb></lb> Her son saying to her on the Day of her Departure: "My Dear mother, I wish our Sa-
                   vior would raise you up even more;" she replied: "Do not keep me back, let me go freely; it will be best for me now; I want to be gone and to see my Dear Savior." At noon, her son
-                  wishing her to take some <lb /> ** <lb /> chapel was found too small, and the founda- tion stone for a new one was laid March.28.1806. The Society also increased. A few weeks after
+                  wishing her to take some <lb></lb> ** <lb></lb> chapel was found too small, and the founda- tion stone for a new one was laid March.28.1806. The Society also increased. A few weeks after
                   her Departure 8 new members were added to the same. At her Death their number was 17. exactly as many as she found in connexi- on with the Brethren, other find coming to Bayldon. And
                   when I left Yorkshire in 1804, their number was between 40&lt;50. and I learn by letters that they continued to increase in number and grace. </p>
             </div>
             <div type="page" n="22">
-               <head>Page 22 <seg ana="MemLon_300023-22" />
+               <head>Page 22 <seg ana="MemLon_300023-22"></seg>
                </head>
-               <p> nourishment, she said: <lb /> "I've no mind for eating or for drinking, Food, which might corrupt again; If God's bread that's heavenly I am thinking Jesus' flesh I would obtain,
-                  Who was made man of the Lord of David, And his blood is drink, O how I crave it From earth's life to be set free In loves' immortality." <lb /> She added, "That is what I want." At 8
-                  in the evening she found breathing very diffi- cult. Her son looking at her with earnest con- cern, she turned her eyes to him, as it were, to comfort him and said: <lb /> "Tho'
+               <p> nourishment, she said: <lb></lb> "I've no mind for eating or for drinking, Food, which might corrupt again; If God's bread that's heavenly I am thinking Jesus' flesh I would obtain,
+                  Who was made man of the Lord of David, And his blood is drink, O how I crave it From earth's life to be set free In loves' immortality." <lb></lb> She added, "That is what I want." At 8
+                  in the evening she found breathing very diffi- cult. Her son looking at her with earnest con- cern, she turned her eyes to him, as it were, to comfort him and said: <lb></lb> "Tho'
                   waves and storming o'er my head, Tho health a strength a friend, be gone, Shortness of breath preventing her from fini- shing this her favourite verse, she said to her son, Go on;
-                  which he did as follows: <lb /> "Tho' joys be withered ill and fled, Tho' every comfort be with withdrawn; Stedfast on this my soul relies, Jesus, thy mercy never dies." <lb /> She
+                  which he did as follows: <lb></lb> "Tho' joys be withered ill and fled, Tho' every comfort be with withdrawn; Stedfast on this my soul relies, Jesus, thy mercy never dies." <lb></lb> She
                   joined in the last lines, and then said, that is it. For sometimes after this she continued labouring under great difficulty of breathing, and at length was very desi- rous to have
                   her bed made. Being placed on </p>
             </div>
             <div type="page" n="23">
-               <head>Page 23 <seg ana="MemLon_300023-23" />
+               <head>Page 23 <seg ana="MemLon_300023-23"></seg>
                </head>
                <p> another, she appeared covered with a cold sweat. When put again into her own bed, she prayed intimately: "Dear Savior, come and fetch me thy poor sinner home; come, Dear Savior, and
                   fetch me." Soon after this her son thought she had been asleep, but her breath grew shorter and shorter. Thus she expired in the most gentle and peaceful in manner and went over to
-                  see him, whom here she loved, and whom she also served to the ut- most of her power, with great faithfulness Her pilgrimage here below lasted 82 years 3 months and 3 days. <lb />
+                  see him, whom here she loved, and whom she also served to the ut- most of her power, with great faithfulness Her pilgrimage here below lasted 82 years 3 months and 3 days. <lb></lb>
                   "She is now with the Son at home; Bow humble expectation Is, that he'll let us also come, To join that congregation." </p>
             </div>
          </div>
