@@ -36,41 +36,13 @@
         </p>
     </xsl:template>
     
-<!-- This adds linebreak after persName -->
-    <xsl:template match="tei:birth/tei:placename">
-        <p xmlns="http://www.w3.org/1999/xhtml">
+<xsl:template match="tei:person/tei:date[@type = 'birth']">
+    <p xlmns="http://www.w3.org/1999/xhtml">
         <xsl:value-of select="."/>
-        </p>
-    </xsl:template>
+    </p>
+</xsl:template>
     
 
-<!-- This breaks the text into paragraphs as marked up in text (not the same as pages) -->
-    <xsl:template match="tei:p">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
-      
-    
-<!-- This renders the superscript letters in HTML <sup> tag -->
-    <xsl:template match="tei:hi[@rend='superscript'] | tei:sup">
-        <sup xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:value-of select="."/>
-        </sup>        
-    </xsl:template>
 
-<!-- This renders strikethrough in HTML -->
-    <xsl:template match="tei:del">
-        <del xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:value-of select="."/>
-        </del>
-    </xsl:template>
-    
-<!-- This hides the catchword form of note -->
-    <xsl:template match="tei:note[@type='catchword']" />
 
-<!-- This adds /// at each page break -->
-    <xsl:template match="tei:div[@type='page']">
-        <p><xsl:apply-templates/>
-        <xsl:text>///</xsl:text>
-        </p>
-    </xsl:template>
 </xsl:stylesheet>

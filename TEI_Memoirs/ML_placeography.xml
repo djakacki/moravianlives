@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Moravian Lives Placeography</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -67,27 +67,26 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>Repository Name</repository>
-                  <msName type="memoir" ana="#">Name</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
-               </msIdentifier>
-            </msDesc>
+            <p></p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text type="memoir">
+   <text type="placeography">
       <body xml:lang="en">
-         <div type="memoir">
-            <head>name</head>
-            <div type="page" n="1">
-               <head type="page" ana="Repo#_page# from GitHub">1</head>
-               <p> </p>
-            </div>
-         </div>
+         <listPlace>
+            <place xml:id="mlpla000001">
+               <placeName>Herrnhut, Moravia
+                  <ptr target="#mlpla000001"/>
+               </placeName>
+               <idno sameAs="Geonames"/>
+            </place>
+            <place xml:id="mlpla000002">
+               <placeName>Bethlehem, Pennsylvania
+                  <ptr target="#mlpla000002"/>
+               </placeName>
+               <idno sameAs="Geonames"/>
+            </place>
+         </listPlace>
       </body>
    </text>
 </TEI>

@@ -97,7 +97,7 @@
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </death>
             </person>
-            <person xml:id="mlper00003" sex="m">
+            <person xml:id="mlper000003" sex="m">
                <persName>Abraham Andreas <ptr target="#mlper00003" />
                </persName>
                <birth>
@@ -108,7 +108,22 @@
                   <date when-iso="1801-10-26">Date of death: 1801-10-26</date>
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </death>
+            </person>            
+            <person xml:id="mlper000004" sex="f">
+               <persName>Benigna Antes<ptr target="#mlper000004"/>
+               </persName>
+               <birth>
+                  <date when-iso="1748-10-04">Date of birth: 1748-10-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1760-12-04">Date of death: 1760-12-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </death>
             </person>
+            
+            
+                  
          </listPerson>
       </body>
    </text>
