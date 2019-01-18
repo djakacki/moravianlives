@@ -118,7 +118,7 @@
          <div type="memoir">
             <head>Sarah Nichols</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="MemLon_300036-01" /></head>
+               <head type="page" ana="MemLon_300036-01">1</head>
                <p> A Copy of the course of Life of the Single Sister <persName>Sarah Christiana Nichols</persName>, who Departed this Life at <placeName>Tytherton in Wiltshire</placeName>; <hi
                      rend="underline">as left in her own hand-writing.</hi> It has frequently been a subject of doubt with me whether I should leave my written account of my course <abbr>thro'</abbr>
                   time. The benefit I have of= =ten received from the testimonies of deceased Brethren and Sisters has <name type="emotion">made me feel a wish also to declare what the Lord hath done
@@ -129,7 +129,7 @@
                   might learn to know and <note type="catchword">love</note></p>
             </div>
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemLon_300036-02" /></head>
+               <head type="page" ana="MemLon_300036-02">2</head>
                <p> 2. <hi rend="underline">love</hi> God our Savior, sought every opportunity of directing my attention to Him, as the Friend of Children, often telling me how much he had done and
                   suffered to make me eternally happy- Well do I remember some affecting conversation of my dear Mother upon this interesting subject, and the salutary impression thereby made upon my
                   mind. But it pleased our Savior to re= =move this tender parent out of time when I was only in my 8th year, too young to be aware of the loss I had sustained. My dear Father, <name
@@ -140,7 +140,7 @@
                   in various way, and often <name type="emotion">depressed my spirits</name>. I earnestly entreated my Father to </p>
             </div>
             <div type="page" n="3">
-               <head>Page 3 <seg ana="MemLon_300036-04" /></head>
+               <head type="page" ana="MemLon_300036-04">3</head>
                <p> 3. Father to remove me from this irksome situation as soon as possible, which no doubt was his wish, as well as mine; and to <name type="emotion">my inexpressible joy</name>, I
                   obtained leave to live in the Sisters Choir House in <placeName>Tytherton</placeName>, and went thither <date>July 19th. 1776.</date> being then only in the 10th Year of my age. A
                   new pe= =riod now commenced with me, I esteemed it a favor to be in a habitation which I looked upon as dedicated to the Lord, and to have the privilege of attending so many meet=
@@ -150,7 +150,7 @@
                   striking a manner, as never to be forgotten: it <name type="emotion">excites at this mo= =ment sensations of gratitude wonder and praise</name>. After I had began -O had I but </p>
             </div>
             <div type="page" n="4">
-               <head>Page 4 <seg ana="MemLon_300036-06" /></head>
+               <head type="page" ana="MemLon_300036-06">4</head>
                <p> 4. so proceeded. But alas! the depravity of my nature soon began to marr my peace: I found the childlike confidence in the Lord, which I had hitherto enjoyed gradually dimin= =ish,
                   and <name type="emotion">cold indifference take place</name>; or at other times <name type="emotion">my mind was harassed by </name><sic><name type="emotion"
                      >unbeleiving</name></sic><name type="emotion"> </name><corr><name type="emotion">unbelieving</name></corr><name type="emotion"> doubts and fears</name>. I durst not disclose my
@@ -162,7 +162,7 @@
                   possible. I often tried to make my self better, and resolved to begin anew; </p>
             </div>
             <div type="page" n="5">
-               <head>Page 5 <seg ana="MemLon_300036-07" /></head>
+               <head type="page" ana="MemLon_300036-07">5</head>
                <p> 5. anew; knowing all was wrong with me, and that there must be a change, but how to effect it I knew not, I found that all my resolutions came to nothing, and <name type="emotion">I
                      only grew worse and worse</name>. At length I con= =cluded that if the Lord pleased, he could change my heart, but that I could do noth= =ing; it was therefore best to make my
                   self as easy as possible, which I <abbr>endeavour'd</abbr> to do. But thanks be to my Savior, he did not leave Himself without a witness in my soul, <abbr>tho'</abbr> I alas, too
@@ -173,7 +173,7 @@
                   of which she thought proper to apprize me. I thanked </p>
             </div>
             <div type="page" n="6">
-               <head>Page 6 <seg ana="MemLon_300036-08" /></head>
+               <head type="page" ana="MemLon_300036-08">6</head>
                <p> 6. her for her kindness towards me, and withdrew. But never shall I forget what passed in my soul after this interview. I was roused as it were from sleep: and be= =gan to ask
                   myself, what had I been doing? <name type="emotion">My conscience spoke aloud and accused me of the basest ingratitude, and most unpardon= =able neglect</name>. The Holy Spirit,
                   whose sacred work it is to convince men of sin, set mine before me in <sic>dreadfull</sic>
@@ -184,7 +184,7 @@
                   I therefore seated myself in the Chapel, <name type="emotion">feeling as an out-cast</name>, who had neither part nor lot in the matter. I endeavored to recollect that the Lord </p>
             </div>
             <div type="page" n="7">
-               <head>Page 7 <seg ana="MemLon_300036-09" /></head>
+               <head type="page" ana="MemLon_300036-09">7</head>
                <p> 7. was gracious, and that I had felt his love when a child, but this seemed only to<name type="emotion"> in= =crease my condemnation</name>. However the hap= =py moment of my
                   deliverance now drew near: during the meeting for reception, the grace of God was so powerfully operative in my soul, that <name type="emotion">my proud spirit was humbled: my heart
                      seemed to melt within me</name>: I thought, who knows, but there may be mercy even for me! And the gracious answer was given. - <abbr>Yea</abbr>, for thee! I have brought thee
@@ -198,7 +198,7 @@
                   privilege, not doubting but I should soon </p>
             </div>
             <div type="page" n="8">
-               <head>Page 8 <seg ana="MemLon_300036-10" /></head>
+               <head type="page" ana="MemLon_300036-10">8</head>
                <p> 8. obtain my wish, having previously <name type="emotion">felt such a powerful conviction that this people was indeed my people</name>, and their God, my God. But <name
                      type="emotion">my hopes were disappointed</name>, which I could not at that time understand, and even presumed to wonder at others being prefer= =red before me. But wonder shortly
                   ceased: The vileness of my nature appeared to me a suf= =ficient reason, why my request should not be granted, <abbr>till</abbr> a change should take place. I often thought. - Oh
@@ -211,7 +211,7 @@
                </p>
             </div>
             <div type="page" n="9">
-               <head>Page 9 <seg ana="MemLon_300036-11" /></head>
+               <head type="page" ana="MemLon_300036-11">9</head>
                <p> 9. <abbr>till</abbr> my heart was thoroughly changed, and the burthen of my sinful nature re= =moved far from me. The grace of God our Savior was alone able to effect this, I knew,
                   and I trusted that in his good time he would perform it. I had not then learn= =ed, that complete deliverance from indwell= =ing corruption is not to be attained in this imperfect
                   state. At this time, when I least expected it, my request was grant= =ed, and I was received a member of the <orgName>Brethrens Congregation</orgName>
@@ -223,7 +223,7 @@
                </p>
             </div>
             <div type="page" n="10">
-               <head>Page 10 <seg ana="MemLon_300036-12" /></head>
+               <head type="page" ana="MemLon_300036-12">10</head>
                <p> 10. to that Church fellowship, to which I was called, <abbr>thro'</abbr> grace, and for which, she knew, I had long been a candidate. But said she, you must excuse me, if I tell you
                   that I felt much concern likewise on your account. For what reason I asked; she replied, be= =cause your countenance indicated to me, that there was a load on your spirits. Can you
                   say there is not? <name type="emotion">I was astonish= =ed beyond measure</name>, and enquired if she thought I had been guilty of some outward transgression, which lay heavy on my
@@ -235,7 +235,7 @@
                   <corr>relief</corr> and consolation to my mind, as no language can describe: <name type="emotion">We wept together.</name> and surely the blessed </p>
             </div>
             <div type="page" n="11">
-               <head>Page 11 <seg ana="MemLon_300036-13" /></head>
+               <head type="page" ana="MemLon_300036-13">11</head>
                <p> 11. Spirit of God accompanied her words to my heart, and opened my understanding to see things in a new light. How precious did the blood of atonement now appear to my soul. I saw
                   and was <sic>thankfull</sic>
                   <corr>thankful</corr> to see that <abbr>tho'</abbr> I should remain a sinful creature, yet the me= =rits, and grace of a crucified Savior mere a= =bundantly sufficient<del>ly</del>
@@ -247,7 +247,7 @@
                   burthen, and promote their growth in grace, </p>
             </div>
             <div type="page" n="12">
-               <head>Page 12 <seg ana="MemLon_300036-14" /></head>
+               <head type="page" ana="MemLon_300036-14">12</head>
                <p> 12. and in the knowledge of our Lord and Savi= =our Jesus Christ. It is true that He alone can effectually <sic>releive</sic>
                   <corr>relieve</corr> the distressed soul, but it is our duty to use the appointed means. I need scarcely say, that from this time, a great change took place in my heart, and that for
                   a season, <name type="emotion">I felt inexpressibly happy</name>: my soul did truly magnify the Lord, and my Spirit rejoiced in God my Savior. I now saw and <sic>beleived</sic>
@@ -259,7 +259,7 @@
                   depravity of the human </p>
             </div>
             <div type="page" n="13">
-               <head>Page 13 <seg ana="MemLon_300036-15" /></head>
+               <head type="page" ana="MemLon_300036-15">13</head>
                <p> 13. heart! Who can know it? In <date>October</date> the same year, I was <abbr>favor'd</abbr> to be spectator at the Holy Communion, which <name type="emotion">filled me with
                      gratitude and praise</name>. The moments I spent beholding the Congregation partake of their divine repast, were <name type="emotion">some of the happi= =est in my whole
                      life</name>, I will not attempt to describe what I enjoyed; Suffice it to say, it was <name type="emotion">inexpressible delight</name>, such as has seldom fallen to my lot here
@@ -271,7 +271,7 @@
                   indispen= =sable for every communicant to enjoy at </p>
             </div>
             <div type="page" n="14">
-               <head>Page 14 <seg ana="MemLon_300036-16" /></head>
+               <head type="page" ana="MemLon_300036-16">14</head>
                <p> 14. at this solemn feast, I was permitted to <name type="emotion">feel my self viler than the vile, so that I feared</name> and trembled exceedingly. Yet I after= =wards was enabled
                   to turn in prayer to our Savior, and he granted me such a sweet sen= =sation of his pardoning love, that <name type="emotion">my doubts were removed</name>, and by degrees I learned
                   to know, that a broken and contrite heart is most acceptable in his sight, and that poverty of spirit is the best preparation for this sacred ordinance. Some months now elapsed, in
@@ -282,7 +282,7 @@
                   unmerited goodness. In <date>August</date> I went with my Sister to pay him </p>
             </div>
             <div type="page" n="15">
-               <head>Page 15 <seg ana="MemLon_300036-17" /></head>
+               <head type="page" ana="MemLon_300036-17">15</head>
                <p> 15. a visit, and the change I saw in his coun= =tenance made me fear that his sickness would end in dissolution. During the few days that he survived, he was mostly de= =lirious,
                   but had many lucid intervals. In one of these he saw me standing by his bed, and asked me why <name type="emotion">I wept</name>? I answered, Be= =cause I know not, what I shall do
                   when you are removed hence. He replied, &quot;Trust in the Lord! He hath been my Friend; He will be yours also.&quot; These words have often come into my mind since that day. On the
@@ -293,7 +293,7 @@
                   eldest, should continue with my Brothers, and not return to <placeName>Tytherton</placeName> with my Sister. This was an unexpected stroke, and made me </p>
             </div>
             <div type="page" n="16">
-               <head>Page 16 <seg ana="MemLon_300036-18" /></head>
+               <head type="page" ana="MemLon_300036-18">16</head>
                <p> 16. made me still more earnestly intreat our Savior, to take me into eternal safety: as I fore= =saw, that much hurt to my soul might ensue. Going to rest one night with an <name
                      type="emotion">anxious and burthened mind</name>, as usual, I besought the Lord <name type="emotion">with many tears</name> to save and deliver me from what I so much dreaded;
                      <abbr>'till</abbr> at length <name type="emotion">weary and oppressed</name> I fell asleep, and had the following remarkable dream. I thought my self <abbr>possess'd</abbr> of a
@@ -305,7 +305,7 @@
                   Jew= =el with which I was adorned. They begged for a nearer view, and I reluctantly yielded </p>
             </div>
             <div type="page" n="17">
-               <head>Page 17 <seg ana="MemLon_300036-19" /></head>
+               <head type="page" ana="MemLon_300036-19">17</head>
                <p> 17. yielded to their request. Instantaneously I found the ring was withdrawn: I at= =tempted to grasp it; but it fell to the ground, from whence I snatched it with eager haste, and
                   found to my utter confusion, the stone was gone: <name type="emotion">I sought it with many tears, cry= =ing aloud to those about me for help,</name> but none assisted me: and when I
                   looked around I found my self forsaken and alone. Left in= =deed to all the <name type="emotion">horrors of despair. The door of hope was closed,</name> and my torment seemed already
@@ -318,7 +318,7 @@
                      dreaded having any intercourse with the world, but wished rather for dissolution.</name> And concluded </p>
             </div>
             <div type="page" n="18">
-               <head>Page 18 <seg ana="MemLon_300036-20" /></head>
+               <head type="page" ana="MemLon_300036-20">18</head>
                <p> 18. by requesting permission to go with him. He answered, not now, but you shall come hereafter. Thereupon he vanished out of my sight, and I awoke; my mind being impres= =sed with
                      <name type="emotion">such sensations of awe and grati= =tude, as I cannot express in words.</name> And though I lay no stress upon dreams in gene= =ral, yet I must, and do
                      <sic>beleive</sic>
@@ -333,7 +333,7 @@
                </p>
             </div>
             <div type="page" n="19">
-               <head>Page 19 <seg ana="MemLon_300036-21" /></head>
+               <head type="page" ana="MemLon_300036-21">19</head>
                <p> 19. the deceitfulness of sin, and the depravity of my corrupt nature; Unless some special mark of divine favor and acceptance should be vouchsafed unto me, which I had hitherto not
                   obtained. I had heard of children of God who had been favored with extraordinary manifes= =tations of our Lords presence to the eyes of their mind, and of their being assured of the
                   forgive= =ness of their sins, in so <sic>powerfull</sic>
@@ -347,7 +347,7 @@
                      deserved,</name> and yet much had been given unto me. That I had no right to </p>
             </div>
             <div type="page" n="20">
-               <head>Page 20 <seg ana="MemLon_300036-22" /></head>
+               <head type="page" ana="MemLon_300036-22">20</head>
                <p> 20. dictate to our Savior, but night, humbly and thankfully, to take out of His hands, what he was pleased to bestow. His gracious words. Blessed are they that have not seen, and
                   yet have <sic>beleived</sic>
                   <corr>believed</corr>&quot;,were applied, by the Holy Spirit. with such power to my heart, that I was enabled with conviction, to say, My Lord, and my God! I now <sic>beleive</sic>
@@ -362,7 +362,7 @@
                   behalf. But it pleased Him, that I should </p>
             </div>
             <div type="page" n="21">
-               <head>Page 21 <seg ana="MemLon_300036-23" /></head>
+               <head type="page" ana="MemLon_300036-23">21</head>
                <p> 21. first learn much of human instability, and of the latent evil which lay in my deeply cor= =rupted heart. Finding that my hope of returning to the Sisters House, was not likely
                   to be realiz= =ed, I began to reflect on what some of my friends had frequently suggested to me, <abbr>Viz</abbr>: That I was too much set upon it, and that I ought to make my mind
                   bend to circumstances. This was well meant advice, I am convinced, <name type="emotion">though in my ears, it had often sounded harsh and unfeeling; yet now I began to think it had
@@ -375,7 +375,7 @@
                   the faithful Shepherd now kept his hand over me, where should I have been! </p>
             </div>
             <div type="page" n="22">
-               <head>Page 22 <seg ana="MemLon_300036-24" /></head>
+               <head type="page" ana="MemLon_300036-24">22</head>
                <p> 22. But blessed be His name, He never left me alone, but followed me through all the mazes and windings, into which I was led by a heart that is deceitful above all things. The 2
                   Years that followed, I would rather pass over in si= =lence, though <name type="emotion">they were some of the most re= =markable in my whole life,</name> and perhaps also not the
                   least <sic>usefull</sic>
@@ -388,7 +388,7 @@
                   is termed| </p>
             </div>
             <div type="page" n="23">
-               <head>Page 23 <seg ana="MemLon_300036-25" /></head>
+               <head type="page" ana="MemLon_300036-25">23</head>
                <p> 23. the warning, &quot;Come out from among them, and be ye separate.&quot; often sounded in my ears, with a voice, like thunder, and embittered all: An Involuntary sigh would
                   frequently escape, which, when noticed, was sure to produce rail= =lery, and the accusation of being sanctimoni= =ous and righteous over much. Ah! I thought; you little know, how far
                   this is from being the real case: you are little aware, how I feel. At other times, I was commended for piety, for prudence, steady conduct <abbr>&amp;c. &amp;c.</abbr> by persons
@@ -399,7 +399,7 @@
                   flattery could reach me, on the one hand; nor uncharitable censures on </p>
             </div>
             <div type="page" n="24">
-               <head>Page 24 <seg ana="MemLon_300036-26" /></head>
+               <head type="page" ana="MemLon_300036-26">24</head>
                <p> 24. on the other; and where I might escape the snares and temptations that seemed to thicken a= =round me, and with which I was too weak to contend. I have before observed, that
                   meetings were held at our house on Sundays, and the Holy Com= =munion administered every 4 weeks. this bless= =ed ordinance <name type="emotion">I trembled to approach</name> and
                   con= =tinually resolved to absent my self from it; but a monitor within prevented me and would not suffer me to keep my self away. It may be won= =dered at by some, that in the state
@@ -410,7 +410,7 @@
                   period of my life I have ever considered a particular blessing. The Minister, who, served in this small part of the Congregation was an old </p>
             </div>
             <div type="page" n="25">
-               <head>Page 25 <seg ana="MemLon_300036-27" /></head>
+               <head type="page" ana="MemLon_300036-27">25</head>
                <p> 25. experienced Brother who appeared well acquain= =ted with the human heart, and knew how to sympathize with the weak and broken hearted sinner. His ministry was much blessed to my
                   soul, and his conversations often encouraged me to cast my burthen again, and again at the feet of Jesus, where none can ever perish. <name type="emotion">I felt freedom frequently
                      to disclose to him many of the ills which annoyed me,</name> and his fatherly ad= =vice and counsel has strengthened my con= =fidence in God my Savior. He has long been at home
@@ -422,7 +422,7 @@
                   and pleased that I had so far made up my mind, cost what it would, not to draw back, <name type="emotion">I could but be unhappy.</name> Here the hand </p>
             </div>
             <div type="page" n="26">
-               <head>Page 26 <seg ana="MemLon_300036-28" /></head>
+               <head type="page" ana="MemLon_300036-28">26</head>
                <p> 26. of God arrested me, and <name type="emotion">made me fear, and tremble exceedingly in his presence.</name> My heart smote me with anguish unutter= =able and <name type="emotion"
                      >I could only cry out in the bitter= =ness of my soul.</name> &quot;Lord have mercy upon me! and forgive the rebellious thought and intent of my heart, thy poor erring, and
                   disobedient chlid.&quot; the imaginations of whose heart are evil, and that continually. This anxious petition was heard, and the thought of my heart was pardoned, but <name
@@ -434,7 +434,7 @@
                   such an insatiable thirst after knowledge, in= </p>
             </div>
             <div type="page" n="27">
-               <head>Page 27 <seg ana="MemLon_300036-29" /></head>
+               <head type="page" ana="MemLon_300036-29">27</head>
                <p> 27. information, and food for the mind, which I thought was only to be acquired by reading a vari= =ety of books; that I have been led to murmur a= =gainst providence, that <name
                      type="emotion">such a strong desire was implanted within me,</name> and the means of gratifying it <sic>witheld</sic>
                   <corr>withheld</corr>! Now, many books were put into my hands, of which I knew nothing before, some of which I read with pleasure and satisfaction: they left no taint on the mind.
@@ -446,7 +446,7 @@
                      <abbr>apprentic'd</abbr>, but the eldest, with whom I lived, was unprovided for, and must in a case of </p>
             </div>
             <div type="page" n="28">
-               <head>Page 28 <seg ana="MemLon_300036-30" /></head>
+               <head type="page" ana="MemLon_300036-30">28</head>
                <p> I28. separation, seek a situation, as he would have no home or employment, <name type="emotion">this thought cut me to the heart,</name> as I was much <abbr>attach'd</abbr> to him,
                   and I deferred it from time to time, though at the <sic>expence</sic>
                   <corr>expense</corr> of peace of mind to which I was now, a stranger. <name type="emotion">I was distressed and perplexed on every side. and my burthen seemed frequently greater than
@@ -461,7 +461,7 @@
                   another so suddenly, when I had not even told him </p>
             </div>
             <div type="page" n="29">
-               <head>Page 29 <seg ana="MemLon_300036-31" /></head>
+               <head type="page" ana="MemLon_300036-31">29</head>
                <p> 29. what was intended: <abbr>O</abbr> what pangs did this occasion: my conscience seemed to accuse me of cruel treatment to one I so much loved, and the ene= =my of my soul loaded
                   me with the foulest reproach= =es that can be imagined <abbr>till</abbr>
                   <name type="emotion">I really felt on the verge of destruction.</name> But it may well be said that our extremity is Gods opportunity! Just at this critical period, He was pleased to
@@ -474,7 +474,7 @@
                   could witness my distress, and fixed </p>
             </div>
             <div type="page" n="30">
-               <head>Page 30 <seg ana="MemLon_300036-32" /></head>
+               <head type="page" ana="MemLon_300036-32">30</head>
                <p> 30. upon our little burying ground, at <placeName>Tytherton</placeName>, at that time, a most retired spot, where many an aching heart was poured out to Him who seeth in secret.
                      <name type="emotion">Here I gave full vent to my pent up feelings: I wept and prayed aloud,</name> entreating the Lord, to remove a burthen which was too heavy for me. At length,
                   quite exhausted and overcome I threw my self on my grave of my dear depart= =ed Father, <name type="emotion">indulging for some moments an agony of grief which is indeed
@@ -486,7 +486,7 @@
                   Him without reserve.) </p>
             </div>
             <div type="page" n="31">
-               <head>Page 31 <seg ana="MemLon_300036-33" /></head>
+               <head type="page" ana="MemLon_300036-33">31</head>
                <p> 31. The conflict was now decided; I was at no loss to know His will: and I felt assured, that He would strengthen my weakness, so that I should be able to perform what He required
                   of me, though I had much before me to contend with, I was aware. In this frame of mind, I soon returned home, and without delay, I informed my brother and other friends of my
                   intentions. By many, I was highly blamed, and by some commended. But I had resolved, nor did I repent it. Whatever my feelings might suffer, I determined, by God's help to stand
@@ -498,7 +498,7 @@
                   at <placeName>Tytherton</placeName> to the </p>
             </div>
             <div type="page" n="32">
-               <head>Page 32 <seg ana="MemLon_300036-34" /></head>
+               <head type="page" ana="MemLon_300036-34">32</head>
                <p> 32. Sisters House. and met with a hearty recepti= =on from all my former associates, particularly my Dear Sister <name type="emotion">which excited gratitude and
                      thankfulness.</name> &quot;What shall I render unto the Lord &quot;for all His benefits!&quot; The following day I had the favor to celebrate the solemn festival of the <date>13th
                      of November</date> with the Congregation. It was a day I never can forget, <name type="emotion">nor can I describe what pas= =sed within my breast:</name> Suffice it to say, that
@@ -510,7 +510,7 @@
                   these years, </p>
             </div>
             <div type="page" n="33">
-               <head>Page 33 <seg ana="MemLon_300036-35" /></head>
+               <head type="page" ana="MemLon_300036-35">33</head>
                <p> 33. more a cause of mental suffering, than even of bodily pain, though the latter was often of a trivi= =al kind. I could however, at times, &quot;Cast all my &quot;care upon Him,
                   who cared for me.&quot; and believe that all was working together for my souls good. And I have no doubt, but every cross was a needful one, designed by my Heavenly Father, and all
                   wise Savior to keep me nearer to Him- -self. My dear Brother's care, was still a great weight on my mind, and <name type="emotion">embittered the daily comforts of my life,</name>
@@ -522,7 +522,7 @@
                   meal. I might, I think, be allowed </p>
             </div>
             <div type="page" n="34">
-               <head>Page 34 <seg ana="MemLon_300036-36" /></head>
+               <head type="page" ana="MemLon_300036-36">34</head>
                <p> 34. allowed to say of much of this period of my existance. These were golden day, Sweetly spent in prayer and praise. But not all. <name type="emotion">My de= =praved heart still
                      caused me much to sigh over. and many anxious hours.</name> I also depended too much upon frames and feelings. This was pre= =suming too much. to rely on the promises of God our
                   Savior, contained in his Holy word, to con= =fide in Him in gloomy hours as well as light= =some days, and to keep the eye of faith directed to His complete atonement. and to that
@@ -533,7 +533,7 @@
                   then, not so fully understood, were treasured up in my memory. and have been useful in subsequent years. </p>
             </div>
             <div type="page" n="35">
-               <head>Page 35 <seg ana="MemLon_300036-37" /></head>
+               <head type="page" ana="MemLon_300036-37">35</head>
                <p> 35. In the spring of <date>1790.</date> it was judged proper to establish a <sic>preparotory</sic>
                   <corr>preparatory</corr> institution in <placeName>Ty= =therton</placeName> for the purpose, of receiving young peo= =ple, who applied for leave to live in the Sis= =ters house: and
                   a proposal was made to me, with five or six others to make the beginning: <name type="emotion">I felt much hesitation, and would rather have been excused;</name> but consented to go,
@@ -546,7 +546,7 @@
                      charge of others,</name> and my natural love of ease made </p>
             </div>
             <div type="page" n="36">
-               <head>Page 36 <seg ana="MemLon_300036-38" /></head>
+               <head type="page" ana="MemLon_300036-38">36</head>
                <p> 36. made me shrink from the degree of responsi= bility in which this situation would involve me. I however saw it too important to be trifled with; looked to the Lord for direction,
                   and was enabled to venture upon this new un= =dertaking under a sense of His divine help and support. Some time previous to this I had read a work describing a company of Pilgrims
                   travel= =ling to Zion, and had been much pleased with it. These Pilgrims, it was said, had, during their Journey, been induced to leave the narrow path, and turn into a beautiful
@@ -557,7 +557,7 @@
                   would not think that a represen= =tation like this read and considered by a re= </p>
             </div>
             <div type="page" n="37">
-               <head>Page 37 <seg ana="MemLon_300036-379" /></head>
+               <head type="page" ana="MemLon_300036-379">37</head>
                <p> 37. reflecting mind, would be sufficient warning to avoid the same snare. But I completely followed their example. I turned aside to exam= =ine what was too wonderful for me, and to
                   pluck flowers which I had no business so much as to touch; but I wandered on, presuming to scrutinize into the ways of God with his crea= =ture man, and to think his dealings unequal
                   and unjust. His leadings with me, vile worm, I saw quite in a new light, and thought my- =self hardly dealt with; while others were more favored, both as to spirituals, and
@@ -569,7 +569,7 @@
                </p>
             </div>
             <div type="page" n="38">
-               <head>Page 38 <seg ana="MemLon_300036-40" /></head>
+               <head type="page" ana="MemLon_300036-40">38</head>
                <p> 38. spirits, that <add>I thought</add> the Almighty had set a mark upon me, as He did upon Cain, and that whoever should attentively observe my coun= =tenance would discover too
                   much of what passed within. Indeed, so completely did I feel in the enemys power, and so <sic>harrassed</sic>
                   <corr>harassed</corr> by his vile insinuations, that <name type="emotion">I thought it must be hurt= =ful to those about me, which made me exceed= =ingly concerned for the young
@@ -581,7 +581,7 @@
                   me in such an unusual way; but I shunned enquiries as much as possible, to </p>
             </div>
             <div type="page" n="39">
-               <head>Page 39 <seg ana="MemLon_300036-41" /></head>
+               <head type="page" ana="MemLon_300036-41">39</head>
                <p> 39. to my own hurt and detriment. At length in the latter part of this memorable year <date>1792.</date> one evening when we were alone, she expressed great concern on my account,
                   adding, that my conduct was so strange, there must be some hidden cause which I would not disclose even to her, by which she was deprived of sharing the burthen with me, as she had
                   often done before. This was a stroke I could not evade. <name type="emotion">But felt the remark in all its force.</name> At last I owned that my distress was great, but to burthen
@@ -594,7 +594,7 @@
                </p>
             </div>
             <div type="page" n="40">
-               <head>Page 40 <seg ana="MemLon_300036-42" /></head>
+               <head type="page" ana="MemLon_300036-42">40</head>
                <p> 40. anguish of my spirit. <abbr>O</abbr> most merciful God and Savior, if thou canst, and wilt help me, why may I call upon thee now, and cast my self as a vile and perishing
                   sinner, at thy through pierced feet. <abbr>O</abbr> that I could like Magdalene wash them with contrite tears, and like her, be assured that my many sins were forgiven. Mine exceed
                   hers, by far, because of ungratitude for so many mer= =cies already received. While I thus called upon the Lord, in the day of trouble, He hast= =ened to deliver me. He did not
@@ -605,7 +605,7 @@
                   and might say much as regarding my own imperfections </p>
             </div>
             <div type="page" n="41">
-               <head>Page 41 <seg ana="MemLon_300036-43" /></head>
+               <head type="page" ana="MemLon_300036-43">41</head>
                <p> 41. from the only worthy object, allowing creature comforts and enjoyments to entwine their silken threads around my heart, there= =by robbing my Creator and Redeemer of what is so
                   justly due to Him. an undivided heart. Alas! I must candidly confess that the last mentioned evil has been one of the sins, if not the most distinguished sin that hath so easily
                   beset me during life. <name type="emotion">I have thereby often grieved the Spirit of God, and hindered the growth of grace in my own soul.</name><lb />
@@ -615,7 +615,7 @@
                   fearful forebodings, as to cause her much uneasiness. - and this again operating upon the nervous weakness of her delicate frame of body, at times because </p>
             </div>
             <div type="page" n="42">
-               <head>Page 42 <seg ana="MemLon_300036-44" /></head>
+               <head type="page" ana="MemLon_300036-44">42</head>
                <p> 42. so powerful, as to unhinge that clearness of thought and judgment, which she in general exhibited. The nervous debility above alluded to, was considerably increased in
                      <date>1803.</date> when after unremitting attention at the sick bed of her Brother, until his de= =parture. She also went to nurse an Uncle, when she herself was taken extremely
                   ill, and it had a visible effect upon her gene= =ral constitution. In <date>1805.</date> she received and accepted a call to be warden, and subsequent= =ly to be Laboress of the
@@ -626,7 +626,7 @@
                   harm; adding, that she trusted she had never been the means of leading one poor soul astray. Nor indeed was her solicitude, as </p>
             </div>
             <div type="page" n="43">
-               <head>Page 43 <seg ana="MemLon_300036-45" /></head>
+               <head type="page" ana="MemLon_300036-45">43</head>
                <p> 43. as to the salvation of the souls confined with= =in the walls of her own House; no one could be more pleased, to hear the invitations of Jesus, as the Friend of sinners, closely
                   and zealously pressed upon the public auditory. And in one of her last interviews with her medical advis= =er who had faithfully and assiduously attended upon her, for the last years
                   of her suffering life, She exclaimed; &quot;Ah, dear Sir, If I could say &quot;one word for the good of your soul, I should be &quot;thankful, but the Lord, alone can do that. I
@@ -638,7 +638,7 @@
                   goodness.&quot; After </p>
             </div>
             <div type="page" n="44">
-               <head>Page 44 <seg ana="MemLon_300036-46" /></head>
+               <head type="page" ana="MemLon_300036-46">44</head>
                <p> 44. After pausing a while, she exclaimed. - &quot;It is &quot;finished! Salvation's finished now! a full and &quot;complete salvation has my Savior purchased for &quot;me! He was
                   forsaken of His Heavenly Father, &quot;then, what wonder that I at times have felt forsak= &quot;=en: but now my Savior is with me, and doth all &quot;things well.&quot; Turning to
                   those who were present, she added. &quot;My Dear Sisters, never forget these &quot;words. It is finished! but for these words, <name type="emotion">my &quot;doubts and fears would
@@ -650,7 +650,7 @@
                   for now that pain of body is &quot;come upon me, what should I do if I yet had my &quot;Salvation to seek! If the happy Spirits above are </p>
             </div>
             <div type="page" n="45">
-               <head>Page 45 <seg ana="MemLon_300036-47" /></head>
+               <head type="page" ana="MemLon_300036-47">45</head>
                <p> 45. &quot;are permitted to look down upon the earth, <name type="emotion">how hap= &quot;py should I be, when I have joined the Heavenly &quot;Choirs,</name> to see you all
                   prospering to the Lord, and to &quot;know that yours is not a mere profession, but a &quot;real conversion of the heart. When you feel how &quot;sinful you are do not forget to turn
                   in prayer to &quot;our Savior; and let the language of your hearts be &quot;such as is expressed in that beautiful verse. - Heal me, &quot;<abbr>O</abbr> my souls Physician,
@@ -663,7 +663,7 @@
                   last summons, </p>
             </div>
             <div type="page" n="46">
-               <head>Page 46 <seg ana="MemLon_300036-48" /></head>
+               <head type="page" ana="MemLon_300036-48">46</head>
                <p> 46. and added she. &quot; Now I can say with my Dear &quot;Brother, I have a desire to depart and to be with &quot;Christ: which is far better.&quot; Thus the affection which she
                   bore for her Brother, from being a tie to this earth; became an additional attraction to the Courts above; and only one of her Family remained to witness with an aching heart, the
                   sufferings of her dying hour. The hope of being any more restored to comparative health, which had been often effected, by her <sic>skilful</sic>
@@ -675,7 +675,7 @@
                   shown to us. &quot;Ah!&quot; &quot;What shall I feel, when I, -- the glorious Choirs espy;-- In bliss unceasing.&quot;! On the morning </p>
             </div>
             <div type="page" n="47">
-               <head>Page 47 <seg ana="MemLon_300036-49" /></head>
+               <head type="page" ana="MemLon_300036-49">47</head>
                <p> morning of her departure, here SIster and other kind friendsand attendants being present. She intimated that it was high time for the blessing for departure to be pronounced upon
                   her.-- Upon the Brothers entering, her surprize was appa- rent, in not seeing that Brother, whom she had of- ten in her life time, she would wish all others to pronounce this last
                   solemn benediction over her. She was told: He was on a Visit to our <placeName>Malmes- bury</placeName> Brethren and Sisters. With great difficulty, she said: &quot;I wished to have
@@ -686,7 +686,7 @@
                   passage of Scripture to be found in the 7th Chpaterof Revelations the 13th and 14th Verses. &quot;What </p>
             </div>
             <div type="page" n="48">
-               <head>Page 48 <seg ana="MemLon_300036-50" /></head>
+               <head type="page" ana="MemLon_300036-50">48</head>
                <p> &quot;What are these, arrayed in white robes, &quot;and whence came they. then at which her Doc- tor and several Relations were present. </p>
             </div>
          </div>
