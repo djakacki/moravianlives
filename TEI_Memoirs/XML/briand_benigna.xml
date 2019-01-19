@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Benigna Briand: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir">Benigna Briand</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0132-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0132-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0132-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Benigna Briand</head>
+            <div type="page" n="1">
+               <head type="page" ana="MemBeth_0132-01">1
+               </head>
+               <p> Here followed the <date when-iso="03-22">22nd of March</date> our dear <persName>Sister Benigna Briand</persName>. She was born the <date when-iso="1707-12-17">17th of December
+                     1707</date> at <placeName>Lyneham</placeName> in <placeName>Wiltshire</placeName>. Her Parents have been of the <orgName>Quaker Religion</orgName> &amp; She was brought up in the
+                  same Principles. <date when-iso="1740-02-19">Anno 1740 the 19th february</date> was She marryed to our <persName>Br. Briand</persName> &amp; they followed a religious Life according
+                  to her Principles, But as <persName>Br. Lennick</persName> in this bounty his Preachings begun, She &amp; her <persName ana="Br. Briand">Husband</persName> went to hear him but Both
+                  got such an Impression at first that they offered <persName>Br. Lennick</persName> their house for for a Preaching Place, that was not all but they offered every Body who came to
+                  hear <persName ana="Br. Lennick">him</persName> to harbour free. They bought at last a House &amp; provided a Silence to preach therein.This occonomie (economy)continued many years,
+                  without finding hereby any Rest for their own Heart. <persName>Br. Lennick</persName> was perfected all round the Country, &amp; by that means our <persName ana="Benigna Briand"
+                     >Sister</persName> often herself in Danger of her Life. To the same Time it happened that a certain Man was so <name type="emotion">enraged</name> about <persName>Br.
+                     Lennicks</persName> Preachings from the Blood of Christ, that he made a Plot with several wicked People that they would, <persName>Br. Lennick</persName> as his Auditory guide
+                  overstream with Blood of Oxen. But this Man on a Sudden became <name type="emotion">mad</name> &amp; <name type="health">clear Blood ran out of his nose &amp; Mouth</name> &amp; this
+                  continued several weeks under extraordinary <name type="emotion">Pain</name>, his terrible &amp; <name type="emotion">furious</name> Sooth made, that nobody would venture to come
+                  near him, /// till he at last with <name type="emotion">Howling &amp; bawling</name> went to Eternity. All his Companions found in some Way or other by &amp; by a comendable End. In
+                  this restless Time, <persName>Br.Briand</persName> accompanyed <persName>Br. Lennick</persName> to <placeName>London</placeName> &amp; there lernt (learned)by that Opportunity to
+                  know the Brethren he was so over- taken by the Grace of <persName>Christ</persName> among them, that he on his Retour testifyed it to his dear <persName ana="Benigna Briand"
+                     >Wife</persName> to a great Im- pression of her Heart. She directly begg'd him that he would invite the Brethren to <placeName>Wiltshire</placeName>, which done according to the
+                     <name type="emotion">general Desire</name> of the awakened Souls in this Parts. <persName>Br. Schlicht</persName> was the first after <persName>Br. Lennick</persName> who was sent
+                  thiter (thither), his Testamony of Christ found Applause &amp; our <persName ana="Benigna Briand">Sister</persName> declared herself: for this Preachings of the Sake of our
+                     <persName>Saviour</persName> I venture my All. Now begun her Period wherein our <persName>Saviour</persName> begun to draw nearer to her Heart, her natural Fire begun by Degrees
+                  to dye &amp; <persName>the holy Ghost</persName> brought her in his School to a more childlike &amp; yielding Temper. As our <persName>Mr. Johanes</persName>
+                  <date when-iso="1748-05-09">1748 the 9 of May</date> in <placeName>Buttermere</placeName> the Congregation errected she was baptiseth by him in the Death of <persName>
+                     Christ</persName> by the Name <persName>Benigna</persName> &amp; that was her Name by right &amp; <date when-iso="09-22">the 22nd of September a.c.</date> She was admitted to the
+                  holy Sacrament to a real &amp; remaining Blessing for her Heart. She lived 7 Miles distant of us, but surely came every Sunday to our Preaching &amp; that 6 years, till she removed
+                  with her <persName ana="Br. Briand">Husband</persName> to <placeName>Bath</placeName>. Here she entertained the Brethren as formerly which just now begun to visit and preach in </p>
+            </div>
+            <div type="page" n="2">
+               <head type="page" ana="MemBeth_0132-02">2
+               </head>
+               <p> in this Parts, with all imaginable <name type="emotion">Tenderness</name> &amp; wish'd nothing more as that the Brethren would settle in this <placeName ana="Bath"
+                  >Place</placeName>. In the meantime She &amp; <persName ana="Br. Briand">her Husband</persName> visited diligently at <placeName>Bristol</placeName> till <date when-iso="1757"
+                     >1757</date>. a <orgName>Society</orgName> was errected at <placeName>Bath</placeName>. Her House was the Residence of our Labourer &amp; She made it her Pleasure to serve
+                     <persName ana="Brethren">them</persName>. <persName>Our Saviour</persName> blessed her marrigage with 6 children, whereof 4 is ready by <persName>our Lord</persName> &amp; the
+                  rest is in the Care of the Congregation. Our blessed <persName ana="Benigna Briand">Sister</persName> had extra ordinary Gifts of <persName>our Saviour</persName>. Her skillfull
+                  &amp; understanding Behaviour, &amp; the Maintainance of so many, of her poor Nighbours, which She with a willing Heart took upon her, caused that every Body <name type="emotion"
+                     >loved &amp;respected</name> her. Her Heart hung on our <persName>Saviours</persName>, &amp; his Death &amp; <name type="emotion">Suffering</name>, was the most <name
+                     type="emotion">delightfull</name> object of her Soul. By the last visit of <persName>Mr. &amp; Sister Nilshman</persName> on this Place She came among the Hourly Intercessors,
+                  which was a real Blessing to her &amp; She came never from her Conversation Hour with <persName>our Saviour</persName> without <name type="emotion">Tears in her Eyes.</name> I was
+                  with <name type="emotion">Plesure</name> to behold how She from Day so became more <name type="emotion">tender &amp; intimate</name> with her only Friend &amp; bloody
+                     <persName>Breidegroom of her Soul</persName>! Scarcely could a Body him name to her, then her <name type="emotion">Tears of Love</name> begun to flow. As She in <date
+                     when-iso="06">June</date> was in <placeName>Bristol</placeName> She said: "Now I come not more hither, till I am to be buryed here." <date when-iso="06-13">the 13th</date> She
+                  enjoyd our <name type="event">Lords Supper</name> the last time, &amp; not long after She was forced to lay down &amp; as /// it could be guessd; that She would get the <name
+                     type="health">Smal Pox</name>. One of her Daughters did all She could to hinder that her Dear Mother should not be perplept about it; to which She said: "My dear Child, why should
+                  I be <name type="emotion">afraid</name> thereof, <persName>Our Saviour</persName> must take one Say or another to promote my Departing from this dying Body, if it is by this Way
+                     <persName>his</persName> holy Will, that's all one to me." May <persName>he</persName> only give me <name type="emotion">Patience</name>, then my most <name type="emotion"
+                     >happy</name> Lot is to be with him. <date when-iso="03-16">the 16th of March</date>, the <name type="health">Smal-Pox</name> became visible, She defyneth her Husband to absent
+                  himelf because he had not to, &amp; declard to him that she was quite resignd into the <placeName>Hill of our Saviour</placeName>. The following Day came her Daughter from
+                     <placeName>Bristol</placeName> to see her, to which she related the blessed Situation her was in. <date> The 21st</date> as <persName>Mr. Miller</persName> asked her: if She
+                  intented to go home. She replied: yes, that I will, if it is the <name type="emotion">Pleasure</name> of my <persName>Saviour</persName> to fetch me. There is no Misunderstanding
+                  between me &amp; <persName ana="Saviour">him</persName>. Her <name type="emotion">Pain</name> She endured with astonishing <name type="emotion">Patience</name> &amp; said: What's
+                  that little Skinmark in Proportion to what our <persName>Saviour</persName> endured for my Sake. The Night following a great Alteration happened by her. Her Daughter inquired: Mommy
+                  will you really go home? "Yes replied She." but I must first see some Br. &amp; Sisters." She then went for <persName ana="Br. Lennick">Br.</persName> &amp; <persName>Mr.
+                     Miller</persName> but as they came she found her Preachless allready. They kept her a pretty Liturge &amp; under these Words: Der konig wende fich yu dir, und deine narde riech
+                  &amp; flew her </p>
+            </div>
+            <div type="page" n="3">
+               <head type="3" ana="MemBeth_0132-03">3
+               </head>
+               <p> her happy Soul into the Bosom of her <persName>bloody Bride groom</persName>. In the 56th Year of her Age <persName ana="Br. Briand">Her Husband</persName> who had in his Sleep an
+                  Instinct of her Departure, said as he awaked to the People in the House: My <persName ana="Benigna Briand">Wife</persName> is gone, fell down on his Face &amp; thanked our dear
+                     <persName>Saviour</persName> for all the Blessings bestowed on her. Soon after that, <persName>Mr. Miller</persName> came before his Door &amp; sung: Ihi Mund ist mun erblasset in
+                  Jesu Arm is School, as <date>the 25th</date> was her Corps upon her <name type="emotion">Desire</name> brought to <placeName>Bristol</placeName> &amp; these intered. <date>the
+                     25th</date>
+                  <persName>Br. Rogers</persName> did the Act of his Function as <persName>Mr. Chapmann's Vicar</persName> performed the Prayer of the english Church in <placeName>the Church at
+                     Bath</placeName> &amp; preach'd the Days following in his Country Chaples. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

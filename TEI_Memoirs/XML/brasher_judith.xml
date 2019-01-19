@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judith Brasher: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives Bethlehem</repository>
+                  <msName type="memoir" ana="MAB/MemBeth_0209">Judith Brasher)</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-10.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-11.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0209a-12.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Judith Brasher</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="MemBeth_0209a-01" />
+               </head>
+               <p>An Account of the Life of Judith Brasher</p>
+            </div>
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemBeth_0209a-02" /></head>
+               <p>This is a short Account of the Forbearance of God to- -wards Me poor Sinner, born <date><del>April 9<hi rend="superscript">th</hi></del></date>. <add><date>May 8<hi rend="underline"
+                              ><hi rend="superscript">th</hi> 1700</hi></date></add>. and <abbr>baptiz&#39;d</abbr>
+                  <unclear><del>1729</del></unclear> in the <abbr>Reformd</abbr> Church by the Name of <persName>Judith</persName>. <gap />My Father was <persName>Stephen Gashery</persName> of
+                     <placeName>Kingston in Esopus</placeName>. The Lord took my Mother from Me, when I was a Child of 2 Years and 9 Months, and a little Brother of 9 Months old: and so by the
+                  Providence of God, We two Orphan Children fell under the Tuition of my very dear and kind Grandmother <persName>Judith Gashery</persName>; She had a tender Concern for Me, and
+                  oftentimes reminded Me that I was baptized into Jesus Christ, into his Death; and that He was the Propitiation for our Sins, and for the Sins of the whole World; and that all who
+                  believe in Him, and are baptized, shall be saved; and all such as turn with their Heart unto the Lord: telling Me also how much our dear Lord Jesus Christ had <abbr>sufferd</abbr>
+                  for Us; from his Birth to his bitter Death: Thus the Gospel was <abbr>preachd</abbr> unto Me from my Infancy, by my Grandmo- -ther; She had a tender Care over Me; and my Father left
+                  me entirely to the Direction of my Grandmother, who was a Widow of <add>more than</add> 70 Years of Age; She had left her Country </p>
+            </div>
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="MemBeth_0209a-03" /></head>
+               <p>and Substance <hi rend="underline"><add>Friends</add></hi> in the Time of the great Persecution, in <placeName>France</placeName>, under <persName>Lewis the 14</persName><hi
+                     rend="superscript"><persName>th</persName></hi><persName>.</persName> for the Sake of the Lord Jesus; So She and several Others, having left their own Country, and
+                        <abbr><sic>travelld</sic>
+                     <corr>traveld</corr></abbr> from one Kingdom to another, at last came into this Part of the World, where my Grand-mother and another <del>[illegible]</del>
+                  <add>Family <del>of <unclear>Jesus</unclear></del></add> took up their abode; and these Two were alone <del>[illegible]</del>
+                  <add>and</add> could converse with no Body, for the People of the Place spoke Dutch, where my Father learnt the Dutch Language and was afterwards Lecturer, Cantor and Schoolmaster to
+                  the <abbr>Reformd</abbr> Con- -gregation there, and the <abbr>formentiond</abbr>
+                  <del>Person with his</del>
+                  <add>Family Man</add> Wife and Children with my Grandmother had their Meetings, where they read <abbr>prayd</abbr> and sung in the French Language in my Fathers House. <gap />In the
+                  Year <date>1707</date>, my Father married a second Wife, which was a <add>great</add> Grief to my dear Grandmother, who <abbr>returnd</abbr> me back to my Father, and after She had
+                  given me her Blessing, and with many Tears recommended me to God, She removed to <placeName>New York</placeName>, to live with her Niece, which She brought from
+                     <placeName>France</placeName> along with Her. <gap /><abbr>O</abbr> how very miserable were now my [page break] Days. what my Grandmother used to tell me of was now no more
+                     <abbr>mentiond</abbr>: But the Lord gave me many a Scripture Word out of the Bible, which I could not receive, yet I found that I was <abbr>admonishd</abbr> by them to put my Hope
+                  in God, which was an Easement to my Heart. In all my Distress, I could not tell my Trouble and Grief to my Father. He did not see much of it, for he had a great School and a very bad
+                  Wife, who gave him all Manner of Uneasiness. My Father brought Himself and his Chil -dren into Misery, and none but the Lord could help us out of it. <gap />The Time I was under my
+                  very hard Stepmother was 10 Years; in this Time of my Affliction, the Lord gave me in my Heart a sure Confidence, that in due Season He would help Me. <gap />In the Year
+                     <date>1717.</date> I took Leave of my Fa- -ther, and He gave Me his Blessing, I set off on my Journey to <placeName>New York</placeName>. I set off with the Captain and his Negro,
+                  and no Woman with Us; the Pressure of my Heart was great, then I cried to the Lord, and I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> on Jacobs fleeing
+                  from his Bro -ther Esau, and how God blest Him: And I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> if the Lord would keep Me and be a Father to Me, then
+                  would I love him and fear him all my Life long: And I made a Covenant </p>
+            </div>
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="MemBeth_0209a-04" /></head>
+               <p>with God: I can say that the Lord did so unto Me, and He by his Grace let me see the universal Corruption of Youth, and how much I stood in Need of his Grace and of his fatherly
+                  Protection; and the Lord also <abbr>shewd</abbr> Me, that He as my God did watch over me with paternal Care. <gap />In the Year <date>1723.</date> after I had lived in <placeName>New
+                     York</placeName> 6 Years, the Lord led me to the married State with my Husband <persName>Luke Brasher</persName>; I believed it to be the Lord&#39;s Will, <del>an</del> fully; and
+                  his Grace inclined me to be obedient, and <abbr>thro&#39;</abbr> his Guidance We Two became One. My Husband brought me into his Mother&#39;s House, who received Me as her Child, and
+                  She was also the Cause of my Husband first taking a Liking unto Me. <gap />I had more Inclination to continue in a single State, than to enter into the Mar- -ried I
+                     <abbr>prayd</abbr> unto the Father of all Grace, that He would guide, lead and counsel Me, how to behave my Self in this very weighty <del>Affair</del>
+                  <add>Action</add>; and the Lord heard Me in this, and <abbr>thro&#39;</abbr> his Grace <abbr>drawd</abbr> My Heart unto Himself, so that I many Times said, What shall I repay the
+                  Lord for all his Mercies and fatherly Kindness to Me poor Sinner? Then I heard as if spoken unto my Heart [page break] Give Me your Heart. And I said, <abbr>O</abbr> Lord! I am a
+                  great Sinner, how shall I give You my Heart? Then the Lord <abbr>shewd</abbr> Me that there is a spiritual Marriage, and that the Lord Jesus is the true Bridegroom of the Soul.
+                  <gap />At this Time I had more Confidence to the Father than to the Son, <abbr>tho&#39;</abbr> the Lord <abbr>drawd</abbr> me with his Grace and Love, powerfully, Night and Day unto
+                  his Son, teaching and instructing Me as a Father does his Child. I felt a Desire in my Heart to give my Self over to our Saviour. <gap />I was at this Time much <abbr>oppressd</abbr>
+                  with my Misery and <abbr>condemnd</abbr> Condition, I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> on the prodigal Son, and how friendly his Father
+                  embraced him, and <unclear><abbr>kipd</abbr></unclear> him and <sic>rejoyced</sic>
+                  <corr>rejoiced</corr> over him; this gave me Hopes of Mer- -cy, I <abbr>prayd</abbr> for the Forgiveness of all my Sins &amp; Misdeeds for Jesus&#39;s Sake, and the Lord Jesus
+                  forgave my Sins, Saying, Daughter, Your Sins are forgiven unto You. And I believed the Word of the Lord. <gap />In these Beginning of Grace, I found my Heart so thankful and
+                  rejoiced, to -wards the Lord Jesus, and desirous to abide in his Love, that I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> now will I die unto Sin, and
+                  henceforth walk in Newness of Life. <gap />I desired to be a Commu- -nicant in the Church of Christ, and I <abbr>searchd</abbr> my Heart </p>
+            </div>
+            <div type="page" n="5">
+               <head>Page 5 <seg ana="MemBeth_0209a-05" /></head>
+               <p>what it was that moved Me to it, and it was the Words of Christ, John 6.053, Where He says, Verily, verily, I say unto You, if he eat not the Flesh of the Son of Man, and drink his
+                  Blood, ye have no Life in You. <corr /><gap />In the Year <date>172<del>4</del><add><unclear>6</unclear></add></date> when I began with the Custom of catechizing and answering with
+                  Scripture Texts, as is usual in the <abbr>reformd</abbr> Church; I could give no Answer, my Heart was shut up, <abbr>oppressd</abbr> and dejected, especially, when the Point of
+                  God&#39;s Election was healed of, as it is written, Jacob have I loved, and Esau have I hated. <abbr>O</abbr> how <abbr>distressd</abbr> was my Soul! I had hard Thoughts of God, and
+                  would flee from Him: I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> it is possible that the Lord hates Me too, because I am a Sinner. Another Time I had a
+                  great Strife within my Self, I <abbr>tho</abbr><hi rend="superscript"><abbr>t</abbr></hi><abbr>.</abbr> if Christ died only for Believers, how do I know that I am a Believer; then
+                  came to my Mind, what my Grandmother used to say unto <add>me</add> of Free Grace and that when We were without Strength, Christ died for the Ungodly, and that Jesus atoned for the
+                  Sins of the whole World by his Death on the Cross. <abbr>O</abbr> thought I, if I had seen Jesus in the <del>Cross</del>
+                  <add>Flesh</add>, I would <add>have</add>
+                  <abbr>washd</abbr> his [page break] <gap />O Jesu! hadst Thou not sought for Me, and <abbr>followd</abbr> ever, <gap />I had not sought for Thee, nor found Thee, never. In the 36<hi
+                     rend="superscript">th</hi>. Year of my Age, I had yet a <abbr>darkend</abbr> Under- -standing, <abbr>thro&#39;</abbr> the Ignorance and Blindness of my Heart. In this Year, the
+                  Lord took my Husband, my best Friend from Me, and I believe that He is happily gone into Rest, after a consumptive Illness of 5 Years and a Half; and much Suffering both of Soul and
+                  Body; 14 Days before his Departure, He said to Me, that his Time was short, and desired to make his Peace with the Lord, who graciously gave him to feel his undone Condition, He
+                     <abbr>prayd</abbr> heartily for Grace, and the Forgiveness of his Sins, and the Lord heard Him and gave him a thirsting Desire that He said, <abbr>O</abbr> how I thirst for
+                  Redemption. The <date>25 of April</date>, He fell on Sleep in the 39<hi rend="superscript">th</hi>. Year of his Age after We had been married together 13 Years and a Half, &amp;
+                  having made Provision for his Family, Me and my two Children, and recommended Us to the Grace of God, in a hearty Confidence of Gods Mercy towards Us. <gap />He said to Me, God will
+                  bless you and your Children. he gave me his Advice how I should act in Case the Children </p>
+            </div>
+            <div type="page" n="6">
+               <head>Page 6 <seg ana="MemBeth_0209a-06" /></head>
+               <p>who were yet very young, should prove Undutiful, my oldest was a Daughter of 7 Years old, and the youngest a Son of 16 Months, who lay very near my Heart. <gap />Now I was brought
+                  into a new School, how very hard was my Heart, I could not acquiesce in the Will of God. <abbr>O</abbr> how painful and heavy it was unto Me; my Soul cleaved too much to outward
+                  Things, and I had no Power to humble my Self under the Hand of God: Under these Trials, the Lord gave Me to hope in his Grace: Saying my Strength is made perfect in Weakness. And
+                  this Promise was truly fulfilled to my Heart, yet my Fear was very Great; I saw that I now lay open to all the Temptations of the Enemy, the World and my own Corruption, I felt in my
+                  Self, that I had no Power against these Things, and This made Me to seek, cry and pray unto the Lord, and He also heard my Prayers. <gap />After I had been 2 or 3 Months in a State
+                  of Widowhood, I dreamt that I stood on <add>a</add> Shore which I must pass over; I could see no Land before Me, but all <abbr>lookd</abbr> like a drowned World,
+                     <abbr>overstreamd</abbr> with a great and muddy Deluge; I saw a Bridge which was very narrow, over which I was obliged to go, and to carry with me a great Burden [page break]
+                  which was heavier than my Body, this I carried in a Bucket in my Left Hand; I <abbr>enterd</abbr> very patiently and willing on this narrow Way, I could not walk, but was forced to
+                  creep like a Worm over it, for to walk was impossible for me, and the Light was dim, like the first Rays of Day Break, I was obliged to hold fast with my Right Hand by the Edge of
+                  the narrow Bridge, for fear of falling into the dreadful Stream; at last I saw before Me a sandy Land which the Water had left; then I <abbr>thankd</abbr> the Lord my God for my
+                  Deliverance; I was also freed from carrying the Burden any more; I stood on my Feet, and would go on- -ward, but could not, for the Earth was like a Sea of Sand, and I sunk in it,
+                  then I was in my Soul sore afraid, and I said unto God, with a very heavy Heart, I have been <abbr>helpd</abbr> over the narrow Way, and shall I sink in This, and perish. In this
+                  Distress God came to my Relief by a Hand like unto a Mans Hand, which <add>took</add> Me by the Hand and led Me unto firm and solid Ground; and I <abbr>thankd</abbr> the Lord who
+                  sent me this Deliverance also: I then <abbr>walkd</abbr> to the House of my Mother&#39;s Brother, which stood upon a Hill; after a little while I went to see the very pleasant
+                  Country around Me, and I looking toward the East, saw the Sun in his full </p>
+            </div>
+            <div type="page" n="7">
+               <head>Page 7 <seg ana="MemBeth_0209a-07" /></head>
+               <p>Brightness, and another Sun shone out of the First, and <abbr>returnd </abbr>again into the first Sun. And so there went out 11 or 12 Suns, and <abbr>appeard</abbr> in the Heavens in
+                  a most glorious Circle; and the Lustre of the glorious Sun did not dazzle my Eyes, but I could look on it, as if it had been the Moon; I was greatly rejoiced in my Heart, and felt
+                  such a sweet Consolation, Bowedness and Love to the Sun of Righteousness, that I said to One who was with Me, See what a glorious Sight there is in the East. upon which He
+                     <abbr>answerd</abbr> Me, Look toward the West. And I <abbr>turnd</abbr> about and <abbr>lookd</abbr> toward the West toward Heaven, and saw two Pictures of the same Bigness, the
+                  One was a <sic>Pourtrait</sic>
+                  <corr>Portrait</corr> of the Father, and the Other of the Son. This Sight <abbr>filld</abbr> Me with Fear and Trembling for the infinite Majesty of God, and I <abbr>prayd</abbr> for
+                  Grace of the Father, who <abbr>lookd</abbr> upon Me with Anger, and <abbr>bowd</abbr> my Heart unto the Son who was on his Right Hand, before whom I <abbr>kneeld</abbr> with
+                  Trembling, and implored Grace for the Sake of Jesus his beloved Son, who let his friendly and merciful Countenance shine upon Me, and my Fear was taken away from Me. <gap />Here I
+                     <sic>awaked</sic>
+                  <corr>awoke</corr> from my Dream and the Sleep of Sin, and I saw and believed, that the Father had manifested [page break] his Son unto Me, as the Mediator between God and Me, and
+                  that I could obtain no Grace of God, but only through Jesus, who is the Mediator, and Advocate with the Father. I saw that all my Reformation can not help Me, and that I must go unto
+                  the Lord Jesus, who only can help Me in his good Time. <abbr>O</abbr> how dark was my Heart <del>[illegible] [illegible]</del> yet after This, I saw the <del>Darkness</del>
+                  <add>Blindness</add> of my Heart, and that I had as yet only the Beginnings of Grace, and that I did not possess saving Grace. <gap />If any One should ask: What Advantage had I from
+                  this divine Manifestation? It was unto Me a Power of God unto a living Hope of my Redemption, <abbr>thro&#39;</abbr> Jesus Christ, it <abbr>strengthend</abbr> my Faith and Confidence
+                  to the Lord Jesus; I felt in my Heart that I was under the Power of Sin and Death, and that the Law of the Spirit of Life in Christ Jesus, had not yet made me free from the Law of
+                  Sin and Death. <abbr>Rom.</abbr>6.2. many Times in this misera- -ble Situation of Heart, I cried, <abbr>O</abbr> wretched Creature, that I am, who shall deliver Me from the Body of
+                  this Death? At such Times I have believed, and <abbr>thankd</abbr> God <abbr>thro&#39;</abbr> Jesus Christ, who causeth me to hope <abbr>thro&#39;</abbr> the Grace which he has
+                  already given Me, that he will help Me further, and </p>
+            </div>
+            <div type="page" n="8">
+               <head>Page 8 <seg ana="MemBeth_0209a-08" /></head>
+               <p>lead and direct Me, and keep his Eye open upon Me. and I am assured in my Heart that this was the true Grace of God, which led Me to the Light of his Holy Gospel. <gap />In the Year
+                     <date>1741.</date>
+                  <persName><abbr>M</abbr></persName><hi rend="superscript"><persName><abbr>r</abbr></persName></hi><persName><abbr>.</abbr> Whitfield</persName> came into this City, as a faithful
+                  Witness of the glad Tidings of Free Grace, <abbr>thro&#39;</abbr> our Lord Jesus Christ, and declared unto Us what He had received. He had many Hearers, and many were <abbr>awa-
+                     -kend</abbr> by his Testimony of Universal Redemption, and the <add>great</add> Necessity of the New Birth, and of receiving the Gift of the Holy Ghost; I heard at that Time more
+                  than I <unclear>possest</unclear>; The Lord <abbr>blessd</abbr> what he spoke, and the Word had a divine Power on the Souls of many that heard it. <gap />Many said, He is surely a
+                  Child of God, Others said, He is a Deceiver and spoke much Evil of Him. <gap />After some Time, he took Leave of Us for a Season, and it was a Blessing to Me and my two Children,
+                  that the Lord had brought Him here. After <sic>som</sic>
+                  <corr>some</corr> Time I became acquainted with the <orgName>United Brethren</orgName>, and was convinced in my Heart that they propaga -ted the same Doctrine of Free Grace:
+                  Afterwards by the great Opposition with which the Brethren were treated, my Heart was brought into a great Straight, and I could expect [page break] Nothing else, but to suffer along
+                  with Them, if I received Them either into my Heart or House; I had too great Fear for the Disturbance which began to be raised at that Time against the Brethren, here in
+                     <placeName>New York</placeName>; when our dear <persName><abbr>Bro</abbr></persName><hi rend="superscript"><persName><abbr>r</abbr></persName></hi><persName><abbr>.</abbr>
+                     Boehler</persName> was commanded by the Magistrates to de -part the City, I was greatly <sic>surprized</sic>
+                  <corr>surprised</corr> at his being so used. 3 or 4 Days after this came the Deacon of the Church to receive the quarterly Collection which I was to pay, as all the Communicants are
+                  used to do. <gap />I desired of Him that my Name might be put out of their Church Book; the good Man did not say one Word; I felt Compassion towards him, and gave him the Reason why
+                  I did leave their Church, namely This, that such Christians, who persecute the <unclear>Christian,</unclear> can be no Blessing to Me; the good Man did not answer a Word, but took
+                  friendly Leave of Me and went his Way. Some Time after, here in <placeName>York</placeName> an Act was <abbr>passd</abbr>, that no Brother, for the Space of a Year, should preach
+                  here, under a great Penalty and 6 Months Imprisonment. <gap />Under this Perplexity of Heart, the Lord gave me Grace, and the Word of God the Holy Bible instructed and taught Me; as
+                  He said Himself unto his Disciples: Ye shall be hated of all Men- for my Name&#39;s Sake. And the Acts of the Apostles prove </p>
+            </div>
+            <div type="page" n="9">
+               <head>Page 9 <seg ana="MemBeth_0209a-09" /></head>
+               <p>that his Apostles and Followers were thus treated. <gap />By <persName><abbr>M</abbr></persName><hi rend="superscript"
+                        ><persName><abbr>r</abbr></persName></hi><persName><abbr>.</abbr> Whitfields</persName> Preaching I was convinced of the Righteousness of our Lord Jesus Christ, and of the
+                  great Sin of Self Righteousness. The Words of his Text was <abbr>Jer</abbr> 2306. The Lord our Righteousness, these blessed Words were a Power of God unto my Heart, and our Saviour
+                     <abbr>assur&#39;d</abbr> Me <abbr>thro&#39;</abbr> the Grace of the Comforter, that it was a Testimony of Truth according to his Word John 1608. When He comes, He shall reprove
+                  the World of SIn, of Righteousness, and of Judgment. I was convinced that this was the only Thing necessary to my Salvation, and I felt how much my Sins <add>and Misery</add> made Me
+                  to fear, that the Lord Jesus by his Grace would not set me free from the Condemnation of Sin. I found that I was brought out of Darkness into Light, but I did not yet possess the
+                  full Assurance which my Heart <abbr>longd</abbr> after. Beforetime I hoped in the Promise that He would be my Jesus and Saviour, now I could find no Peace or Rest in my Heart,
+                  without the Feeling and Assurance that the Lord Jesus was mine with all his Merits, and that I am His. The Which the Lord in his good Time has manifested to Me and
+                     <abbr>assur&#39;d</abbr> my Heart, that He bore in his own Body on the Cross, the Curse [page break] of the Law and the Wrath of God, in my Stead; and of free Grace
+                     <abbr>sufferd</abbr> Death for Me and the whole World, and with his dying Lips, pronounced, It is finished. <gap /><abbr>O</abbr> precious Gift, <abbr>O</abbr> Jesus my Redeemer!
+                  <gap />My Safeguard from Sin, who paid the Law&#39;s Demand <gap />My Hope in Time, my joyful Rest for ever, <gap />Set Me my Shepherd, a Signet on thy Hand! <gap />I now came under
+                  the Tuition of the great Shepherd, the great Teacher of Righteousness, who by his Offering on the Cross, <abbr>offerd</abbr> himself up unto God, a Ransom for our Sins; This saving
+                  Grace and Truth had such a powerful Operation, that I could say with Job, I have heard of Thee by the hearing of the Ear, but now mine Eye seeth Thee. So have I been in my first
+                  Progress in Grace, taught and guided, comforted and <abbr>strengthned thro&#39;</abbr> his Goodness. and now I felt the Conflict of our Saviours bitter Death of the Cross, and his
+                  Anguish of Soul, in my Heart. <gap />In the Year <date>1741.</date> I came among the <orgName>United Brethren</orgName>, whom I love for the Work of the Lord, which They are engaged
+                  in. They testified of our Saviours Grace with great Power; They were to me as the Salt of the Earth, and as the Dew of Heaven, they declared to Us the everlasting Gospel of our Lord
+                  Jesus Christ; and his Love to Us poor Sinners; I <sic>sencibly</sic>
+                  <corr>sensibly</corr> felt my Deficiency, my Nakedness and Weakness, and how little I <abbr>lov&#39;d</abbr> our Saviour. I was a poor Child, and had much Strife between Flesh and
+                  Spirit. </p>
+            </div>
+            <div type="page" n="10">
+               <head>Page 10 <seg ana="MemBeth_0209a-10" /></head>
+               <p>and corrupt Nature made great Opposition; first because I had been a Communicant in the <abbr>Reform&#39;d</abbr> Church 16 Years, and in all That Time had not <abbr>attaind</abbr>
+                  to a settled Peace; This made Me wavering in my Soul; and secondly I was hard of Hearing, which inclined Me to separate my Self from all Fel- -lowship and Society; This was to my
+                  Corrupt Nature, a Thorn in the Flesh, to be in Company, and <add>yet</add> to understand Nothing. <abbr>O</abbr> how much Pain did I bring upon my Heart by my Ignorance and Unbelief;
+                  but when I as such a poor Sinner, <abbr>complaind</abbr> the State of my Heart to my Saviour, then He again forgave me all my Transgressions. <gap />In the Year <date>1750.</date> I
+                  was received into the <orgName>Congregation of the United Brethren</orgName>, and our Saviour granted me the Favour to be admitted the <date>same Year</date> to the Sacrament among
+                  Them. by the Will of God and <abbr>thro&#39;</abbr> the Ministry of <persName><abbr>B</abbr></persName><hi rend="superscript"
+                        ><persName><abbr>r</abbr></persName></hi><persName><abbr>.</abbr> Rice</persName>, In the Afternoon of the Same Day on which the Sacrament of our Lord was
+                     <abbr>administerd</abbr>, He <abbr>preachd</abbr> on 1<abbr>Tim</abbr><hi rend="superscript"><abbr>y</abbr></hi><abbr>.</abbr>3.016. Without Controversy, great is the Mystery of
+                  Godliness; God was manifest in the Flesh; justified in the Spirit; seen of Angels; <abbr>preachd</abbr> unto the Gentiles; believed on in the World; received up into Glory: The Grace
+                  which our dear Saviour let me feel at the first Participation in my Heart, was in Truth, the Power of the aboverelated Words, Without Con- -troversy, great is the Mystery of
+                  Godliness, God was manifest in the Flesh. These and all the other Words of the Text, were so [page break] powerful, and lively and so beyond Contradiction; that the Flesh and Blood
+                  of our Lord Jesus Christ is true Life; according to his own Words. My Fleah is Meat indeed, and my Blood is Drink indeed. The Grace of my bleeding Redeemer was so powerfully
+                     <abbr>confirmd</abbr> to my Heart, that I can with my whole Heart, say, and join with the <orgName>universal Christian Church</orgName>. Blessed be God even the Father of our Lord
+                  Jesus Christ, who hath blessed Us with all spiritual Blessings in heavenly Places, in Christ. <gap />I also thank the Father <abbr>thro&#39;</abbr> his beloved Son, Jesus Christ, for
+                  my Creation, for my Redemption, and for the many <unclear>fold</unclear> Forgiveness of all my Sins, for they were Great. I well feel that I am yet a poor Sinner, and this bows Me
+                  with Holy Shame, before his Sacred and precious Wounds; and I pray the Comforter the Spirit of Truth, to lead Me into all Truth; and for his Holy Name&#39;s Sake, to give Me more and
+                  more to die unto him, and to love him and thank Him to all Eternity for his bitter Sufferings and Death. <gap />Now I am in the 66<hi rend="superscript">th</hi>. Year of my mortal
+                  Life, and draw near to the Evening of my Days, and My natural Powers decay, but while I am yet here, I can&#39;t forbear to say with the Psalmist, We will not hide them from their
+                  Children, shewing to the Generation to come the Praises of the Lord: and his Strength and his wonderful Works that He hath done. </p>
+            </div>
+            <div type="page" n="11">
+               <head>Page 11 <seg ana="MemBeth_0209a-11" /></head>
+               <p>
+                  <table>
+                     <row>
+                        <cell rend="left">My first Birth, was</cell>
+                        <cell>. . . . . . . .</cell>
+                        <cell><date>1700.</date></cell>
+                     </row>
+                     <row>
+                        <cell rend="left">My Marriage with my Husband</cell>
+                        <cell> . . . . .</cell>
+                        <cell><date>1723.</date></cell>
+                     </row>
+                     <row>
+                        <cell rend="left">First Awakening</cell>
+                        <cell> . . . . . . . . . . </cell>
+                        <cell><date>1724</date></cell>
+                     </row>
+                     <row>
+                        <cell rend="left">My Widowhood and Convictions</cell>
+                        <cell>. . . . . </cell>
+                        <cell><date>1736.</date></cell>
+                     </row>
+                     <row>
+                        <cell rend="left"> My Call to Grace</cell>
+                        <cell>. . . . . . . . </cell>
+                        <cell><date>1740.</date></cell>
+                     </row>
+                     <row>
+                        <cell rend="left">My Reception in the Congregation</cell>
+                        <cell>. . . . </cell>
+                        <cell><date>1750.</date></cell>
+                     </row>
+                  </table> By our Saviours Grace I was a Communicant in his Church the <date>same Year</date>, and from that Time, <abbr>thro&#39;</abbr> the Gift of the Holy Ghost, I could believe
+                  that I was a Fellow Citizen with the Saints, and of the <sic>Houshold</sic>
+                  <corr>Household</corr> of God. <gap />I was born the <date>8<hi rend="superscript">th</hi>. of May</date>, and am now in the 30<hi rend="superscript">th</hi>. <add>Year</add> of my
+                  Widowhood, the Consideration of Which is so weighty to Me, that I know not how to express my Thankfulness to my dear Saviour, for all the gracious Forgiveness he has
+                     <abbr>bestowd</abbr> upon Me; from one Year to Another, and from one Day to Another has the good Shepherd <abbr>shewd</abbr> to Me his Faithfulness, taking Me by the Hand like a
+                  Father, and <abbr>thro&#39;</abbr> his Spirit manifesting his beloved Son unto Me, and that in Him all my Happiness was <unclear><abbr>treasur&#39;d</abbr></unclear> up.
+                     <gap /><abbr>O</abbr> this was to my Heart like the Day Spring from on High, and the Dawnings of the blessed Hope of my Redemption from the Power of the Devil, of the World and
+                  the Flesh who held Me in the Bondage of Sin; so that what I <abbr>approv&#39;d</abbr>, I did not, and what I <abbr>allowd</abbr> not, that I did: and <add>could</add> do no other-
+                  -wise. This was my Condition in the Year <date>1736.</date> and the first of my Widowhood. <gap />From this Time forward I <abbr>perceivd</abbr> [page break] in my Heart that my
+                  faithful Shepherd <abbr>followd</abbr> Me. <gap />When <abbr>thro&#39;</abbr> Unbelief or the Deceitfulness of Sin, I <abbr>strayd</abbr> at any Time; I then felt bitter Pains in my
+                  Soul, and nothing could satisfy Me, at such Times, earthly Enjoyments gave no Contentment. but restraining Grace preserved Me, and I <abbr>resolvd</abbr> to look to our Saviour and
+                  wait for his Consolation. <gap />For when I perceived that our Saviour <sic>drawd</sic>
+                  <corr>drew</corr> near to my Heart again, and by his Word spoke a gracious Pardon unto my Soul, which wrought in Me Abasement, Thankfulness and Love towards our Saviour; then was I
+                  truly comforted. <gap />I have already related the Convictions, and first <unclear>Gleam</unclear> of Light which I had in the Beginning of my Widow State, &amp; it was so, that the
+                  everlasting Gospel was as yet, a sealed Book unto Me. <gap />I was a poor Sheep that did not know its Shepherd, nevertheless I felt his fatherly Heart and Care to- -wards Me,
+                     <abbr>altho&#39;</abbr> I knew him not. But this I have found, that the Widow State however hard to the Flesh, has been in the Lord&#39;s Time, Instruction and Blessing unto Me.
+                  Also the Lord granted me the Blessing of having the 2 dear Children which the Lord gave Us. continued to Me, they were a real Comfort unto Me; and sometimes I had blessed Hours in
+                  Faith that I and the Children which the Lord had given Me, were His, and this afforded Me greater Joy, than all the Treasures of the World could do. </p>
+            </div>
+            <div type="page" n="12">
+               <head>Page 12 <seg ana="MemBeth_0209a-12" /></head>
+               <p>I have found further, that there is <add>no</add> State in this mortal Life to be compared with the State of Widowhood, as a School to feel the Depth of Grief and pour out Complaints
+                  to the Lord, who is also compassionate, and will not suffer Us to be tempted above what We are able to bear, but with the Temptation gives the Deliverance. <gap />So sure as our
+                  Saviour has promised to be the Husband of the Widow, and a Father to the Fatherless, so has my dear Saviour approved Himself to Me: a merciful High Priest and a forgiving Father.
+                  <gap />My daily Poverty and Weakness both of Soul and Body, gives Me to feel plain enough, that I can&#39;t subsist one Moment without his Grace. <gap />Yet He says, in a Time
+                  accepted I have heard Thee, and in the Day of Salvation have I succoured Thee. <gap />So has my beloved Mediator done unto Me, He gave Me an Inheritance among his Children, and hid
+                  Me under the Shadow of his Wings, where I am secure. And if at any Time I felt any Burden of Sin, Grief or Pressure of Heart, then has my dear Saviour heard and forgiven Me; and I
+                  have at all Times found, that when I come to him with all my Poverty and Sin -fulness, Then He the Bridegroom of Souls has approved him -self as the Husband of the Widow unto my
+                  Heart; <del>And</del>
+                  <abbr>tho&#39;</abbr> the Least of all Those who are Widows indeed. <gap />My Longing is to become Such as my Souls Bridegroom may take Pleasure [page break] in; and the Mother who
+                  has regenerated Us, may rejoice over Me, and the Rest of the Children of God, and that We may rejoice with the Joy in the Holy Ghost. That I may with <unclear>Sion</unclear> suck the
+                  Breasts of Consolation, and be at all Times <abbr><sic>cloathd</sic>
+                     <corr>clothd</corr></abbr> with the Righteousness of my Redeemer. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

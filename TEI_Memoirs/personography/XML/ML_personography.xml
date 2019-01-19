@@ -1,0 +1,130 @@
+<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moravian Lives Personography</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>List of Moravian Lives person entities with reference to persistent identifiers, using ML standard names</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="personography">
+      <body>
+         <listPerson>
+            <person xml:id="mlper000001" sex="m">
+               <persName>Samuel "Achgonema" </persName>
+               <birth>
+                  <date type="birth" when-iso="1743">Date of birth: 1743</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1757-01-11">Date of death: 1757-01-11</date>
+                  <placeName>Menigahela, Pennsylvania</placeName>
+               </death>
+            </person>
+            <person xml:id="mlper000002" sex="f">
+               <persName>Anna Allen <ptr target="#mlper000002" />
+               </persName>
+               <birth>
+                  <date when-iso="1780-12-06">Date of birth: 1780-12-06</date>
+                  <placeName>St. Johns, Canada</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1796-05-01">1796-05-01</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </death>
+            </person>
+            <person xml:id="mlper000003" sex="m">
+               <persName>Abraham Andreas <ptr target="#mlper00003" />
+               </persName>
+               <birth>
+                  <date when-iso="1725-10-02">Date of birth: 1725-10-02</date>
+                  <placeName>Friedrichstown, Pennsylvania</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1801-10-26">Date of death: 1801-10-26</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </death>
+            </person>            
+            <person xml:id="mlper000004" sex="f">
+               <persName>Benigna Antes<ptr target="#mlper000004"/>
+               </persName>
+               <birth>
+                  <date when-iso="1748-10-04">Date of birth: 1748-10-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1760-12-04">Date of death: 1760-12-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </death>
+            </person>
+            
+            
+                  
+         </listPerson>
+      </body>
+   </text>
+</TEI>

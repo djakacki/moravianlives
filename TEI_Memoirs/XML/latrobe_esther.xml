@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esther Latrobe: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribers and encoders, HUMN100 Fall 2018</resp>
+               <persName>Allison Butler</persName>
+               <persName>Bhagawat Acharya</persName>
+               <persName>Brendan Matthys</persName>
+               <persName>Caleb Broughton</persName>
+               <persName>Carly Pavoni</persName>
+               <persName>Caroline Walsh</persName>
+               <persName>Clayton Wright</persName>
+               <persName>Ethan Conklin</persName>
+               <persName>George Tyler</persName>
+               <persName>Hailey Zimmerman</persName>
+               <persName>Jacob Hubbard</persName>
+               <persName>Jessica Hom</persName>
+               <persName>Julianna Kim</persName>
+               <persName>Mauricio Martinez</persName>
+               <persName>Mitch Gavars</persName>
+               <persName>Meg Koczur</persName>
+               <persName>Morgan Graning</persName>
+               <persName>Nathan Ware</persName>
+               <persName>Olivia Smith</persName>
+               <persName>Paige Whitney</persName>
+               <persName>Raleigh Singer</persName>
+               <persName>Rosemary Rong</persName>
+               <persName>Samantha Salazar</persName>
+               <persName>Zakee Willis</persName>
+               <orgName>Bucknell University</orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir">Esther Latrobe</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-07.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-08.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-10.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-11.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-12.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-13.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-14.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-15.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-16.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-17.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-18.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-19.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-20.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-21.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-22.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-23.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-24.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-25.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-26.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-27.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-28.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-29.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-30.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-31.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-32.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-33.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-34.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-35.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-36.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-37.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-38.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-39.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300031-40.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head type="memoir">Esther Latrobe</head>
+            <docAuthor></docAuthor>
+            <div type="page" n="1">
+               <head type="page" ana="MemLon_300031-01">1 </head>
+               <p> Brief - Memoir of our late happily departed <persName>Sister Esther Latrobe</persName> drawn up by her <persName>Husband</persName> and <persName>Brother</persName>
+               </p>
+               <p>Our late dear <persName>Relative</persName> was born at <placeName>Bristol</placeName>
+                  <date>June the 7th 1802</date>, and being the only daughter among a family of six children, was <name type="emotion">peculiar ly precious</name> to her parents and brothers, and
+                  tenderly beloved by them.</p>
+               <p>This <name type="emotion">tender affection</name> and <name type="emotion">endearment</name> was always returned by her with a <name type="emotion">warmth of feeling</name>, which
+                  evinced to her family, her <name type="emotion">deep attachment</name> towards them, and the <name type="emotion">gra- titude</name> heart to them for their <name type="emotion"
+                     >love</name>.</p>
+               <p>She was very early subject of <name type="health">sickness and pain</name>. In her childhood by occasion of the <name type="health">measles</name>, which struck into her chest, she
+                  was brought to the brink of the grave and her fami ly and medical attendants at that time had lost all <name type="emotion">hope</name> of her life. It pleased the <name>Lord</name>,
+                  however to manifest in her case, <name>His</name> Power as the <persName>Preserver</persName> of man, and her life </p>
+            </div>
+            <div type="page" n="2">
+               <head type="page" ana="MemLon_300031-02">2 </head>
+               <p> was redeemed from destruction. At this period already, the grace of the <persName>Lord Jesus</persName> was producing in her conduct the buddings of that <name type="emotion"
+                     >patient endurance of suffering</name>, which was afterward exhibited in blossom and in fruit. Her <name type="emotion">meek submission under pain</name> was a wonder to many, and
+                  her physician frequently expressed his <name type="emotion">astonishment</name>, that a child of her tender frame and years, would exhibit such lamb- like patience, under the pain he
+                  knew she was enduring. When she was just eleven years old, she experienced another severe trial from the hand of the <persName>Lord</persName>, by the death of her dear
+                     <persName>Mother</persName>. In common with the other member's of her father's house, she felt this <name type="emotion">bereavement keenly</name>, and often wept in after-life at
+                  the remem- brance of her loss. Indeed the loss was in some respect <name type="emotion">peculiar</name> to her, as a daughter, and the only one; -- yet the <persName>Lord</persName>
+                  <name type="emotion">graciously</name> made it up to her, as she <name type="emotion">felt and feelingly acknowledged</name>, by the fond cares of those whom he still left her, and
+                  by the kindness of many kindness dear friends, not immediately </p>
+            </div>
+            <div type="page" n="3">
+               <head type="page" ana="MemLon_300031-03">3 </head>
+               <p> belonging to her own family. </p>
+               <p>She spent the years of her schooling partly in <placeName>Bristol</placeName> under the care of <persName>Sister Bird</persName> and subsequently at <placeName>Tytherton</placeName>.
+                  The latter place was <name type="emotion">very dear</name> to her; where she lived a great and interesting part of her pilgrim-- age, and there she found rest to her soul in the
+                  atoning merit of her <persName>Saviour</persName>. </p>
+               <p><persName>Brother</persName> and <persName>Sister West</persName> were as parents to her, and she became the intimate friend of their eldest daughter. This was an attach- ment formed
+                  and maintained in the <persName>Lord</persName>, and we have reason to believe that our dear <persName>Relative</persName> often and frequently felt is to be for her good, a
+                  strengthening of her hands in God. During these years, she was brought again to the verge of eternity, by means of a rheumatic fever, and a violent affection or palpitation of the
+                  heart. Again did her medi- cal attendants give her up and her <name type="emotion">sorrowing</name> friends <name type="emotion">despaired</name> of her life, but yet once more was
+                  the <persName>Lord's</persName> hand stretched forth to save her, and she was restored to her family.</p>
+            </div>
+            <div type="page" n="4">
+               <head type="page" ana="MemLon_300031-04">4 </head>
+               <p> They received her again as one raised from the dead, and she consequently became still more <name type="emotion">dear</name> and <name type="emotion">precious</name> to them all.
+                  These alarming sicknesses were evidently blessed to her soul, they were means and times of grace to her.</p>
+               <p>She was led to search and try her ways, and to seek the <persName>Lord</persName> with full purpose of heart and he was graciously found of her. Knowing now the end of our dear
+                  relative, we can trace clearly the good hand of our <persName>Lord</persName> in all these dispensations; we can see how he purified her, and made her fit for his service, and meet
+                  for an early possession of the inheritance incorruptible and undefiled, and that fadeth not away. We are enabled to read and to des -- cribe exactly the state of her heart; for she
+                  has felt behind her, in writing, a few of those meditations and prayers, in which doubtless she often engaged, under the eye alone of her unseen <persName>Friend</persName>. She
+                  writes under date of <placeName>Tytherton</placeName> - <date>May 12th, 1824</date>: -- "_May this year be remembered by me, as long as my gracious Creator permits me to remain on
+                  this earth. I have </p>
+            </div>
+            <div type="page" n="5">
+               <head type="page" ana="MemLon_300031-05">5 </head>
+               <p> "indeed lived almost for 22 years. But what "have I been doing? Alas! I have done "these things I ought not to have done. I have been an unprofitable servant. yet I feel my
+                     <persName>Saviour</persName> is both able and willing to love to the uttermost all who ask his forgiveness, and put their trust in <persName>Him</persName>. Oh! gracious
+                  permission, the <persName>Lord</persName> that's in heaven, permit his poor crea - tures <persName>Him Father</persName> to call! I have today par - taken with this congregation of
+                  the body and blood of my ever blessed <persName>Saviour</persName>- What a favour bestowed on us so unworthy of such a feast, and so inattentive to the voice of the <persName>Holy
+                     Spirit</persName>. Help me ever merciful <persName>Savior</persName> to be more attentive in future to all thy invitations and ordinances, more forgiving to my neighbours, not
+                  easily offended. Teach me to bear and forbear and above all, to be more and more thankful for thy atonement, thy long suffering and tender mercies. Teach me to know myself. Let me
+                  feel more humble. Yea, <persName>Lord</persName>, teach me now what to pray for. I can do nothing without thee, "Now, then, the sequel is well weighed to" </p>
+            </div>
+            <div type="page" n="6">
+               <head type="page" ana="MemLon_300031-06">6 </head>
+               <p>
+                  <date>August 17th</date>.-- She says-- <persName>Lord</persName> I must <name type="emotion">blushing</name> stand when considering what an <name type="emotion">ungrate -ful</name>
+                  creature I am. How often the means thou hast appointed for worshipping Thee, have been neglected by me. I do indeed attend at thy house of prayer, but with such a <name
+                     type="emotion">wavering heart</name>, and indeed sometimes <name type="emotion">cold indifference</name>, that I return without receiving much benefit to my soul. Do thou, Oh!
+                     <persName>Heavenly Father</persName>, look on me in mercy, forgive all past neglect, make me in every respect more like what a <persName>Christian</persName> ought to be, more
+                  humble, rely- ing only on Thee for everything I need. Subdue all earthly inclinations. Dear <persName>Saviour</persName> let me take my soul at the foot of thy cross, for ever having
+                  my eyes fixed on thy sacred body, bearing my sins' heavy load. Yes! then let me the chief of sinners, weep and <name type="emotion">love</name> my life away! Indeed, O
+                     <persName>God</persName>, I must confess that I have rested too much on my own strength; Oh! forgive this presumption, and hear my prayer for the sake of thy dear
+                     <persName>Son</persName>, without whose atonement I dare not approach thy throne. Give me then that true faith, which puts all dependence on the <persName>Creator</persName> and
+                  not on the creatures. Unto </p>
+            </div>
+            <div type="page" n="7">
+               <head type="page" ana="MemLon_300031-07">7 </head>
+               <p> thee. let me look for every thing, for thy guid- ance and direction under all circumstances, in the situation in which thy good provid- ence has placed me. Here I must confess, how
+                  short I fall of what I ought to be. How little of my time is engaged with the children under my care, in conversing of thee and directing their young minds heav- enward. Dear
+                     <persName>Lord</persName> forgive and teach me how to point thee out; let it be my <name type="emotion">delight</name> to talk of <persName>Thee</persName>; and oh! grant, that
+                  not one may leave this house without some im- pression of thy dying love. Oh! that my heart were more devoted to thy service I often think too much of the future. On thee dear
+                     <persName>Saviour</persName>, I must defend Do with me what seemeth right to thee, and let my whole course be ordered by thy never failing power. Thine I am, yes! thine eternally.
+                  Let me not by any misconduct, word, or action, ever bring a reproach upon thy followers. When thou seest I am going astray for thy mercy's sake, by any means; which Thou choosest,
+                  head me into the right path, oh! </p>
+            </div>
+            <div type="page" n="8">
+               <head type="page" ana="MemLon_300031-08">8 </head>
+               <p> Ah! <name type="emotion">suffer</name> me not to be a stumbling- block to any person, but may it in my walk be seen, that I with thee have been. These peti- tions an unworthy sinner
+                  ventures to ask only through our <persName>Mediator</persName> and <persName>Advocate</persName>, <persName>Jesus Christ</persName>, who died for our transgressions and was bruised
+                  for our iniquities; and of this I feel <name type="emotion">assured</name>: He <name type="emotion">loveth</name> us unspeakably, Nor lets us pray in vain, But gives the fearful
+                  heart that <name type="emotion">hope</name> Thy suit thou shalt obtain. The next extract which is dated <date>September 6th</date> lets us know, how soon and how kindly the
+                     <persName>Lord</persName> answered her petitions, giving her holy <name type="emotion">joy</name> in believing. She writes: <persName>Jesus</persName> is my <name type="emotion"
+                     >joy</name>, therefore <name type="emotion">blest</name> am I. Thy ever gracious <persName>Shepherd</persName>, how gently hast thou led me into thy fold. Thou hast drawn me with
+                  chords of <name type="emotion">love</name> to Thee, and now thou knowest that my soul <name type="emotion">delighteth</name> in Thee. I have had kind visits oft from
+                     <persName>Thee</persName> in the night season. Thou hast condescended to assist me in my duties in the day time. Yes! I have often felt thee. Oh dearest
+                     <persName>Saviour</persName>, continue to be near unto me, as the air which constant- ly I breath. <persName>Satan</persName> does sometimes try to draw me from thee by
+                  suggesting, that after all, </p>
+            </div>
+            <div type="page" n="9">
+               <head type="page" ana="MemLon_300031-09">9 </head>
+               <p> perhaps there is no <persName>God</persName>. But thy long suffer- ing and tender mercies are past expression. How often after such moments, hast <persName>Thou</persName> drawn me
+                  to thyself, so that the language of my heart has been - "I will a little pilgrim be - Resolved alone to follow Thee. Thou <persName>Lamb of God</persName> who now art gone- Up to thy
+                  everlasting throne"- etc. The following expressions of <name type="emotion">thankfulness</name> and humble confession, occur under the same date: Oh! <persName>God</persName>! Thy
+                  goodness to me is past all expression; thy <name type="emotion">merciful</name> hand has been over me these many years. How often hast thou raised me from a bed of sickness, yet how
+                  have I returned thy kindness? I have after a time forgotten- and yet not quite. No thou hast often showed thy great <name type="emotion">compassions</name> by leading me to reflect
+                  on thy past mercies. Oh! how shall I, the most <name type="emotion">sinful</name>, due thanksgiving raises- And sound my great deliverers praise! = <date>November 28th</date>, we
+                  have the following expressions of heart, clearly showing, that the bright <name type="emotion">hope of immortality</name>, which shed such a glory round her last few hours, was then
+                  already enkindled in her soul. She writes: "The beloved of the <persName>Lord</persName> shall dwell in safety by him, and the <persName>Lord</persName> shall cover him all the day
+                  long"- Deut. 33.12. </p>
+            </div>
+            <div type="page" n="10">
+               <head type="page" ana="MemLon_300031-10">10 </head>
+               <p> Yes, dear <persName>Lord</persName>, thou dost indeed had me on in safety and mercy, and what have I deserved Nothing! - I am an unprofitable servant My transgressions are too
+                  numerous to count; but I know in whom I have believed, and he is able and willing to keep that which I have committed to him till that great day, when I shall gain permission to
+                  leave this mortal tent. Oh! my soul, thou hast had of late sweet converse with thy heavenly <persName>Friend</persName>; what and if he should call thee to live with
+                     <persName>Him</persName>. "Since He did from death arise, And then ascend victorious, I likewise in the hope <name type="emotion">rejoice</name>, To raise again more glorious,
+                  Thus free from fear I can in peace Depart to see him as he is, And live with him forever!" She then adds: "This is sunday morning, "And I am detained at home through a <name
+                     type="health">cold</name>, "however, however I shall attend the last "meeting; and ever blessed <persName>Saviour</persName>, do thou "grant me thy blessing. If a life is read,
+                  Oh! "that some past may have a reference to my "case. Send thy <persName>Holy Spirit</persName> upon all; so that "he who reads and those who hear, may go home </p>
+            </div>
+            <div type="page" n="11">
+               <head type="page" ana="MemLon_300031-11">11 </head>
+               <p> thankful that they were able to attend thy house."- In the early part of the year <date>1825</date>, she appear, to have been filled with a more entire spirit of <name
+                     type="emotion">devotedness</name> to the Lord, a more ardent desire for his service and for being instrumental towards the spread of His Kingdom. She had before this period
+                  engaged in the service of the Ladies School at <placeName>Tytherlon</placeName>, as a teacher, but the following extracts appear to aim at a more direct and spiritual employment in
+                  the house of the <persName>Lord</persName>. <date>March 2nd, 1825</date>- She writes: "The world passeth away and the lust thereof; but he that doeth the will of
+                     <persName>God</persName> abideth forever" "Oh! my soul, think often of this text. "Help me Dear <persName>Saviour</persName>, to devote soul and body "unto thee. 'Tis all I have
+                  to offer thee, "Oh! Take me as thy property. Yes! I am more "and more convinced, the nearer I live to my "dear <persName>Saviour</persName>, the greater is my portion of <name
+                     type="emotion">happiness</name>. "Oh! that all could be persuaded to turn from their "evil ways and live. And Oh! that everything I did, "had a reference to the furtherance of the
+                  Kingdom of "<persName>God</persName>. How much of my time is spent in needless "perplexity about the things of this world! Oh! that "every breath were devoted to my great
+                     <persName>Deliverer</persName>'s praise <date>April 17th</date> My Soul wait thou only upon <persName>God</persName>, for my expectation. </p>
+            </div>
+            <div type="page" n="12">
+               <head type="page" ana="MemLon_300031-12">12 </head>
+               <p> "expectation is from him"- "Oh! dearest <persName>Saviour</persName> "send down thy <persName>Holy Spirit</persName> upon me, and lead me on in "the path of righteousness.
+                  Condescend to direct my "thoughts, words, and actions. To thee let all my wishes "send. Oh! <persName>God</persName>, what can I render unto thee for all "thy mercies? I am not
+                  worthy to pick up the crumbs "that fall from my <persName>Masters</persName> table, but thou feedest me "bountifully with choice things. I desire to resign every "inclination to thy
+                  will. Help me to do so; I can do "nothing of myself. This day if thou will accept "Oh! <persName>God</persName>, of such, I devote hand and heart to <persName>Thee</persName>, do
+                  "with me as <persName>Thou</persName> pleasesth,- I may do some "service, poor dust though I am!" The latter part of the same year appears to have been a time of trial. She writes,
+                     <date>Sep 20th</date> "I am a sinful creature O "<persName>Lord</persName>, have mercy upon me! Be thou my friend, "my counsellor and guide, yes, my <persName>All in
+                     All</persName>. "If I have thee, I have however, what me eternally "can cheer. Thou seest all that passes among the "children of men. Oh! Dear <persName>Saviour</persName> let thy
+                  will "be done on earth as it is in heaven! Let me help "thy rod, and say with a sincere submission the <persName>Lord</persName> "does all things well: yes, much better than "I
+                  deserved. Let me not give way to an unthank- "ful and repining disposition. Forbid, O <persName>Lord</persName>, "that I should boast in ought, but in my ransom price </p>
+            </div>
+            <div type="page" n="13">
+               <head type="page" ana="MemLon_300031-13">13 </head>
+               <p> "all the vain things which charmed me most, "For <persName>Christ</persName> I freely sacrifice. Farewell world thy "gold is dross. Now I see the blood stained cross!" <date>
+                     October 22nd</date>. "Thy soul, now with assurance- Hope still be not dismayed, He will from each encumbrance;- Again lift up thy head. "Beyond thy wish extended his goodness will
+                  appear "When he hath fully ended- that causes thee "such fears; and how ought I to blush, when I am "left to reflect on my past life? Blessed be <persName>God</persName>! and "oh!
+                  that all within me, now and at all times, "could bless His Holy name."<date> November 27th</date> "I feel indeed that the <persName>Holy Spirit</persName> is deepening his work in my
+                  worthless heart. What conde scension that he should notice me, so utterly unworthy "my heart longs for more faith and more love. "<persName>Jesus</persName> is mine and I am his."
+                  How great are "his signs, and how mighty are his wonders! "His kingdom is an everlasting kingdom, and his dominion is from generation to generation. "His power is endless and his
+                  praise- "He speaks, the universe obeys,- In such a <persName>Lord</persName> we are happy. " Better is "the enjoyment of thy love, than all the honours or wealth which man can
+                  bestow. Yes, thou art my </p>
+            </div>
+            <div type="page" n="14">
+               <head type="page" ana="MemLon_300031-14">14 </head>
+               <p> "art my chief delight, and I devote most heart- "ily soul and body unto thee. Thou knowest my "hearts wish of late O <persName>God</persName>; do with me as "thou choosest. Without
+                  thy blessing I dare not "move a foot. Bless and sanctify every thought, “wish and action. The mercy of the <persName>Lord</persName> is "from everlasting to everlasting upon them
+                  "that fear him, and <persName>His Righteousness</persName> unto "childrens, to such as keep his commandment "to do them." Thus beautifully end her notes of the year
+                  <date>1825</date>, - In the Spring of the year <date>1826</date>, it was proposed to her to remove to <placeName>Gracehill</placeName> to be employed as a teach- er in the
+                     <placeName>Ladies Boarding School</placeName> there. In a letter to her brother then <persName>Director of the Schools</persName> in that congregation- She thus signified her
+                  acceptance of the situation: With diversity of feelings. I this time address you, not that I am undetermined what step to take, on the contrary I am pleased you thought of me. I
+                  trust I shall be aided and supported by my unseen Friend, to discharge every duty committed to me, with credit and satisfaction; that I may not become an offence or stumbling stone
+                  to any person is my sincere prayer, but may my conduct be such as becomes a follower of Him, who was meek and lowly." She evidently sought the direction of the
+                     <persName>Lord</persName> in this step. </p>
+            </div>
+            <div type="page" n="15">
+               <head type="page" ana="MemLon_300031-15">15 </head>
+               <p> and by her manuscript it appears the word of the <persName>Lord</persName> to <persName>Jacob</persName> was applied to her own case: "Behold I "will be with thee, and will keep
+                  thee in all places "whither thou goest, and will bring thee again into "this land; for I will not leave thee, untill I "have done that which I have spoken to thee "of." ---- Her
+                  feelings at leaving <placeName>Tytherton</placeName>, where she had <name type="emotion">enjoyed</name> so much grace, she thus expresses in the letter above quoted: "I have now
+                  lived in <placeName>Tyther "-ton</placeName> 6 years. In this place I have attained my "church priviledges, and received much <name type="emotion">kindness</name> "from several of
+                  its inhabitants, therefore you "will not wonder, that my feelings are <name type="emotion">some- "what various.</name> I shall always retain sentiment "of <name type="emotion"
+                     >gratitude</name> and <name type="emotion">respect</name> for many individuals." She arrived in <placeName>Gracehill</placeName> about the middle of <date>June</date>; and spent 3
+                  years and a half, <name type="emotion">faithfully</name> and usefully employed in the sphere that was allotted her there. It was a season of <name type="emotion">sweet</name> and
+                     <name type="emotion">gratefully</name> remembered intercourse with her brother and sister, with whom she spent, not unprofitably, great part of her spare time, feeling their house
+                  to be her home, and giving and receiving that mutual <name type="emotion">encouragement</name>, which we all feel necessa- ry in our various avocations. A few of the recorded
+                  feelings of her heart, will again </p>
+            </div>
+            <div type="page" n="16">
+               <head type="page" ana="MemLon_300031-16">16 </head>
+               <p> show the progress of <name type="emotion">grace</name> in her soul, and the state of her mind during this period. <date>Sep. 14th, 1826</date>. She writes --- "When thou "passest
+                  through the waters, I will be with thee, and "through the floods, they shall not overflow thee, "When thou walkest through the fire thou shall "not be burned, neither shall the
+                  flames kindle "upon thee." "This does oftimes renew my <name type="emotion">cour- "age</name>, when it otherwise would sink. And to "build upon this <name type="emotion"
+                     >gracious</name> promise, as a <name type="object">rock</name> "which ne'er can shrink, is what my <name type="emotion">poor</name> "heart doth pant for. Thus to trust unto my
+                  "faithful <persName>Saviour</persName> for whate'er I yet don't know "in my pilgrimage below. What can a <name type="emotion">sinful</name> "worm, O <persName>God</persName>, render
+                  unto thee for thy unnum- "bered benefits!" --- <date>Feb. 6th, 1828</date>. --- My soul "doth magnify the <persName>Lord</persName> and my spirit hath "<name type="emotion"
+                     >rejoiced</name> in <persName>God</persName> my <persName>Saviour</persName>." Give me O my hea- "venly <persName>Father</persName> a more thankful heart; let me "with more <name
+                     type="emotion">gratitude</name> receive blessings from thy "unerring hand, and when thou seest fit to send "affliction, or visit me in trying dispensations "give me grace to bow
+                  with <name type="emotion">humble</name> resigna- "tion, and moreover <name type="emotion">rejoice</name>, that thou dost so far "notice me, as to treat me as a child. During "the
+                  last year I have indeed been tried in vari- "ous ways, so that in a measure I may say "my foot had well nigh slipped; but thou art "the searcher of hearts, and nothing is hidden </p>
+            </div>
+            <div type="page" n="17">
+               <head type="page" ana="MemLon_300031-17">17 </head>
+               <p> "from thee. Thy mercy, too, a comforter sends, and mercy directeth my way, may mercy me "ever attend. "Through years that may yet be "to come; in every danger me befriend and peace-
+                  "fully guide me safe home. But if I have "felt trials, I have been <name type="emotion">comforted</name>, yea rich "blessings have crowned my head, and with "them my <name
+                     type="object">cup</name> does e'erflow. When I look "around me, how ought I to blush for allow "ing a murmuring thought to find entrance "in my breast. But I am a <name
+                     type="emotion">sinful</name> worm "O <persName>Lord</persName>, and can do nothing as I ought, "without thy enabling grace. Oh! my "heavenly <persName>Father</persName>, send thy
+                     <persName>Holy Spirit</persName> "unto me, make me more <name type="emotion">humble</name>, let me "have a constant feeling of thy presence, and "let me take my seat at the foot
+                  of my <persName>Saviour'</persName>s "cross, and bear his example ever before me. "Perhaps this may be my last year, and if it "should not, still may I spend it as though "it were.
+                  "If any man serve me, him will my <persName>Father</persName> honour. I devote most heartily "soul and body unto thee. And Oh! that "my thoughts were more constantly fixed "on thee.
+                  What infatuation! that the perish "able things of this earth should so much employ the generality of men, whose intrest </p>
+            </div>
+            <div type="page" n="18">
+               <head type="page" ana="MemLon_300031-18">18 </head>
+               <p> "is to prepare for a better city. What if things "do not always answer our expectations, are we "on that account to despond? certainly not! For "<persName>God</persName> in mercy
+                  sends afflictions to teach us this "is not our home. If he were not to do so, we "might grow <name type="emotion">hardened</name> and <name type="emotion">secure</name> in our sins,
+                  "until they plunged us into endless <name type="emotion">woe</name>! -- "Oh! that I could walk as though each day "were to be my last. The crosses and vexations "which occur here,
+                  are but for a short time, "the <name type="emotion">joys</name> and <name type="emotion">happiness</name> of heaven are for a never "ending eternity: why then should do I allow "such
+                  things to affect me so much? This is "indeed <name type="emotion">sinful</name>, but human nature is in "itself unable to overcome the assails of its "mighty opponents; the spirit
+                  may indeed be "willing to do what is right, but the flesh "is <name type="emotion">weak</name>. But Oh! dearest <persName>Saviour</persName>, I would "be wholly thine; take thou
+                  possession of my "heart, and whatever would obstruct any of thy "blessed views with me, root it out, although it "cause me pain." -- How consoling is it to see "our dear departed
+                  relative, though in the full "enjoyment of health and youth, thus manefes- "ting one great characterestic of <persName>God's</persName> dear child "ren, who consider their latter
+                  end, and who re- "member in the prime of life and in the bright- "est of their mortal days, their latter and that </p>
+            </div>
+            <div type="page" n="19">
+               <head type="page" ana="MemLon_300031-19">19 </head>
+               <p> that they are but sojourners and pilgrims on the earth, that they are to be looking continually and preparing continually for the city that hath foundation, whose maker and builder
+                  is <persName>God</persName>.-- She continues: "Till my life shall end, do thou oh <persName>Lord</persName>, condescend "to be my councellor and friend: On my heart let thy "precepts
+                  be inscribed, and let thy great example be "my constant endeavour to imitate; so that I may "not, in any way, be a hindrance to any of the <persName>Lambs</persName> "of thy flock,
+                  by inconsistant conduct. Give me "<name type="emotion">grace</name> and <name type="emotion">wisdom</name>, so to act and to speak with the children "and young people with whom I
+                  live, that they may "be constrained so indeed to think, the paths of religion "are ways of <name type="emotion">pleasantness</name> and <name type="emotion">peace</name>. Keep them
+                  from "the many temptations they will meet with in the "world, and may some good seed be sown while they are "here in each heart, though it may not produce "fruit at once. Yea let us
+                  all live in the <name type="emotion">enjoy- "ment</name> of that peace, which a stranger entermedleth "not with; and which thou alone canst impart. Let us "live unto thy <name
+                     type="emotion">praise</name> and <name type="emotion">glory</name>, and hereafter meet in "that place, Where saints enraptured view their "<persName>Saviour's</persName> face, --
+                  and share the glories of his bound- "less grace; --That <name type="emotion">happy</name> land, where seraphs tune "the lyre-- and <persName>Adams</persName> sons unite and swell the
+                  choir These beautiful petitions in behalf of the little ones </p>
+            </div>
+            <div type="page" n="20">
+               <head type="page" ana="MemLon_300031-20">20 </head>
+               <p> intrusted to her care, lead us to remark, that her treat ment of them was quite <name type="emotion">conformable</name> to the sentim- ents thus expressed. Not unfrequently did she
+                  employ their spare time, especially on the <name type="event">Sabbath</name> in sing- ing with them such Hymns, or Sacred musical pieces as they themselves selected. this was done in
+                  an <name type="emotion">easy</name>, <name type="emotion">free</name>, and <name type="emotion">agreeable</name> manner; so that it pleased and edified at the same time; and she had
+                  the <name type="emotion">happiness</name> to know from one of the letters of her pupils, that her endeavours thus profitably to impress the tender mind with the duties and truths of
+                  religion, were not in vain.</p>
+               <p>
+                  <date>June 3rd</date> She writes probably in reference to her approaching <name type="event">birthday</name>: "Surely <name type="emotion">goodness</name> and mercy will "follow me
+                  all the days of my life. O that I may but "prove <name type="emotion">faithful</name> to my high and heavenly calling. But oh! "how slow in performing what I know to be right, and
+                  "how prone to do that which is evil. 'Well might the <persName>Prophet</persName> exclaim, "the heart is deceitful above all "things and desperately <name type="emotion"
+                     >wicked</name>." Search me O <persName>God</persName>, and "know my heart, try me and know each thought. "But in thy judgement, remember mercy, and let the "atoning blood of
+                     <persName>Jesus Christ</persName> plead and prevail in "my behalf. I indeed long to be more closely "united unto thee. O for more <name type="emotion">faith</name>, <name
+                     type="emotion">love</name>, <name type="emotion">hope</name> and "charity to take possession of my <name type="emotion">sinful</name>, but I feel "<name type="emotion"
+                     >devoted</name> heart. I am weak, but my heavenly <persName>Father</persName> "is <name type="emotion">wise</name> and all powerful." -- <date>Feb. 1, 1829</date> "By his strength
+                  he had power with <persName>God</persName>; yea he had </p>
+            </div>
+            <div type="page" n="21">
+               <head type="page" ana="MemLon_300031-21">21 </head>
+               <p> " power over the <persName>Angell</persName> and prevailed; he wept and made "supplication unto him." <persName>God</persName> desires that we should "look up to him for enabling
+                  grace under every diffi- "culty and temptation. Through his grace alone can "we poor sinners overcome the snares of our great "adversary. The <persName>Christian</persName> has many
+                  assurances, "that whatever is permitted is intended for his good; "according to his day so shall his strength be, if he "but bow with holy resignation to the dispensation, "of his
+                     <persName>Almighty Father</persName>. "Be <name type="emotion">glad</name> in the <persName>Lord</persName> "and rejoice then, the righteous and shout for <name type="emotion"
+                     >joy</name> all "th that are upright in heart." What can be a "more suitable employment for the <persName>Christian</persName>, than "to rejoice in the <persName>Lord</persName>?
+                  who has cause ^ to rejoice if he have "not? -- Oh! that all could be persuaded to turn "from their evil ways and live a life of faith. O <persName>Heaven- "ly Father</persName>, I
+                  beseech thee, increase my faith; for "Jesus sake pardon all my past transgressions; -- "enable me to live more in the element of thy <name type="emotion">love</name>; "put far from
+                  me every unholy inclination and desire. "<name type="emotion">Calm</name> O <persName>Lord</persName> every storm that would arise in "my breast, -- bring down every high imaginati-
+                  "on, and let me be determined to follow thee and thee "only, cost what it may. Thou art indeed my "hearts delight. Send now thy <persName>Holy Spirit</persName> upon "me, and enable
+                  me through this year, to walk </p>
+            </div>
+            <div type="page" n="22">
+               <head type="page" ana="MemLon_300031-22">22 </head>
+               <p> "as thy anointed in the path thou hast for me "appointed. Save us O <persName>God</persName> of our <orgName>Salvation</orgName>, and "gather us together, that we may give thanks
+                  unto "thy holy name , and <name type="emotion">glory</name> in thy praise!"-- From the last clause of this prayer, and the peculiar expression, "gather us together," it would appear
+                  that her <name type="emotion">affectionate</name> mind was thus <name type="emotion">embracing</name> in its desires before <persName>God</persName>, all the mem bers of her family.
+                  May her <name type="emotion">fervent petitions</name> be most graciously answered. The last meditation she has left is dated <date>June 16th 1829</date>, and it clearly shows how the
+                     <persName>Lord</persName> was preparing her mind for that important change in life, which took place with her before the end of the year. She writes, -- "To thee O heavenly
+                     "<persName>Father</persName>, I <name type="emotion">desire</name> to submit all my desires, and "to thee would I commit all my concerns, cast all "my cares upon thee, <name
+                     type="emotion">conscious</name> that thou carest "for me. And who so fit to choose my lot, or regulate my ways, as a being, who <name type="emotion">loved</name> me "so as not to
+                  spare his own <persName>Son</persName>, who knows "what is best for me, and is able to make all things "work together for my good? I have often been "brought <name type="emotion"
+                     >low</name>, but thou hast helped me, and "when I have been looking for nothing but "darkness, at evening time it has been light. "But oh! after all thy patience, goodness, and
+                  "care, how often do I betray my <name type="emotion">depravity</name> by "seeming to <name type="emotion">mistrust</name> Thee. Yet I could cry </p>
+            </div>
+            <div type="page" n="23">
+               <head type="page" ana="MemLon_300031-23">23 </head>
+               <p> "cry out with tears, "<persName>Lord</persName> I believe, help thou my "<name type="emotion">unbelief</name>" -- "When my foot slippeth, let thy mercy, O lord, hold me up. If my
+                  course con- "ducts me through rough and trying scenes, say " to me thy shoes shall be iron and brass, and as "thy day is so shall thy strength be. Keep one in all places and
+                  circumstances. However "<name type="emotion">ignorant</name> of the future, enable me to trust in "Thee and not be afraid. I should? begin, even in this vale of tears. the song I
+                  hope forever to sing. "Marvelous are thy works, just and true are all thy ways, O thou <persName>King of Saints</persName>! Enable me "to confide in thy promises, and rely on thy
+                  "constant protection and care. Let thy law be "dear unto me. May I be <name type="emotion">devoted</name> to thy service "and find it perfect freedom. Thou dost not indeed "stand in
+                  need of any, but since thou art <name type="emotion">pleased</name> "in infinite wisdom and condescension, to safe "means, I would say <persName>Lord</persName> what would thou "have
+                  me to do? here is my hand, me, <persName>Lord</persName> "assist, to serve thee midst reproach and "shame. Be it my one undivided aim to glo- "rify <persName>Him</persName> who has
+                  done so much to render "me, <name type="emotion">happy and acceptable</name> to <persName>God</persName>!' She then "proceeds to dilate on the <name type="emotion">love</name> of
+                     <persName>God</persName> to man as exhibited, not only in redemption, but </p>
+            </div>
+            <div type="page" n="24">
+               <head type="page" ana="MemLon_300031-24">24 </head>
+               <p> but also in the works of nature, which eloquently declare <persName>God's</persName> glory and speak <persName>His</persName> praise. This was a favourite consi- deration with her.
+                  She <name type="emotion">admired</name> the beau- ties and sublimities of creation with that <name type="emotion">calm satisfaction</name>, yet <name type="emotion">holy
+                     delight</name> which only those do feel, who can exclaim as they behold these are all the production of <persName>Him</persName> I call my who is my dear <persName>Heav- enly
+                     Father</persName>, with whom I am <name type="emotion">at peace</name>, through the blood of the Lamb!' -- She concludes thus: "And should man be mute, after receiving so many
+                  benefits? Undoubtedly not. He should lead the chorus. Each breath should sound forth the praises of so blessed and adorable a friend. May thy continued goodness make a lasting
+                  impression on my _ and heart. Thou fountain of all goodness, draw me to thy self, and enable me to do my duty, be it what it may." -- Soon after this in the month of
+                     <date>November</date>, she <name type="event">reserved a pro- posal of marriage</name> from <persName>Brother James Latrobe</persName>, who had been <name type="event">called to
+                     the service of the <orgName>Congregation</orgName></name> at <placeName>Ayr</placeName>. This proposal she accepted, after requesting the consent of her
+                     <persName>Father</persName>, <name type="event">they were married the <date>28th of December</date></name>
+               </p>
+            </div>
+            <div type="page" n="25">
+               <head type="page" ana="MemLon_300031-25">25 </head>
+               <p> December, and <name type="event">arrived at their post <date>the last day of the year</date></name> . From the moment of her arri- val at <placeName>Ayr</placeName>, she entered
+                  upon her work with <name type="emotion">zeal and earnestness</name>, and yet under a deep sense of her <name type="emotion">unworthiness</name>
+                  <name type="event">to be employed as a handmaid of the <persName>Lord</persName></name>. By her chris- tian <name type="emotion">cheerfulness</name> and <name type="emotion">lively
+                     confidence</name> in <persName>God</persName>, and implicit trust in his kind lead- ings, she was a help to husband in his official duties, especially when those duties led over
+                  thorny paths: her <name type="emotion">love</name> of spiritual converse and family devotion too, and her <name type="emotion">interest</name> in the welfare of the Congre- gation,
+                  were calculated to increase that love to the Saviour and his people which not only sweetens the cup of life, but is essential to the usefulness of the Lords servants. She <name
+                     type="emotion">loved</name> to see and welcome those <persName>Brethren and Sisters</persName> and friends, who called from time to time, to be refreshed and animated in their
+                  christian course. All were received with <name type="emotion">affability</name>. And to some. especially of the aged sisters Her </p>
+            </div>
+            <div type="page" n="26">
+               <head type="page" ana="MemLon_300031-26">26 </head>
+               <p> her conversation proved to be a blessing and a <name type="emotion">comfort</name>. Although no longer engaged in the education of children, yet that <name type="emotion"
+                     >love</name> to the lambs of the flock, which characterises many of her pri- vate meditations, was undiminished. Remembering the blessings she had experienc- ed when taken in
+                  early life, by her parents to the children's meetings at <placeName>Bristol</placeName>, and also the impression, which the remarks and advice of her beloved father had made upon her
+                  youthful mind, she felt a <name type="emotion">strong int- trest</name> in behalf of the children of this congregation, and impelled by that interest, she accompanied her husband to
+                  the house- es of all the parents, previous to the children's Festival, although by no means well at the time. The weighty and affectionate words and expostulations she employed on
+                  that occasion as a consequence of that visit, was, the recommencement of meetings for the child- ren of the Congregation which had been for some time discontinued. She was <name
+                     type="emotion">peculiar ly interested</name> in the son of our <persName>Brethren and Sister Borland</persName>, who departed happily to the <persName>Lord</persName> in
+                     <date>August this year</date>, after a severe mental struggle </p>
+            </div>
+            <div type="page" n="27">
+               <head type="page" ana="MemLon_300031-27">27 </head>
+               <p> struggle, and she often mingled her tears with those of her husband, while he was engaged in visit- ing the boy on his sickbed. Sabbaths were days of special <name type="emotion"
+                     >delight</name> to her; she <name type="emotion">loved</name> the assembly of the <persName>Lords</persName> people, whither public or private, often prolonging the subjects that
+                  had been treated of in private conversation, and expressing her gratitude for the abundant provision of <persName>Gods</persName> house. Even when indispo- sed in body, and gently
+                  urged to stay at home, she often said, in allusion to her approach- ing confinement. No I will go to the <persName>Lord's</persName> house while I can you know I shall soon be
+                  deprived of that privilege for a considerable time." The event, which she thus alluded to, natural- ly led her to frequent meditation and converse, on the possibility of its
+                  terminating in her <name type="emotion">dissolution</name>, and some months ago, she expres- sed her <name type="emotion">conviction</name>, that if the <persName>Lord</persName>
+                  should see fit to make it the occasion of her change coming, all would be well; she could meet her <persName>Saviour</persName> with <name type="emotion">joy</name> as a pardoned
+                  sinner, who had nothing to boast, but whose <name type="emotion">trust</name> was in his atonement and righteousness. Such an Expression </p>
+            </div>
+            <div type="page" n="28">
+               <head type="page" ana="MemLon_300031-28">28 </head>
+               <p> expression of her <name type="emotion">sentiment</name> was especially elicited by the sudden departure and burial of <persName>sister Morton</persName> when walking with her
+                  husband in the peace- ful spot, where her own dear remains were in- terred but 3 weeks after, in hope of a <name type="emotion">joyful</name> resurrection. The kindness and
+                  cordiality mani- fested towards her and her husband, both by our own <persName>Brethren and Sisters</persName> and by many excellent friends, was <name type="emotion"
+                     >gratefully</name> felt by her. On this subject and on the general state of her mind, she thus wrote to her sister in <placeName>Gracehill</placeName>, in the <date>latter part of
+                     June</date>: "I might charge myself with '<name type="emotion">ingratitude</name>, were I not to acknowledge that I have many kind and attentive friends, and though all have it
+                  not in their power to administer to our outward comfort, yet by their kind advice, affectionate interest, and willingness to assist me, they add much to my <name type="emotion"
+                     >happiness</name>, and call forth feelings of <name type="emotion">gratitude and praise</name> to <persName>Him</persName>, who careth for his children, and will not suffer the
+                  confidence of those who put their trust in <persName>Him</persName> to be put to shame. I Indeed <name type="emotion">desire</name> to com- mit all my concerns to my
+                     <persName>Heavenly Father</persName>, <name type="emotion">conscious</name> that He careth for me. May I know how to be <name type="emotion">abased</name> and how to abound; and
+                  in every varying </p>
+            </div>
+            <div type="page" n="29">
+               <head type="page" ana="MemLon_300031-29">29 </head>
+               <p> varying condition, display the principles and disposition of one, who is seeking for <name type="emotion">glory</name> and <name type="emotion">honour</name> and immor- tality. I
+                  would not wish to be at any our disposal, but rejoice to think I am under the care of one, who is too wise to err, and too kind to injure" As the time of her confinement approached,
+                  she stayed her mind <name type="emotion">calmly</name> on the <name>Lord</name>, neither giving way to needless fears, nor yet elated with too sanguine hopes. She found the letter
+                  and advice of her dear father a great help to her, truly <name type="emotion">valuing</name> the privilege of having relatives, who were bound to her by the double ties of nature and
+                  of grace. Thus prepared in her mind, the time of her trial came, and after a <name type="emotion">long</name>, <name type="emotion">difficult</name>, and <name type="emotion"
+                     >painful</name> labour of 4 days, she was enabled to become the mother of a fine, <name type="health">healthy</name> boy, early on the morning of <date>Friday 15th Oct</date>.
+                  During this severe trivial She manifested that patience which had so long characterized her, and was really an edification to those who were around her. She constantly noticed the
+                  text of the day, drawing much com- fort and support from them. This was especially </p>
+            </div>
+            <div type="page" n="30">
+               <head type="page" ana="MemLon_300031-30">30 </head>
+               <p> especially the case on wednesday, when she took occasion from the daily word: "The <persName>Lord</persName> hath called me from the womb ? "to speak to <persName>Sr
+                     Borland</persName>, to whom she was deservedly attach ed, of the <persName>Lord's</persName>
+                  <name type="emotion">kindness</name> to her from her ear- first infancy, in caring for her, hedging up her way, keeping her from temptation, and guiding her <name type="emotion"
+                     >gently</name> by the streams of salvation, and in the green pastures of his love. She spoke also of the <name type="emotion">happiness</name> and profit she had derived, from her
+                  connection with the <placeName>Bretherands Church</placeName>, Indeed she sincerely <name type="emotion">loved</name> this part of the <persName>Lord's</persName> vineyard, as is
+                  plain from her manuscript which contains meditations on some memorial days of our church, and petitions on behalf of some of its members. She passed the friday very favourably, and
+                  though she did not sleep much during the night, her medical attendant expres sed this <name type="emotion">satisfaction</name> at her state on saturday morning, and declared he did
+                  not expect to find her so well. About the middle of the day, however, <name type="health">unfavorable symptoms appeared</name>, which did not yield to the remedies applied, and when
+                  her physician came again in the morning eve ning, he recognized the marks of <name type="health">rapid and decided inflammation</name>. Powerful means were used to </p>
+            </div>
+            <div type="page" n="31">
+               <head type="page" ana="MemLon_300031-31">31 </head>
+               <p> impede its progress and <name type="emotion">anxiously</name> was the effect awaited; yet still the <name type="health">symptoms increased</name>. She often reproved the anxiety of
+                  those around her, and scarcely repressed her tears, bidding them not to cast away their <name type="emotion">confi dence</name>. After a lapse of two hours, still stronger means were
+                  resorted to, as a final hope, and her husband proposing that they should unite in beseeching the blessing of the <name>Lord</name> for her restoration, she expressed her <name
+                     type="emotion">desire</name> that this should be alone; begging him at the same time not to weep, for she was in the <name>Lord's</name> hands, He had often raised her up for when
+                  brought low, and could do it again if He pleased. All were now <name type="emotion">composed</name> after prayer, and the dear sufferer being asked if she were resigned to the
+                     <persName>Lord's</persName> will, whatever it might be, replied <name type="emotion">cheerfully</name>, "Yes I am." Shortly after, she added with <name type="emotion">great
+                     emphasis</name>: "Oh! what pround hearts we have; this is sent to humble one, and if I am brought through; I shall walk more <name type="emotion">humbly</name> with my
+                     <persName>God</persName>." Observing the tears of those about her, she endeavoured to <name type="emotion">comfort</name> them, told them not to weep for her sake for it disturbed
+                  her composure </p>
+            </div>
+            <div type="page" n="32">
+               <head type="page" ana="MemLon_300031-32">32 </head>
+               <p> and proceeded to say: "I had once to seek my <persName>Saviour</persName>, "when in this state, but not now. I know he "will do all things well!" During the night some of the <name
+                     type="health">symptoms abated</name>, though the most alarming continued. She became very heavy, slept, and wandered occasionally in her mind, yes always in an edifying way. Early
+                  in the morn ing her medical attendant came, felt her pulse, shook her head, and upon having her loom, informed her husband, that all hope of her life was now gone, mortification had
+                  commenced, and that day would be her last. With a <name type="health">bleeding and agonised heart</name>, yet with prayer for the Divine support, he immediate ly returned to the
+                  bedside of his dying wife, to hear, what I may have to tell you?' Though she had appeared almost insensible before, she seemed to understand him in a moment, looked <name
+                     type="emotion">astonished</name>, and then with the utmost composure and <name type="emotion">firmness</name> said: "Yes my dear I am! Having fun informed of the
+                     <persName>Doctor's</persName> opinions respecting her, she exclaimed with <name type="emotion">peace</name> in her countenance; Well - the <persName>Lord's</persName> will be done
+                  the <persName>Lord's</persName> will is always best. I had hoped to have been spared a little </p>
+            </div>
+            <div type="page" n="33">
+               <head type="page" ana="MemLon_300031-33">33 </head>
+               <p> little longer, but I am resigned to my <persName>Saviour's</persName> will." a pause insued, a period of sobs and tears, "Don't cry for me" she said, "I am happy going to our
+                     <persName>Saviour</persName>", Turning to her husband, she said: "The <persName>Lord</persName> will sup- port you and bless you, and be far more to you than I have been. We have
+                  been <name type="emotion">very happy</name> together, but now you "must give me up to the <persName>Lord</persName>. Don't weep." and then she looked up with <name type="emotion"
+                     >glory</name> in her countenance, and exclaimed; "O the delights, the heavenly joys, "The glories of the place - Where <persName>Jesus</persName> sheds the brightest beams Of his
+                  o'erflowing grace." and who would not go there" Every thing like wandering or insensibility had now completely felt her. She seemed to realize, in the body, the joys that were before
+                  her, and her bedside became the very gate of heaven. It was as though the place were surrounded by <name type="emotion">happy</name> spirits and holy angels, waiting to receive her
+                  redeemed soul, when it should be uncloth- ed. Her husband being called out for a moment, she took that opportunity to say to <persName>Sister Borland</persName>;" Ask
+                     <persName>Brother Kleinsmith</persName> to write to <persName>Brother Ramftler</persName> and like my dear <persName>Father</persName>, that I am departing in hope of a "<name
+                     type="emotion">joyful</name> resurrection, and am going to be committed to my "dear <persName>Mother</persName>." and then she added, with her eyes </p>
+            </div>
+            <div type="page" n="34">
+               <head type="page" ana="MemLon_300031-34">34 </head>
+               <p> uplifted to heaven, and oh! for angels to waft me to that happy place!" feeling then for her dear husband, she said to <persName>Sister Borland</persName>, who was weeping "Don't
+                  cry before "him, it grieves him." Being asked upon her hus bands return, if she would see a young friend, who was waiting to speak to her, she replied: "Oh! yes send for her, let her
+                  come while I can speak." As soon as she had come to the bedside, the <name type="health">dying patient</name> grasp ed her hand and said: "O my dear, you must come out of the world
+                  and leave its vanities and attend to the salva tion of your soul. I know it is hard to leave the world, but you must do it, if you would have hope in your death, when you are like
+                  me." She said more to the same purpose, and directed her to the <persName>Lord Jesus</persName>, and when the young lady promised to be kind to her baby. she said Oh! I have given up
+                  my ?? it will be well cared for, but, (and she put dying em- phases into the words) oh! do care for your own salvation." Another lady of decided Christian harmeter approaching, she
+                  helped her, and said: "The steadfast, unmoveable, always abounding in the "work of the <persName>Lord</persName>" Frequently did she say to <persName>sister Borland</persName>, who
+                  had been day and night at her bedside: "Oh! you have been <name type="emotion">very, very kind</name> to me - the <persName>Lord</persName> will "reward you persevere, persevere and
+                  the <persName>Lord</persName> bless </p>
+            </div>
+            <div type="page" n="35">
+               <head type="page" ana="MemLon_300031-35">35 </head>
+               <p> you and your family."---- knowing herself once from medi- tation, she asked what day it was, &amp; being bold it was the sabbath day, she explained with <name type="emotion"
+                     >amimation</name>: "Oh! it is a blessed thing to die on the sabbath, and no enter into an eternal sabbath."---- Shortly after it was proposed to sing with her; she said: oh! you!
+                  do"---- and being asked to choose a verse, she gave out: "O then the sole defence and aid and but owing to the indistinctness of her voice only a few words were gath- ered and being
+                  it could not be found at the hine. The foll- owing was then selected: <persName>Jesus</persName> at my dispolution and " when she said, "yes that will do." It was then hardly sang
+                  and partly sang out, but she maintained a hea-- venly composure, and often begged those around her not to weep for her, for she was <name type="emotion">happy</name>. Once or twice
+                  she said, "perhaps the Doctor is mistaken. I am too strong to die, I do not feel as if I were dying." But about two hours and a half before her departure she said placidly: "Now I
+                  feel a change, it will not be long now." and then she betook herself again to comfort those around her, &amp; especially her <name type="emotion">sorrowing</name> partner. To him she
+                  said, with <name type="emotion">tender</name> affection: "the <persName>lord</persName> will support you &amp; supply all your wants, I know he will, for I have prayed for you"--- He
+                  replies "yes my dear I know he will, but it is hard to part with you so soon."----"O! yes,"she answered, it is hard </p>
+            </div>
+            <div type="page" n="36">
+               <head type="page" ana="MemLon_300031-36">36 </head>
+               <p> "but it will not be long-- soon we shall be united "again, never, never, to be parted. you must finish "your work; &amp; then you will come after me, &amp; we shall " be united
+                  forever. I know you will care for our dear "child, I am quite easy about it."__ At this time the <persName> Doctor </persName>who was greatly interested about her, entered the room,
+                  when she eagerly addressed him: "How "long shall I live <persName>Doctor</persName>? He seemed much affected, &amp; replied: "My dear <persName>Mrs. Lattrobe</persName>, I am sorry
+                  to say "you cannot be long." "Sorry! she said, sorry--- do not say sorry. I am glad. Will it be two hours?" He answered that it could not be much longer, &amp; that he was <name
+                     type="emotion">happy</name> to see her so resigned: when she explained: "Let me die the death of the righ- teous, &amp; let my last end be like his! " here mom- ents were now
+                  spent in sacred prayer, &amp; in com- forting the survivors, but in a short time the <name type="health">struggle of death</name> became hard, though they were not severe, &amp; she
+                  said "it is a hard work to die"---&amp; several times, asked, "will it be long?" she was told it probably would not, but that the Lord would give her strength equal to her day. This
+                  seemed to satisfy her, foron being asked, whether a prayer should be made for her release she said: "No! no! the <persName>Lords</persName> time is best, I can wait patiently for
+                  that"--- 'Yes' said she- though I walk through the valley of the shadow of death, I fear </p>
+            </div>
+            <div type="page" n="37">
+               <head type="page" ana="MemLon_300031-37">37 </head>
+               <p> I <name type="emotion">fear</name> no evil, his rod &amp; his staff comfort me:"-- and then with great earnestness, &amp; peace in her looks, she repeated the verse: "Now I have
+                  found the ground "where in-- Sure my souls anchor may remain;-- Even <persName>Christ</persName>, who to atone for sin,---Was as a spotless victim slain, Whose mercy shall un- shaken
+                  stay--- When Heaven &amp; earth are fled away." She now signified, that she wished to take leave of the friends saying,, "Goodbye--- Farewell to you all,"--- waving her hands, &amp;
+                  repeating the words, when some seemed to linger. Being then left alone, with her husband &amp; sister<persName> Borland</persName>, she held their hand most affectionately, &amp;
+                  comforted their hearts saying to sister<persName> Borland</persName>," you will be you to him: I "know you will"------Brother <persName>Kelin </persName>smith having enter- ed the
+                  room the, &amp; approached her couch, she took his hand, &amp; said "you see, Sis, I am going before you." He was deeply affected, and with much <name type="emotion">emotion</name>,
+                  pro- nounced over her the blessing of the <persName>Lord</persName> for her disfortune. at the dove of it she said: amen! amen When a few sisters had assembled at her hedside, she
+                  looked around, and said : "I know you all," and seeing an aged sister pilgrim. Sister <persName>Borlands mother</persName>, with whom she often had sweet spiritual convense (a word
+                  that is cut off) </p>
+            </div>
+            <div type="page" n="38">
+               <head type="page" ana="MemLon_300031-38">38 </head>
+               <p> she beckoned to her, &amp; taking her hand, said: "Don't "weep for me. ,Ah! their is a stingliss death- "yes! a stingliss death." words, which the emphat- ically repeated several
+                  times. She now appeared once more to gather a little strength, again expres- sed her <name type="emotion">gratitude</name> to Sister <persName>Borland</persName>, adding "you "will
+                  be good to my child"---- &amp; again attempted to comfort her <name type="emotion">weeping</name> partner. Every moment her eyes grew brighter, &amp; her counter once more heavenly,
+                  &amp; she often said, " I think it will soon "be over, the conflict will soon be over ended-- Amen, "Amen!" and as often did she turn to her <name type="emotion">weeping</name>
+                  husband, &amp; drew him towards her, to take leave of her. Presently however, she requested tea to be made &amp; turning to her partner, she said: "My dear " we will have a cup of
+                  tea together once more."___ and while it was preparing, she addressed him with great <name type="emotion">affection</name> in her countenance: "We " meet again-- <name type="emotion"
+                     >joyful</name> words, we meet again." when the tea was brought, in she raised it eager- ly to her lips , &amp; having tasted, passed the soucer to her husband, &amp; earnestly
+                  watched him drink, &amp; then gently drew it to <persName>Sister Borland</persName>, signifying her desire that she likewise, should join in their parting </p>
+            </div>
+            <div type="page" n="39">
+               <head type="page" ana="MemLon_300031-39">39 </head>
+               <p> parting feast of <name type="emotion">love</name>. Under the impression that she was <name type="health">near her end</name>, she then said: "the conflict is nearly over--- bring
+                  the baby!" ---- bring the baby!"--- The dear little infant was brought in and all un conscious of the coming loss, presented to her dying mother. She kissed it eagerly, and gently
+                  ribbles its little arm with hand, as it lay across its breast, doubtlely imploring for it, in silent fervour, the everlasting mercies of her <persName>Saviour</persName>. After the
+                  baby was removed, she had some sharp struggles: but about a quarter of an hour before the end , she looked up again with great <name type="emotion">animation</name> in her
+                  contenance, &amp; exclaimed Praise! Praise! &amp; she gave out the lines: O may over imperfect song &amp; praises - "Be well pleasing unto thee, <persName>Lord Jesus</persName>;---
+                  "Say my peace I leave with you,--- "Amen, amen, be it so!"--- A short struggle ensured, after which looking around with great solemnity she addressed the company in these impressive
+                  words: Their is an hour that must "come to you all!"---- She did not speak very </p>
+            </div>
+            <div type="page" n="40">
+               <head type="page" ana="MemLon_300031-40">40 </head>
+               <p> distinctly after this, but her lips were seen to move, &amp; sometimes such whispers were heard: "Dear <persName>Saviour</persName>-- Amen--Amen!--" - About 3 O'clock in the
+                  afternoon,a pang seemed to seize her for a moment, &amp; her counten ance betokened pair, but when it ceased a beau tiful smile spread over her face, &amp; her eye be came fixed. She
+                  leaned her head on sister <persName>Borlands</persName> shoulder, &amp; still retained the hand of her husband in affectionate recognition. Thees in solemn stillness, her parting
+                  breath was watched , &amp; gently and insensibly did <name type="health"> she die away</name>, &amp; her <name type="emotion">happy </name>redeemed spirit went over into the arms of
+                  her saviour &amp; her God! Her pilgrimage had lasted 28 years &amp; 4 months-- Her memory is sacred &amp; blessed whom earth, her record is on high!</p>
+               <p>She's now at next- In endless bliss- Beholding<persName> Christ</persName> our Saviour:-- Our humble expectations in To join her there forever </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

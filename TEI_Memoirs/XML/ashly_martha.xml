@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Martha Ashly: Memoir <lang>English</lang>
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <idno />
+                  <msName type="memoir" ana="MAB/MemBeth_0164">Martha Ashly</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0164a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0164a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0164a-03.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="eng">
+         <head>Martha Ashley memoir</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="MemBeth_0164a-01" />
+            </head>
+            <p> The single <persName>Sister Martha Ashly</persName>. She wrote of herself as follows:<lb /> I am born the <date>21<hi rend="superscript">st</hi>. <abbr>Sept.</abbr> 1736</date>. at
+                  <placeName>Stornhill near Wike</placeName>. &amp; brought up in the <abbr>engl.</abbr> Church. In my Childhood I heard the Brethren <sic>testyfying</sic>; <corr>testifying</corr> the
+               tender Love of our Saviour that I got a deep Impression therefrom in my Heart; but this, by <sic>myn</sic>; <corr>my</corr> unsettled state of Mind, soon faded away. Till the Time when
+                        <persName><abbr>B<hi rend="superscript">r</hi></abbr>. &amp; <abbr>Sist<hi rend="superscript">r</hi></abbr>. Held</persName> a School for Girls <sic>errected</sic>;
+                  <corr>erected</corr>, there our <abbr>Sav<hi rend="superscript">r</hi></abbr>. came so powerfully on my Heart, that I could from the Bottom of my Heart weep to him, to make me a
+               happy Child. I never shall forget the blessed Time among us Children, <sic>especialy</sic>; <corr>especially</corr> what feelings </p>
+         </div>
+         <div type="page" n="2">
+            <head>Page 2 <seg ana="MemBeth_0164a-02" />
+            </head>
+            <p> we had in our Meetings. <date><abbr>A.</abbr> 49</date> I came among the Girls, &amp; there I had a particular School, till I turned <del>with</del>
+               <add>in</add> all my spoiled Constitution towards my <abbr>Sav<hi rend="superscript">r</hi>.</abbr> &amp; so gave me anew to him as a poor reward for his Sufferings. In this Situation I
+               remained as long as I was among the Girls &amp; the feelings of our dear Saviours Love conducted me through all the following Occurrences. The <date>13 of August 1751.</date> Was I
+               received into the Congregation &amp; after <add>a</add> long wishing &amp; longing I was <date><abbr>A.</abbr> 55. the 27<hi rend="superscript">th</hi>. of <abbr>Jan.</abbr></date>
+               admitted to the holy Sacrament. What I <sic>feeld</sic>; <corr>felt</corr> thereby is inexpressible for me. the <date>4<hi rend="superscript">th.</hi> of May a.e.</date> I came among
+               the single Sisters, by this Opportunity I <sic><abbr>deleiverd</abbr></sic><abbr>; </abbr><corr><abbr>deliverd</abbr></corr> myself so as I was, to the Property of my Lord &amp; wished
+               now to live in the Choir- House, My sickly Constitution was an Obstacle in my Wish however <del>my Desire</del>
+               <date><abbr>A<hi rend="superscript">o</hi>. 60.</abbr></date> I obtained my Desire. Here now the holy Ghost begun to show to me my marred &amp; in the Bottom spoiled Nature, this made
+               in the Beginning many perplexed Hours to me &amp; spoiled many a Happiness which I was to enjoy into our Choir-House; However about that to he comforted me in a very rich Measure, I
+               acknowledged myself as a poor <sic>Siner</sic>; <corr>Sinner</corr>, so as I was &amp; begun quite at a new with my Bridegroom. Now I perceive that our Saviour begins to hasten to
+               finish my poor Soul &amp; that is the Point of all my hearty Wishes&quot;. So far She herself. Our dear Sister was sickly a long Time, but behaved herself very patient &amp; complained
+               about nothing, as when her Heart not according to her Wish was in Conversation <abbr>w<hi rend="superscript">th</hi></abbr>. our <abbr>Sav<hi rend="superscript">r</hi>.</abbr>
+            </p>
+         </div>
+         <div type="page" n="3">
+            <head>Page 3 <seg ana="MemBeth_0164a-03" />
+            </head>
+            <p> At last She begun to grow weary, then since the Time her Sickness begun, she saw 8 of her Choir-fellows going home &amp; said to her Choir-Labourer: &quot;Will my dear Saviour not soon
+               come &amp; take me along to him? I can&#39;t tell ye how <sic>gratiously</sic>; <corr>graciously</corr> he assisted me, as well in my <sic>bodyly</sic>; <corr>bodily</corr> &amp; Souls
+               Occurrences; I&#39;ll leave it over to him, when he the Moment thinks proper to take my poor Soul home. And in this happy Situation She expected from the pale Lips her last kiss; whom
+               She received to Day in the 27<hi rend="superscript">th</hi>. Year of her Age. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

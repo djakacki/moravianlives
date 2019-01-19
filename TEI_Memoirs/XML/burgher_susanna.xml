@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Susanna Burgher: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir" ana="MAB/MemBeth_0210">Susanna Burgher</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0210a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0210a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0210a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0210a-04.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Susanna Burgher</head>
+            <div type="page" n="1">
+               <head>Page 1 <seg ana="MemBeth_0210a-01" /></head>
+               <p><persName><abbr>S<hi rend="superscript">t</hi>.</abbr> Susanna Burgher&#39;s</persName> Account of Her Life. Awakening <abbr><unclear>Vc.</unclear></abbr> See a further Account of
+                  her Course in the Journal of the Year <date>1772</date> under the <date>3</date><hi rend="superscript"><date>d</date></hi><date>. of November</date>, when she ender her Life, aged 76
+                  Years 7 Months and 29 Days.</p>
+            </div>
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemBeth_0210a-02" /></head>
+               <p>i <hi rend="underline"><persName>Susanna Burger</persName></hi>
+                  <add>was Born</add> in the <add>year</add>
+                  <date>1696 the 24 day of march</date> at <placeName>Staten island</placeName>: my fathers <del>was</del> and <sic>Motters</sic>
+                  <corr>Mothers</corr> name was <persName><hi rend="underline">nathan</hi></persName> and <persName><hi rend="underline">Catherin</hi></persName>
+                  <del>Burger</del><persName><add><hi rend="underline">Whittman:</hi></add></persName> my father was a farmer of a honest and Sober <unclear>[?]</unclear>, and Lived in good
+                     <unclear>bed A:</unclear> my Dear Mother died when i was 4 year and 3 months <sic>ould</sic>
+                  <corr>old</corr>: my father took <hi rend="underline">his</hi> mother home and She took Care of me <sic>untill</sic>
+                  <corr>until</corr> i was <del>Eight years</del> Eight years old, and then my <sic>fatt</sic><add><sic>er</sic></add>
+                  <corr>father</corr> married again, and then my grand mother had no more Liberty to take Care of me, as She had before. When i was Eighteen years old i was married to <hi
+                     rend="underline"><persName>Elias Burger</persName></hi> in the year <date>1714</date>, by Whom i have had 7 Sons and 4 daughters and when i had been <unclear>marred</unclear> 3
+                  months i was <hi rend="underline">Baptised as</hi> my father was <del>not Bapti</del>
+                  <hi rend="underline">a Bap tist</hi> i was not <abbr>Baptisd</abbr> in my infancy: my husband and i Came t<hi rend="underline">o <placeName>newyork</placeName></hi> that i Should
+                  recieve the holy Baptism we went to my hus- bands <sic>Cussins</sic>
+                  <corr>Cousins</corr> house, they <abbr>askd</abbr> me: what minister i would have? i <sic>Saide</sic>
+                  <corr>Said</corr> a English <sic>prispe terian</sic>
+                  <corr>presbyterian</corr> minister; and When the minister Came </p>
+            </div>
+            <div type="page" n="3">
+               <head>Page 3 <seg ana="MemBeth_0210a-03" /></head>
+               <p>he askd me Several <sic>qeustions</sic>
+                  <corr>questions</corr>: he ask me also Why i was not Baptisd on <placeName>Staten </placeName><sic><placeName>YLand</placeName></sic><placeName
+                        > </placeName><corr><placeName>Island</placeName></corr>? i answered, i was <sic>afeard</sic>
+                  <corr>afraid</corr> to Let my father know of it, beCause he was <del>he was</del>
+                  <hi rend="underline">a Baptist</hi> and <sic>whe</sic>
+                  <corr>we</corr> had no English minister there as a Churchman, and i told him i would not be Baptised by him; he ask'd me Why? and i <sic>Sayd</sic>
+                  <corr>Said</corr> beCause he Sign'd with the Sign of the Cross; he <sic>S</sic><sic>ayd</sic>
+                  <corr>Said</corr> nothing to me but about that, but he askd me Several other questions about my faith: but i answered but <sic>Litle</sic>
+                  <corr>Little</corr> and then my husband and <sic>Cussin</sic>
+                  <corr>Cousin</corr> was Calld in the room, and we all Stood and he askd <add>me</add> Some Church questions to <sic>wich</sic>
+                  <corr>which</corr> i ans wered: he told us to kneel down, and then he Baptised me and Signd me with with the <unclear>Singr</unclear> of the Cross but it Seemd to <sic>mee</sic>
+                  <corr>me</corr> as tho' he Struck his fingers upon my heart in Stead of being <sic>Rejoyst</sic>
+                  <corr>Rejoiced</corr> my <add>heart</add> Sunk in my body, o the pain of my heart i cannot Express i Slept but <sic>Litle</sic>
+                  <corr>Little</corr> that night i thought what Shall i <del>Shall i</del> do now i have made So many promises how Shall i perform them <pb /> and thought if i Could Keep them i would
+                  feel Ease in my heart, but i soon found i was not able to perform them, as i thought i Should do: i was much troubled but kept it for my Self, but i had <sic>Litle</sic>
+                  <corr>Little</corr> Comfort from within or without: i then thought to Seek it in good <sic>Boocks</sic>
+                  <corr>Books</corr> to read them <sic>dilegently</sic>
+                  <corr>diligently</corr> but found no true peace i poor <sic>misarabel</sic>
+                  <corr>miserable</corr> Creature <unclear>Live</unclear> Without Com fort; many ways i <sic>triyd</sic>
+                  <corr>tried</corr> at reading and fas ting, but i remaind the Same for about <sic>Seve</sic>
+                  <corr>Seven</corr> teen year and then i hear <persName>m<hi rend="superscript">r</hi>
+                     <unclear>Trahinghuyden</unclear></persName> a Dutch minister Came from the <placeName>Jersey</placeName> who Went onCe to <placeName>Long
+                        </placeName><sic><placeName>YLand</placeName></sic><corr><placeName>Island</placeName></corr> to preach, i understood Very <sic>Litle</sic>
+                  <corr>Little</corr> Dutch that time, i went to hear him his <unclear>teach</unclear> was in the 16 Chapter of St John: When the Comforter Shall Come he Shall Convince the World of
+                  Sin of <sic>rightousness</sic>
+                  <corr>righteousness</corr> and of <sic>Jugdment </sic>
+                  <corr>Judgment</corr> i thought by my Self, what he would make of Sin and <sic>Jugdment</sic>
+                  <corr>Judgment</corr> i could <sic>aprehend</sic>
+                  <corr>apprehend</corr> but of <sic>rightoughness</sic>
+                  <corr>righteousness</corr> i <sic>knewd</sic>
+                  <corr>knew</corr> not he preached Very <sic>powerfull</sic>
+                  <corr>powerful</corr> i thought i </p>
+            </div>
+            <div type="page" n="4">
+               <head>Page 4 <seg ana="MemBeth_0210a-04" /></head>
+               <p>had never heard Such preaching before <del>[?]</del> affected me very much, and when he Came of that Text of <sic>rightuousness</sic>
+                  <corr>righteousness</corr>, i was <add>Stript</add> of all my <sic>rightiousness</sic>
+                  <corr>righteousness</corr>
+                  <sic>wich</sic>
+                  <corr>which</corr> i had before to <sic>biuld</sic>
+                  <corr>build</corr> upon before, for it was a very poor for <sic>foundatian</sic>
+                  <corr>foundation</corr>. i went then more Con Cernd, as i was before, but i was glad i had <sic>haard</sic>
+                  <corr>heard</corr> him: about a year after i removed to <sic><placeName>neww</placeName></sic><placeName> </placeName><corr><placeName>new</placeName></corr><placeName>
+                     york</placeName> and then i fell Sick my <sic>frinds</sic>
+                  <corr>friends</corr> Thought i Would die and i was ConCernd about my poor Soul and could find no <unclear>[?]</unclear> or <sic>reLeas</sic>
+                  <corr>reLease</corr> for my <sic>distresst</sic>
+                  <corr>distressed</corr> mind, but i Thought i Should <del>not die then</del>, and <sic>fermly</sic>
+                  <corr>firmly</corr> believed if i Should not die then reCover that the lord would give that i Should Live <add>him</add> for then i reCovered a <sic>Litle</sic>
+                  <corr>Little</corr> and we moved to <placeName>Staten</placeName>
+                  <sic><placeName>yland</placeName></sic><placeName> </placeName><corr><placeName>island</placeName></corr>
+                  <sic>aginn</sic>
+                  <corr>again</corr>, where i found a few <sic>aquaintes</sic>
+                  <corr>acquaintances</corr>
+                  <sic>wich</sic>
+                  <corr>which</corr> was awakened, <sic>wich</sic>
+                  <corr>which</corr> made <add>me</add> more ConCernd to Seek for merCy, and one day i felt very angry for Something <sic>Wich</sic>
+                  <corr>Which</corr> i thought i Should not, and i felt So much <sic>gilt</sic>
+                  <corr>guilt</corr> that i <sic>thuoght</sic>
+                  <corr>thought</corr> what Shall i do now <sic>thiere</sic>
+                  <corr>there</corr> is no merCy and that night my <sic>husbund</sic>
+                  <corr>husband</corr> went out and when my Children was in the Bed i <sic>Cryed</sic>
+                  <corr>Cried</corr> for MerCy </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

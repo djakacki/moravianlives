@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Daniel Kliest: Memoir
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir" ana="MAB/MemBeth_0341">Daniel Kliest</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0341a-06.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="de">
+         <head>Daniel Kliest</head>
+         <div type="page" n="1">
+            <head type="page" ana="MAB/MemBeth_0341a-01">1</head>
+            <p> Unser lieber seliger <persName>Bruder Daniel Kliest</persName> hat von seinem Lebenslauf eine weitläuftige Nachricht gegeben, wovon folgendes ein Auszug ist. Ich bin geboren den
+                  <date>15</date><hi rend="superscript"><date>ten</date></hi><date> April 1716</date> zu <placeName>Frankfurth an der Oder</placeName>, wo mein <persName>Vater
+               </persName><add>(</add>der auch Daniel hieß<add>)</add> Bürger und Schlosser Meister war, meine <persName>Eltern</persName> waren <orgName>lutherischer Religion</orgName>, in welcher
+               ich auch <orgName>getauft</orgName> und erzogen wurde. Meine selige <persName>Mutter </persName>Unterredungen und Ermahnungen und <add>die </add>geistreiche Lieder, die sie mit uns
+                  <persName>Kindern </persName>gesungen, machten einen tieffen Eindruck bey mir. Meinen <persName>Vater </persName>verlor ich frühzeitig <add>(</add>und ich kam darauf zu einem
+                  <persName>Verwandten</persName>, der mich gern wolte studiren lassen, allein ich zog ein gutes Handwerk, dem studiren vor, und drang darrauf<add>,</add> ein Schlosser zu
+                  werden<add>)</add> Etwa in meinem 7<hi rend="superscript">ten</hi> Jahr erfuhr ich eine besondere Bewhrung meines Lebens, ich fiel unvorsichtiger Weise in die <placeName>Oder
+               </placeName>und wurde von derselben mit genommen und bey nahe zwischen 2. Boote hinein getrieben, ich kriegte aber halt an dem einen, die Leute die mich sahen eilten herzu, brachten
+               mich ans Land und nach Anwendung einiger Mittel, wurde ich wieder gantz hergestellt. In meinen Schuljahren hatte ich manche Rührungen in meinem Herzen und dachte oft ich wolte mich den
+               lieben <persName>Gott </persName>von Herzen ergeben und wenn ich in Verlegenheit über mich mein Herz vor Ihm ausschüttete, wurde mir oft sehr wohl. In meinem 18<hi rend="superscript"
+                  >ten</hi> Jahr, kam ich in die lehre zu einem Schloßer, wo ich <del>von </del><corr>durch </corr>die <persName>Gesellen</persName> allerley gutes und schlechtes von den
+                  <persName>Pietisten </persName>in <note>doran </note>hörte wobey ich öfters mit dem lieben <persName>Gott </persName>wegen meiner Bekehrung handeln wolte. Nach einer 3. jährigen lehr
+               Zeit, ging ich in die fremde, mit dem Vorsatz, die Welt recht zu durchstreifen und derselben aufs beste zu geniessen. Ich arbeitete in <add>(</add><placeName>Guben</placeName>,
+                  <placeName>Görliz</placeName><add>)</add>, <placeName>Zittau</placeName>, <placeName>Bauzen</placeName>, <placeName>Dresden</placeName>, <del>Saden
+                  </del><add>(</add><placeName>Prag</placeName>
+               <placeName>Regensburg</placeName>, <placeName>Nürnberg</placeName>, <del>Prag</del>, <placeName>Frankfurth am Mayn</placeName>, <placeName>Strasburg</placeName><add>)</add> und mehren
+               Orten und genoß der Welt vergnüglichkeiten; Ich war dabey oft unruhig über mich und die leute hielten </p>
+         </div>
+         <div type="page" n="2">
+            <head type="page" ana="MAB/MemBeth_0341a-02">2</head>
+            <p> mich für fromm <add>(</add>, auch glaubte ich selber, ich sey beßer als andere, die doch auch in den Himmel kommen wolten und sezte mich so gut ich konnte über die Unruh meines Herzens
+               weg, doch<add>)</add>
+               <add>ich </add>forschte <add>(</add>ich<add>)</add> zu weilen nach frommen Leuten, weil es mir aber nie rechte Ernst war, blieben mir selbige unerkannt, bis mich die treue Hand meines
+                  <persName>guten Hirten</persName> im Jahr <date>1741</date>. in die <placeName>Schweitz </placeName>leitete <add>(</add>ich wolte von <placeName>Strasburg </placeName>nach
+                  <placeName>Geneve</placeName> reisen, allein<add>)</add> da ich nach <placeName>Bern </placeName>kam, war es als ob es mir ins Ohr schallte: bis hirher sollst du kommen und nicht
+               weiter. Hier fing sich ein neuer periodus bey mir an, der zu meinem folgenden Gnaden Gang, den Grundgelegt hat; Ich wurde bald mit <orgName>erweckten </orgName><persName>Leuten
+               </persName>bekannt, besonders mit dem <persName>Herrn Professor König</persName>, der <orgName>Versammlungen </orgName>hielt, einmal begegnete mir der selige <persName>Samuel
+                  Lucius</persName> auf der Straße und sagte zu mir: <persName>Gott </persName>grüße dich! Das fuhr mir ins Herze, er ritt seine Straße und ich fragte die ersten Leute, die mir
+               begegneten, was das für ein Herr gewesen? sie sagten: der <persName>Pfarrer Lucius</persName> von <placeName>Diebach</placeName>. Ich ging den folgenden <date>Sontag </date>in seine
+                  <orgName>Predigt</orgName>, in welcher er die liebe <persName>Jesu </persName>zu denen armen verlornen <persName>Sündern</persName>, auf das nachdrücklichste anpries, mein Herz wurde
+               außerordentlich davon gerührt. Ich faßte den Schluß von nun an dem <persName>Herrn Jesu</persName> gantz und allein zu leben. Nach der <orgName>Predigt </orgName>ging ich mit vielen
+                  <orgName>erweckten </orgName>ins Pfarrhaus, wo er uns in seiner Stube, eine sehr gesegnete <orgName>Rede </orgName>hielt, dergleichen ich zuvor nie gehört, zulezt fiel er mit uns auf
+               die Knie und betete innbrünstig über uns, daß der <persName>Herr Jesus</persName> doch ja keines, welches er einmal mit seiner liebe zu sich gezogen aus seiner Hand lassen wolle. Ich
+               ging sehr bewegt nach Hause. der <persName>Heilige Geist</persName> arbeitete immer räftiger an einem Herzen, zeigte mir mein Natur verderben, absonderlich meinen Unglauben, darüber
+               wurde mir sehr bange und ich fühlte mich gantz verloren. Einmal fiel mir der Spruch sehr nachdrücklich auf: wo die Sünde mächtig ist worden, da ist die Gnade noch viel mächtiger. Ich
+               seufzete: ach wenn doch auch Gnade für mich wäre! es war mir gleich, als sagte mir jemand: Ja! auch für <hi rend="underline">Dich</hi> ist gnade da! mein Herz wurde dabey leicht und mit
+               trost erfreut. In derselben Nacht hatte ich einen unvergesslichen Traum, es war mir </p>
+         </div>
+         <div type="page" n="3">
+            <head type="page" ana="MAB/MemBeth_0341a-03">3</head>
+            <p> nemlich: als hörte ich eine himlische music und die <persName>Engel</persName> den Vers vernehmlich singen: <persName>Jesus </persName>will die Sünd vergeben! <persName>Jesus
+               </persName>macht von Sünde rein! <persName>Jesus </persName>gibt das ew&#39;ge Leben! <persName>Jesus </persName>will nur <persName>Jesus </persName>seyn! O du schönes <persName>Jesus
+               </persName>Wort! <persName>Jesu</persName> laß mich hier und dort mit gebücktem Geist <hi rend="underline">den</hi> Namen, ewiglich anbeten, Amen. Ich erwachte mit Gottesfrieden
+               erfüllt. Bisher hatte ich noch nichts von der <orgName>Gemeine </orgName>gehört. Ich und noch 2. <orgName>erweckte</orgName>, <persName>Daniel und Lorenz Keller</persName> von
+                  <placeName>Schafhausen</placeName>, hielten uns zusammen und vertrauten uns miteinander so gut wir konnten. So geschah es, daß <persName>Bruder Bossard</persName> ein Uhrmacher uns
+               besuchte, welcher uns von den <orgName>Versammlungen der Brüder</orgName> Nachricht gab und ns invitirte, mit ihm dahin zu gehn. Der Studiosus, <persName>Bruder
+                  Sontag</persName><add>,</add> hielt die <orgName>Versammlung </orgName>und redete sehr gefühlig, von der liebe <persName>Jesu </persName><del>gegen </del><corr>zu
+                  </corr>alle<corr>n</corr> arme<corr>n</corr> Sünder <add>(</add>und daß man, wie man ist, zum Lamme kommen kan und wenn man kommt gleich angenommen wird.<add>)</add> alle seine Worte
+               paßten für mich. Verschiedene <persName>fromme Leute</persName> gaben sich mühe uns an den <orgName>Brüdern </orgName>abzuziehen, ich bat aber den <persName>Heiland</persName>, mich
+               doch selbst zu unterweisen und mir den rechten Weg zu zeigen. Ich wurde nun sehr eifrig und hätte gerne alles gläubig an den <persName>Herrn Jesum</persName> und des Genußes seiner
+               Versöhnung theilhaftig gemacht. Besuchte fleißig die <orgName>erweckten </orgName>und hielt ihnen auch <orgName>Versammlungen</orgName>, ich wurde auch zu Kranken und sterbenden geholt,
+               und der <persName>Heiland </persName>gab mir gnade, viele aus der Irrthümerey <add>(</add>in ansehung des Weges zur Seligkeit<add>)</add> zu rechte zu weisen. Ich besuchte auch auf dem
+                  <placeName>Alpen gebirge</placeName>, die <orgName>erweckten </orgName>Leute. <add>(</add><persName>Bruder Georg Wallis</persName> kam um diese Zeit zum Besuch nach
+                  <placeName>Bern</placeName>, ich kriegte ihn so lieb, daß ich gerne gleich mit ihm zur <orgName>Gemeine</orgName> gereist wäre<add>)</add>. Der liebe Bruder <persName>Nicolaus von
+                  Watteville</persName> hielt uns auch manche gesegnete <orgName>Versammlung</orgName>. <add>(</add>Ich hielt auch mit Bruder <persName>Friedrich von Watteville</persName> da er nach
+                  <placeName>Bern </placeName>kam, manche gesegnete Unterredung.<add>)</add>
+               <date>1745</date>. im <date>Frühjahr </date>kamen <persName>Geschwister Peistels</persName> und <persName>Bruder Raillard</persName> nach der <placeName>Schweiz</placeName>, da ich dem
+                  <persName>Bruder Peistel</persName> mein Verlangen zur <orgName>Gemeine </orgName>zu gehn, eröfnete; er machte mir recht viele Schwierigkeiten, wegen meinem Durchkommen, und rieth
+               mir lieber hier zu bleiben, wo ich es weit beßer haben könne. Ich antwortete ihm: Ich wolte viel lieber mit dem <orgName>Volck <persName>Gottes</persName></orgName> Ungemach leiden, als
+               alle Schätze der Welt besitzen! Da er mir endlich versprach mich zu einem Besuch in der <orgName>Gemeine </orgName>mitzunehmen. </p>
+         </div>
+         <div type="page" n="4">
+            <head type="page" ana="MAB/MemBeth_0341a-04">4</head>
+            <p>
+               <add>(</add>hierauf ging ich zu dem lieben <persName>Pfarrer Lucius</persName> und sagte ihm ich wolte zu <hi rend="underline">meiner
+                  <persName>Mutter</persName></hi><persName> </persName>reisen; er ertheilte mir seinen Segen und da ich von ihm ging, entließ er mich mit den Worten: Und er hub seine Füße auf und
+               ging zu <hi rend="underline"><persName>Jesu</persName></hi>.<add>)</add> Auf meiner reise hatte ich in <placeName>Schafhausen </placeName>die gnade, vielen <orgName>erweckten
+               </orgName>Seelen zu sagen, daß dem Herrn <persName>Jesu </persName>nichts zu schlecht ist wenn es nur will <hi rend="underline">von Ihm</hi> sich helfen lassen. In <placeName>Basel
+               </placeName>traf ich <persName>Geschwister Peistels</persName> an. wir reisten <add>(</add>nebst den Brüdern <persName>Daniel Keller</persName>, <persName>Wohnlich</persName>,
+                  <persName>Fuß </persName>und <persName>Raillard </persName>von <placeName>Basel</placeName><add>)</add> ab und am <date>8</date><hi rend="superscript"><date>ten</date></hi><date> May
+                  1745.</date> Kamen wir in <placeName>Marienborn </placeName>an, <add>(</add>nachdem ich 9. Jahre in der Fremde zu gebracht davon mir die 4. lezten die ich in der <placeName>Schweitz
+               </placeName>verbracht jederzeit unvergeßlich seyn werden.<add>)</add>
+               <add>(</add>Ich hatte die Gnade vom <persName>seligen Jünger</persName> esprochen zu werden, war mit bey einem <orgName>Sabbaths Liebesmahl</orgName> und in der
+                  <orgName>Abendmahlsviertelstunde</orgName>, und wurde darauf von einigen Brüdern nach <placeName>Herrnhaag </placeName>begleitet,<add>)</add> wie danckbar und froh war ich, daß ich
+               nun erhalten, wonach ich mich so lang gesehnt und dachte ich hätte nun den Himmel auf Erden. Allein ich kam bald in eine rechte Schule, darinnen mein Grundverderben so
+               <add>(</add>gerüttelt und geschüttelt<add>)</add> wurde, daß ich darüber in Confusion gerieth, alles verwarf und nicht wußte, wo ich mich hinwenden solte, mein glaube an den
+                  <persName>Heiland </persName>verlor sich und ich hatte keine Freudigkeit mich zu Ihm zu wenden. <add>(</add>Mein ungläubiges Herz wurde mir so gezeigt,<add>)</add> daß ich darüber
+               bittere Thränen vergoß, <add>(</add>und Ihn bat es zu reinigen von allen Sünden, sonderlich der Hauptsünde des Unglaubens.<add>)</add> Da Er sich mir offenbarte und mir trost und
+               Frieden aus seinen Wunden zufliessen lies. Den <date>28</date><hi rend="superscript" /><hi rend="superscript" /><hi rend="superscript"><date>ten</date></hi><date> August 1746</date>
+               wurde ich in die <orgName>Gemeine </orgName>aufgenommen und am <date>1</date><hi rend="superscript"><date>ten</date></hi><date> Januar 1748.</date> hatte ich die Gnade mit der
+                  <orgName>Gemeine </orgName>des <orgName>Heiligen Abendmahls</orgName> theilhaftig zu werden, es war mir unaussprechlich dabey zu muthe. Nachdem ich viel seliges auf dem lieben
+                  <placeName>Herrnhaag </placeName>genossen, reisete ich den <date>16</date><hi rend="superscript"><date>ten</date></hi><date> September 1748</date>. nach dem guten Willen unsers
+               lieben <persName>Herrn</persName> nach <placeName>Zeist </placeName>und <placeName>London</placeName>, wo die ganzte nach <placeName>America </placeName>bestimmte, ziemlich zahlreiche
+               Gesellschaft zusammen kam, der <persName>selige Jünger</persName> hielt uns manche gesegnete <orgName>Versammlungen</orgName>. Am <date>14</date><hi rend="superscript"
+                  ><date>ten</date></hi><date> Februar 1749</date>. reiseten wir mit <persName>Geschwistern Johann Nitschmanns</persName> von <placeName>London </placeName>ab, kamen in dem Schif Irene
+               am <date>12</date><hi rend="superscript"><date>ten</date></hi><date> May</date>
+            </p>
+         </div>
+         <div type="page" n="5">
+            <head type="page" ana="MAB/MemBeth_0341a-05">5</head>
+            <p> in <placeName>Newyork </placeName>und am <date>20</date><hi rend="superscript"><date>ten</date></hi> in <placeName>Bethlehem </placeName>an. Wo ich den <date>25</date><hi
+                  rend="superscript"><date>ten</date></hi><date> August</date> mit der ledigen Schwester <persName>Anna Rosina Beyerin</persName> (die auch mit uns über die See gekommen) zur
+                  <orgName>Heiligen Ehe</orgName> verbunden wurde in welcher uns der <persName>Heiland </persName>ein <persName>Söhnlein Johann Daniel</persName> schenckte welches er aber bald zu sich
+               nahm. Die <persName>Mutter </persName>folgte ihm am <date>9</date><hi rend="superscript"><date>ten</date></hi><date> December 1750</date> nach. In meinem Witwerstand ergab ich mich aufs
+               neue dem lieben <persName>Heiland </persName>und hielt mich sünderhaft gläubig an ihn. <date>1752</date>. erhielt ich ein Ruf unter die <persName>Indianer </persName>nach
+                  <placeName>Shomokin</placeName>, wo ich anderhalb Jahr blieb, ich hatte sie von Herzen lieb und sie mich auch, in der Seelen Sache war ihnen damals noch nicht bey zu kommen, doch hat
+               es sich in der drauf folgenden Zeit gezeigt, daß manches, was mit ihnen geredet wurde, zu ihrem Segen war. Ich wurde darauf wieder nach <placeName>Bethlehem </placeName>geruffen, hier
+               der Schlosserey vorzustehen. Ich wurde hier auch zur <orgName>Acoluthie</orgName> angenommen und bald wieder nach <placeName>Shomokin </placeName>geschickt, wo ich etwas über ein halb
+               Jahr blieb und dann in mein voriges Geschäfte zurück kam und am <date>4</date><hi rend="superscript"><date>ten</date></hi><date> October 1757</date>. mit der ledigen Schwester
+                  <persName>Anna Felicitas Schusterin</persName> zur <orgName>heiligen Ehe</orgName> verbunden wurde welche der <persName>Heiland </persName>mit 2. Kindern, einem <persName>Sohn
+                  Daniel</persName> und einer <persName>Tochter Anna Rosina</persName>, gesegnet, die sich beide hier in der <orgName>Gemeine </orgName>befinden. <date>1765 am 27</date><hi
+                  rend="superscript"><date>ten</date></hi><date> October</date> gefiel es Ihm unsern lieben <persName>Herrn</persName>, meine liebe <persName>Frau </persName>selig zu vollenden und
+               mich abermals in den Witwerstand zu versetzen. Seine Nähe tröstete mich bey <hi rend="underline">dem</hi> Verlust und sein friede machte mein Herze leicht. Er erhalte mich und meine
+                  <persName>Kinder </persName>bey sich und seinen Wunden bis zum <hi rend="underline">sehen</hi>. Er hat mich je und je geliebt und selbst zu sich gezogen <add>(</add>und ob ich Ihn
+               gleich oft betrübt, blieb Er mir doch gewogen. Ich bins nicht werth, ich armer! Die lieb ist allzu gut! Die liebe mein Erbarmer, die also an mir thut. Preis, Ehre und macht, sey dir von
+               mir armen Erlösten gebracht! So weit er selbst.<add>)</add> Unser lieber Bruder, ging in seiner langen Witwer-Zeit </p>
+         </div>
+         <div type="page" n="6">
+            <head type="page" ana="MAB/MemBeth_0341a-06">6</head>
+            <p> einen seligen erbaulichen Gang, zeigte eine große Liebe zu <persName>Gottes </persName>Wort und den <orgName>Gemein-Versammlungen</orgName>, die er nicht gern versäumte, war auch
+               einige Jahre <orgName>Saal-Diener</orgName> und zulezt ein Mitglied des<orgName> Aufseher- Collegii</orgName> und zu jedermanns Freude ein seliger ver gnügter alter Vater. <add>Dabey
+                  machte ihm der <persName>Heiland </persName>die Freude, daß er das Bebleiben (und Gedeihen) seiner <persName>Kinder </persName>in der <orgName>Gemeine </orgName>sehen und sich drüber
+                  freuen konnte.</add> Er genoß dabey eine gute Gesundheit. Am <date>1</date><hi rend="superscript"><date>ten</date></hi><date> Merz</date> ging er Vormittags nach seiner Gewohnheit,
+               einen alten schwachen Chor-Bruder besuchen, ohne einiges Zeichen, von besonderer Schwäche oder kranckseyn, auf dem rückwege, sank er nieder und verschied, ohne <del>eine wo</del> ein
+               Wort zu reden, wozu ihm der <orgName>Segen </orgName>der <orgName>Gemeine </orgName>und seines <orgName>Chors </orgName>noch er theilt wurde; in seinem 76<hi rend="superscript">ten</hi>
+               Jahr. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

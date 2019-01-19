@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sarah Verney: Memoir </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator 2015-18 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, London</repository>
+                  <msName type="memoir" ana="MCH/MemLon_300047">Sarah Verney memoir</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-04.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-05.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MCH/MemLon_300047-07.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Sarah Verney</head>
+            <div type="page" n="1">
+               <head type="page" ana="MCH/MemLon_300047-01">1</head>
+               <p>The Life of our <hi rend="underline">Late Sister Sarah Verney</hi> who <hi rend="underline">departed</hi> this life<hi rend="underline"> January 6<hi rend="superscript">th</hi>
+                     1795</hi> who has left the following account of herself. </p>
+               <p>I was born October 3<hi rend="superscript">d</hi> 1758 at Waltham Cross in the parish of Cheshunt Hertfordshire in my 9<hi rend="superscript">th</hi> Yr. I lost my dear Mother as a
+                  child I was very wild, and thought little about my Souls Salvation consequently I had no inclination to attend divine Service, to which my Father did not force me, but in other
+                  respects was very strict <add>with</add> me preventing me from dressing and mixing with such company as I gladly <sic>woud</sic>
+                  <corr>would</corr> have done; of course I as also my 2 Brs and Sr were obligd to keep strictly at home. In my 12<hi rend="superscript">th</hi> year I went to London on a visit to see
+                  an acquaintance of my Fathers, who indeed appear'd very gay, and just as I <sic>coud</sic>
+                  <corr>could</corr> like to be She moreover took me to see many things in London and in short gratifyd me in every thing She was able, all which pleasd me highly and made me wish to
+                  leave my Fathers house, merely that I might have more liber -ty the above mentioned person also asurd me that one might very well enjoy the pleasures of this world, and yet be
+                  sincere in heart, in my 14<hi rend="superscript">th</hi> Year my Father went to London on a visit, and took me along with him to B.<hi rend="superscript">r</hi> Gibb's who wishd that
+                  I might stay a while with them of which I was very glad, hoping it <sic>woud</sic>
+                  <corr>would</corr> prove the means of my getting entirely away from home, the next Sunday Sr Gibbs took me to the B.<hi rend="superscript">rns</hi> Chapel which I dislikd very much,
+                  as that was not the way I wishd to steer my course, She next took me to see the S.<hi rend="underline"><hi rend="superscript">le Srs</hi></hi>
+               </p>
+            </div>
+            <div type="page" n="2">
+               <head type="page" ana="MCH/MemLon_300047-02">2</head>
+               <p>who treated me with much love, so that I in time got a love for the People of the Brn tho I had nothing in my heart, and as I frequented some of the meetings, and also kept up a
+                     <sic>conexion</sic>
+                  <corr>connection</corr> with the S<hi rend="superscript">rs</hi> I got more and more love for them, and at last found myself very happy among them, so that I thought I had now
+                  obtaind every thing, and simply related my happiness to any one to whom I had an opportunity of doing it, but once during a Sermon of the late B.<hi rend="superscript">r</hi>
+                  LasTrobes concerning the Sin of unbelief, I was all at once convinc'd that I by nature was full of Sin and misery, this being quite the contra- -ry to what I had so lately felt and
+                  thought of myself it made me quite ashamed to speak to any of those with whom I had formerly conversd thinking they woud look upon me as nothing but a hypocrite, this brought on a
+                  reservedness, which lasted many Years, so that I spent my time in continual heaviness, keeping every thing to myself, I discoverd more and more how deeply I was Spoild by Sin, of
+                  which I felt <sic>powerfull</sic>
+                  <corr>powerful</corr> stirring with me, I had also many Struggles with regard to the Cong.<hi rend="superscript">n</hi> and the world, wishing at times to give myself up entire_ ly
+                  to our Sav.<hi rend="superscript">r</hi>, and at other times to follow my natural inclination in the world, but all this I kept to myself thinking if I disclosd the bad things I
+                  felt, I shoud be deprivd of all <sic>conexion</sic>
+                  <corr>connection</corr> with the B<hi rend="superscript">rn</hi> and if I told the good desires of my heart, I shoud be thought a hypocrite and thus I reasond within myself Year
+                  after Year, in my 18<hi rend="superscript">th</hi> year as I was at the G.<hi rend="superscript">r</hi> Sabbath lovefeast, my heart was very dark, I thought there coud be no truth in
+                  our Sav.<hi rend="superscript">rs</hi> being a Corpse, and began to think we were decievd in the whole affair, but as I for pondering over it, and supposd it might be time, I began
+               </p>
+            </div>
+            <div type="page" n="3">
+               <head type="page" ana="MCH/MemLon_300047-03">3</head>
+               <p>to be frighten'd at myself, thinking how wou'd it be with me in this unbelieving way, shou'd my Soul be calld out of this world, this occasion'd me to Sigh to our Sav.<hi
+                     rend="superscript">r</hi> O that I cou'd but believe, no sooner had this sigh burst from my heart, but it was as if our Sav.<hi rend="superscript">r</hi> appear'd before me in his
+                  Corpse's figure, and asur'd me that it was on <del>my</del> account of my Sins that He had <sic>sufford</sic>
+                  <corr>suffered</corr> and dy'd and that he had thereby procur'd peace and <sic>forgivness</sic>
+                  <corr>forgiveness</corr> for me, this was accompanied with such a di -vine feeling of peace that I shall never forget it. I had also several other particular visits of grace, all
+                     w<hi rend="superscript">ch</hi> I kept quite to myself, notwithstanding the great love and kindness I experienc'd from my Labouress, I cou'd not be prevail'd upon to open my
+                  heart, and at such <sic>opportunitys</sic>
+                  <corr>opportunities</corr> cou'd only give vent to tears, which made her think I must have something very particular upon my mind. In my 20<hi rend="superscript">th</hi> year I went
+                  to learn the Tambour work in the S<hi rend="superscript">rs</hi>
+                  <hi rend="underline">House</hi>, and as I look'd upon them to be good S<hi rend="superscript">rs</hi> it was of us to me, as they were one day in boundlike conversation among
+                  themselves to find that they also felt such things as I did which help'd to remove the load under which I had labour'd so many years, after this I had a desire to move en- -tirely
+                  into the S<hi rend="superscript">rs</hi> House at London, which I however cou'd not get leave for, but it was made out for me to go to Fulneck into the Choirhouse there, this was a
+                  great trial for me, hearing so much of the poverty there besides leaving all my friends and acquaintances, but our Sav.<hi rend="superscript">r</hi> enabled me to resolve to live for
+                  him, and in the place he had appointed, show'd I even have to live upon bread and water, I accordingly arriv'd in Fulneck March 5<hi rend="superscript">th</hi> 1779 and found
+                  contrary to my expectation </p>
+            </div>
+            <div type="page" n="4">
+               <head type="page" ana="MCH/MemLon_300047-04">4</head>
+               <p>every thing very comfortable; and trusting in our Sav.<hi rend="superscript">r</hi> I never wanted for any thing; the first year of my abode here, I met with some difficulties, but
+                  the nearness of our Sav.<hi rend="superscript">r</hi> comforted me, He not only made it clear to me that I was in my right place, but he made me sensible that every trial I met with
+                  was with a view to establish <add place="above">me in</add> his grace, thus I took all wish resignation as out of his hands. Oct.<hi rend="superscript">r</hi> 11<hi
+                     rend="superscript">th</hi> that same year I had the favor to be reci<hi rend="underline">ev'd into the Cong.<hi rend="superscript">n</hi> and December 2<hi rend="superscript"
+                        >d</hi></hi> 1780 to be admitted for the first time to the Holy born after which I spent 5 years very comfortably in the <hi rend="underline">Ch: house</hi>. April 4<hi
+                     rend="superscript">th</hi> 1785 I mov'd to the S<hi rend="superscript">rs</hi> Oecon at Wyke to live with the G. G.r there, the beginning of my living there was attended with some
+                  difficulties, but in time they were remov'd, and we liv'd happily together in the nearness of our dear Sav.<hi rend="superscript">r</hi> till at a certain period I gave way to
+                  reasoning concerning the Labourers, and our Sav.<hi rend="superscript">rs</hi> leading in the Cong.<hi rend="superscript">n</hi> into which I enter'd so far that I lost <del>??</del>
+                  sight of our Sav.<hi rend="superscript">r</hi> and of my call to the Cong.<hi rend="superscript">n</hi>, thinking I might as well live somewhere else, this brought me into great
+                  distress as I knew not which way to do, nor cou'd I speak of my distress to any one for a while, till S.<hi rend="superscript">r</hi> Anna Turos from Fulneck paid us a visit, I
+                  open'd my whole mind to her, she treated me with much love, which was a comfort to me, but still I found no real help, my distress still encreas'd, and I began to think, was it
+                  possible that I cou'd ever come into a happy simple track again, or was I gone too far, which indeed seem'd to be my case, so that I was <sic>thankfull</sic>
+                  <corr>thankful</corr> when I felt a wish, and cou'd sigh to our Sav.<hi rend="superscript">r</hi> for help, thinking he </p>
+            </div>
+            <div type="page" n="5">
+               <head type="page" ana="MCH/MemLon_300047-05">5</head>
+               <p>perhaps woud return to me, as he had done at various other times, but he found best to hide his face from me for near a year, thus I spent that time in heaviness often praying in the
+                  distress of my Soul for another look of his grace, thinking at every meeting I went to, perhaps this wou'd be the favor'd time, but he delay'd it till by means of the last Synodal
+                  letter to the Cong.<hi rend="superscript">ns</hi> he granted me to see myself in the right light, worse indeed than any <add place="above">of those</add> over whom I had reason'd He
+                  also gave me grace to be <sic>truely</sic>
+                  <corr>truly</corr> a sinner before him and he in mercy forgave me anew, but I cannot express in words how asham'd I was, and <sic>truely</sic>
+                  <corr>truly</corr> abas'd before him on account of my unfaithfulness in that respect, but it had that blessed effect, that I <add place="above">and since the end of 1759 I lived in a
+                     very happy communion with him</add> Kept more sinnerlikely to him afterwards, Sep.<hi rend="superscript">r</hi> 29 1790 I rec'd a call to enter into the mar.<hi rend="superscript"
+                     >d</hi> State with my late dear Husband B.<hi rend="superscript">r</hi> Thomas Verney, He being call'd to be Labourer of the Cong.<hi rend="superscript">n</hi> at Wyke, unfit as I
+                  felt myself for this office, yet I felt a dearness to accept of it, we were accordingly mar.<hi rend="superscript">d</hi> Oct.<hi rend="superscript">r</hi> 27<hi rend="superscript"
+                     >th</hi> 1790 and introduc'd to the Cong.<hi rend="superscript">n</hi> at Wyke on the 31<hi rend="superscript">st</hi> the same day my dear Husband was ordain'd a Deacon of the
+                     B.<hi rend="superscript">rns</hi> Church by B.<hi rend="superscript">r</hi> Traneker, my dear Husband being of a sickly habit made it somewhat trying, but our Sav.<hi
+                     rend="superscript">rs</hi> nearness supported us in a very gracious manner, and made the short time of our marriage a time of blessing. Dec.<hi rend="superscript">r</hi> 4<hi
+                     rend="superscript">th</hi> 1791 I was safely deliver'd of a <hi rend="underline">Daughter</hi>, whom my dear Husband <hi rend="underline">baptiz'd></hi> on the 11<hi
+                     rend="superscript">th</hi> by the name <hi rend="underline">Sarah</hi> which was his last public transaction, for by this time his disorder had terminated in a Consumption </p>
+            </div>
+            <div type="page" n="6">
+               <head type="page" ana="MCH/MemLon_300047-06">6</head>
+               <p>in which he linger'd till <hi rend="underline">May 24<hi rend="superscript">th</hi> 1792</hi> when his happy soul took flight to its Redeemer, what I felt as this period is past
+                  description, but our Sav.<hi rend="superscript">r</hi> Supported me beyond what I cou'd have expected. Aug<hi rend="underline">ust 31<hi rend="superscript">st</hi> 1792</hi> I mov'd
+                  to Fulneck with my dear Child, where as well as in Wyke I have experien'ed much Sympathetic love and kindness from the B.<hi rend="superscript">rn</hi> and S.<hi rend="superscript"
+                     >rs</hi> to whom I now wish to return my hearty thanks for the same, August 22<hi rend="superscript">d</hi> 1794 I being in a poor State of health, my dear Child was plac'd in the
+                  Girls Oeconomy here, <sic>painfull</sic>
+                  <corr>painful</corr> as it is to me to think of leaving her entirely, our Sav.<hi rend="superscript">r</hi> has enabled me to be resign'd to his will, to leave her to the
+                     <sic>faithfull</sic>
+                  <corr>faithful</corr> care of him and his dear Cong.<hi rend="superscript">n</hi> and I now wait with longing for the happy moment when I shall be releas'd from all pain, and see him
+                  face to face, in myself I am very poor, and destitute of every thing, therefore when I am per- -mitted to see him, I shall have nothing to plead but his allsufficient merits. So far
+                  her own acc.<hi rend="superscript">t</hi> Our late S.<hi rend="superscript">r</hi> having left such a candid acc.<hi rend="superscript">t</hi> of herself tis needless to add much
+                  thereto, but we can't help saying a few words of her faithfulness in whatever has been committed to her as well during the time She liv'd with the G.Gr in <hi rend="underline"
+                     >Wyke</hi>, as also in the short period of her mar.<hi rend="superscript">d</hi> State, in both which She approv'd herself as one who had the cause of our Sav.<hi
+                     rend="superscript">r</hi>
+                  <sic>truely</sic>
+                  <corr>truly</corr> at heart, and he in a particular manner bless'd her endeavours, granting her as tho sometime to enjoy the love and confidence of those with whom She had to do, She
+                  has for a considerable time hear <sic>lickely</sic>
+                  <corr>likely</corr>
+               </p>
+            </div>
+            <div type="page" n="7">
+               <head type="page" ana="MCH/MemLon_300047-07">7</head>
+               <p>which at last terminated in a Consumption, and tho her attachment to her dear Child made her <add place="above">at first</add> desirous to recover, yet our Sav.<hi rend="superscript"
+                     >r</hi> enabled her to acquiesce in his will, and She had also that comfort to know her child wou'd be well car'd for, the time of her sickness She spent in <sic>stilness</sic>
+                  <corr>stillness</corr>, often intonating in few words how near She felt our Sav.<hi rend="superscript">r</hi> at times, and when this was not the case, She waited in stillness at his
+                  feet believing he wou'd not leave nor forsake her, she also bore her Sickness with much <sic>patiance</sic>
+                  <corr>patience</corr>, and was glad to be visited by her S.<hi rend="superscript">rs</hi> Dec.<hi rend="superscript">r</hi> 14<hi rend="superscript">th</hi> her share of the Holy
+                  born <hi rend="superscript">n</hi> was brought to her, after which She express'd how well She had felt, Jan 15<hi rend="superscript">th</hi> being forsible that her end was
+                  approaching, She desir'd to recieve the last blessing, mentioning at the same time some S.<hi rend="superscript">rs</hi> who She wish'd to be presemt, the same was imparted to her,
+                  during a happy perception of our Sav.<hi rend="superscript">rs</hi> divine presence, after which she said she felt very happy, and now she long'd for the happy moment to come when
+                  she shou'd see her Re- -deemer face to face, which came to pass <add place="above">about 5 o clock</add> next morning when she expir'd gently Aged 36 years 3 months and 3 days. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

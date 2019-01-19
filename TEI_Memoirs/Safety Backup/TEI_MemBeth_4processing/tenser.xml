@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles Fridrick Tenser: Memoir
+               <lang>English</lang>
+            </title>               
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
+               <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator
+               <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>               
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Life of Charles Fridrick Tenser</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+
+                 <div type="memoir">
+                    <pb n="1" ana=".10197.26018"/>
+            <figure n="0197-01">
+               <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-01.jpg"/>
+               <ab type="caption">Charles Fridrick Tenser, Page 1</ab>
+            </figure>
+            
+            <div type="para" n="1">
+            <p>
+     
+               <lb/><hi rend="underline">Congregation Accounts <date>1769</date></hi>
+               <lb/>Containing The Personals of our Happy deceased Brother
+               <lb/><hi rend="underline"><persName>Charles Friedrick Tenser</persName></hi> who departed this Life at <hi rend="underline"><placeName>Barby</placeName></hi>
+               <lb/>the <date>13<hi rend="superscript">th</hi>of April 1769</date>. He has left the following account of his Path
+               <lb/><sic>thro</sic> <corr>through</corr> Time.
+            </p>
+            </div>
+                    <div type="para" n="2">
+                       <p>
+
+                          <lb/>I was born the <date>1<hi rend="superscript">st</hi>of January 1704</date> at <hi rend="underline"><placeName>Luzois</placeName></hi> near <hi rend="underline"><placeName>Nauen</placeName></hi>
+                          <lb/>in <hi rend="underline"><placeName>Brandenburg</placeName></hi>; <hi rend="underline">Luzow</hi> being my Fathers Estate. I can well Remem=
+                          <lb/>=ber that when i was a Child and used to walk in the garden, it often
+                          <lb/>came in my Mind: I hope I shall not go to hell! of which I heard more
+                          <lb/>off than of the <sic>Gosple</sic> <corr>Gospel</corr> in our Family. When I was I was about 14 my
+                          <lb/>Tutor brought me to the <hi rend="underline">Saldrish</hi> School at <hi rend="underline"><placeName>Brandenburg</placeName></hi>, from thence
+                          <lb/>I came to the University at <hi rend="underline"><sic><placeName>Frankfort</placeName></sic></hi> <hi rend="underline"><placeName><corr>Frankfurt</corr></placeName></hi> on the <hi rend="underline"><placeName>Oder</placeName></hi>. About this time
+                          <lb/>My Father <persName>John Teniser</persName>, <sic>Councellor</sic> <corr>Counselor</corr> at the Prusian Court, <sic>whent</sic> <corr>went</corr> to
+                          <lb/>Eternity, and in a few Years time My Mother run <sic>thro</sic> <corr>through</corr> all our Estate
+                          <lb/>Which made her leave nothing undone, to engage me to enter into
+                          <lb/>Military Service, Advising me to go to a Relation of hers at <placeName>Gorlitz</placeName>
+                          <lb/>who was a Saxon Captain which I did accordingly, and <sic>inlisted</sic> <corr>enlisted</corr>
+                          <lb/>a <sic>Souldier</sic> <corr>Soldier</corr>. In the 21 Years I spent in the Army I made several
+                          <lb/>Compaigns, in which I <abbr>suffer'd</abbr> a great deal both in Soul which had cost
+                          <lb/>him his Blood, and <abbr>follow'd</abbr> me, notwithstanding I committted many
+                          <lb/>Crimes partly of my own Accord, and partly at the instigation of others.
+                          <lb/>Being in <placeName>Poland</placeName> and sent with a small company to Forrage one
+                          <lb/>on which the Lord Jesus shed his Blood and <sic>dyed</sic> <corr>died</corr> on the Cross. I was
+                          <lb/>quite <abbr>frighten'd</abbr> at that could not sleep the whole Night laitconti=
+                          <lb/>=nually <abbr>Ponder'd</abbr> upon it whether it was really true, that Christ hung
+                          <lb/><note type="catchword">on</note>
+
+                          <pb n="2" ana=".10197.26019"/>
+                          <figure n="0197-02">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-02.jpg"/>
+                             <ab type="caption">Charles Fridrick Tenser, Page 2</ab>
+                          </figure>
+
+                          <lb/>on the Cross. As soon as it was day I went out in the Field, which was <abbr>cover'd</abbr>
+                          <lb/>with snow, fell on my knees, and repeated a Prayer which I had <abbr>learn'd</abbr> out
+                          <lb/>of a Book, for I could not pray out of my heart. Yet sin soon <abbr>overpower'd</abbr>
+                          <lb/>me again. My first Campaign in <placeName>Poland</placeName> being at an End, in which
+                          <lb/>I made one at the siege of <placeName>Dantzig</placeName>, I was quarterd in a Saxon Village
+                          <lb/>near <placeName>Herzberg</placeName>. Here I got a Picture of our Saviour on the Cross, this
+                          <lb/>I <abbr>naild</abbr> to the Wall, and fell down before it on my knees, and <abbr>beg'd</abbr> for
+                          <lb/>my Salvation, the certainty of which I had never heard one word off.
+                          <lb/>In the Year <date>1741</date> I was in the Campaign at <placeName>Bohemia</placeName>, we had a very
+                          <lb/>smart engagement, and when I saw so many fall at my side, My whole
+                          <lb/>load off Sins was <sic><abbr>pourtray'd</abbr></sic> <corr>portrayed</corr> before me, I <abbr>sigh'd</abbr> after deliverance for my
+                          <lb/>Soul, and made a Solemn Oath to our Saviour, that if he would
+                          <lb/>give me my Life for a Prey, and let me have time to be conver=
+                          <lb/>=ted then I would be wholly his. After this I <abbr>endeavourd</abbr> in earnest to
+                          <lb/>become happy, and believing a Soldiers Life was a hindrance
+                          <lb/>I <abbr>begd</abbr> for <sic>dissmission</sic> <corr>dismission</corr> and pleaded My Arm, which I had broke in
+                          <lb/>a fall from my Horse, but was obliged to stay till the Campaign
+                          <lb/>was ended, after which I <abbr>obtain'd</abbr> my <sic>dissmission</sic> <corr>dismission</corr>, and knew not
+                          <lb/>to what part of the World I should go. At length my Tent com=
+                          <lb/>=panion <abbr>offer'd</abbr> to take me to his Farm in <placeName>Tringen</placeName>, I went
+                          <lb/>thither, begging our Saviour on the way that he would bring
+                          <lb/>me to a <hi rend="underline">Peter</hi> or send such a one to me, as he did the Cen=
+                          <lb/>=turion in the Acts of the Apostles, that I might hear Words of
+                          <lb/>Life. Then I shed the first Tears for my Salvation, and <abbr>believ'd</abbr> I
+                          <lb/>should be heard. I did not stay long in <placeName>Thüringen</placeName>, refused several
+                          <lb/>offers which was made me here and elsewhere, and resolved to go to my
+                          <lb/>Sister who lived beyond <placeName>Sorau</placeName>; In <placeName>Sorau</placeName> I <sic>staid</sic> <corr>stayed</corr> some weeks with=
+               
+            <pb type="double_right"/>
+               
+                          <lb/>without hearing anything of the <abbr>Brn</abbr>: <sic>untill</sic> <corr>until</corr> my Landlord told me the <sic>Minester</sic> <corr>Minister</corr>
+                          <lb/>here was a Brother, and that there was several Pietests here. This <abbr>rais'd</abbr> a
+                          <lb/>desire in me, to hear the Above <abbr>mentiond</abbr> <sic>Minester</sic> <corr>Minister</corr>, our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Brother <hi rend="underline"><persName>Clemens</persName></hi>
+                          <lb/>His first Sermon treated of Grace in the blood of Jesus, as the Price by which
+                          <lb/>we are Ransomed, and how one might obtain a certainty of our Salvation
+                          <lb/>here in time, yea even that very day. This was just the thing I wanted
+                          <lb/>a certainty of my Salvation. The Words <hi rend="underline">Ransom Price</hi> Penetrated my
+                          <lb/>very soul, so that I could not <sic>forgett</sic> <corr>forget</corr> it. My heart was convinced <hi rend="underline">this</hi> was
+                          <lb/>the right Doctrine, and thus it must be with me, and my thoughts
+                          <lb/>was: If <hi rend="underline">one</hi> man has <abbr>obtaind</abbr> a Certainty of his Salvation, I must be the
+                          <lb/><hi rend="underline">Second</hi>, or I desire to live no longer. I could not rest till I could speak
+                          <lb/>with Brother <persName>Clemens</persName> myself, and <abbr>address'd</abbr> him with the following words:
+                          <lb/>You are my <hi rend="underline"><persName>Peter</persName></hi> which I have <abbr>pray'd</abbr> for, and I now desire you will fur=
+                          <lb/>=ther inform me <sic>wether</sic> <corr>whether</corr> it is Possible that such a Soldier as I am, who
+                          <lb/>has spent his Life in such a Manner, can experience that Grace.
+                          <lb/>He found no small difficulty to convince me of it, Joy, made it <sic>allmost</sic> <corr>almost</corr>
+                          <lb/>incredible to me. I then went home, fell on my knees, and <abbr>beg'd</abbr>
+                          <lb/>our Saviour to set forth an Example of his great Mercy <hi rend="underline">in me</hi> that
+                          <lb/>had been so wretched a Sinner, which I could not but acknowledge
+                          <lb/>I was and then his Name would be the more glorified by his being
+                          <lb/>gracious to such a wretch, and giving <hi rend="underline">me</hi> an Experience of the Virtue
+                          <lb/>of his Blood which he had shed as a Ransom Price for me.
+                          <lb/>This He did in such a powerful manner, that my heart was <abbr>warmd</abbr>;
+                          <lb/>and I saw so clearly in Spirit, how he hung on the Cross for my sins
+                          <lb/>sake, that I was <sic>truely</sic> <corr>truly</corr> Penetrated with the most Lively Affection &amp;
+                          <lb/>thankfulness towards him, and I lay at least an Hour prostrate
+                          <lb/>before him. I <abbr>surrender'd</abbr> myself <sic>intirely</sic> <corr>entirely</corr> up to him Soul and Body,
+                          <lb/>and promised to be <sic>wholy</sic> <corr>wholly</corr> his Property. The Kind gracious Look
+                          <lb/>which he gave me, was so clear and lively to my Heart, that I never
+                          <lb/><note type="catchword">can</note>
+                          
+                          <pb n="3" ana=".10197.26020"/>
+                          <figure n="0197-03">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-03.jpg"/>
+                             <ab type="caption">Charles Fridrick Tenser, Page 3</ab>
+                          </figure>               
+
+                          <lb/>can forget it. I acquainted Brother <persName>Clemens</persName> with what had happend
+                          <lb/>and told him I had now <abbr>receiv'd</abbr> a certainty of my Salvation, and
+                          <lb/>Rejoicied him greatly with this News. <sic>Tho</sic> <corr>though</corr> he had enough to do, to
+                          <lb/><sic>Perswade</sic> <corr>Persuade</corr> me to Stillness. I now had an inexpressible Love for the
+                          <lb/>Bible, and Child likely <abbr>beg'd</abbr> our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour to give me a <hi rend="underline">greater</hi> Cer
+                          <lb/>=tainty of my Salvation, and to confirm it to me <sic>thro</sic> <corr>through</corr> the Precious
+                          <lb/>words and Promises of holy Scripture. I cannot express how sweet
+                          <lb/>every Verse, yea every Word, was to my heart. hitherto I had not
+                          <lb/>heard a word of the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> at length <abbr>Br</abbr>. <persName>Clemens</persName> one day said to me
+                          <lb/>Well, what will you do now, I shall soon go to the Congregation? I <abbr>beg'd</abbr>
+                          <lb/>him to tell me what he meant by the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> upon which he gave
+                          <lb/>me a short <sic>Discription</sic> <corr>Description</corr> of the same. I presently <abbr>answerd</abbr>: I must go
+                          <lb/>to that People. And that not difficulties might be made, on account
+                          <lb/>of my Support, I said I would be content with Bread &amp; Water.
+                          <lb/>But oh how graciously has our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour dealt with me, for he
+                          <lb/>has given me far more than ever I expected. Soon after <abbr>B.</abbr><hi rend="superscript"><abbr>r</abbr></hi>
+                          <lb/><persName>Clemens</persName> set out to <placeName>Ebersdorff</placeName>, and 6 Weeks after I followed him
+                          <lb/>with <abbr>B.</abbr><hi rend="superscript"><abbr>r</abbr></hi> <persName>Woltersdorff</persName>, and <sic>arived</sic> <corr>arrived</corr> there the <date>1<hi rend="superscript">th</hi>of October 1745</date>.
+                          <lb/>In the first Meeting I was in the Verse was sung: Thou hast thy
+                          <lb/>=self <abbr>reveald</abbr>, within my Conscious heart, my Jesus clearer than the
+                          <lb/>Sun, I see thy wounds and smart &amp;c<hi rend="superscript">a</hi> at the singing of which I had
+                          <lb/>a Sensation <sic>allmost</sic> <corr>almost</corr> as at the time I first <abbr>receiv'd</abbr> grace, and wept
+                          <lb/>for Joy and thankfulness. Some time after this; I partook the
+                          <lb/>Body and Blood of Jesus in the Lord Supper, and never shall
+                          <lb/><sic>forgett</sic> <corr>forget</corr> what I <abbr>enjoy'd</abbr> at the first Participation, it was to me as
+                          <lb/><sic>tho</sic> <corr>though</corr> I again saw our Saviour hang on the Cross for my Sins sake
+                          <lb/>and the hand writing blotted out which was against me. The <date>18<hi rend="superscript">th</hi>
+                             <lb/>of July 1748</date> I came to <placeName>Herrnhuth</placeName> and the <date>13<hi rend="superscript">th</hi>of August</date> following
+                          <lb/>Partook the Holy Sacrament with the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> in the Church at
+                          <lb/><placeName>Berthelsdorff</placeName>. The <date>23<hi rend="superscript">d</hi>of May 1750</date> I was admitted to the Single
+                          <lb/><abbr>Brns</abbr>: Covenant. It was no hard thing for me to pour out my
+                          <lb/><note type="catchword">whole</note>
+               
+               <pb type="double_right"/>
+               
+                          <lb/>whole heart before my <abbr>Brn</abbr>:, and our Saviour gave me a New Assurance
+                          <lb/>of the forgiveness of my Sins. The <date>14><hi rend="superscript">th</hi>of February 1752</date> I came to Dwell
+                          <lb/>School at great <placeName>Hennersdorff</placeName>, and had the care of 2 Saddle Horses.
+                          <lb/>Here, I passd <sic>thro</sic> <corr>through</corr> many Vissisitudes, as it was not yet become agree=
+                          <lb/>=able to me, to appear before my <abbr>Brn</abbr>: as <add>such</add> a Sinner as I was <sic>apointed</sic> <corr>appointed</corr>
+                          <lb/>Equery to the young Accademists there. Thus far our dear Brother
+                          <lb/>has wrote to his Personals. ______From the Year <date>1757</date> to the year <date>1767</date>
+                          <lb/>he has remarked from year to year, chiefly what his heart <abbr>learn'd</abbr>
+                          <lb/>and experienced in Communion with our dear Saviour of which we
+                          <lb/>shall here give some short extracts. ___ Of the Year <date>1757</date> he makes
+                          <lb/>the following Remarks: &quot;Notwithstanding this has been a year of
+                          <lb/>&quot;great Blessing to me, yet I have found a great failing in me, which
+                          <lb/>&quot;is, the desire to become somewhat, and be more <abbr>look'd</abbr> upon than
+                          <lb/>&quot;I deserve. As likewise my Passionate and hasty Temper, robs me of
+                          <lb/>&quot;any Blessings. The <date>14<hi rend="superscript">th</hi>of September</date> was a Remarkable day
+                          <lb/>&quot;in which unworthy I, was admitted among the hourly Interceptors
+                          <lb/>&quot;<sic>Thro</sic> <corr>through</corr> Grace I then felt what a Communion Subsists among us,
+                          <lb/>&quot;when one Sinner prays for the other.&quot; In the Year <date>1758</date> he
+                          <lb/>remarks how the Texts for the day were so suitable to his heart
+                          <lb/>and gives the following instance: &quot;I <abbr>beg'd</abbr> my dear Lord to give
+                          <lb/>&quot;me a new and Powerful assurance of my being a Child of God. The
+                          <lb/>&quot;answer in my heart was a gracious <hi rend="underline">yes</hi>, and my tears said <hi rend="underline">Amen</hi>!
+                          <lb/>I <abbr>look'd</abbr> at the Text for the day and to my Surprise found it
+                          <lb/>this: <hi rend="underline">As many as <abbr>receiv'd</abbr> him</hi>, <hi rend="underline">to them gave he Power to become
+                             <lb/>the Children of God</hi> -- <hi rend="underline">and his Grace helps our Weakness</hi>.&quot; In
+                          <lb/>another place he says: &quot;I have found, that the Lords <abbr>Suffrings</abbr> is the
+                          <lb/><hi rend="underline">only thing</hi> which can make <hi rend="underline">me</hi> a poor Sinner, it is <hi rend="underline">this</hi> which softens
+                          <lb/>the heart, and gives it true Life. This gives me great Pain, that I am
+                          <lb/>often so indolent, an Indolent Person does not enjoy half so much
+                          <lb/><note type="catchword">as</note>
+                          
+                          <pb n="4" ana=".10197.26021"/>
+                          <figure n="0197-04">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-04.jpg"/>
+                             <ab type="caption">Charles Fridrick Tenser, Page 4</ab>
+                          </figure>                   
+
+                          <lb/>as one that is lively and watchful. In the Year <date>1759</date> he writes:
+                          <lb/>I was very much <abbr>abash'd</abbr> to see so many of my Companions, so thorough
+                          <lb/>=ly <abbr>chang'd</abbr> for the better, and to find myself so wanting. But
+                          <lb/>since the Tears which Jesus has shed pleads for me, and will cer=
+                          <lb/>=tainly be heard, so I <sic>apeal</sic> <corr>appeal</corr> to him, yes dearest Saviour! I entreat
+                          <lb/>thee to give me daily a sure and certain sense of my <sic>Connexion</sic> <corr>Connection</corr>
+                          <lb/>with thy heart, and that will surely change my Nature!
+                          <lb/>On Lord Supper day the <date>22<hi rend="superscript">d</hi>of February 1760</date> he remarks: that from
+                          <lb/>that day forward, he dates his cure, at least that then signs of his
+                          <lb/>changing for the better, began to appear. His words are as follows:
+                          <lb/>I thought othou dearest heart, if thou wouldst this Moment take me
+                          <lb/>to thee, how gladly would I go with thee with Tears of Love &amp; Thank=
+                          <lb/>=fulness. Now, how could I kiss thy Feet for my Grace Election, Like
+                          <lb/><persName>Mary Magdalen</persName>; thou has forgiven me a great deal; therefore I love
+                          <lb/>thee much! The great Trouble I have had these many years
+                          <lb/>that our dear Saviour could not find me of Service to him in his
+                          <lb/>Affairs, is gone and over. I will do nothing but Love, and forget
+                          <lb/>all things besides. In the year <date>1761</date> he makes the following
+                          <lb/>Remark. Notwithstanding all the Grace which our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour has
+                          <lb/><abbr>bestow'd</abbr> on me, yet I find I am often mistrustful, and see more
+                          <lb/>and more, that I have a great deal of self Love and Pride, and
+                          <lb/>am too apt to think I am Neglected in my Choir. This dangerous
+                          <lb/>thing has been a great hurt to my heart, and <abbr>Occasion'd</abbr> a certain
+                          <lb/>hardness of heart, Anger and Coolness, towards many a Brother
+                          <lb/>whom I <abbr>believ'd</abbr> was made more off than of me. In the Year
+                          <lb/><date>1762</date> our dear <abbr>B.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Testifies he had a blessed School for his heart
+                          <lb/><sic>tho</sic> <corr>though</corr> somewhat Painful, because at the Renewal of the Interceptors
+                          <lb/>Class, he was not admitted one of the Number. Yet his Joy was so
+                          <lb/>much the greater and <abbr>bow'd</abbr> him in the Dust, as he became a
+                          <lb/>member thereof on the <date>2.<hi rend="superscript">d</hi> of November 1765</date>; and he Expresses
+                          <lb/><note type="catchword">him</note>
+               
+               <pb type="double_right"/>
+               
+                          <lb/>himself in these terms: It was a peculiar Blessing to me that I was
+                          <lb/><sic>Apointed</sic> <corr>Appointed</corr> to Coy the <abbr>Cong.</abbr><hi rend="superscript"><abbr>ns</abbr></hi> Concerns before our Saviour, and became
+                          <lb/>more and more assured of being heard. I became seriously <abbr>concernd</abbr>
+                          <lb/>and <abbr>begd</abbr> the Holy Spirit to form me a true Child of God, and a
+                          <lb/>Liturgish Brother heart, that I might be an honour to our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi>
+                          <lb/>Saviour in all my undertakings.&quot; In the year <date>1766</date> the observes
+                          <lb/>that he had earnestly intreated our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour (notwithstanding
+                          <lb/>his bodily Weakness) to give him an <sic>Oppertunity</sic> <corr>Opportunity</corr> (and was it
+                          <lb/>only 1 half year before his End) of telling Souls what our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> <abbr>Sav.</abbr><hi rend="superscript"><abbr>r</abbr></hi>
+                          <lb/>had done for them. But our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour took the Will for the
+                          <lb/>dead and spoke his heart to peace. Our Saviour likewise sought
+                          <lb/>to bring him more into the Evangelical Sinner=Path, because
+                          <lb/>he would not <sic>allways</sic> <corr>always</corr> appear to his <abbr>Brn</abbr> so as he really knew
+                          <lb/>himself to be, and because <hi rend="underline">others</hi> failings was more visible to
+                          <lb/>him than was necessary, which was often a disturbance to
+                          <lb/>the true brotherly Love he might have <abbr>enjoyd</abbr>, yet his Conclu=
+                          <lb/>=sion was on the <date>19<hi rend="superscript">th</hi>of October</date> the same year as follows:
+                          <lb/>I am determined to make the best use of all my hours, and see
+                          <lb/><sic>wether</sic> <corr>whether</corr> I can not obtain my desire of being a Joy to our Saviour;
+                          <lb/>and as we was Sensible of the <sic>reallity</sic> <corr>reality</corr> of his <sic>atachment</sic> <corr>attachement</corr> to our
+                          <lb/>Saviour, we could bear with patience with his weaknesses, which
+                          <lb/>was become second Nature to him, and which cost him many
+                          <lb/>Tears. Our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour who looks only at the heart, never left
+                          <lb/>him behind, when he granted the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi> of his Choir, a Parti=
+                          <lb/>=cular Blessing. his Age and Increasing bodily weakness
+                          <lb/>made him believe his time here below was but short, and he
+                          <lb/>often <abbr>express'd</abbr> his wish: that our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour would take him
+                          <lb/>to himself, <hi rend="underline">and that Suddenly</hi>. This he repeated on the day of his
+                          <lb/>departure. Our dear Saviour made a happy preparation to this,
+                          <lb/>in <date>February</date> this year, when he became the first time Disciple 
+                          <lb/><note type="catchword">of</note>
+
+                          <pb n="5" ana=".10197.26022"/>
+                          <figure n="0197-05">
+                             <graphic url="http://moravianlives.bucknell.edu/MAB/MemBeth_0197a-05.jpg"/>
+                             <ab type="caption">Charles Fridrick Tenser, Page 5</ab>
+                          </figure>
+
+                          <lb/>of his Choir <del type="illegible">for other first ????</del>. He earnestly <abbr>wishd</abbr> our dear Saviour
+                          <lb/>would now give him the <sic>injoyment</sic> <corr>enjoyment</corr> of new Blessings, in the place
+                          <lb/>of those he had <abbr>miss'd</abbr> off, and spare nothing which might help
+                          <lb/>to his Perfection, which he <abbr>believ'd</abbr> to be at hand. In a letter which
+                          <lb/>he wrote about the same time, he says: O my Grace Election is
+                          <lb/>doubly wrighty to me. First to be ransomed, and then to belong
+                          <lb/>to the People who honour our Saviours <abbr>Suffring</abbr>, <unclear>hs</unclear> this enlivens
+                          <lb/>my heart. Jesu's <abbr>Suffrings</abbr> is the peculiar Power, which unites
+                          <lb/>us together. This our <abbr>d.</abbr><hi rend="superscript"><abbr>r</abbr></hi> Saviour has manifested to me, This will
+                          <lb/>eternally preserve <add>us</add>, and this I will bear wittness of, to the whole
+                          <lb/>world, and will follow this <hi rend="underline">Ensign</hi> as long as my Eyes are open.
+                          <lb/>His Calling, to instruct the Young Accadamists in Managing
+                          <lb/>the Horse, was a Satisfactory employment, in which he <abbr>serv'd</abbr>
+                          <lb/>them 15 Years with great faithfulness. <hi rend="underline">The <date>13<hi rend="superscript">th</hi> of April</date></hi> he
+                          <lb/>rode to <placeName>Gnadau</placeName> on <sic>Busness</sic> <corr>Business</corr>, with one of the <sic>Studients</sic> <corr>Students</corr> on the
+                          <lb/>road have by <hi rend="underline"><placeName>Zeitz</placeName></hi> he unlighted from his Horse, and as he
+                          <lb/>was Mounting again, he fell to the Ground on the other side
+                          <lb/>of the Horse, the Brother that was with him, attempted to assist
+                          <lb/>him to rise, and he spoke a few words quite Sensible, but
+                          <lb/>presently sunk again to the Ground, and lost his Senses &amp;
+                          <lb/>Speech. He was brought<placeName> </placeName><hi rend="underline"><placeName>Zeitz</placeName></hi>, and <sic>tho</sic> <corr>though</corr> several Remidies
+                          <lb/>was applied, all was to none Effect. <abbr>Br</abbr>. <hi rend="underline"><persName>Holesch</persName></hi> was sent for
+                          <lb/>from <placeName>Gnadau</placeName>, who just came time enough to commend the
+                          <lb/>departing Soul to his Redeemer in a few Verses, and to give
+                          <lb/>him the last Blessing to his departure. His Pilgrimage
+                          <lb/>here below, lasted 65 Years 3 Months &amp; 2 Weeks.
+                          
+                       </p>
+                 </div> 
+
+            </div>
+
+
+
+      </body>
+  </text>
+</TEI>

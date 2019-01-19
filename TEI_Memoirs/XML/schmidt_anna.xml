@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anna Elisabeth Schmidt: Memoir
+            </title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Moravian Archives, Bethlehem</repository>
+                  <msName type="memoir" ana="MAB/MemBeth_0311">Anna Elisabeth Schmidt</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0311a-04.jpg" />
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="de">
+         <head>Anna Elisabeth Schmidt memoir</head>
+         <div type="page" n="1">
+            <head>Page 1 <seg ana="MemBeth_0311a_01" />
+            </head>
+            <p> Die selige Schwester <persName>Anna Elisabeth Schmidt</persName> unsrer Geschwister <persName>Johann Georg</persName> und <persName>Anna Elisabeth Grüns</persName>
+               <persName>älteste Tochter</persName> war gebohren <date>1759 den 11ten September</date> in <placeName>Gnadenthal</placeName>, und von ihrer Geburt an ein sehr schwächliches Kind. Im
+                  <date>May des folgenden Jahres</date> zogen ihre <persName>Eltern </persName>mit ihr hieher nach <placeName>Bethlehem</placeName>, und behielten sie in ihrer Pflege, bis sie etwas
+               über anderthalb Jahr alt in die damalige <orgName>Nurserie </orgName>genommen wurde; doch waren die genöthiget sie ihrer Schwächlichkeit wegen bald wieder zu sich zu nehmen, bis sie
+               gegen 4 Jahr alt war, da sie in die <orgName>Anstalt </orgName>kam und drinn blieb, bis nach dem <orgName>Synodo </orgName><date>1769</date> viele <persName>Kinder </persName>aus
+               derselben ihren <persName>Eltern </persName>zurückgegeben wurden. </p>
+            <p> In ihren Kinder Jahren war sie ihren <persName>Eltern</persName> nach deren Zeugniß mit ihrem lernen und fleissigen Singen von gelernten Versen, und übrigen Betragen zur Freude. Anno
+                  <date>1772 den 25ten Merz </date>kam sie unter die <orgName>grossen Madgen</orgName> und gelangte noch in dem Jahr am <date>8ten Juny</date> nach ihrem Verlangen zur
+                  <orgName>Aufnahme in die Gemeine</orgName>. Der <persName>Heiland </persName>schenkte ihr ein weiches Herz gegen Ihn, welches ihr bey allen Abwechslungen in ihren Mädgen- </p>
+         </div>
+         <div type="page" n="2">
+            <head>Page 2 <seg ana="MemBeth_0311a-02" />
+            </head>
+            <p> Jahren durchhalf. den <date>13ten August 1774</date> wurde sie eine <orgName>Mitgenossin </orgName>des <orgName>heiligen Abendmahls</orgName> mit der <orgName>Gemeine</orgName>. Sie
+               half ihren <persName>Eltern </persName>treulich das Nothdürftige verdienen und war ihnen zur grossen Unter- stützung. Anno <date>1778 den 4ten May</date> wurde sie ins <orgName>ledige
+                  Schwestern Chor</orgName> aufgenommen. Der <persName>Heiland </persName>hielt während der Kriegs Jahre bey mancher Gefahr ih ihrer <persName>Eltern </persName>Hause seine Gnadenhand
+               über sie. <date>1781 den 31ten May</date> wurde sie mit dem nunmehrigen Witwer <persName>Johannes Schmid</persName> zur <orgName>heiligen Ehe</orgName> verbunden, um der hiesigen
+                  <orgName>Gemeinbeckerey </orgName>vorzustehen. Der <persName>Heiland</persName> schenckte ihnen <persName>2 Kinder</persName>. Sie hatte dieselben und ihren <persName>Mann
+               </persName>zärtlich lieb, und ob sie gleich, nachdem sie aus der <orgName>Beckerey </orgName>abgelöst wurden, viel schweres mit zu ertragen hatte, dabey auch ihre Gesundheit litte,
+               indem sie sich nicht immer bald drein finden konte; so schenckte ihr doch der <persName>Heiland </persName>die Gnade, daß sie sich in ihre Armuth und Dürftigkeit schickte und bey aller
+               ihrer Schwäche durch Arbeit und Fleiß das durchkommen ihrer <persName>Familie </persName>zu erleichtern bemüht war. dieses war ihr auch angenehmer, als einen Vorschlag anzunehmen, der
+               ihnen zu Verbesserung ihrer äussern Umstände gethan wurde, dabey sie aber fürchtete, daß sie und ihre <persName>Kinder</persName> dadurch um das Glück in einer
+                  <orgName>OrtsGemeine</orgName>
+            </p>
+         </div>
+         <div type="page" n="3">
+            <head>Page 3 <seg ana="MemBeth_0311a-03" />
+            </head>
+            <p> zu wohnen kommen könte, welches sie höher als ein leichteres Durchkommen im äussern achte. Ob sie gleich ein sehr empfindsames Gemüth hatte, das bey vorkommender Noth und Schwürigkeit
+               nicht so bald zu befriedigen war; so endigte sichs doch gemeiniglich damit, daß sie mit einem weichen Herzen den <persName>Heiland </persName>schamroth um Vergebung bat, wo sie zu weit
+               gegangen war. Das lezte Jahr konte man sich insonderheit über ihre zu- friedene Herzens-Stellung freuen. Sie äusserte ein kindliches Vertrauen zum lieben <persName>Heiland</persName>,
+               daß Er ihr noch durch alles gnädig durchhelfen würde, und konte Ihm nicht genug für die bisher erfahrne Proben seiner Fürsorge dancken. </p>
+            <p> Sie hatte schon seit geraumer Zeit eine grosse Schwäche auf ihrer Brust, und man<del>ch</del> befürchtete daß eine Auszehrung draus werden würde. Sie wurde vor einigen Tagen mit der
+               jezt grahsierenden Kranckheit befallen, die vornemlich ihre Brust angriff und ihre ohnedem wenigen Kräfte so erschöpfte, daß keine Arzney dagegen anschlug. Da mit ihr <add>am
+                     </add><add><date>5ten November</date>
+               </add>von ihren anscheinenden Heimgang geredet wurde, bezeugte sie in des <persName>Heilands</persName> Willen ergeben zu seyn, auch daß ihr nichts im Wege stünde zu Ihm zu gehen, ob
+               sie gleich um ihrer <persName>Kinder </persName>willen noch gern länger hier geblieben wäre. Sie schien sich hierauf ein wenig zu erhohlen, und Erleichterung ihrer Schmerzen zu fühlen,
+               worüber sie sich auch freute. Aber eine Stunde </p>
+         </div>
+         <div type="page" n="4">
+            <head>Page 4 <seg ana="MemBeth_311a-04" />
+            </head>
+            <p> drauf kam der selige Augenblick, da sie unter dem Segen ihres <orgName>Chores </orgName>und der <orgName>Gemeine </orgName>gar sacht in <persName>Jesu </persName>Arm und Schooß
+               erblaßte ihres Alters 30 Jahr und 26 Tage. </p>
+         </div>
+      </body>
+   </text>
+</TEI>
