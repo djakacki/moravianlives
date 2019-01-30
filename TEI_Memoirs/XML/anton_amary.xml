@@ -68,9 +68,9 @@
                   <repository>Moravian Archives, Bethlehem</repository>
                   <idno>Memoirs Bethlehem, 0116</idno>
                   <msName type="memoir" ana="MAB/MemBeth_0116">A. Mary Anton</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-01.jpg"/>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-02.jpg"/>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-03.jpg"/>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -81,85 +81,55 @@
          <div type="memoir">
             <head>Mary Anton</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="MemBeth_0116-01" />
+               <head>Page 1 <seg ana="MemBeth_0116-01"/>
                </head>
-               <p> V. The Single Sist<hi rend="superscript">r</hi>. <persName><hi rend="underline" n="red">A. Mary Anton</hi></persName>. The following are her own Words: I am born the
-                     <date>18</date><hi rend="superscript"><date>th</date></hi><date> of May 1739</date> at <placeName>Pilgerruh</placeName> in <placeName>Holstein</placeName>. but
-                     <unclear>so</unclear> they Congregation emigrated, I came as a <add>little</add> Child to <del rend="strikethrough">[?]</del> to<placeName> Hhuth</placeName>. But Anno
-                     <date>1744</date>, my Parents <sic>toock</sic> took me along to <placeName><hi rend="underline" n="red">Berlin</hi></placeName>, which was a great Loss to me, then I heard &amp;
-                  saw there many Things good for nothing for me &amp; had had not our Sav<hi rend="superscript">r</hi>. preserved me, I had natural Instincts &amp; Occasion <add>enough</add> to commit
-                  many wicked Things. A.<hi rend="superscript">o </hi><date>1747</date>. I moved w<hi rend="superscript">th</hi> my Parents from thence to <placeName><hi rend="underline" n="red"
-                        >Bertholdsdorf</hi></placeName>, because the gat yet no Leave to come to <placeName>Hhuth</placeName>. Anno 48 we removed to <placeName>Hhuth</placeName> &amp; after a short
-                  Stay there, to <placeName>Hhaag</placeName>. Here I came soon to my great Joy in the Anstalt of the Children. In the Begin I was very happy, but my lightminded Temper made the
-                  feeling of our Saviour soon vanishing. Anno 49. the <date>25</date><hi rend="superscript"><date>th</date></hi><date> of March</date> I was received into the Girls Choir but soon
-                  observed in the first Conversation that this meant some Thing more then they <add>were</add> upright &amp; Sincere &amp; that I could not do. In this year I came with my Parents to
-                     <placeName>Ebersdorf</placeName> &amp; served the, but resided very often in my Choir-House. I was here not long I begun to grow indifferent &amp; came by means of a wicked
-                  Compagnie in poor Circumstances &amp; became excomunicated for a time <del rend="strikethrough">from</del> by the Congregation till our Saviour bestowed Mercy on me that I could
-                  disclose all my hidden Tricks. </p>
+               
+               <p><seg facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0116-01.jpg"/>
+                  V. The Single Sist<hi rend="superscript">r</hi>. <persName><hi rend="underline" n="red">A. Mary Anton</hi></persName>. The following are her own Words: I am born the <date>18</date><hi rend="superscript"><date>th</date></hi><date> of May 1739</date> at <placeName>Pilgerruh</placeName> in <placeName>Holstein</placeName>. but <unclear>so</unclear> they Congregation emigrated, I came as a <add>little</add> Child to <del rend="strikethrough">[?]</del> to<placeName> Hhuth</placeName>. But Anno <date>1744</date>, my Parents <sic>toock</sic> took me along to <placeName><hi rend="underline" n="red">Berlin</hi></placeName>, which was a great Loss to me, then I heard &amp; saw there many Things good for nothing for me &amp; had had not our Sav<hi rend="superscript">r</hi>. preserved me, I had natural Instincts &amp; Occasion <add>enough</add> to commit many wicked Things. A.<hi rend="superscript">o </hi><date>1747</date>. I moved w<hi rend="superscript">th</hi> my Parents from
+                  thence to <placeName><hi rend="underline" n="red">Bertholdsdorf</hi></placeName>, because the gat yet no Leave to come to <placeName>Hhuth</placeName>. Anno 48 we removed to <placeName>Hhuth</placeName> &amp; after a short Stay there, to <placeName>Hhaag</placeName>. Here I came soon to my great Joy in the Anstalt of the Children. In the Begin I was very happy, but my lightminded Temper made the feeling of our Saviour soon vanishing. Anno 49. the <date>25</date><hi rend="superscript"><date>th</date></hi><date> of March</date> I was received into the Girls Choir but soon observed in the first Conversation that this meant some Thing more then they <add>were</add> upright &amp; Sincere &amp; that I could not do. In this year I came with my Parents to <placeName>Ebersdorf</placeName> &amp; served the, but resided very often in my Choir-House. I was here not long I begun to grow indifferent &amp; came by means of a wicked Compagnie in poor Circumstances &amp; became
+                  excomunicated for a time <del rend="strikethrough">from</del> by the Congregation till our Saviour bestowed Mercy on me that I could disclose all my hidden Tricks. </p>
                <p> Anno 53 in <date>April</date> I was received into the Congregation. <note type="catchword">I was</note></p>
-               <p> I was ashamed about this Grace, but by all that I came not farther then my Heart was not open &amp; secure before God &amp; Man. I soon came in my former Snares again &amp; begun to
-                  doubt if it would come with me to any Thing at all. However Anno 54 the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of Feb.</date> as I toock a walk in the Field
-                  I <add>accidently</add> fell in a intime Conversation w<hi rend="superscript">th</hi> our Sav<hi rend="superscript">r</hi>. &amp; could discover my whole Heart towards him &amp; so
-                  begged Mercy under many Tears &amp; that he would let me from This Day experience how good it is w<hi rend="superscript">th</hi> a happy Heart <add>to be</add> in the Congregation.
-                  By this inter_ cource he was as near to me the as if he was visible. </p>
-               <p> Anno 1755 the Month of <date>Jan.</date> I came in my Choir-House as wherefore I loockd out a good while. The first time I was happy again, but as I disliked to appear as such a
-                  wicked &amp; naughty Siner, then it <del rend="strikethrough">didn</del>'t went as well as it could; but the Truest Friend of my Soul whose Patiens persecuted me from my youth, did
-                  not draw back his Hand, wicked as I was. They holy Ghost licke a true Mother begun his Work anew &amp; showed to me de deplorable Condition of my wicked Heart &amp; brought
-                     <add>me</add> in the <add>most</add> extreme Distress about myself. I conversed with my Laboures &amp; revealed my whole Heart towards her &amp; our Sav<hi rend="superscript"
-                     >r</hi>. as the great Friend of Sinners appeared to me again at in his unspeacable Nearness. </p>
-               <p> Anno 57. <date>21<hi rend="superscript">st</hi> of March</date> I became Canditat to the holy <sic>Comunion</sic> Communion, &amp; had so happy a Time which I shall never <note
-                     type="catchword">forget</note>
+               <p> I was ashamed about this Grace, but by all that I came not farther then my Heart was not open &amp; secure before God &amp; Man. I soon came in my former Snares again &amp; begun to doubt if it would come with me to any Thing at all. However Anno 54 the <date>24</date><hi rend="superscript"><date>th</date></hi><date> of Feb.</date> as I toock a walk in the Field I <add>accidently</add> fell in a intime Conversation w<hi rend="superscript">th</hi> our Sav<hi rend="superscript">r</hi>. &amp; could discover my whole Heart towards him &amp; so begged Mercy under many Tears &amp; that he would let me from This Day experience how good it is w<hi rend="superscript">th</hi> a happy Heart <add>to be</add> in the Congregation. By this inter_ cource he was as near to me the as if he was visible. </p>
+               <p> Anno 1755 the Month of <date>Jan.</date> I came in my Choir-House as wherefore I loockd out a good while. The first time I was happy again, but as I disliked to appear as such a wicked &amp; naughty Siner, then it <del rend="strikethrough">didn</del>'t went as well as it could; but the Truest Friend of my Soul whose Patiens persecuted me from my youth, did not draw back his Hand, wicked as I was. They holy Ghost licke a true Mother begun his Work anew &amp; showed to me de deplorable Condition of my wicked Heart &amp; brought <add>me</add> in the <add>most</add> extreme Distress about myself. I conversed with my Laboures &amp; revealed my whole Heart towards her &amp; our Sav<hi rend="superscript">r</hi>. as the great Friend of Sinners appeared to me again at in his unspeacable Nearness. </p>
+               <p> Anno 57. <date>21<hi rend="superscript">st</hi> of March</date> I became Canditat to the holy <sic>Comunion</sic> Communion, &amp; had so happy a Time which I shall never <note type="catchword">forget</note>
                </p>
             </div>
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemBeth_0116-02" />
+               <head>Page 2 <seg ana="MemBeth_0116-02"/>
                </head>
                <p> forgot. I lernt now myself better to know, became a more intime <sic>Conexion</sic>
                   <corr>Connection</corr> with our Saviour &amp; he became many <sic>Siner</sic>
-                  <corr>Sinner</corr> - Fears before his pierced feet. the <date>14<hi rend="superscript">th</hi> May</date> I was confirmed &amp; the <date>11<hi rend="superscript">th</hi>
-                     June</date> the blessd day <sic>appeard</sic>
-                  <corr>appeared</corr> where I was to partake on his holy Body &amp; Blood here I lost myself &amp; could nothing but weep. the <date>20<hi rend="superscript">th</hi> of July</date> I
-                     receiv<hi rend="superscript">d</hi> the blessing into the Single Sisters Choir &amp; I gave him Heart &amp; Hands to become his true Soul. Soon after I &amp; four Sisters more
-                  went from here towards <placeName>Herrnhuth</placeName> &amp; arrived the <date>8</date><hi rend="superscript"><date>th</date></hi><date> of August</date>, where I had the Pleasure
-                  to live into the Choir-House. Here I enjoyd his happy Nearness as a poor Sinner, but weep <sic>dayly</sic>
+                  <corr>Sinner</corr> - Fears before his pierced feet. the <date>14<hi rend="superscript">th</hi> May</date> I was confirmed &amp; the <date>11<hi rend="superscript">th</hi> June</date> the blessd day <sic>appeard</sic>
+                  <corr>appeared</corr> where I was to partake on his holy Body &amp; Blood here I lost myself &amp; could nothing but weep. the <date>20<hi rend="superscript">th</hi> of July</date> I receiv<hi rend="superscript">d</hi> the blessing into the Single Sisters Choir &amp; I gave him Heart &amp; Hands to become his true Soul. Soon after I &amp; four Sisters more went from here towards <placeName>Herrnhuth</placeName> &amp; arrived the <date>8</date><hi rend="superscript"><date>th</date></hi><date> of August</date>, where I had the Pleasure to live into the Choir-House. Here I enjoyd his happy Nearness as a poor Sinner, but weep <sic>dayly</sic>
                   <corr>daily</corr> for Want &amp; <sic>Insuffiency</sic>
-                  <corr>Insufficiency</corr>. His Grace &amp; Mercy is my only "Holdfast, without, I easily could <add>be</add> come inshared again. My only Desire is to live as his Property to the
-                  Joy of his Heart, &amp; that his holy <sic>Corps</sic>
+                  <corr>Insufficiency</corr>. His Grace &amp; Mercy is my only "Holdfast, without, I easily could <add>be</add> come inshared again. My only Desire is to live as his Property to the Joy of his Heart, &amp; that his holy <sic>Corps</sic>
                   <corr>Corpse</corr> &amp; Blood may irradicate all what's unJesuslicke in my Soul &amp; Body. So far She herself. </p>
-               <p> However <del rend="strikethrough">[illegible]</del> unsettled <add>her</add> State of Mind, She was for all that Sincere &amp; openhearted. Anno <date>1760</date>. Our blessed
-                  Disciple spoke her &amp; from this Time our Saviour settled her Mind &amp; brought <add>her</add> to a sure foundation. She has been for a Time <sic>excomunicated</sic>
+               <p> However <del rend="strikethrough">[illegible]</del> unsettled <add>her</add> State of Mind, She was for all that Sincere &amp; openhearted. Anno <date>1760</date>. Our blessed Disciple spoke her &amp; from this Time our Saviour settled her Mind &amp; brought <add>her</add> to a sure foundation. She has been for a Time <sic>excomunicated</sic>
                   <corr>excommunicated </corr>from the holy Sacrament &amp; in this <sic>Intervall</sic>
                   <corr>Interval</corr> the holy Ghost had his blessed Work in her &amp; she became solid &amp; <note type="catchword">certain.</note>
-                  <cb />
+                  <cb/>
                   <del rend="strikethrough">He</del> certain. Her <sic>Happyness</sic>
                   <corr>Happiess</corr> became more consistent &amp; She <sic>lernt</sic>
                   <corr>learned </corr>to know by all her <sic>Insuficiency</sic>
                   <corr>Insufficiency</corr> &amp; Sinfulness to keep <sic>closse</sic>
                   <corr>close</corr> to our Saviour &amp; on his meritorious Atonement. Hereby She found herself glad, servitable &amp; in Conversation lovely. </p>
                <p> It was a Pleasure to her to serve one of her Sisters &amp; her <sic>dayly</sic>
-                  <corr>daily</corr> Work in Washing She did w<hi rend="superscript">th</hi> all possible Care &amp; diligence. In the last Days of <date>April</date> She was taken sick on a sudden
-                  but resisted as much as possible, because of her <unclear>Choci</unclear>- Feast drawing so near. But a vehement Fever forced her that She willingly the <date>1<hi rend="superscript"
-                        >st</hi> of May</date> entered the Sixth Room. On her Feastday was She very happy in her Room &amp; was glad to celebrate her approaching <sic>Birthsday</sic>
-                  <corr>Birthday</corr> by this op- portunitity in this so <unclear>Hill</unclear> &amp; happy Place. The Watch Word of her Birthday was: <hi rend="underline">Er riss muh heraus denn
-                     er halte Sust zie mir. Was muss Jesus an mir trüben Herzen lieben?</hi> This was extraordinary pleasing &amp; comfortable to her. </p>
+                  <corr>daily</corr> Work in Washing She did w<hi rend="superscript">th</hi> all possible Care &amp; diligence. In the last Days of <date>April</date> She was taken sick on a sudden but resisted as much as possible, because of her <unclear>Choci</unclear>- Feast drawing so near. But a vehement Fever forced her that She willingly the <date>1<hi rend="superscript">st</hi> of May</date> entered the Sixth Room. On her Feastday was She very happy in her Room &amp; was glad to celebrate her approaching <sic>Birthsday</sic>
+                  <corr>Birthday</corr> by this op- portunitity in this so <unclear>Hill</unclear> &amp; happy Place. The Watch Word of her Birthday was: <hi rend="underline">Er riss muh heraus denn er halte Sust zie mir. Was muss Jesus an mir trüben Herzen lieben?</hi> This was extraordinary pleasing &amp; comfortable to her. </p>
                <p>
                   <sic>Privatly</sic>
-                  <corr>Privately</corr> She hoped if our Saviour by means of her Sickness would't take <add>her</add> in his eternal Safety, but this She believed was to great a Luck for her. By all
-                  her Smart She was <sic>allways</sic>
+                  <corr>Privately</corr> She hoped if our Saviour by means of her Sickness would't take <add>her</add> in his eternal Safety, but this She believed was to great a Luck for her. By all her Smart She was <sic>allways</sic>
                   <corr>always</corr> Silent, of good <sic>Chear</sic>
                   <corr>Cheer</corr> &amp; very lovely &amp; thankful to her Waiter. The 8th as She expected her Portion by the holy Sacrament, She <sic>seyhd</sic>
                   <corr>said</corr> : A! When this would be <del rend="strikethrough">be</del> the last &amp; when I to Day were so <note type="catchword">happy</note>
                </p>
             </div>
             <div type="page" n="3">
-               <head>Page 1 <seg ana="MemBeth_0116-03" />
+               <head>Page 1 <seg ana="MemBeth_0116-03"/>
                </head>
                <p> happy to expire on his Breast. How well, how happy would this be for poor me! But <unclear>eff</unclear>
                   <sic>scarly</sic>
-                  <corr>scarily</corr> She had receivd the holt Sacrament, then <add>her</add> to hole Countenance begun to change &amp; lay without Motion, but inwardly present to herself; She took
-                  no Notice of any Thing; the formerly so very acceptable Visits of her Sisters, became now very indifferent to her. Her Heart continually conversd w<hi rend="superscript">th</hi> her
-                  only Friend: She made <add>some</add> Motions w<hi rend="superscript">th</hi> her Lips but nothing could be understood, &amp; between 10 &amp; 11 a Clock in the Evening her Soul
-                  departed to her eternal Home, after a Sojourning in this World of 24 Years, wanting one Day. </p>
+                  <corr>scarily</corr> She had receivd the holt Sacrament, then <add>her</add> to hole Countenance begun to change &amp; lay without Motion, but inwardly present to herself; She took no Notice of any Thing; the formerly so very acceptable Visits of her Sisters, became now very indifferent to her. Her Heart continually conversd w<hi rend="superscript">th</hi> her only Friend: She made <add>some</add> Motions w<hi rend="superscript">th</hi> her Lips but nothing could be understood, &amp; between 10 &amp; 11 a Clock in the Evening her Soul departed to her eternal Home, after a Sojourning in this World of 24 Years, wanting one Day. </p>
             </div>
          </div>
       </body>
