@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
-<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
-	<cw:mode>0</cw:mode>
-	<cw:allowOverlap>false</cw:allowOverlap>
-</rdf:Description>
-</rdf:RDF>
-
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   
+         
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,7 +78,7 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir" ana="#">Name</msName>
-                 <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
+                  <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
                   &lt;msName facs="http://moravianlives.bucknell.edu/##-02.jpg" /&gt;
                   &lt;msName facs="http://moravianlives.bucknell.edu/##-03.jpg" /&gt; -->
                </msIdentifier>
@@ -95,27 +91,33 @@
          <div type="memoir">
             <head>Sarah Mortimer</head>
             <div type="page" n="1">
-              <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg"></pb>
+               <head type="page">1</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg" />
                <p>PAGE TEXT HERE</p>
             </div>
-            
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-02.jpg"></pb>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-02.jpg" />
                <p>PAGE TEXT HERE</p>
             </div>
-            
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-03.jpg"></pb>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-03.jpg" />
                <p>PAGE TEXT HERE</p>
             </div>
-            
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-04.jpg"></pb>
-               <p><lg><l>"And readily grants me relief:</l><l>"By faith I behold in his wounds</l> <l>"A cure for my sins and self-will;</l> <l>"His goodness towards me abounds,</l> <l>"And his hand is held over me still."</l></lg>During her confinement she injoyed twice the H. Com<hi rend="superscript">n</hi> which was a great refreshement and strengthening to her. She loved &amp; was beloved, &amp; was truly thankful for every kindness shown towards her. She bore her pains with great <del>petions</del> <add place="above">patience</add>, and often said: "Dear Saviour! help me," and also asked her friends to pray for her. [?] the happy moment came when she was permitted to leave this world, and see him face to face in whom she here believed. Aged 30 years &amp; 6 Months.</p>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-04.jpg" />
+               <p><lg>
+                     <l>"And readily grants me relief:</l>
+                     <l>"By faith I behold in his wounds</l>
+                     <l>"A cure for my sins and self-will;</l>
+                     <l>"His goodness towards me abounds,</l>
+                     <l>"And his hand is held over me still."</l>
+                  </lg>During her confinement she injoyed twice the H. Com<hi rend="superscript">n</hi> which was a great refreshement and strengthening to her. She loved &amp; was beloved, &amp; was
+                  truly thankful for every kindness shown towards her. She bore her pains with great <del>petions</del>
+                  <add place="above">patience</add>, and often said: "Dear Saviour! help me," and also asked her friends to pray for her. [?] the happy moment came when she was permitted to leave this
+                  world, and see him face to face in whom she here believed. Aged 30 years &amp; 6 Months.</p>
             </div>
          </div>
       </body>
