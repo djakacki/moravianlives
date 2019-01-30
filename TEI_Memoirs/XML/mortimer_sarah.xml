@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[NAME]: Memoir</title>
+            <title>Sarah Mortimer: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -34,6 +34,11 @@
             </respStmt>
             <respStmt>
                <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jess Hom</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
@@ -80,10 +85,28 @@
    <text type="memoir">
       <body xml:lang="en">
          <div type="memoir">
-            <head>name</head>
+            <head>Sarah Mortimer</head>
             <div type="page" n="1">
               <head type="page">1</head>
-               <pb n="1" facs="url"/>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg"/>
+               <p>PAGE TEXT HERE</p>
+            </div>
+            
+            <div type="page" n="2">
+               <head type="page">2</head>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg"/>
+               <p>PAGE TEXT HERE</p>
+            </div>
+            
+            <div type="page" n="3">
+               <head type="page">3</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-03.jpg"/>
+               <p>PAGE TEXT HERE</p>
+            </div>
+            
+            <div type="page" n="4">
+               <head type="page">4</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-04.jpg"/>
                <p>PAGE TEXT HERE</p>
             </div>
          </div>
