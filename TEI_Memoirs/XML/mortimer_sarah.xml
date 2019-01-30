@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
 <rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
