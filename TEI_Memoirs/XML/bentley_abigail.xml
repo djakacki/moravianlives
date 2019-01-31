@@ -1,5 +1,13 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,10 +82,10 @@
                <msIdentifier>
                   <repository>Moravian Archives, Fulneck</repository>
                   <msName type="memoir" ana="MAF/Ful_SS_58Bentley">Abigail Bentley</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg"></msName>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -89,14 +97,13 @@
             <head>name</head>
             <div type="page" n="1">
               <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg"/>
-               <p>The course of Life of Abigal Bently 
-                  I was born at Wike in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg"></pb>
+               <p><label>The course of Life of Abigal Bently</label> </p><p>                  I was born at Wike in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722
                   my Parrents was of the Church of England and brought me up in the 
-                  same, as far as I can remember my first thought of being fared was thro&#39;
+                  same, as far as I can remember my first thought of being fared was thro'
                   hereing my Mother speak with another what time Children begun to be anser
                   -able for Sin and they thought at Seven-years, this had such an impression
-                  on my mind that I often went alone and wish&#39;d God wou&#39;d let me die before that
+                  on my mind that I often went alone and wish'd God wou'd let me die before that
                   time for then I took it for granted I should be saved, when I was about Seven
                   Years I began to be afraid of dying, my Parrents strove to preserve me as far
                   as there circumstances permitted them, in my Eleventh year I was sent to live
@@ -109,7 +116,7 @@
                   or know any thing of us after some time I left this place and removed into a 
                   nother <del>place</del> that was more agreable, here I took much to reading and intended
                   to be very good, but amidst it all I ataind to no satisfaction but a constant
-                  condemnation follow&#39;d me with every thing I did, so far her own <del>words</del> <hi rend="superscript">writing</hi>
+                  condemnation follow'd me with every thing I did, so far her own <del>words</del> <hi rend="superscript">writing</hi>
                   about this time she began to hear Mr Igham and when the societys of 
                   the B<hi rend="superscript">rn</hi> was sitled <del>she</del> was me of the first of that number when the 
                   S S<hi rend="superscript">rs</hi> Oconomy was seteld at Oxhaire she after some time had
@@ -120,11 +127,11 @@
             
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg"/>
-               <p>*In the year 92 Nov<hi rend="superscript">br</hi> y<hi rend="superscript">e</hi> 13 she was reciev&#39;d into the congregation
-                  and as it coud not be perciev&#39;d that she got any satisfaction in 
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg"></pb>
+               <p>*In the year 92 Nov<hi rend="superscript">br</hi> y<hi rend="superscript">e</hi> 13 she was reciev'd into the congregation
+                  and as it coud not be perciev'd that she got any satisfaction in 
                   her Heart the Labours thought it more proper for her to go and
-                  live with two or three Sisters who&#39; was under the B<hi rend="superscript">rns</hi> care which 
+                  live with two or three Sisters who' was under the B<hi rend="superscript">rns</hi> care which 
                   she took very much to heart and could hardly be persuaded to do as
                   was however thought for the best <del>and</del> she took it so very near that
                   it brought on a violent sickness for <hi rend="superscript">us</hi> she her self express &amp; it
@@ -139,59 +146,59 @@
                   <del>at</del> began to feel a little more of her self and was brought
                   in to very great concern about her Salvation but as she was
                   once coming from a meeting this verse was perticularly aplyd to 
-                  her Heart, Out of pure grace unmerited, Salvation show&#39;rs
-                  on our Head Merely because the Lord had dy&#39;d, Because a Lamb
-                  was Crucify&#39;d, Are we invited to possess a Throne, Before the 
+                  her Heart, Out of pure grace unmerited, Salvation show'rs
+                  on our Head Merely because the Lord had dy'd, Because a Lamb
+                  was Crucify'd, Are we invited to possess a Throne, Before the 
                   World was made ordaind our own, and she was from this time made
                   sure of her Election * when the Choir House was begun at Fulneck
                   she with some others Out of the Oeconomys got leave <del>from Briard</del>
                   <del>Mortimer</del> to remove with them to that in Pudsey, but here it 
-                  she did not spend her time so chearfully as could have been wish&#39;d</p>
+                  she did not spend her time so chearfully as could have been wish'd</p>
             </div>
             
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg"/>
-               <p>for she lost many happy hours for her own heart thro&#39; looking so much
+               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg"></pb>
+               <p>for she lost many happy hours for her own heart thro' looking so much
                   at others and being so very strict with her self she could not
                   easily look over things that some times accord amongst her compan
                   -ions, yet at the same time we cannot denigh but as to her true 
                   Heart to her Choir and the Cong<hi rend="superscript">n</hi> we was fully persuaded which 
-                  show&#39;d it self evedintly on various occasions, in the year 1754 <hi rend="superscript"><del>where in 54 she had the grace to be  </del></hi>
-                  July The Diciple and Diecpless pay&#39;d a visit to the Cong<hi rend="superscript">n</hi> and this
+                  show'd it self evedintly on various occasions, in the year 1754 <hi rend="superscript"><del>where in 54 she had the grace to be  </del></hi>
+                  July The Diciple and Diecpless pay'd a visit to the Cong<hi rend="superscript">n</hi> and this
                   the earnest request of the Sister of that Ocemomey to come into
                   the Choir House at Fulneck the Diciple took it into con
                   sideration and it was made out that the said Oeconomy should
                   be entirely broken up, and so she with the rest of her Sisters
                   came here into this House where she continued very chearfull
-                  for some time and cou&#39;d not express her self enough of the joy
-                  She felt that she was now got to her right home, but thro&#39;
+                  for some time and cou'd not express her self enough of the joy
+                  She felt that she was now got to her right home, but thro'
                   her very strict way of thinking she brought her self into <del>many</del>
                   great heavyness and deprivd her self of the Holly Communin for some
                   time she spoke with her Laboures in avery open hearted manner
                   of her whole situation and it was plain to be percevd that she
                   must be dealt with perticlar love and tenderness which her Labours
-                  show&#39;d to her at at that time and it was a great means of bringing
+                  show'd to her at at that time and it was a great means of bringing
                   her to a clearness again in her Heart in the year 1763 complan
                   ing much of a pain in her Head she was advisd to a Cold Bath
                   which removed the pain in her Head but soon after it was percived
                   that the desorder seteld upon her Loungs and she was much
                   troubled with a voilent Cough, but in a short time grew better again
-                  and it was made out that she shou&#39;d go for some time into the </p>
+                  and it was made out that she shou'd go for some time into the </p>
             </div>
             
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-04.jpg"/>
+               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-04.jpg"></pb>
                <p>Childrens Oeconomy <del>Washahi</del> Wash Kitchen where she showd the 
-                  greatest faith fullness, but thro&#39; the desorder in her Lounge she
-                  was oblig&#39;d to be taken back again, and she her self believd that it
+                  greatest faith fullness, but thro' the desorder in her Lounge she
+                  was oblig'd to be taken back again, and she her self believd that it
                   would prove a means of her disolution thus she continued in a pritty chearful
                   way and was made use of as an over seer in a Work Room and it
                   was the greatest favour to her to do any thing for her Choir and never
                   thought any thing too much but on the contrary lookd open it as the 
                   greatest grace and favour, Sep<hi rend="superscript">br</hi> y<hi rend="superscript">e</hi> 16<hi rend="superscript">th</hi> she had the favour to be 
-                  added amongst the company of Interferers which prov&#39;d a pertic
+                  added amongst the company of Interferers which prov'd a pertic
                   lar blessing for her own heart that she had the favour to have
                   an hour to speak with our in a Perticlar manner for her own and 
                   his Peoples cause, it was plain to be percevd amidst all her faults
