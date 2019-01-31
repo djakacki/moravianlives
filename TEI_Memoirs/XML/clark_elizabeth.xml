@@ -1,5 +1,13 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,9 +82,9 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir" ana="#">Name</msName>
-                 <!-- <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />-->
+                 <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
+                  &lt;msName facs="http://moravianlives.bucknell.edu/##-02.jpg" /&gt;
+                  &lt;msName facs="http://moravianlives.bucknell.edu/##-03.jpg" /&gt; -->
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -87,36 +95,36 @@
          <div type="memoir">
             <head>Elizabeth Clark</head>
             <div type="page" n="1">
-              <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-01.jpg"/>
-               <p>TEXT HERE</p>
+              <head type="page">Eliz: Clark</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-01.jpg"></pb>
+               <p></p><p>Was born at Northouram, in the Parish of Halifax. My Parents being Disenters, I was baptiz'd according to their Profession, as my d<hi rend="superscript">r</hi> Mother departed this Life while I was yet very young, my Father being left with 4 Children, namely one son and 3 Daughters, and being strictly religious, <add place="above">himself</add> took all possible care to preserve us from the seductions of the world. This concern of His, together with my natural thoughtfull turn of mind, led me to an enquirery after future happiness, soon in my childhood, at which time the fear of death restrain'd me from injoying my self in the manner usual to others at that age, contrary to my inclination which was to divert my thoughts not being able to satisfy my self by these means, as I grew older I took the resolution to [?] the utmost of my power to shake of my former conictions, and I found even then that my best efforts prov'd vain to help my [indwelling?] propsensity to the abusements of this world, having in private often besought the Lord with tears to save me, and still,  [?] I was as prone as ever to come into the same condemnation. I pursu'd this resolution as far and was able and accepting the invitation of others of my Companions strove to amuse my thoughts by publick diversions, in the midst of one of which asemblies, I was so amazingly struck with Horror &amp; Condemnation, that I was forc'd to retire beseeching the Lord to have Mercy upon me I resolv'd never to come into the like ocasion again.</p>
                <p>MORE TEXT HERE</p>
             </div>
             
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-02.jpg"/>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-02.jpg"></pb>
                <p>TEXT HERE</p>
                <p>MORE TEXT HERE</p>
             </div>
             
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-03.jpg"/>
+               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-03.jpg"></pb>
                <p>TEXT HERE</p>
                <p>MORE TEXT HERE</p>
             </div>
             
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-04.jpg"/>
+               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-04.jpg"></pb>
                <p>TEXT HERE</p>
                <p>MORE TEXT HERE</p>
             </div>
             
             <div type="page" n="5">
                <head type="page">5</head>
-               <pb n="5" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-05.jpg"/>
+               <pb n="5" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-05.jpg"></pb>
                <p>TEXT HERE</p>
                <p>MORE TEXT HERE</p>
             </div>
