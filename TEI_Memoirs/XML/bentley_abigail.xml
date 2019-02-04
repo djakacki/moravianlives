@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/1a239bce-26ab-4a54-a9df-9992840a8b22">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/0560c4e3-8b56-473e-a117-6dec6753bc65"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/126834308/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/fc9fd434-ff6f-417c-a058-12e1c6db0ca7"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.789Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.789Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Geographic","id":"http://viaf.org/viaf/126834308/","uri":"http://viaf.org/viaf/126834308/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/126834308/","name":"Wyke (Bradford, England)","repository":"VIAF","originalQueryString":"Wike"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/126834308/","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/126834308/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/0560c4e3-8b56-473e-a117-6dec6753bc65">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/16a70d99-3f79-4524-aa30-fba6e7ef4500"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/f19858c3-cb87-41b8-92fc-2c4c340c41fb"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/f19858c3-cb87-41b8-92fc-2c4c340c41fb">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_142"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/41ad3fdc-196e-4f7b-9d8f-3dc441e0c321">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/a3c7dc14-931b-49ba-928c-2094668e12cf"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/268f167c-7577-488d-b0b3-8c2d0f2d5063"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.791Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.791Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","uri":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Fulneck_Moravian_Settlement,_Pudsey","name":"Fulneck Moravian Settlement, Pudsey","repository":"dbpedia","originalQueryString":"Pudsey","description":"Fulneck Moravian Settlement is a village in Pudsey in the City of Leeds metropolitan borough, West Yorkshire, England. It was established in 1744. It is named after Fulneck, the German name of a town in Northern Moravia, Czech Republic. The village lies in a picturesque location on a hillside overlooking a deep valley. Pudsey Beck flows along the bottom of the valley."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/a3c7dc14-931b-49ba-928c-2094668e12cf">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/18997fd4-c94c-47b1-92b1-b8aff1c4a427"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/480cc2f9-c297-4197-876d-ef38bfc034cf"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/480cc2f9-c297-4197-876d-ef38bfc034cf">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_143"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+</rdf:RDF>
+
 
    <teiHeader>
       <fileDesc>
@@ -93,8 +153,7 @@
             <div type="page" n="1">
               <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg"></pb>
-               <p>The course of Life of Abigal Bently 
-                  I was born at Wike in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722
+               <p>The course of Life of Abigal Bently </p><p>                  I was born at <placeName annotationId="ent_142" ref="http://viaf.org/viaf/126834308/" cert="definite">Wike</placeName> in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722
                   my Parrents was of the Church of England and brought me up in the 
                   same, as far as I can remember my first thought of being fared was thro'
                   hereing my Mother speak with another what time Children begun to be anser
@@ -148,7 +207,7 @@
                   World was made ordaind our own, and she was from this time made
                   sure of her Election * when the Choir House was begun at Fulneck
                   she with some others Out of the Oeconomys got leave <del>from Briard</del>
-                  <del>Mortimer</del> to remove with them to that in Pudsey, but here it 
+                  <del>Mortimer</del> to remove with them to that in <placeName annotationId="ent_143" ref="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey" cert="definite">Pudsey</placeName>, but here it 
                   she did not spend her time so chearfully as could have been wish'd</p>
             </div>
             
