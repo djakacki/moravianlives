@@ -1,45 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:time="http://www.w3.org/2006/time#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
 <rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
-	<cw:allowOverlap>false</cw:allowOverlap>
+	<cw:allowOverlap>true</cw:allowOverlap>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/1a239bce-26ab-4a54-a9df-9992840a8b22">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/0560c4e3-8b56-473e-a117-6dec6753bc65"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/126834308/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/fc9fd434-ff6f-417c-a058-12e1c6db0ca7"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.789Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/01ff9325-e770-499b-b017-bd480a601f3a">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ecaad9e0-66dd-4dff-a141-2bee2cf0ae4d"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/5d2ac722-4489-418f-a9ba-38e94f97d831"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/1bf13988-110d-4df2-9322-47c1fb0374a5"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.345Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.789Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.345Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Geographic","id":"http://viaf.org/viaf/126834308/","uri":"http://viaf.org/viaf/126834308/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/126834308/","name":"Wyke (Bradford, England)","repository":"VIAF","originalQueryString":"Wike"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/126834308/","cert":"definite"}</cw:cwrcAttributes>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1722-04-23","cert":"definite"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/126834308/">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/5d2ac722-4489-418f-a9ba-38e94f97d831"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1722-04-23</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/ecaad9e0-66dd-4dff-a141-2bee2cf0ae4d">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/c1f545db-e9d2-4213-ac9c-cc41c588a7e4"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d9122f70-9934-4928-99f6-e7afab9b985a"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d9122f70-9934-4928-99f6-e7afab9b985a">
+	<oa:start xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//p[@offsetId="struct_89"],"",99))</oa:start>
+	<oa:end xmlns:oa="http://www.w3.org/ns/oa#">xpointer(string-range(//p[@offsetId="struct_89"],"",116))</oa:end>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#TextPositionSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/7e629ca0-2ebb-435b-aab0-c74b081a4ab2">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3d2e19f7-5986-451b-9245-132f7991fb11"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/org/4af50848-42d8-474e-bdb4-6520929f245a"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/5fdbe892-b12e-40f4-88c9-e43f993bdd65"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.348Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.348Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"moravian","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/org/4af50848-42d8-474e-bdb4-6520929f245a">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/3d2e19f7-5986-451b-9245-132f7991fb11">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/474ba5a5-45fe-4726-9be9-29cc33880e09"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/23585e40-60eb-4522-b71e-5162e222d606"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/23585e40-60eb-4522-b71e-5162e222d606">
+	<rdf:value>xpointer(//orgName[@annotationId="ent_142"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d1d5e66d-35ef-4d39-92ae-ecc3ee6ad931">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/de608f93-d3d9-4441-98dc-1a22f2ebebfe"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://moravianlives.bucknell.edu/data/person.html#mlper000069"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/73089adc-b53b-4e00-889c-b6d1bc19f27e"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.349Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.349Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://moravianlives.bucknell.edu/data/person.html#mlper000069","uri":"http://moravianlives.bucknell.edu/data/person.html#mlper000069","name":"Custom Entry","repository":"custom"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://moravianlives.bucknell.edu/data/person.html#mlper000069","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://moravianlives.bucknell.edu/data/person.html#mlper000069">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/de608f93-d3d9-4441-98dc-1a22f2ebebfe">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/463bf75d-b42d-47be-83ab-3dce6d675e9f"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/4848cafc-ce24-4d78-8b67-da06d19c3f26"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/4848cafc-ce24-4d78-8b67-da06d19c3f26">
+	<rdf:value>xpointer(//persName[@annotationId="ent_144"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/ec3f6a15-97ed-41c9-b856-1e600a953b24">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c6e31c49-1e87-450a-bddd-16200a2737a1"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/f1fd2c20-d1ff-40a8-8af0-7f74cf5ea984"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.350Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.350Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","uri":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Fulneck_Moravian_Settlement,_Pudsey","name":"Fulneck Moravian Settlement, Pudsey","repository":"dbpedia","originalQueryString":"Fulneck","description":"Fulneck Moravian Settlement is a village in Pudsey in the City of Leeds metropolitan borough, West Yorkshire, England. It was established in 1744. It is named after Fulneck, the German name of a town in Northern Moravia, Czech Republic. The village lies in a picturesque location on a hillside overlooking a deep valley. Pudsey Beck flows along the bottom of the valley."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/0560c4e3-8b56-473e-a117-6dec6753bc65">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/16a70d99-3f79-4524-aa30-fba6e7ef4500"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/c6e31c49-1e87-450a-bddd-16200a2737a1">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/3396e4c7-663d-4587-a7a7-ce54b25aff37"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/f19858c3-cb87-41b8-92fc-2c4c340c41fb"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/3e8ab4b0-3f99-4e50-8e8d-e68bf25b884f"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/f19858c3-cb87-41b8-92fc-2c4c340c41fb">
-	<rdf:value>xpointer(//placeName[@annotationId="ent_142"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/3e8ab4b0-3f99-4e50-8e8d-e68bf25b884f">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_145"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/41ad3fdc-196e-4f7b-9d8f-3dc441e0c321">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/a3c7dc14-931b-49ba-928c-2094668e12cf"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/23c42e88-29fa-4fa3-a5a5-e17a59950983">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/98bca2c5-d23f-4d1a-b035-d61c222ef1b7"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/268f167c-7577-488d-b0b3-8c2d0f2d5063"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.791Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/2337d3fb-5825-4461-8b81-2d6ab7950c41"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.352Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T19:56:43.791Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:21:06.352Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -51,13 +133,13 @@
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/a3c7dc14-931b-49ba-928c-2094668e12cf">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/18997fd4-c94c-47b1-92b1-b8aff1c4a427"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/98bca2c5-d23f-4d1a-b035-d61c222ef1b7">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/18a689b4-fc12-446c-b959-611537481f36"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/480cc2f9-c297-4197-876d-ef38bfc034cf"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/a620a4a2-2328-460f-9a4e-255141cbfaa1"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/480cc2f9-c297-4197-876d-ef38bfc034cf">
-	<rdf:value>xpointer(//placeName[@annotationId="ent_143"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/a620a4a2-2328-460f-9a4e-255141cbfaa1">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_147"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
@@ -153,11 +235,10 @@
             <div type="page" n="1">
               <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg"></pb>
-               <p>The course of Life of Abigal Bently </p><p>                  I was born at <placeName annotationId="ent_142" ref="http://viaf.org/viaf/126834308/" cert="definite">Wike</placeName> in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722
-                  my Parrents was of the Church of England and brought me up in the 
+               <p offsetId="struct_89">The course of Life of <persName annotationId="ent_144" ref="http://moravianlives.bucknell.edu/data/person.html#mlper000069" cert="definite" type="real">Abigal Bently</persName> 
+                  I was born at Wike in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722 my Parrents was of the Church of England and brought me up in the 
                   same, as far as I can remember my first thought of being fared was thro'
-                  hereing my Mother speak with another what time Children begun to be anser
-                  -able for Sin and they thought at Seven-years, this had such an impression
+                  hereing my Mother speak with another what time Children begun to be anserable for Sin and they thought at Seven-years, this had such an impression
                   on my mind that I often went alone and wish'd God wou'd let me die before that
                   time for then I took it for granted I should be saved, when I was about Seven
                   Years I began to be afraid of dying, my Parrents strove to preserve me as far
@@ -176,8 +257,7 @@
                   the B<hi rend="superscript">rn</hi> was sitled <del>she</del> was me of the first of that number when the 
                   S S<hi rend="superscript">rs</hi> Oconomy was seteld at Oxhaire she after some time had
                   leave to be one of them where she continued for <del>some time</del> <hi rend="superscript">a while</hi> but her being
-                  of a very League turn made it very <hi rend="superscript">heavy</hi> for her amidst of the Sisters
-               </p>
+                  of a very League turn made it very <hi rend="superscript">heavy</hi> for her amidst of the Sisters</p>
             </div>
             
             <div type="page" n="2">
@@ -207,7 +287,7 @@
                   World was made ordaind our own, and she was from this time made
                   sure of her Election * when the Choir House was begun at Fulneck
                   she with some others Out of the Oeconomys got leave <del>from Briard</del>
-                  <del>Mortimer</del> to remove with them to that in <placeName annotationId="ent_143" ref="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey" cert="definite">Pudsey</placeName>, but here it 
+                  <del>Mortimer</del> to remove with them to that in <placeName annotationId="ent_147" ref="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey" cert="definite">Pudsey</placeName>, but here it 
                   she did not spend her time so chearfully as could have been wish'd</p>
             </div>
             
@@ -220,10 +300,9 @@
                   -ions, yet at the same time we cannot denigh but as to her true 
                   Heart to her Choir and the Cong<hi rend="superscript">n</hi> we was fully persuaded which 
                   show'd it self evedintly on various occasions, in the year 1754 <hi rend="superscript"><del>where in 54 she had the grace to be  </del></hi>
-                  July The Diciple and Diecpless pay'd a visit to the Cong<hi rend="superscript">n</hi> and this
-                  the earnest request of the Sister of that Ocemomey to come into
-                  the Choir House at Fulneck the Diciple took it into con
-                  sideration and it was made out that the said Oeconomy should
+                  July The Diciple and <bibl type="bible">Diecpless</bibl> pay'd a visit to the Cong<hi rend="superscript">n</hi> and this
+                  the earnest request of the Sister of that <name>Ocemomey</name> to come into
+                  the Choir House at <placeName annotationId="ent_145" ref="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey" cert="definite">Fulneck</placeName> the Diciple took it into consideration and it was made out that the said Oeconomy should
                   be entirely broken up, and so she with the rest of her Sisters
                   came here into this House where she continued very chearfull
                   for some time and cou'd not express her self enough of the joy
@@ -245,7 +324,7 @@
             <div type="page" n="4">
                <head type="page">4</head>
                <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-04.jpg"></pb>
-               <p>Childrens Oeconomy <del>Washahi</del> Wash Kitchen where she showd the 
+               <p><orgName annotationId="ent_142" type="moravian" cert="definite">Childrens Oeconomy</orgName> <del>Washahi</del> Wash Kitchen where she showd the 
                   greatest faith fullness, but thro' the desorder in her Lounge she
                   was oblig'd to be taken back again, and she her self believd that it
                   would prove a means of her disolution thus she continued in a pritty chearful
@@ -253,8 +332,7 @@
                   was the greatest favour to her to do any thing for her Choir and never
                   thought any thing too much but on the contrary lookd open it as the 
                   greatest grace and favour, Sep<hi rend="superscript">br</hi> y<hi rend="superscript">e</hi> 16<hi rend="superscript">th</hi> she had the favour to be 
-                  added amongst the company of Interferers which prov'd a pertic
-                  lar blessing for her own heart that she had the favour to have
+                  added amongst the company of Interferers which prov'd a perticlar blessing for her own heart that she had the favour to have
                   an hour to speak with our in a Perticlar manner for her own and 
                   his Peoples cause, it was plain to be percevd amidst all her faults
                   and wants that her heart was truly connected with our Sav<hi rend="superscript">r</hi>
