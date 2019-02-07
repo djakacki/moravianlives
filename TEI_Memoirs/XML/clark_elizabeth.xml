@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   
-         
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sarah Mortimer: Memoir</title>
+            <title>[NAME]: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -79,7 +82,7 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir" ana="#">Name</msName>
-                  <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
+                 <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
                   &lt;msName facs="http://moravianlives.bucknell.edu/##-02.jpg" /&gt;
                   &lt;msName facs="http://moravianlives.bucknell.edu/##-03.jpg" /&gt; -->
                </msIdentifier>
@@ -90,36 +93,34 @@
    <text type="memoir">
       <body xml:lang="en">
          <div type="memoir">
-            <head>Sarah Mortimer</head>
+            <head>Elizabeth Clark</head>
             <div type="page" n="1">
-               <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg" />
-               <p>PAGE TEXT HERE</p>
+              <head type="page">Eliz: Clark</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-01.jpg"></pb>
+               <p>Was born at Northouram, in the Parish of Halifax. My Parents being Disenters, I was baptiz'd according to their Profession, as my d<hi rend="superscript">r</hi> Mother departed this Life while I was yet very young, my Father being left with 4 Children, namely one son and 3 Daughters, and being strictly religious, <add place="above">himself</add> took all possible care to preserve us from the seductions of the world. This concern of His, together with my natural thoughtfull turn of mind, led me to an enquirery after future happiness, soon in my childhood, at which time the fear of death restrain'd me from injoying my self in the manner usual to others at that age, contrary to my inclination which was to divert my thoughts not being able to satisfy my self by these means, as I grew older I took the resolution to [?] the utmost of my power to shake of my former conictions, and I found even then that my best efforts prov'd vain to help my [indwelling?] propsensity to the abusements of this world, having in private often besought the Lord with tears to save me, and still,  [?] I was as prone as ever to come into the same condemnation. I pursu'd this resolution as far and was able and accepting the invitation of others of my Companions strove to amuse my thoughts by publick diversions, in the midst of one of which asemblies, I was so amazingly struck with Horror &amp; Condemnation, that I was forc'd to retire beseeching the Lord to have Mercy upon me I resolv'd never to come into the like ocasion again.</p>
+               <p>MORE TEXT HERE</p>
             </div>
+            
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-02.jpg" />
-               <p>PAGE TEXT HERE</p>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-02.jpg"></pb>
+               <p>TEXT HERE</p>
+               <p>MORE TEXT HERE</p>
             </div>
+            
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-03.jpg" />
-               <p>PAGE TEXT HERE</p>
+               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-03.jpg"></pb>
+               <p>TEXT HERE</p>
+               <p>MORE TEXT HERE</p>
             </div>
+            
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-04.jpg" />
-               <p><lg>
-                     <l>"And readily grants me relief:</l>
-                     <l>"By faith I behold in his wounds</l>
-                     <l>"A cure for my sins and self-will;</l>
-                     <l>"His goodness towards me abounds,</l>
-                     <l>"And his hand is held over me still."</l>
-                  </lg>During her confinement she injoyed twice the H. Com<hi rend="superscript">n</hi> which was a great refreshement and strengthening to her. She loved &amp; was beloved, &amp; was
-                  truly thankful for every kindness shown towards her. She bore her pains with great <del>petions</del>
-                  <add place="above">patience</add>, and often said: "Dear Saviour! help me," and also asked her friends to pray for her. [?] the happy moment came when she was permitted to leave this
-                  world, and see him face to face in whom she here believed. Aged 30 years &amp; 6 Months.</p>
-            </div>
+               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_21ClarkElizabeth-04.jpg"></pb>
+               <p>TEXT HERE</p>
+               <p>MORE TEXT HERE</p>
+            </div>                        
          </div>
       </body>
    </text>
