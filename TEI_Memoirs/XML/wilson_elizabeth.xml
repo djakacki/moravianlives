@@ -1,5 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,25 +73,25 @@
                <msIdentifier>
                   <repository>Moravian Archive, Fulneck</repository>
                   <msName type="memoir" ana="MAF/Ful_SS_62Wilson">Elizabeth Wilson</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-03.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-03.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg"></msName>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text type="memoir">
-      <body xml:lang="en">
+      <body xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="en">
          <div type="memoir">
             <head>Elizabeth Wilson</head>
             <div type="page" n="1">
               <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg"/>
-               <p>Eliz: Wilson. I was born in Yorkshire in 
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg" n="1"></pb>
+               <p>Eliz: Wilson. I was born in <placeName>Yorkshire</placeName> in 
                   in the parish of Leeds in Feb<hi rend="superscript">ry</hi> 21<hi rend="superscript">st</hi> 1731. baptized 
                   in the Church of England. I was educated by my 
                   parents till I was 13 Years of age, then I was put 
@@ -115,7 +114,7 @@
             
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg"/>
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg" n="2"></pb>
                <p>know that it was my dear Lord that kept me, from 
                   all hurt &amp; shame. In my 17<hi rend="superscript">th</hi> Year my Master 
                   had the misfortune to be kill'd, this shuck one very 
@@ -138,7 +137,7 @@
             
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-03.jpg"/>
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-03.jpg" n="3"></pb>
                <p>he w<hi rend="superscript">d</hi> do to me, then he smil'd at me, &amp; began to 
                   write with his finger upon my forehead, for a good 
                   while, then he laid his hand upon my head with 
@@ -161,7 +160,7 @@
             
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg"/>
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg" n="4"></pb>
                <p>indeed seem'd to me very long, but I began to think I 
                   will forget this feeling, &amp; be as I was before, but I 
                   cou'd not, for it always came to me again, once I 
@@ -184,7 +183,7 @@
             
             <div type="page" n="5">
                <head type="page">5</head>
-               <pb n="5" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg"/>
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg" n="5"></pb>
                <p>then I was soon taken into the society, I went on &amp; 
                   felt our Sav<hi rend="superscript">r</hi> near my heart &amp; was so happy that I 
                   tho<hi rend="superscript">t</hi> I wanted nothing more, in his way I went on 
@@ -207,7 +206,7 @@
             
             <div type="page" n="6">
                <head type="page">6</head>
-               <pb n="6" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg"/>
+               <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg" n="6"></pb>
                <p>hear B<hi rend="superscript">r</hi> LaTrobe preach, he began with inviting all those 
                   that were the most sinfull of all, &amp; said that our Sav<hi rend="superscript">r</hi> 
                   stood ready to forgive every one that w<hi rend="superscript">d</hi> come to him, even 
