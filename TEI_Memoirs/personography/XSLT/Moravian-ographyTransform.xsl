@@ -40,18 +40,16 @@
                 </xsl:attribute>
                 <xsl:value-of select="$uri"/>
             </a>
-        </p>
-
-       
-            <xsl:apply-templates/>      
-  
+        </p>       
+            <xsl:apply-templates/>        
     </xsl:template>
 
 <xsl:template match="tei:persName">
+    
     <xsl:text>Name: </xsl:text>
     <xsl:apply-templates/>
 <br />    
-</xsl:template>   
+</xsl:template>
     
 <xsl:template match="tei:birth/tei:date">
     <xsl:text> Date of birth: </xsl:text>
@@ -75,6 +73,16 @@
         <xsl:text> Place of Death: </xsl:text>
         <xsl:value-of select="."/>
         <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:affiliation">
+        <xsl:text>Archive: </xsl:text>
+        <xsl:value-of select="."/>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl">
+        <xsl:text>, </xsl:text>
+        <xsl:value-of select="."/>
     </xsl:template>
     
 

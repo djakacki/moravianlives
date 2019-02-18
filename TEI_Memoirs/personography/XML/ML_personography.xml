@@ -70,6 +70,27 @@
             <p>List of Moravian Lives person entities with reference to persistent identifiers, using ML standard names</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category>
+                  <catDesc>Archive</catDesc>
+                  <category xml:id="bethlehem">
+                     <catDesc>Moravian Archives, Bethlehem</catDesc>
+                  </category>
+                  <category xml:id="fulneck">
+                     <catDesc>Moravian Archives, Fulneck</catDesc>
+                  </category>
+                  <category xml:id="herrnhut">
+                     <catDesc>Moravian Archives, Herrnhut</catDesc>
+                  </category>
+                  <category xml:id="london">
+                     <catDesc>Moravian Archives, Fetter Lane - London</catDesc>
+                  </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
    </teiHeader>
    <text type="personography">
       <body>
@@ -121,6 +142,484 @@
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </death>
             </person>
+            
+           <!-- mlper000005
+            mlper000006
+            mlper000007
+            mlper000008
+            mlper000009
+            mlper000010
+            mlper000011
+            mlper000012
+            mlper000013
+            mlper000014
+            mlper000015
+            mlper000016
+            mlper000017
+            mlper000018
+            mlper000019
+            mlper000020
+            mlper000021
+            mlper000022
+            mlper000023
+            mlper000024
+            mlper000025
+            mlper000026
+            mlper000027
+            mlper000028
+            mlper000029
+            mlper000030
+            mlper000031
+            mlper000032
+            mlper000033
+            mlper000034
+            mlper000035
+            mlper000036
+            mlper000037
+            mlper000038
+            mlper000039
+            mlper000040
+            mlper000041
+            mlper000042
+            mlper000043
+            mlper000044
+            mlper000045
+            mlper000046
+            mlper000047
+            mlper000048
+            mlper000049
+            mlper000050
+            mlper000051
+            mlper000052
+            mlper000053
+            mlper000054
+            mlper000055
+            mlper000056
+            mlper000057
+            mlper000058
+            mlper000059
+            mlper000060
+            mlper000061
+            mlper000062
+            mlper000063
+            mlper000064
+            mlper000065
+            mlper000066
+            mlper000067
+            mlper000068
+            mlper000069
+            mlper000070
+            mlper000071
+            mlper000072
+            mlper000073
+            mlper000074
+            mlper000075
+            mlper000076
+            mlper000077
+            mlper000078
+            mlper000079
+            mlper000080
+            mlper000081
+            mlper000082
+            mlper000083
+            mlper000084
+            mlper000085
+            mlper000086
+            mlper000087
+            mlper000088
+            mlper000089
+            mlper000090
+            mlper000091
+            mlper000092
+            mlper000093
+            mlper000094
+            mlper000095
+            mlper000096
+            mlper000097
+            mlper000098
+            mlper000099
+            mlper000100
+            mlper000101
+            mlper000102
+            mlper000103
+            mlper000104
+            mlper000105
+            mlper000106
+            mlper000107
+            mlper000108
+            mlper000109
+            mlper000110
+            mlper000111
+            mlper000112
+            mlper000113
+            mlper000114
+            mlper000115
+            mlper000116
+            mlper000117
+            mlper000118
+            mlper000119
+            mlper000120
+            mlper000121
+            mlper000122
+            mlper000123
+            mlper000124
+            mlper000125
+            mlper000126
+            mlper000127
+            mlper000128
+            mlper000129
+            mlper000130
+            mlper000131
+            mlper000132
+            mlper000133
+            mlper000134
+            mlper000135
+            mlper000136
+            mlper000137
+            mlper000138
+            mlper000139
+            mlper000140
+            mlper000141
+            mlper000142
+            mlper000143
+            mlper000144
+            mlper000145
+            mlper000146
+            mlper000147
+            mlper000148
+            mlper000149
+            mlper000150
+            mlper000151
+            mlper000152
+            mlper000153
+            mlper000154
+            mlper000155
+            mlper000156
+            mlper000157
+            mlper000158
+            mlper000159
+            mlper000160
+            mlper000161
+            mlper000162
+            mlper000163
+            mlper000164
+            mlper000165
+            mlper000166
+            mlper000167
+            mlper000168
+            mlper000169
+            mlper000170
+            mlper000171
+            mlper000172
+            mlper000173
+            mlper000174
+            mlper000175
+            mlper000176
+            mlper000177
+            mlper000178
+            mlper000179
+            mlper000180
+            mlper000181
+            mlper000182
+            mlper000183
+            mlper000184
+            mlper000185
+            mlper000186
+            mlper000187
+            mlper000188
+            mlper000189
+            mlper000190
+            mlper000191
+            mlper000192
+            mlper000193
+            mlper000194
+            mlper000195
+            mlper000196
+            mlper000197
+            mlper000198
+            mlper000199
+            mlper000200
+            mlper000201
+            mlper000202
+            mlper000203
+            mlper000204
+            mlper000205
+            mlper000206
+            mlper000207
+            mlper000208
+            mlper000209
+            mlper000210
+            mlper000211
+            mlper000212
+            mlper000213
+            mlper000214
+            -->
+            
+            <person xml:id="mlper000214" sex="f">
+               <persName>Elizabeth Wilson</persName>
+               <birth>
+                  <date type="birth"/>
+                  <placeName/>
+               </birth>
+               <death>
+                  <date type="death"/>
+                  <placeName/>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/62</bibl>
+            </person>
+            <person xml:id="mlper000215">
+               <persName>Anna Rosina Anderson</persName>
+               <birth>
+                  <date type="birth"/>
+                  <placeName/>
+               </birth>
+               <death>
+                  <date type="death"/>
+                  <placeName/>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/8</bibl>
+            </person>
+            <person xml:id="mlper000216">
+               <persName>Martha Adkinson</persName>
+               <birth>
+                  <date type="birth"/>
+                  <placeName/>
+               </birth>
+               <death>
+                  <date type="death"/>
+                  <placeName/>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/38</bibl>
+            </person>
+            <person xml:id="mlper000217">
+               <persName>Mary Allot</persName>
+               <birth>
+                  <date type="birth"/>
+                  <placeName/>
+               </birth>
+               <death>
+                  <date type="death"/>
+                  <placeName/>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/12</bibl>
+            </person>         
+            
+            <person xml:id="mlper000218">
+               <persName>Hannah Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/19</bibl>
+            </person>
+            
+            <person xml:id="mlper000219">
+               <persName>Abigail Bentley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/58</bibl>
+            </person>
+            
+            <person xml:id="mlper000220">
+               <persName>Mary Bird</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/50</bibl>
+            </person>
+            
+            <person xml:id="mlper000221">
+               <persName>Elizabeth Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/39</bibl>
+            </person>
+            
+            <person xml:id="mlper000222">
+               <persName>Rachel Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/44</bibl>
+            </person>
+            
+            <person xml:id="mlper000223">
+               <persName>Rachel Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/42</bibl>
+            </person>
+            
+            <person xml:id="mlper000224">
+               <persName>Alice Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/13</bibl>
+            </person>
+            
+            <person xml:id="mlper000225">
+               <persName>Martha Calvert</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/45</bibl>
+            </person>
+            
+            <person xml:id="mlper000226">
+               <persName>Ann Cannings</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/7</bibl>
+            </person>
+            
+            <person xml:id="mlper000227">
+               <persName>Sarah Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/68</bibl>
+            </person>
+            
+            <person xml:id="mlper000228">
+               <persName>Elizabeth Clagget</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/57</bibl>
+            </person>            
+               
+            <person xml:id="mlper000229">
+               <persName>Elizabeth Clark</persName>
+               <birth>
+                  <date type="birth">1717</date>
+               </birth>
+               <death>
+                  <date type="death">1768</date>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/81</bibl>
+            </person>            
+            
+            <person xml:id="mlper000230">
+               <persName>Elizabeth Clark</persName>
+               <birth>
+                  <date type="birth">1725</date>
+               </birth>
+               <death>
+                  <date type="death">1785</date>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/21</bibl>
+            </person>            
+            
+            <person xml:id="mlper000231">
+               <persName>Hannah Clark</persName>
+               <birth>
+                  <date type="birth">1726 or 1727</date>
+               </birth>
+               <death>
+                  <date type="death">1756</date>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/26</bibl>
+            </person>            
+            
+            <person xml:id="mlper000232">
+               <persName>Grace Clark</persName>
+               <birth>
+                  <date>1718</date>
+               </birth>
+               <death>
+                  <date>1749</date>
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/10</bibl>
+            </person>            
+            
+            <person xml:id="mlper000233">
+               <persName>Esther Clark</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir" n="1">Ful/SS/14_1</bibl>
+               <bibl type="memoir" n="2">Ful/SS/14_2</bibl>
+            </person>      
+            
+            <person xml:id="mlper000234">
+               <persName>Elizabeth Coffin</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/46</bibl>
+            </person>     
+            
+            <person xml:id="mlper000235">
+               <persName>Sarah Craven</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/41</bibl>
+            </person> 
+            
+            <person xml:id="mlper000236">
+               <persName>Mary Delamotte</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/9</bibl>
+            </person>         
+            
+            <person xml:id="mlper000237">
+               <persName>Hannah Dyson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/75</bibl>
+            </person>        
+            
+            <person xml:id="mlper000238">
+               <persName>Ann Eagles</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/47</bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            <person xml:id="">
+               <persName></persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir"></bibl>
+            </person>            
+            
+            
+            
+            
+            
+            
+
+            
          </listPerson>
       </body>
    </text>
