@@ -77,16 +77,16 @@
             <person xml:id="mlper000001" sex="m">
                <persName>Samuel "Achgonema" </persName>
                <birth>
-                  <date type="birth" when-iso="1743">Date of birth: 1743</date>
+                  <date type="birth" when-iso="1743">1743</date>
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </birth>
                <death>
-                  <date when-iso="1757-01-11">Date of death: 1757-01-11</date>
+                  <date when-iso="1757-01-11">1757-01-11</date>
                   <placeName>Menigahela, Pennsylvania</placeName>
                </death>
             </person>
             <person xml:id="mlper000002" sex="f">
-               <persName>Anna Allen <ptr target="#mlper000002" />
+               <persName>Anna Allen
                </persName>
                <birth>
                   <date when-iso="1780-12-06">Date of birth: 1780-12-06</date>
@@ -98,32 +98,29 @@
                </death>
             </person>
             <person xml:id="mlper000003" sex="m">
-               <persName>Abraham Andreas <ptr target="#mlper00003" />
+               <persName>Abraham Andreas 
                </persName>
                <birth>
-                  <date when-iso="1725-10-02">Date of birth: 1725-10-02</date>
+                  <date when-iso="1725-10-02">1725-10-02</date>
                   <placeName>Friedrichstown, Pennsylvania</placeName>
                </birth>
                <death>
-                  <date when-iso="1801-10-26">Date of death: 1801-10-26</date>
-                  <placeName>Bethlehem, Pennsylvania</placeName>
-               </death>
-            </person>            
-            <person xml:id="mlper000004" sex="f">
-               <persName>Benigna Antes<ptr target="#mlper000004"/>
-               </persName>
-               <birth>
-                  <date when-iso="1748-10-04">Date of birth: 1748-10-04</date>
-                  <placeName>Bethlehem, Pennsylvania</placeName>
-               </birth>
-               <death>
-                  <date when-iso="1760-12-04">Date of death: 1760-12-04</date>
+                  <date when-iso="1801-10-26">1801-10-26</date>
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </death>
             </person>
-            
-            
-                  
+            <person xml:id="mlper000004" sex="f">
+               <persName>Benigna Antes
+               </persName>
+               <birth>
+                  <date when-iso="1748-10-04">1748-10-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </birth>
+               <death>
+                  <date when-iso="1760-12-04">1760-12-04</date>
+                  <placeName>Bethlehem, Pennsylvania</placeName>
+               </death>
+            </person>
          </listPerson>
       </body>
    </text>
