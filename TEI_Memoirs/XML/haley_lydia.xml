@@ -1,5 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,9 +73,9 @@
                <msIdentifier>
                   <repository>Moravian Archives, Fulneck</repository>
                   <msName type="memoir" ana="MAF/Ful_SS_28HaleyLydia">Name</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-02.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-03.jpg"></msName>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -88,9 +87,9 @@
             <head>name</head>
             <div type="page" n="1">
               <head type="page">1</head>
-               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg"/>
-               <p>Lydia Halley was Born at Spen near little 
-                  gimersal, ye 16th of April 1724 where She lived with 
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg"></pb>
+               <p>Lydia Halley was <name event="birth">Born</name> at Spen near little 
+                  gimersal, ye <date when-iso="1724-04-16">16th of April 1724</date> where She lived with 
                   her Parents. till she thought it woud be proper to 
                   leave them and go to Service in some family, for that 
                   switch her inclination the most; She being of a brish and  
@@ -127,7 +126,7 @@
             
             <div type="page" n="2">
                <head type="page">2</head>
-               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-02.jpg"/>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-02.jpg"></pb>
                <p>As to her Disposichion, She was very Close &amp; 
                   always kept her matters quite to her <hi rend="superscript">self</hi> speaking of 
                   them to no one exept ye sr Whohad ye Care of ye 
@@ -204,7 +203,7 @@
             
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-03.jpg"/>
+               <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-03.jpg"></pb>
                <p>head, she often thought she shoud lose her  
                   senses on which acont she was very much troubled 
                   as long as she coud still go About, she thought 

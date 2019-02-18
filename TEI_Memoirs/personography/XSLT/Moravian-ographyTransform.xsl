@@ -16,13 +16,14 @@
     </xsl:template>
     
     <xsl:template match="tei:TEI">
-        <html>
+        <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
                 <xsl:comment>This document is generated from a TEI Master--do not edit!</xsl:comment>
                 <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
                 <link rel="stylesheet" type="text/css" href="../CSS/MemStyle.css"/>
             </head>
-            <body><xsl:apply-templates select="tei:text"/></body>
+            <body><p><xsl:apply-templates select="tei:text"/></p></body>
         </html>
     </xsl:template>
 
@@ -31,16 +32,50 @@
 
 <!-- This adds paragraph after person in list -->
     <xsl:template match="tei:person">
-        <p xmlns="http://www.w3.org/1999/xhtml">
-            <xsl:value-of select="."/>
+        <xsl:variable name="uri" select="concat('http://moravianlives.bucknell.edu/data/personography.html#', @xml:id)"/>
+        <p>
+            <a>
+                <xsl:attribute name="href">
+                    <xsl:value-of select="$uri"/>
+                </xsl:attribute>
+                <xsl:value-of select="$uri"/>
+            </a>
         </p>
+
+       
+            <xsl:apply-templates/>      
+  
+    </xsl:template>
+
+<xsl:template match="tei:persName">
+    <xsl:text>Name: </xsl:text>
+    <xsl:apply-templates/>
+<br />    
+</xsl:template>   
+    
+<xsl:template match="tei:birth/tei:date">
+    <xsl:text> Date of birth: </xsl:text>
+        <xsl:value-of select="."/> 
+    <br />   
+</xsl:template>
+    
+    <xsl:template match="tei:birth/tei:placeName">
+        <xsl:text> Place of birth: </xsl:text>
+        <xsl:value-of select="."/>
+        <br/>
     </xsl:template>
     
-<xsl:template match="tei:person/tei:date[@type = 'birth']">
-    <p xlmns="http://www.w3.org/1999/xhtml">
+    <xsl:template match="tei:death/tei:date">
+        <xsl:text> Date of Death: </xsl:text>
+        <xsl:value-of select="."/>        
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:death/tei:placeName">
+        <xsl:text> Place of Death: </xsl:text>
         <xsl:value-of select="."/>
-    </p>
-</xsl:template>
+        <br/>
+    </xsl:template>
     
 
 
