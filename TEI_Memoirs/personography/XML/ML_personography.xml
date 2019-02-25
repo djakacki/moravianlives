@@ -107,8 +107,7 @@
                </death>
             </person>
             <person xml:id="mlper000002" sex="f">
-               <persName>Anna Allen
-               </persName>
+               <persName>Anna Allen </persName>
                <birth>
                   <date when-iso="1780-12-06">Date of birth: 1780-12-06</date>
                   <placeName>St. Johns, Canada</placeName>
@@ -119,8 +118,7 @@
                </death>
             </person>
             <person xml:id="mlper000003" sex="m">
-               <persName>Abraham Andreas 
-               </persName>
+               <persName>Abraham Andreas </persName>
                <birth>
                   <date when-iso="1725-10-02">1725-10-02</date>
                   <placeName>Friedrichstown, Pennsylvania</placeName>
@@ -131,8 +129,7 @@
                </death>
             </person>
             <person xml:id="mlper000004" sex="f">
-               <persName>Benigna Antes
-               </persName>
+               <persName>Benigna Antes </persName>
                <birth>
                   <date when-iso="1748-10-04">1748-10-04</date>
                   <placeName>Bethlehem, Pennsylvania</placeName>
@@ -142,8 +139,7 @@
                   <placeName>Bethlehem, Pennsylvania</placeName>
                </death>
             </person>
-            
-           <!-- mlper000005
+            <!-- mlper000005
             mlper000006
             mlper000007
             mlper000008
@@ -354,16 +350,15 @@
             mlper000213
             mlper000214
             -->
-            
             <person xml:id="mlper000214" sex="f">
                <persName>Elizabeth Wilson</persName>
                <birth>
-                  <date type="birth"/>
-                  <placeName/>
+                  <date type="birth" />
+                  <placeName />
                </birth>
                <death>
-                  <date type="death"/>
-                  <placeName/>
+                  <date type="death" />
+                  <placeName />
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/62</bibl>
@@ -371,12 +366,12 @@
             <person xml:id="mlper000215">
                <persName>Anna Rosina Anderson</persName>
                <birth>
-                  <date type="birth"/>
-                  <placeName/>
+                  <date type="birth" />
+                  <placeName />
                </birth>
                <death>
-                  <date type="death"/>
-                  <placeName/>
+                  <date type="death" />
+                  <placeName />
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/8</bibl>
@@ -384,12 +379,12 @@
             <person xml:id="mlper000216">
                <persName>Martha Adkinson</persName>
                <birth>
-                  <date type="birth"/>
-                  <placeName/>
+                  <date type="birth" />
+                  <placeName />
                </birth>
                <death>
-                  <date type="death"/>
-                  <placeName/>
+                  <date type="death" />
+                  <placeName />
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/38</bibl>
@@ -397,83 +392,71 @@
             <person xml:id="mlper000217">
                <persName>Mary Allot</persName>
                <birth>
-                  <date type="birth"/>
-                  <placeName/>
+                  <date type="birth" />
+                  <placeName />
                </birth>
                <death>
-                  <date type="death"/>
-                  <placeName/>
+                  <date type="death" />
+                  <placeName />
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/12</bibl>
-            </person>         
-            
+            </person>
             <person xml:id="mlper000218">
                <persName>Hannah Ashley</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/19</bibl>
             </person>
-            
             <person xml:id="mlper000219">
                <persName>Abigail Bentley</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/58</bibl>
             </person>
-            
             <person xml:id="mlper000220">
                <persName>Mary Bird</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/50</bibl>
             </person>
-            
             <person xml:id="mlper000221">
                <persName>Elizabeth Booth</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/39</bibl>
             </person>
-            
             <person xml:id="mlper000222">
                <persName>Rachel Bradley</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/44</bibl>
             </person>
-            
             <person xml:id="mlper000223">
                <persName>Rachel Brook</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/42</bibl>
             </person>
-            
             <person xml:id="mlper000224">
                <persName>Alice Brown</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/13</bibl>
             </person>
-            
             <person xml:id="mlper000225">
                <persName>Martha Calvert</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/45</bibl>
             </person>
-            
             <person xml:id="mlper000226">
                <persName>Ann Cannings</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/7</bibl>
             </person>
-            
             <person xml:id="mlper000227">
                <persName>Sarah Cennick</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/68</bibl>
             </person>
-            
             <person xml:id="mlper000228">
                <persName>Elizabeth Clagget</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/57</bibl>
-            </person>            
-               
+            </person>
             <person xml:id="mlper000229">
                <persName>Elizabeth Clark</persName>
                <birth>
@@ -484,8 +467,7 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/81</bibl>
-            </person>            
-            
+            </person>
             <person xml:id="mlper000230">
                <persName>Elizabeth Clark</persName>
                <birth>
@@ -496,8 +478,7 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/21</bibl>
-            </person>            
-            
+            </person>
             <person xml:id="mlper000231">
                <persName>Hannah Clark</persName>
                <birth>
@@ -508,8 +489,7 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/26</bibl>
-            </person>            
-            
+            </person>
             <person xml:id="mlper000232">
                <persName>Grace Clark</persName>
                <birth>
@@ -520,106 +500,313 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/10</bibl>
-            </person>            
-            
+            </person>
             <person xml:id="mlper000233">
                <persName>Esther Clark</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir" n="1">Ful/SS/14_1</bibl>
                <bibl type="memoir" n="2">Ful/SS/14_2</bibl>
-            </person>      
-            
+            </person>
             <person xml:id="mlper000234">
                <persName>Elizabeth Coffin</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/46</bibl>
-            </person>     
-            
+            </person>
             <person xml:id="mlper000235">
                <persName>Sarah Craven</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/41</bibl>
-            </person> 
-            
+            </person>
             <person xml:id="mlper000236">
                <persName>Mary Delamotte</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/9</bibl>
-            </person>         
-            
+            </person>
             <person xml:id="mlper000237">
                <persName>Hannah Dyson</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/75</bibl>
-            </person>        
-            
+            </person>
             <person xml:id="mlper000238">
                <persName>Ann Eagles</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/47</bibl>
-            </person>            
-            
+            </person>
             <person xml:id="mlper000239">
-               <persName></persName>
+               <persName>Ann Georgiana Edwards</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/56</bibl>
+            </person>
             <person xml:id="mlper000240">
-               <persName></persName>
+               <persName>Mary Faucet</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/69</bibl>
+            </person>
             <person xml:id="mlper000241">
-               <persName></persName>
+               <persName>Martha Faucet</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/76</bibl>
+            </person>
             <person xml:id="mlper000242">
-               <persName></persName>
+               <persName>Sarah Ann Fletcher</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/53</bibl>
+            </person>
             <person xml:id="mlper000243">
-               <persName></persName>
+               <persName>Mary Ann Foster</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/49</bibl>
+            </person>
             <person xml:id="mlper000244">
-               <persName></persName>
+               <persName>Anna Johanna Gambold</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/22</bibl>
+            </person>
             <person xml:id="mlper000245">
-               <persName></persName>
+               <persName>Mary Gledhill</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/4</bibl>
+            </person>
             <person xml:id="mlper000246">
-               <persName></persName>
+               <persName>Sarah Gurney</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir"></bibl>
-            </person>            
-            
+               <bibl type="memoir">Ful/SS/72</bibl>
+            </person>
+            <person xml:id="mlper000247">
+               <persName>Lydia Haley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/28</bibl>
+            </person>
             <person xml:id="mlper000248">
-               <persName></persName>
+               <persName>Mary Hindley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/48</bibl>
+            </person>
+            <person xml:id="mlper000249">
+               <persName>Sally Holt</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/35</bibl>
+            </person>
+            <person xml:id="mlper000250">
+               <persName>Sarah Horsfall</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/65</bibl>
+            </person>
+            <person xml:id="mlper000251">
+               <persName>Mary Horsman</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/52</bibl>
+            </person>
+            <person xml:id="mlper000252">
+               <persName>Hannah Hunt</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/16</bibl>
+            </person>
+            <person xml:id="mlper000253">
+               <persName>Hannah Hutchinson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/43</bibl>
+            </person>
+            <person xml:id="mlper000254">
+               <persName>Suzanna Liley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/18</bibl>
+            </person>
+            <person xml:id="mlper000255">
+               <persName>Eleanor Luty</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir"></bibl>
-            </person>            
-            
-            
-            
-            
-            
-            
-
-            
+            </person>
+            <person xml:id="mlper000256">
+               <persName>Sarah Metcalf</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/70</bibl>
+            </person>
+            <person xml:id="mlper000257">
+               <persName>Mary Mortimer</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/2</bibl>
+            </person>
+            <person xml:id="mlper000258">
+               <persName>Sarah Mortimer</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/29</bibl>
+            </person>
+            <person xml:id="mlper000259">
+               <persName>Mary Myers</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/80</bibl>
+            </person>
+            <person xml:id="mlper000260">
+               <persName>Mary Oates</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/77</bibl>
+            </person>
+            <person xml:id="mlper000261">
+               <persName>Suzanna Peel</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/24</bibl>
+            </person>
+            <person xml:id="mlper000262">
+               <persName>Mary Peel</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/79</bibl>
+            </person>
+            <person xml:id="mlper000263">
+               <persName>Susanna Popplewell</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/11</bibl>
+            </person>
+            <person xml:id="mlper000264">
+               <persName>Mary Render</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/30</bibl>
+            </person>
+            <person xml:id="mlper000265">
+               <persName>Isabel Render</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/67</bibl>
+            </person>
+            <person xml:id="mlper000266">
+               <persName>Hannah Sophia Robbins</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/54</bibl>
+            </person>
+            <person xml:id="mlper000267">
+               <persName>Sarah Robinson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/78</bibl>
+            </person>
+            <person xml:id="mlper000268">
+               <persName>Rachel Roebuck</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/5</bibl>
+            </person>
+            <person xml:id="mlper000269">
+               <persName>Anna Rogers</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/59</bibl>
+            </person>
+            <person xml:id="mlper000270">
+               <persName>Mary Scott</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/63</bibl>
+            </person>
+            <person xml:id="mlper000271">
+               <persName>Anna Shoesmith</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/74</bibl>
+            </person>
+            <person xml:id="mlper000272">
+               <persName>Sarah Skelton</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/37</bibl>
+            </person>
+            <person xml:id="mlper000273">
+               <persName>Susan Smith</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/6</bibl>
+            </person>
+            <person xml:id="mlper000274">
+               <persName>Marianne Spence</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/55</bibl>
+            </person>
+            <person xml:id="mlper000275">
+               <persName>Mercy Sutcliffe</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/31</bibl>
+            </person>
+            <person xml:id="mlper000276">
+               <persName>Mary Tattersall</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/64</bibl>
+            </person>
+            <person xml:id="mlper000277">
+               <persName>Hannah Taylor</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/17</bibl>
+            </person>
+            <person xml:id="mlper000278">
+               <persName>Mary Taylor</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/61</bibl>
+            </person>
+            <person xml:id="mlper000279">
+               <persName>Ann Taylor</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/71</bibl>
+            </person>
+            <person xml:id="mlper000280">
+               <persName>Mary Elizabeth Thornton</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/51</bibl>
+            </person>
+            <person xml:id="mlper000281">
+               <persName>Hannah Tordoff</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/34</bibl>
+            </person>
+            <person xml:id="mlper000282">
+               <persName>Ann Vickers</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/20</bibl>
+            </person>
+            <person xml:id="mlper000283">
+               <persName>Martha Walker</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/73</bibl>
+            </person>
+            <person xml:id="mlper000284">
+               <persName>Susanna Watson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/3</bibl>
+            </person>
+            <person xml:id="mlper000285">
+               <persName>Martha Watson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/27</bibl>
+            </person>
+            <person xml:id="mlper000286">
+               <persName>Hannah Westerman</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/36</bibl>
+            </person>
+            <person xml:id="mlper000287">
+               <persName>Mary Whitehead</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/25</bibl>
+            </person>
+            <person xml:id="mlper000288">
+               <persName>Sarah Whitehead</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/40</bibl>
+            </person>
+            <person xml:id="mlper000289">
+               <persName>Hannah Wilkinson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/1</bibl>
+            </person>
+            <person xml:id="mlper000290">
+               <persName>Ann Willoughby</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/23</bibl>
+            </person>
+            <person xml:id="mlper000291">
+               <persName>Grace Wilson</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/33</bibl>
+            </person>
+            <person xml:id="mlper000292">
+               <persName>Mary Wood</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/60</bibl>
+            </person>
+            <person xml:id="mlper000293">
+               <persName>Margaret (Mary) Woodhouse</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <bibl type="memoir">Ful/SS/66</bibl>
+            </person>
          </listPerson>
       </body>
    </text>
