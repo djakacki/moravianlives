@@ -1,8 +1,658 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:time="http://www.w3.org/2006/time#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/73101f53-b7b3-4a86-b322-2dba36d7882c">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/47042291-22d7-4446-b254-be9b71bdb908"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/2925533"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/3e8c5304-6e13-4582-b288-54049e9dab54"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.594Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.594Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2925535","uri":"http://geonames.org/2925535","uriForDisplay":null,"externalLink":"http://geonames.org/2925535","name":"Frankfurt (Oder) Brandenburg Germany","repository":"geonames","originalQueryString":"Frankfurt Oder","description":"populated place"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2925535","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/2925533">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/47042291-22d7-4446-b254-be9b71bdb908">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/8255f133-3a56-498b-9a45-6d767a36db9d"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/042ced67-9bd0-49e1-b554-56a9bcd0135a"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/042ced67-9bd0-49e1-b554-56a9bcd0135a">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_695"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/88e88ffe-8434-438c-a598-05a04f233c01">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1193c141-e423-4ad4-a577-a9443cf36e09"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/06579cb4-affd-4c97-bde6-b467c10f4fa7"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/a718b45a-e814-4951-9a52-86be050bfb26"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.600Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.600Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1714-04-20","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/06579cb4-affd-4c97-bde6-b467c10f4fa7"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1714-04-20</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/1193c141-e423-4ad4-a577-a9443cf36e09">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/03497bc9-93ad-471c-9dd6-57a198824a06"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/57eb2aae-ec8d-49f6-b4c5-d0a843f61ee6"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/57eb2aae-ec8d-49f6-b4c5-d0a843f61ee6">
+	<rdf:value>xpointer(//date[@annotationId="ent_696"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/09e8509c-0b0c-43b4-a8c0-2134f27dc1e4">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/8b4c720a-8c93-4daa-b6ac-d102e9964d29"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/3042143"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/576f482f-bc89-4091-9f6c-1de9ce6328b8"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.604Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.604Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/3042143","uri":"http://geonames.org/3042143","uriForDisplay":null,"externalLink":"http://geonames.org/3042143","name":"Jersey  Jersey","repository":"geonames","originalQueryString":"Isle of Jersey","description":"island"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/3042143","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/3042143">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/8b4c720a-8c93-4daa-b6ac-d102e9964d29">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/0603cda2-4fdb-4a02-adde-e51b90e9c819"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d0f76665-c75b-4eea-b313-90a68b3ca72d"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d0f76665-c75b-4eea-b313-90a68b3ca72d">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_698"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/32095383-d3de-4a64-8bd5-6c3900c262c4">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/5c6b26e8-4ce3-4ff3-ba85-ddf3054db030"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/607696e4-0c53-4ead-a254-2a5e4cefc7df"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/b0407616-7dd8-4eb0-a905-49a90a17b5de"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.607Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.607Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/607696e4-0c53-4ead-a254-2a5e4cefc7df">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/5c6b26e8-4ce3-4ff3-ba85-ddf3054db030">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/5fcfb1b6-ff8c-43ca-94cd-af71b039bb79"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/3853639c-9ad4-4c7b-83ad-adb5165c56d1"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/3853639c-9ad4-4c7b-83ad-adb5165c56d1">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_700"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/7296119e-e5b2-4a34-9724-e99a69b01879">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/4d32c023-7e3c-4be4-b598-4bc714375ff5"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/11071621"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/c8a5fae2-d9c6-4e71-a73e-3fe39fb6fe96"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.609Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.609Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/11071621","uri":"http://geonames.org/11071621","uriForDisplay":null,"externalLink":"http://geonames.org/11071621","name":"Normandie Normandy France","repository":"geonames","originalQueryString":"Normandy","description":"first-order administrative division"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/11071621","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/11071621">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/4d32c023-7e3c-4be4-b598-4bc714375ff5">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/f2924b11-5c36-4049-a77e-ea9251157cfb"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d782b951-3110-4cb7-a993-47eea4b9959e"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d782b951-3110-4cb7-a993-47eea4b9959e">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_701"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d83055ad-ce01-443a-a973-647fbf3f7509">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/d1560b5e-d05c-40fb-9173-71363430ab70"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/ff8fd457-7d9c-43df-a573-74933d391a50"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/c6725962-8cbe-40d8-967e-54d7d0030dbe"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.611Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.611Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2949881","uri":"http://geonames.org/2949881","uriForDisplay":null,"externalLink":"http://geonames.org/2949881","name":"Berthelsdorf Saxony Germany","repository":"geonames","originalQueryString":"Berthelsdorf","description":"populated place"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2949881","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/ff8fd457-7d9c-43df-a573-74933d391a50">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/d1560b5e-d05c-40fb-9173-71363430ab70">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/1711e597-6639-4ca5-9ac2-2a9a54d4e682"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/288b4b83-749d-4a20-8a8d-60fb3aa00c6e"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/288b4b83-749d-4a20-8a8d-60fb3aa00c6e">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_704"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/ccf712e4-951e-4331-82fd-ef0c61c4325c">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/528c97f5-50b6-4750-a6ab-6d5fef85b99c"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/edd8371e-5468-4b58-a306-d201f81f3efd"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/da76b1a9-9de1-49c1-a503-ee256e97e330"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.613Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.613Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q6909341","uriForDisplay":"https://www.wikidata.org/entity/Q6909341","uri":"http://www.wikidata.org/entity/Q6909341","name":"Moravian Brethren Mission House","repository":"wikidata","originalQueryString":"Herrnhuth"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q6909341","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/edd8371e-5468-4b58-a306-d201f81f3efd">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/528c97f5-50b6-4750-a6ab-6d5fef85b99c">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/563adbe3-7ff7-4585-b1a0-e019f895d3ae"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/a3c4efe7-4527-4979-a830-b2cd2cbd7046"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/a3c4efe7-4527-4979-a830-b2cd2cbd7046">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_705"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/19a039e0-cfe3-4c2c-bd65-d9a5d371e491">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/5a0b4965-5e49-4922-92f9-5fb367e26faa"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/f2e77bfd-ee5f-402b-a20d-b637bbc430ce"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/a35261cb-a566-4b04-8f7f-9f4caf1d742e"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.615Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.615Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2905919","uri":"http://geonames.org/2905919","uriForDisplay":null,"externalLink":"http://geonames.org/2905919","name":"Hermsdorf Saxony Germany","repository":"geonames","originalQueryString":"Hermsdorf","description":"populated place"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2905919","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/f2e77bfd-ee5f-402b-a20d-b637bbc430ce">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/5a0b4965-5e49-4922-92f9-5fb367e26faa">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/844bade3-527b-4102-9a6f-09ae83db207a"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/9bde4e40-0400-470d-8796-808ed25b6dfd"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/9bde4e40-0400-470d-8796-808ed25b6dfd">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_706"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/8c541f08-efdb-41ac-958a-cca831071f23">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/5efab2a2-48b4-49c2-bbf1-5dfad8d68708"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/8065f70c-5b86-4f13-93fc-9a318ad81528"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/6675ff35-944e-435e-964d-e77fd7f2997f"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.617Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.617Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2950159","uri":"http://geonames.org/2950159","uriForDisplay":null,"externalLink":"http://geonames.org/2950159","name":"Berlin Berlin Germany","repository":"geonames","originalQueryString":"Berlin","description":"capital of a political entity"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2950159","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/8065f70c-5b86-4f13-93fc-9a318ad81528">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/5efab2a2-48b4-49c2-bbf1-5dfad8d68708">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/dbe4abc5-a88e-4f12-ab2a-17875b1acb2d"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/9f1d51e3-b74f-45b2-b9a7-76d09fa240c0"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/9f1d51e3-b74f-45b2-b9a7-76d09fa240c0">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_707"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/c4976988-4c26-4676-9082-2a7fc2462279">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/d86de096-02e2-4a98-bc80-0fc90e43fecf"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/94a79f6f-3325-4f38-a28a-b0e1df314624"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/7737bdc1-76d2-40bb-a300-08f846995e24"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.619Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.619Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1737-10-19","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/94a79f6f-3325-4f38-a28a-b0e1df314624"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1737-10-19</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/d86de096-02e2-4a98-bc80-0fc90e43fecf">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/5d668865-81cd-4049-8885-89e59bfcf062"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/351478b1-a849-4701-ba7c-8e266a264b3c"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/351478b1-a849-4701-ba7c-8e266a264b3c">
+	<rdf:value>xpointer(//date[@annotationId="ent_708"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/53cc7d31-8dab-45b5-b981-7476a3b9f808">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ac07467a-7efa-4472-a7ce-1ba0314a691f"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/a0dfb9c8-a5da-41ec-bc08-e609905729d3"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/c49a88a4-329b-4124-a8fa-5fa1a2a81426"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.624Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.624Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1738","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/a0dfb9c8-a5da-41ec-bc08-e609905729d3"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1738</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/ac07467a-7efa-4472-a7ce-1ba0314a691f">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/723f8740-6a7d-44cc-aae2-32db90494752"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/1a5e2a12-25d2-4d65-a7e4-5edae681d6a7"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/1a5e2a12-25d2-4d65-a7e4-5edae681d6a7">
+	<rdf:value>xpointer(//date[@annotationId="ent_709"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6517dca1-8ad6-4859-9564-e2ff4da026a9">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/40d535f9-7bc7-443c-892e-cdc134836003"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/51e472ba-1065-46e9-beb7-94daa8492402"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/c007109e-defd-492e-933e-d0963c84792b"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.628Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.628Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1738-06","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/51e472ba-1065-46e9-beb7-94daa8492402"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1738-06</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/40d535f9-7bc7-443c-892e-cdc134836003">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/f2803f89-e7db-4b77-8efe-02c9b8e0c8c6"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/7a5f25f2-8608-4313-957f-7bbe0c498cc8"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/7a5f25f2-8608-4313-957f-7bbe0c498cc8">
+	<rdf:value>xpointer(//date[@annotationId="ent_710"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/aac62bee-16cd-4f9b-8e03-f3674f02d3c2">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/df6848cc-f879-44d5-8ec2-c27f215b918a"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/bb7550c0-2606-4fe0-b0de-b7a2a72d907d"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/6c17e889-f278-489e-abb3-8e65495b92d0"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.632Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.632Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2873621","uri":"http://geonames.org/2873621","uriForDisplay":null,"externalLink":"http://geonames.org/2873621","name":"Marienborn Saxony-Anhalt Germany","repository":"geonames","originalQueryString":"Marienborn","description":"populated place"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2873621","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/bb7550c0-2606-4fe0-b0de-b7a2a72d907d">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/df6848cc-f879-44d5-8ec2-c27f215b918a">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/324f9832-de79-42b2-89b7-96fe4c0f6293"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/f289a748-b09f-47d6-986f-e68ff001430f"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/f289a748-b09f-47d6-986f-e68ff001430f">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_711"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/3d9304f0-3e1c-43d8-8fb6-8f592f5fa61e">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/4b3012bb-29b7-478e-bc96-a072f2d23668"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/9b639ed6-aac8-4faf-85ef-0c7a3ee24f97"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/4b9bac19-5953-423f-8fdd-52c22d994f43"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.634Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.634Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/9b639ed6-aac8-4faf-85ef-0c7a3ee24f97">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/4b3012bb-29b7-478e-bc96-a072f2d23668">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/a345c685-b500-476f-b4c4-dba75c4e1c9f"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/1755890e-c930-4054-ba7f-e5c9c9cdc8c6"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/1755890e-c930-4054-ba7f-e5c9c9cdc8c6">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_712"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/9e07bee4-4ce2-4e6a-8445-1c96ef1ded9e">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/d7363159-4906-42f7-82da-486444027dc3"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/c35f470f-4e39-48cc-8985-0a210de281e7"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/90afc89e-c8d0-4d69-a157-1e976bfcf6f5"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.635Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.635Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/3042225","uri":"http://geonames.org/3042225","uriForDisplay":null,"externalLink":"http://geonames.org/3042225","name":"Isle of Man  Isle of Man","repository":"geonames","originalQueryString":" Isle of Man","description":"political entity"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/3042225","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/c35f470f-4e39-48cc-8985-0a210de281e7">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/d7363159-4906-42f7-82da-486444027dc3">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/935d240c-7e19-4670-a944-0af69b844253"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/488e163f-17b7-4fc8-b58b-bb4d6c4edbe6"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/488e163f-17b7-4fc8-b58b-bb4d6c4edbe6">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_713"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/4351ecbc-2da7-48fa-8ffc-db63ba058d06">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/8cab0cd9-5189-4106-8bd3-578801f6cea5"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/d4096d5f-98cd-4f5d-9d5f-b0165d5e1972"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/8e3db5bd-64bb-4610-b029-1dbde368e257"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.636Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.636Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2644210","uri":"http://geonames.org/2644210","uriForDisplay":null,"externalLink":"http://geonames.org/2644210","name":"Liverpool England United Kingdom","repository":"geonames","originalQueryString":"Liverpool","description":"seat of a second-order administrative division"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2644210","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/d4096d5f-98cd-4f5d-9d5f-b0165d5e1972">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/8cab0cd9-5189-4106-8bd3-578801f6cea5">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/664730d7-b721-477e-8c81-faf5274dba0b"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/4efa1644-41ab-4568-9743-6cae7b90bfe6"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/4efa1644-41ab-4568-9743-6cae7b90bfe6">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_714"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/5539c311-029a-4c6c-84a5-b9834c72fb37">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/b0dc4d0b-6706-450f-af69-b79755325904"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/150cf52b-806f-43bb-89b0-796ab1d92bd9"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/080219f9-f170-4344-8a03-abc8af8e9d09"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.638Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.638Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/150cf52b-806f-43bb-89b0-796ab1d92bd9">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/b0dc4d0b-6706-450f-af69-b79755325904">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/1aa3eef2-3751-46e5-b339-a882ff559f6b"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/9e26bc29-7281-46c8-8460-0772c7ca0904"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/9e26bc29-7281-46c8-8460-0772c7ca0904">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_715"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/bb69a977-d9c1-4761-97f6-94cb5c25dfe5">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/fc80c64a-f24a-4cb6-a571-f8f1ccde5e23"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/de5a934b-236c-466f-be66-c86f8c611151"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/e774c32f-c1d4-42e8-859b-37d751d3d99b"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.640Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.640Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2747891","uri":"http://geonames.org/2747891","uriForDisplay":null,"externalLink":"http://geonames.org/2747891","name":"Rotterdam South Holland Netherlands","repository":"geonames","originalQueryString":"Roterdam","description":"populated place"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2747891","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/de5a934b-236c-466f-be66-c86f8c611151">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/fc80c64a-f24a-4cb6-a571-f8f1ccde5e23">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/240adae7-7b81-461a-8844-e605c47d65de"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/917c35b9-cd94-4890-8bc7-598fcf6a24a2"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/917c35b9-cd94-4890-8bc7-598fcf6a24a2">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_716"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/ca6ff19a-01ef-4500-b905-454e90d65eea">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/4951dd9e-3816-420e-be81-6a603a36c497"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/393e0399-566d-42cc-8339-08a2e199702e"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/077254fe-eaec-41af-85f1-d5e24456c608"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.642Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.642Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2643743","uri":"http://geonames.org/2643743","uriForDisplay":null,"externalLink":"http://geonames.org/2643743","name":"London England United Kingdom","repository":"geonames","originalQueryString":"London","description":"capital of a political entity"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2643743","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/393e0399-566d-42cc-8339-08a2e199702e">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/4951dd9e-3816-420e-be81-6a603a36c497">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/f5342040-f10f-455f-8417-f85e0ff1ebc9"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/14ffc5b3-8c79-4a22-a7cc-9e0570169b67"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/14ffc5b3-8c79-4a22-a7cc-9e0570169b67">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_717"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/5219dfd7-41a4-464a-91c6-f9d29e892469">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/70304e62-568c-429b-85fe-41d1554c66e4"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/place/43b2a17e-a560-4bdd-8306-bbde284a318a"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/5d147e1e-55c3-425a-816c-69ff043f931c"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.643Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.643Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q16869","uriForDisplay":"https://www.wikidata.org/entity/Q16869","uri":"http://www.wikidata.org/entity/Q16869","name":"Constantinople","repository":"wikidata","originalQueryString":"Constantinople","description":"capital city of the Eastern Roman or Byzantine Empire, the Latin and the Ottoman Empire"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q16869","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/43b2a17e-a560-4bdd-8306-bbde284a318a">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/70304e62-568c-429b-85fe-41d1554c66e4">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/a933e049-5156-423b-9b9c-48d74f31b635"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/733ab49d-ab96-4b47-84e1-555d17e24006"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/733ab49d-ab96-4b47-84e1-555d17e24006">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_718"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/571e6f30-9290-41ed-bedc-8cd2ebf0c8c5">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/167bdd9a-e3c5-4427-9d28-a15937e1ee0c"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q456"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/d18113fa-8c4b-48f8-ad52-aeb27bbbce00"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.645Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.645Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q456","uriForDisplay":"https://www.wikidata.org/entity/Q456","uri":"http://www.wikidata.org/entity/Q456","name":"Lyon","repository":"wikidata","originalQueryString":"Lyons","description":"commune in the metropolis of Lyon, France"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q456","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q456">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/167bdd9a-e3c5-4427-9d28-a15937e1ee0c">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/a819e52d-5bbd-4403-aafa-56bf10a1b6c8"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/bcb0cf8c-9559-4996-aced-382e15512510"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/bcb0cf8c-9559-4996-aced-382e15512510">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_719"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/c3bdc6a7-3406-4d89-bd96-23b5716c7e9e">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ebd8252a-72df-4d52-9565-9713c3ef7ced"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q42807"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/9b9ddf38-5a46-45d3-bbf1-2d1aa9a0f300"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.649Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.649Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q42807","uriForDisplay":"https://www.wikidata.org/entity/Q42807","uri":"http://www.wikidata.org/entity/Q42807","name":"Nîmes","repository":"wikidata","originalQueryString":"Nimes","description":"commune in Gard, France"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q42807","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q42807">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/ebd8252a-72df-4d52-9565-9713c3ef7ced">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/94d505f8-349b-41c4-90a9-29252f3ba8d7"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c1d64de6-b34c-4a46-aa73-6f8fa2f8af6a"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c1d64de6-b34c-4a46-aa73-6f8fa2f8af6a">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_721"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/da02068e-c8f2-48dc-9a01-a204ce837c13">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/229fcfa2-5d3c-4488-b4d4-b16a65788eb3"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q23482"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/04f6427e-3319-40d0-898d-b6119cb061b8"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.652Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.652Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q23482","uriForDisplay":"https://www.wikidata.org/entity/Q23482","uri":"http://www.wikidata.org/entity/Q23482","name":"Marseille","repository":"wikidata","originalQueryString":"Marsaille","description":"commune in Bouches-du-Rhône, the second largest city of France"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q23482","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q23482">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/229fcfa2-5d3c-4488-b4d4-b16a65788eb3">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/eccdde88-7976-49f5-8f7d-680408fd99aa"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d96f56e6-324b-478e-ab57-e02e9b5b83e9"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d96f56e6-324b-478e-ab57-e02e9b5b83e9">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_722"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/f3d840a6-4874-40c2-ae48-79c70f30125d">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/93cbde2f-212d-493a-8fd0-0af8f43b02d0"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/f11544d7-1b98-4b67-9421-5fad21625901"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/137aa726-563a-4119-b1a7-f023fb3201dd"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.655Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-03T01:17:48.655Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"1741","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/f11544d7-1b98-4b67-9421-5fad21625901"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1741</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/93cbde2f-212d-493a-8fd0-0af8f43b02d0">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/86b3c236-c371-44ec-a81b-b078e4a52f1d"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e0ad54d0-cdcb-4d52-b8b3-6274e0c10945"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e0ad54d0-cdcb-4d52-b8b3-6274e0c10945">
+	<rdf:value>xpointer(//date[@annotationId="ent_723"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+</rdf:RDF>
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -65,15 +715,15 @@
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
                   <msName type="memoir" ana="MAB/MemBeth_0115">Heinrich Friedrich Cossart</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-03.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-04.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-05.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-06.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-07.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-08.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-09.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-01.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-02.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-03.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-04.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-05.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-06.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-07.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-08.jpg"></msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0115-09.jpg"></msName>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -83,57 +733,55 @@
       <body xml:lang="en">
          <head>Heinrich Friedrich Cossart</head>
          <div type="page" n="1">
-            <head>Page 1 <seg ana="MemBeth_0115-01" />
+            <head>Page 1 <seg ana="MemBeth_0115-01"></seg>
             </head>
             <p>III. Our dear Brother <persName><hi rend="underline" n="red">Henry Friedr. Cossart</hi></persName>. As he did not write the full Account of his Life himself, then we only can aquaint
-               the Congregation with the following, viz: I am born (he writes on a Place of himself) the <date>20<hi rend="superscript">th</hi> of Apr. 1714</date> at
-                  <placeName><sic>Francofourt</sic></placeName>
-               <corr>Frankfurt </corr>on the <placeName>Oder</placeName>, where my Vater was Fencing Master by the <sic>Academie</sic>
-               <corr>Academy</corr> but dyed <date>Anno 1715</date>. He was born at <placeName>Raven in </placeName><placeName><sic><placeName>Normandie</placeName></sic></placeName>
-               <corr>Normandy</corr> &amp;amp; left <placeName>France</placeName> for the Sake of his Religion, he travelled to the <placeName>Isle of Jersey</placeName>
+               the Congregation with the following, viz: I am born (he writes on a Place of himself) the <date><date annotationId="ent_696" when="1714-04-20" cert="definite">20<hi rend="superscript">th</hi> of Apr. 1714</date></date> at
+                  <placeName>Francofourt</placeName>
+               <corr><placeName annotationId="ent_695" ref="http://geonames.org/2925535" cert="definite">Frankfurt</placeName> </corr>on the <placeName>Oder</placeName>, where my Vater was Fencing Master by the <sic>Academie</sic>
+               <corr>Academy</corr> but dyed <date>Anno 1715</date>. He was born at Raven in <placeName><sic>Normandie</sic></placeName>
+               <placeName annotationId="ent_701" ref="http://geonames.org/11071621" cert="definite">Normandy</placeName> &amp; left <placeName>France</placeName> for the Sake of his Religion, he travelled to the <placeName><placeName annotationId="ent_698" ref="http://geonames.org/3042143" cert="definite">Isle of Jersey</placeName></placeName>
                <note type="catchword">where</note>
             </p>
          </div>
          <div type="page" n="2">
-            <head>Page 2 <seg ana="MemBeth_0115-02" />
+            <head>Page 2 <seg ana="MemBeth_0115-02"></seg>
             </head>
-            <p> >where he <sic>marryed</sic>
-               <corr>married</corr> my Mother, who by French Parents was born in <placeName>England</placeName>. She died <add>1725</add> at <placeName>Pomerswiz</placeName> in
-                  <placeName>Silesie</placeName> by Baron de Frash. </p>
+            <p>where he <sic>marryed</sic>
+               <corr>married</corr> my Mother, who by French Parents was born in <placeName>England</placeName>. She died <add>1725</add> at Pomerswiz in
+                  <placeName annotationId="ent_700">Silesie</placeName> by Baron de Frash. </p>
             <p> Soon in my tender years I feeld the work of Grace in my Heart, therefore I often wrote Letters to our Saviour &amp; bid my Mother to send it by the Post. I very often prayeth to dear
                God with many a Tears, to make me a Martyr, because I could nothing greater for me imagine, as to loose my Life for our Saviour. Anno <date>1730.</date> I came to
-                  <placeName>Saxonia</placeName> &amp; here I lost all the feeling of Grace <add>I had</add> in my poor Heart again; but for all that behaved like a Gentleman, &amp; in the
+                  Saxonia &amp; here I lost all the feeling of Grace <add>I had</add> in my poor Heart again; but for all that behaved like a Gentleman, &amp; in the
                   <sic>Botom</sic>
                <corr>Bottom</corr> of my Heart believed nothing more at all. Anno <date>1734</date>. I got a Call of <persName>Sr. de Ziegler</persName> of <placeName>Renersdorf</placeName>. Here I
                studied with great eagerness the Languages, Philosophie &amp; especially Moral; <persName>Seneka</persName> was my Idol on whom I hung my very Heart, but this had its intercourses to,
-               then the Love of the World conquered me very often. I frequently went to <placeName>Strawalde</placeName> to divert myself, but once Curiosity inticed me in <hi rend="strikethrough"
-                  >going hom</hi>e passing by to visit the Church in <placeName>Bertholsdorf</placeName>, where <persName>Magister Rothe</persName> just preached. The Gospel of the Cross of Christ
+               then the Love of the World conquered me very often. I frequently went to Strawalde to divert myself, but once Curiosity inticed me in <hi rend="strikethrough">going hom</hi>e passing by to visit the Church in <placeName annotationId="ent_704" ref="http://geonames.org/2949881" cert="definite">Bertholsdorf</placeName>, where <persName>Magister Rothe</persName> just preached. The Gospel of the Cross of Christ
                soon conquered my Heart again &amp; I went <note type="catchword">to see</note>
             </p>
          </div>
          <div type="page" n="3">
-            <head>Page 3 <seg ana="MemBeth_0115-03" />
+            <head>Page 3 <seg ana="MemBeth_0115-03"></seg>
             </head>
-            <p> to see <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Rothe</persName> at his own House, He recomanded me to <placeName>Herrnhuth</placeName> &amp;
+            <p> to see <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Rothe</persName> at his own House, He recomanded me to <placeName annotationId="ent_705" ref="http://www.wikidata.org/entity/Q6909341" cert="definite">Herrnhuth</placeName> &amp;
                I came &amp; got Leave to abide there. So far his own Words.</p>
             <p> Some Weeks after his Arrival the Brethren sent him to <persName>Fr. de Shweiniz </persName>to instruct his two Lady Daughters (Our S.<hi rend="superscript">rs</hi>
                <persName>Lorel Luedcke</persName> &amp; <persName>Lizel Marshall</persName>) which he did w<hi rend="superscript">th</hi> all possible love &amp; according to his extraordinary Genius;
                Thereby he had a happy Time for his own Heart, but <sic>allways</sic>
                <corr>always</corr> was sorry that he was so soon taken away from the Care of the Congregation.</p>
             <p> A<hi rend="superscript">o</hi>
-               <date>1736</date>. He arrived at <placeName>Herrnhuth</placeName> again &amp; <date>1737 the 19th of Octob.</date> he was confirmed according to the Custom of the same Time into the
-                  Congregat..<hi rend="superscript">n </hi>Soon after he was sent to <placeName>Hermsdorf</placeName> as Praeceptor of the young <persName>S.</persName><hi rend="superscript"
-                     ><persName>r de Schachmann</persName> with whom he got a Call to <placeName>Berlin</placeName></hi>
-               <date>1738</date> to the <orgName>Pilgrims Congregation</orgName>. The Month of June h. a. he was called to come to <placeName>Mborn. </placeName>&amp; there was <sic>marryed</sic>
+               <date>1736</date>. He arrived at <placeName>Herrnhuth</placeName> again &amp; <date><date annotationId="ent_708" when="1737-10-19" cert="definite">1737 the 19th of Octob.</date></date> he was confirmed according to the Custom of the same Time into the
+                  Congregat..<hi rend="superscript">n </hi>Soon after he was sent to <placeName annotationId="ent_706" ref="http://geonames.org/2905919" cert="definite">Hermsdorf</placeName> as Praeceptor of the young <persName>S.</persName><hi rend="superscript"><persName>r de Schachmann</persName> with whom he got a Call to <placeName annotationId="ent_707" ref="http://geonames.org/2950159" cert="definite">Berlin</placeName></hi>
+               <date><date annotationId="ent_709" when="1738" cert="definite">1738</date></date> to the <orgName>Pilgrims Congregation</orgName>. The Month of <date annotationId="ent_710" when="1738-06" cert="definite">June</date> h. a. he was called to come to <placeName annotationId="ent_711" ref="http://geonames.org/2873621" cert="definite">Mborn. </placeName>&amp; there was <sic>marryed</sic>
                <corr>married</corr> to <persName>S</persName><hi rend="superscript"><persName>t</persName></hi><persName>. Taillard</persName> (as to his present Widow) he was blessed in this Marriage
                State w<hi rend="superscript">th</hi> 3 Sons &amp; 4 Daughters, which all are at several Places in the Congregation. Soon of his Marriage he travelled with his Wife to
-                  <placeName>Holland</placeName> where they receivd a Comission to visit the<placeName> Isle of Man</placeName> &amp; to deliver a Letter of the Disciple to the well- meaning Bishops
+                  <placeName annotationId="ent_712">Holland</placeName> where they receivd a Comission to visit the<placeName annotationId="ent_713" ref="http://geonames.org/3042225" cert="definite"> Isle of Man</placeName> &amp; to deliver a Letter of the Disciple to the well- meaning Bishops
                there &amp; to make a more near <sic>Aquaintance</sic>
                <corr>Acquantaince</corr> w<hi rend="superscript">th</hi> Him &amp; as Well as to see if <note type="catchword">there</note>
             </p>
             <p>there is any Appearance of a Congregation, or at least some awakened Souls on that Island. They <sic>toock</sic>
-               <corr>took</corr> their Route over <placeName>Holland</placeName> &amp; <placeName>London</placeName>, but our B<hi rend="superscript">n</hi>. fell sick on his Way by a violent Fever at
-                  <placeName>Liverpool</placeName> where he was to stay for a Ship. The People there <sic>was</sic>
+               <corr>took</corr> their Route over <placeName>Holland</placeName> &amp; <placeName annotationId="ent_717" ref="http://geonames.org/2643743" cert="definite">London</placeName>, but our B<hi rend="superscript">n</hi>. fell sick on his Way by a violent Fever at
+                  <placeName annotationId="ent_714" ref="http://geonames.org/2644210" cert="definite">Liverpool</placeName> where he was to stay for a Ship. The People there <sic>was</sic>
                <corr>were</corr> very kind towards him. Amongst the rest a Awakened Man who heard of him, came &amp; said: that he came to him, upon a <sic>Ordre</sic>
                <corr>Order</corr> of God to serve &amp; take Care upon him, but in the Place he must tell him to provide for his poor Soul, because of the Danger he was in. Our Brother very
                   <sic>thanckfull</sic>
@@ -148,24 +796,23 @@
                took this Opportunity &amp; set the Heart of this Man towards his slaughtered Person &amp; not long after took him happy Home. As soon our B<hi rend="superscript">r</hi>. was a little
                better they set out for the <placeName>Isle of Man</placeName>, where the was very friendly received by the Bishop &amp; 6 Weeks entertained in the tenderest <sic>Maner</sic>
                <corr>Manner</corr> at his own House; <sic>afterwarts</sic>
-               <corr>afterwards</corr> the visited the Isle but found little or nothing of a Work of God there, they <sic>toock</sic>
+               <corr>afterwards</corr> the visited the Isle but fdound little or nothing of a Work of God there, they <sic>toock</sic>
                <corr>took</corr> their heartyly Leave by the Bishop <note type="catchword">and were</note>
             </p>
          </div>
          <div type="page" n="4">
-            <head>Page 4 <seg ana="MemBeth_0115-004" />
+            <head>Page 4 <seg ana="MemBeth_0115-004"></seg>
             </head>
-            <p> and were with a feeling of his true Love dismissed, &amp; returned a.c: in the <date>Month of Aug.</date> over <placeName>London</placeName> to <placeName>Heerendyk</placeName>. From
-               thence he was sent to <placeName>Roterdam</placeName> to <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Blows</persName> Children. </p>
+            <p> and were with a feeling of his true Love dismissed, &amp; returned a.c: in the <date>Month of Aug.</date> over <placeName>London</placeName> to <placeName annotationId="ent_715">Heerendyk</placeName>. From
+               thence he was sent to <placeName annotationId="ent_716" ref="http://geonames.org/2747891" cert="definite">Roterdam</placeName> to <persName>M</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Blows</persName> Children. </p>
             <p> A<hi rend="superscript">o</hi>. <date>1740</date>. He <sic>accompanyed</sic>
                <corr>accompanied</corr>
                <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Gradin</persName> through <placeName>France</placeName> on his Journey to
-                  <placeName>Constantinople</placeName>, &amp; by this Opportunity made himself <sic>aquainted</sic>
+                  <placeName annotationId="ent_718" ref="http://www.wikidata.org/entity/Q16869" cert="definite">Constantinople</placeName>, &amp; by this Opportunity made himself <sic>aquainted</sic>
                <corr>acquainted</corr> w<hi rend="superscript">th</hi>. the <sic>Prostestants</sic>
-               <corr>Protestants</corr> at <placeName>Lion, Nimes, Marsaille</placeName> etc which was a great Hazard to his Life. In the Time following he came to <persName>B</persName><hi
-                  rend="superscript"><persName>r</persName></hi><persName>. Fishers</persName> Children at <placeName>Bern</placeName> &amp; had there according to his Inclination many Occurences to
+               <corr>Protestants</corr> at <placeName annotationId="ent_719" ref="http://www.wikidata.org/entity/Q456" cert="definite">Lion</placeName>, <placeName annotationId="ent_721" ref="http://www.wikidata.org/entity/Q42807" cert="definite">Nimes</placeName>, <placeName annotationId="ent_722" ref="http://www.wikidata.org/entity/Q23482" cert="definite">Marsaille</placeName> etc which was a great Hazard to his Life. In the Time following he came to <persName>B</persName><hi rend="superscript"><persName>r</persName></hi><persName>. Fishers</persName> Children at <placeName>Bern</placeName> &amp; had there according to his Inclination many Occurences to
                witness the Redemption by the Blood of the Lamb with very good Effect. </p>
-            <p> A<hi rend="superscript">o</hi>. <date>1741</date>. He and his Wife set out for <placeName>Geneva</placeName> to the Pilgrims Congregation &amp; on the Road his Wife was
+            <p> A<hi rend="superscript">o</hi>. <date><date annotationId="ent_723" when="1741" cert="definite">1741</date></date>. He and his Wife set out for <placeName>Geneva</placeName> to the Pilgrims Congregation &amp; on the Road his Wife was
                   <sic>delieverd</sic>
                <corr>delivered</corr> of her second Son. Hujus Anni he returned to <placeName>Marienborn</placeName> &amp; from thence got A<hi rend="superscript">o</hi>. <date>1742</date>. a Message
                to <placeName>Berlin</placeName> to treat of the intended Establishment of the Brethren in <placeName>Newshatel</placeName>, where to the King most <sic>gratiously</sic>
@@ -176,7 +823,7 @@
                Souls in that Quarter, which he did with all possible Exactness &amp; every Weeks did a Journey to <placeName>Newshatell</placeName>
                <note type="catchword">to <sic>visite</sic>
                   <corr>visit</corr></note>
-               <pb type="double_right" />
+               <pb type="double_right"></pb>
                <sic>visite</sic>
                <corr>visit</corr> the <sic>Awackened</sic>
                <corr>Awakened</corr> Souls there to. He was in the mean while very busy to translate some of our public Books into the French Language, whereof separat Pieces to the same time have
@@ -200,9 +847,9 @@
             </p>
          </div>
          <div type="page" n="5">
-            <head>Page 5 <seg ana="MemBeth_0115-05" />
+            <head>Page 5 <seg ana="MemBeth_0115-05"></seg>
             </head>
-            <pb type="double_left" n="5" ana=".10115.25649" />
+            <pb type="double_left" n="5" ana=".10115.25649"></pb>
             <p>of this Outpost; but he advised them to <sic>bak</sic>
                <corr>back</corr> to <placeName>Turin</placeName> &amp; get there Leave, &amp; they instead to give 'em Leave, sent them a Order which route they have to take on their return home
                again. A<hi rend="superscript">o</hi>. <date>1745</date>. Our B<hi rend="superscript">r</hi>. ventured a second time to <sic>visite</sic>
@@ -222,7 +869,7 @@
                <corr>Vallies</corr> &amp; had 13 Preachers among them, with whom our B<hi rend="superscript">r</hi>. made himself <sic>aquainted</sic>
                <corr>acquainted</corr> &amp; brought them the good Tidings of our dear <sic>Serviours</sic>
                <corr>Saviour's</corr> Redemption &amp; Bloodshed &amp; of the rightiousness of a poor Sinner before God by his <note type="catchword">Blood &amp; Suffering</note>
-               <pb type="double_right" /> Blood &amp; Suffering &amp; so remaineth with them 10 Days. After that he return'd over the high &amp; rough <placeName>Moun_ tain Se Col de la
+               <pb type="double_right"></pb> Blood &amp; Suffering &amp; so remaineth with them 10 Days. After that he return'd over the high &amp; rough <placeName>Moun_ tain Se Col de la
                   Croix</placeName>, who is taken inpassable &amp; was the same Time covered w<hi rend="superscript">th</hi>. <sic>Shnow</sic>
                <corr>Snow</corr>, never- theless there was a Watch kept of 40 Men at the very Top of the Mountain but out Sav.<hi rend="superscript">r</hi> caused it, that they saw neither him or his
                Guide. On this Top he prostrated himself in the <sic>Shnow</sic>
@@ -241,12 +888,11 @@
             </p>
          </div>
          <div type="page" n="6">
-            <head>Page 6 <seg ana="MemBeth_0115-06" />
+            <head>Page 6 <seg ana="MemBeth_0115-06"></seg>
             </head>
             <p> Act, had several Conferences w<hi rend="superscript">th</hi>. the Arch Bishop &amp; other Bishops &amp; preached the Gospel at <placeName>St. James</placeName> in French, in the Savoy,
                German, &amp; in our Chapel english.</p>
-            <p> A<hi rend="superscript">o</hi>. <date>1747</date>. He received a Invitation to the <placeName>Synod</placeName> at <placeName>Hhaag.</placeName> On his Passage our Sav.<hi
-                  rend="superscript">r</hi> again protected him in a violent Danger, then a french Caper came so near his Ship &amp; attackd it so warmly that whole Heaps of Balls flew into it and
+            <p> A<hi rend="superscript">o</hi>. <date>1747</date>. He received a Invitation to the <placeName>Synod</placeName> at <placeName>Hhaag.</placeName> On his Passage our Sav.<hi rend="superscript">r</hi> again protected him in a violent Danger, then a french Caper came so near his Ship &amp; attackd it so warmly that whole Heaps of Balls flew into it and
                damaged the Vessel very much, but happily echappd. <hi rend="strikethrough">The very Year he returnd again w.<hi rend="superscript">th</hi> his Wife to <placeName>London</placeName>
                   from thence they visited the awakened Souls in North of <placeName>England</placeName>, <placeName>Plymouth</placeName>, &amp; <placeName>Cornwallis</placeName>; In
                      <placeName>Exeter</placeName> a old Methodist <add>(conversly called aed Adam)</add> caused a <sic>Mobb</sic>
@@ -259,12 +905,11 @@
                   <sic>then</sic>
                <corr>than</corr> worth to be <sic>remembred</sic>
                <corr>remembered</corr>. His <unclear>indefaticable</unclear>, true &amp; <sic>Sorrowfull</sic>
-               <corr>Sorrowful</corr> Activity, &amp; the Glad &amp; Willingness w.<hi rend="superscript">th</hi> which he <add>travlled</add> plagued himself every Day; how he executed the most <note
-                  type="catchword">heavy[?] &amp;</note>
+               <corr>Sorrowful</corr> Activity, &amp; the Glad &amp; Willingness w.<hi rend="superscript">th</hi> which he <add>travlled</add> plagued himself every Day; how he executed the most <note type="catchword">heavy[?] &amp;</note>
             </p>
          </div>
          <div type="page" n="7">
-            <head>Page 7 <seg ana="MemBeth_0115-07" />
+            <head>Page 7 <seg ana="MemBeth_0115-07"></seg>
             </head>
             <p> heavy &amp; intricate Commissions (but necessary for the Safety of the Work of our Saviour) by the english Lords, who very often in the Begin grew impatient, but were cooled &amp;
                friendly again by his humble &amp; obliging Temper, that he at last <sic>allways</sic>
@@ -288,7 +933,7 @@
             </p>
          </div>
          <div type="page" n="8">
-            <head>Page 8 <seg ana="MemBeth_0115-08" />
+            <head>Page 8 <seg ana="MemBeth_0115-08"></seg>
             </head>
             <p>
                <date>1756</date>. He got a Call to <placeName>Hhuth</placeName>, where he stay'd this Year to rest himself till <date>1757</date>. When he receiveth <sic>a</sic>
@@ -299,18 +944,14 @@
                   <placeName>Egypt</placeName>, arrive the <date>28<hi rend="superscript">th</hi> of May</date> at <placeName>Alexandria</placeName> &amp; the <date>6<hi rend="superscript">th</hi> of
                   June</date> by our <persName>Brethren Hocher</persName> &amp; <persName>Pilder</persName> at <placeName>Cairo</placeName>; what <sic>a</sic>
                <corr>an</corr> unexpected <sic>Joyfull</sic>
-               <corr>Joyful</corr> News it was to them to see a Brother from the Con- gregation there, is easily to be imagind; it contributed not a little to <persName>B.</persName><hi
-                  rend="superscript"><persName>r</persName></hi><persName> Hockers</persName> Recovery from his very hard Sicknes. Our B.<hi rend="superscript">r</hi> visited not only the
+               <corr>Joyful</corr> News it was to them to see a Brother from the Con- gregation there, is easily to be imagind; it contributed not a little to <persName>B.</persName><hi rend="superscript"><persName>r</persName></hi><persName> Hockers</persName> Recovery from his very hard Sicknes. Our B.<hi rend="superscript">r</hi> visited not only the
                   <orgName>Patriarch of the Coptes</orgName>, but had to three different times <sic>Conferenzes</sic>
                <corr>Conferences</corr> with the<orgName> Patriarch of the Greeks</orgName> at <placeName>Cairo</placeName>, by whom he got <sic>a</sic>
                <corr>an</corr> Opportunity to become <sic>aquainted</sic>
                <corr>acquainted</corr> with the Arch-Bishop of Libien. After he made himself several more <sic>Aquaintances</sic>
-               <corr>Acquaintances</corr> there, by whom he took especial Pain to get some true Account about the Copts &amp; Abysineers, &amp; was by a little Sickness some Day <hi
-                  rend="strikethrough">long</hi> more detained, he set out on Foot the <date>7</date><hi rend="superscript"><date>th</date></hi><date> of July</date>, had from
-                  <placeName>Rosetta</placeName> to <placeName>Alexandria</placeName> a very difficult Road to pass &amp; arrived there the <date>4</date><hi rend="superscript"
-                  ><date>th</date></hi><date> of August</date> &amp; put himself on Board of a <sic>shweedish</sic>
-               <corr>Swedish</corr> Ship. He had by reason of the War a very long &amp; dangerous Voyage, but arrived <note type="catchword">at last the <date>18</date><hi rend="superscript"
-                        ><date>th</date></hi><date> Sept</date>.</note>
+               <corr>Acquaintances</corr> there, by whom he took especial Pain to get some true Account about the Copts &amp; Abysineers, &amp; was by a little Sickness some Day <hi rend="strikethrough">long</hi> more detained, he set out on Foot the <date>7</date><hi rend="superscript"><date>th</date></hi><date> of July</date>, had from
+                  <placeName>Rosetta</placeName> to <placeName>Alexandria</placeName> a very difficult Road to pass &amp; arrived there the <date>4</date><hi rend="superscript"><date>th</date></hi><date> of August</date> &amp; put himself on Board of a <sic>shweedish</sic>
+               <corr>Swedish</corr> Ship. He had by reason of the War a very long &amp; dangerous Voyage, but arrived <note type="catchword">at last the <date>18</date><hi rend="superscript"><date>th</date></hi><date> Sept</date>.</note>
             </p>
             <p> at last the <date>18</date><hi rend="superscript"><date>th</date></hi><date> Sept</date>. happy at <placeName>Livorno</placeName>. After having <sic>past</sic>
                <corr>passed</corr> the usual Quarantine on Board, set out the Month following for <placeName>Florence</placeName>, <placeName>Rome</placeName>, <placeName>Neaple</placeName>
@@ -327,14 +968,13 @@
                <corr>gracious</corr> Guards, Safety &amp; Mercy bestowed on poor me this whole Year, in so many Dangers by Sea &amp; Land. He was in every Distress at Hand &amp; <add>tented me</add>
                like a fond Mother her poor weak Child. I lay'd myself, Family &amp; dear B.<hi rend="superscript">rn</hi> &amp; Sisters anew on his Heart in the whole World. He was very near to me
                &amp; my Heart was full of Joy about his <sic>deer</sic>
-               <corr>dear</corr> Wounds &amp; by this tender feeling I slept into the New-Year; with this firm Resolution, to remain his own Property with whom he may do as he pleaseth. A<hi
-                  rend="superscript">o</hi>. <date>1759</date> He returnd over <placeName><sic>Viena</sic></placeName>
+               <corr>dear</corr> Wounds &amp; by this tender feeling I slept into the New-Year; with this firm Resolution, to remain his own Property with whom he may do as he pleaseth. A<hi rend="superscript">o</hi>. <date>1759</date> He returnd over <placeName><sic>Viena</sic></placeName>
                <corr><placeName>Vienna</placeName></corr>; <placeName>Praga</placeName> to <placeName>Hhuth</placeName>
                <note type="catchword">&amp; had</note>
             </p>
          </div>
          <div type="page" n="9">
-            <head>Page 9 <seg ana="MemBeth_0115-09" />
+            <head>Page 9 <seg ana="MemBeth_0115-09"></seg>
             </head>
             <p> and had the Pleasure to find himself amongst his flock again (after <sic>a</sic>
                <corr>an</corr>
@@ -346,26 +986,21 @@
                <corr>Afterwards</corr> a sudden Alteration took Place on our B.<hi rend="superscript">r</hi> he became pleasing amiable &amp; <persName>Sinerlicke</persName> took Notice of all
                Remembrances of his Brethren &amp; was full of Tenderness, to the Heart Toy of all his <sic>Aquaintances</sic>
                <corr>Acquaintances</corr>, they thought our Sav.<hi rend="superscript">r</hi> prepared him anew for the sacred Service of his Church. All they Servants of our Church <sic>knowed</sic>
-               <corr>knew</corr> his Talent very well &amp; only waited for the right Moment in this respect <hi rend="strikethrough">to</hi> pointed out by their Master. But at once our Sav.<hi
-                  rend="superscript">r</hi> decideth, that He would not call him from his Sabbath for more Work again, but in his eternal Rest &amp; Safety.</p>
+               <corr>knew</corr> his Talent very well &amp; only waited for the right Moment in this respect <hi rend="strikethrough">to</hi> pointed out by their Master. But at once our Sav.<hi rend="superscript">r</hi> decideth, that He would not call him from his Sabbath for more Work again, but in his eternal Rest &amp; Safety.</p>
             <p> Our B.<hi rend="superscript">r</hi>
                <sic>toock</sic>
                <corr>took</corr> notice <hi rend="strikethrough">[?]</hi> of himself of a unusual Weakness of his Body since last Winter, but Nobody else could observe it because of his lively &amp;
                nimble Temper. However he very often spoke w.<hi rend="superscript">th</hi> his Wife of his going Home, &amp; put several Things in her Mind which he would to be done after his
-               Departure &amp; that a a good While before his last Sickness. Sometimes he uttereth to her: Weak as you are, it is very possible that I go home before you. His last sickness begun <note
-                  type="catchword">the 17<hi rend="superscript">th</hi></note>
-               <pb type="double_right" /> the <date>17</date><hi rend="superscript"><date>th</date></hi><date> of Apr</date>. but the <date>19</date><hi rend="superscript"><date>th</date></hi> was
+               Departure &amp; that a a good While before his last Sickness. Sometimes he uttereth to her: Weak as you are, it is very possible that I go home before you. His last sickness begun <note type="catchword">the 17<hi rend="superscript">th</hi></note>
+               <pb type="double_right"></pb> the <date>17</date><hi rend="superscript"><date>th</date></hi><date> of Apr</date>. but the <date>19</date><hi rend="superscript"><date>th</date></hi> was
                still at the <add>meeting</add> Hall in Hope to enjoy once more w.<hi rend="superscript">th</hi> his Choir our Lords Supper, but could not hold it out &amp; was forced to go home &amp;
                partake it w.<hi rend="superscript">th</hi> his Wife. </p>
             <p> They following Days he grew better &amp; the <date>29</date><hi rend="superscript"><date>th</date></hi> he <sic>toock</sic>
                <corr>took</corr> a Walk again; but the <date>2</date><hi rend="superscript"><date>d</date></hi><date>. of May</date> in the Night a sudden Pleuresie set on him, that Nobody thought he
                could live till Morning. On all Sign could be observed that he was ready to go, &amp; when Others made some Hope of his Recovery, his Heart thought quite reverse. He was by his
-               excessive Pain full of Love, friendly &amp; patient, that it was a Heart Pleasure to behold him. He begged &amp; desireth by every B.<hi rend="superscript">r</hi> &amp; Sist.<hi
-                  rend="superscript">r</hi> who visited him, to love him &amp; think on him before our dear Saviour. He <hi rend="strikethrough">himself</hi> amused himself w.<hi rend="superscript"
-                  >th</hi> his dear &amp; bloody redeemer in <sic>Sylence</sic>
+               excessive Pain full of Love, friendly &amp; patient, that it was a Heart Pleasure to behold him. He begged &amp; desireth by every B.<hi rend="superscript">r</hi> &amp; Sist.<hi rend="superscript">r</hi> who visited him, to love him &amp; think on him before our dear Saviour. He <hi rend="strikethrough">himself</hi> amused himself w.<hi rend="superscript">th</hi> his dear &amp; bloody redeemer in <sic>Sylence</sic>
                <corr>Silence</corr>. Once he sigheth: Deine Marter Angst und Stich, O Herr Jesu trösten mich! The excessive Heat surrounded his Senses, but asoon any Body spoke to him, he directly was
-               present to himself; &amp; so he continued to the <date>7</date><hi rend="superscript"><date>th</date></hi> in the Afternoon between one &amp; two a Clock when he w.<hi
-                  rend="superscript">th</hi> the Blessings of the Congregat.<hi rend="superscript">n</hi> (which <persName>B.</persName><hi rend="superscript"><persName>r</persName></hi><persName>
+               present to himself; &amp; so he continued to the <date>7</date><hi rend="superscript"><date>th</date></hi> in the Afternoon between one &amp; two a Clock when he w.<hi rend="superscript">th</hi> the Blessings of the Congregat.<hi rend="superscript">n</hi> (which <persName>B.</persName><hi rend="superscript"><persName>r</persName></hi><persName>
                   Leonhard</persName> beflowed on him) went in Peace to his dear Lord, after 49 years, of his Pilgrimage.</p>
          </div>
       </body>

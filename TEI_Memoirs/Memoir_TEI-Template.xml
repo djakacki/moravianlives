@@ -1,6 +1,4 @@
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -40,6 +38,11 @@
                <resp>Research Assistant and encoder</resp>
             </respStmt>
             <respStmt>
+               <persName>Jess Hom</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
                <persName>Marita Gruner</persName>
                <orgName>University of Greifswald</orgName>
                <resp>Encoder</resp>
@@ -71,9 +74,9 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir" ana="#">Name</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                 <!-- <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />-->
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -84,8 +87,9 @@
          <div type="memoir">
             <head>name</head>
             <div type="page" n="1">
-               <head type="page" ana="Repo#_page# from GitHub">1</head>
-               <p> </p>
+              <head type="page">1</head>
+               <pb n="1" facs="url"/>
+               <p>PAGE TEXT HERE</p>
             </div>
          </div>
       </body>

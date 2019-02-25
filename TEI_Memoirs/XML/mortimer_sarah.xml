@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   
+         
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sarah Mortimer: Memoir</title>
+            <funder>The Moravian Lives Project</funder>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+               <address>
+                  <addrLine>Lewisburg, Pennsylvania</addrLine>
+               </address>
+               <email>faull@bucknell.edu</email>
+            </principal>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+               <address>
+                  <addrLine>Gothenburg, Sweden</addrLine>
+               </address>
+               <email>christer.ahlberger@history.gu.se</email>
+            </principal>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Project Manager</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Michael McGuire</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Developer</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carly Masonheimer</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jess Hom</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marita Gruner</persName>
+               <orgName>University of Greifswald</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sarah Kannemann</persName>
+               <orgName>University of Mainz</orgName>
+               <resp>Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <orgName>The Moravian Archives</orgName>
+               <address>
+                  <addrLine>41 West Locust Street</addrLine>
+                  <addrLine>Bethlehem, PA 18018-2757</addrLine>
+                  <addrLine>info@moravianchurcharchives.org</addrLine>
+               </address>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Moravian Lives Project</distributor>
+            <availability>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Repository Name</repository>
+                  <msName type="memoir" ana="#">Name</msName>
+                  <!--  &lt;msName facs="http://moravianlives.bucknell.edu/##-01.jpg" /&gt;
+                  &lt;msName facs="http://moravianlives.bucknell.edu/##-02.jpg" /&gt;
+                  &lt;msName facs="http://moravianlives.bucknell.edu/##-03.jpg" /&gt; -->
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text type="memoir">
+      <body xml:lang="en">
+         <div type="memoir">
+            <head>Sarah Mortimer</head>
+            <div type="page" n="1">
+               <head type="page">1</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-01.jpg" />
+               <p>PAGE TEXT HERE</p>
+            </div>
+            <div type="page" n="2">
+               <head type="page">2</head>
+               <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-02.jpg" />
+               <p>PAGE TEXT HERE</p>
+            </div>
+            <div type="page" n="3">
+               <head type="page">3</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-03.jpg" />
+               <p>PAGE TEXT HERE</p>
+            </div>
+            <div type="page" n="4">
+               <head type="page">4</head>
+               <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_2Mortimer-04.jpg" />
+               <p><lg>
+                     <l>"And readily grants me relief:</l>
+                     <l>"By faith I behold in his wounds</l>
+                     <l>"A cure for my sins and self-will;</l>
+                     <l>"His goodness towards me abounds,</l>
+                     <l>"And his hand is held over me still."</l>
+                  </lg>During her confinement she injoyed twice the H. Com<hi rend="superscript">n</hi> which was a great refreshement and strengthening to her. She loved &amp; was beloved, &amp; was
+                  truly thankful for every kindness shown towards her. She bore her pains with great <del>petions</del>
+                  <add place="above">patience</add>, and often said: "Dear Saviour! help me," and also asked her friends to pray for her. [?] the happy moment came when she was permitted to leave this
+                  world, and see him face to face in whom she here believed. Aged 30 years &amp; 6 Months.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

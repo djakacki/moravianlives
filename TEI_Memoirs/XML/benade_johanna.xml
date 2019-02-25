@@ -6,8 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Johanna Benade: Memoir <lang>English</lang>
-            </title>
+            <title>Johanna Benade: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -97,9 +96,8 @@
          <div type="memoir">
             <head>Johanna Benade</head>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="MemLon_300029-01" />
-               </head>
-               <p> Life of the married Sister <persName>Johannah Eleono- ra Benade</persName>, who departed this life at <placeName>London</placeName>
+               <head type="page" ana="MCH/MemLon_300029-01">1</head>
+               <p> Life of the married Sister <persName>Johannah Eleonora Benade</persName>, who departed this life at <placeName>London</placeName>
                   <date>January 7<hi rend="superscript">th</hi> 1792</date> She has left the following written Account measuring her course <abbr>thro</abbr> this life. I was born <date>October 22<hi
                         rend="superscript">d</hi> 1756</date> at <placeName>Eubau (Iboro)</placeName> in <placeName>Upper Lusatia</placeName> &amp; baptized the <date>26<hi rend="superscript"
                      >th</hi></date> in the Lutheran Church. My dear Parents, who led a pious life, and as members of the <orgName>Brethren&#39;s Society</orgName> visited diligently at
@@ -110,8 +108,7 @@
                   Oeconomy and was greatly delighted, when they taught me </p>
             </div>
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemLon_300029-02" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-02">2</head>
                <p>[?]erses and times; yea, I left them always with reluctance, when my parents returned home, and begged my Father, to let me stay with such happy Children, who told me so much of our
                   Savior. He replied: if I would entreat our Savior for it, he would certainly hear me, which I did in good earnest. About this time I got the small pox, and nobody expected I should
                   recover; however, in a short time I was restored. But having had a small pox in the eye, it made my eye sore for a whole year, &amp; I was in great danger of losing it; at length
@@ -123,8 +120,7 @@
                </p>
             </div>
             <div type="page" n="3">
-               <head>Page 3 <seg ana="MemLon_300029-03" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-03">3</head>
                <p>in order to render upon her knees cordial tha[?] to our Savior for all the mercy &amp; faithfulness, she had experienced from Him &amp; to recommend her Children unto Him for the
                   last time in this vale of tears. Soon after she departed hap_ pily as a reconciled Sinner ~ My oldest Sister - <abbr>S.</abbr><hi rend="superscript"><abbr>r</abbr></hi>
                   <persName>Rose</persName> in <placeName>Labrador</placeName> - undertook to act mother&#39;s part towards me &amp; my youngest Brother and bestowed much care &amp; faithfulness upon
@@ -137,8 +133,7 @@
                   in general </p>
             </div>
             <div type="page" n="4">
-               <head>Page 4 <seg ana="MemLon_300029-04" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-04">4</head>
                <p>[??]r that time a blessed Course among the Child_ ren and I can never think of it without particular gratitude both to our Savior &amp; to my father, who regarded no expence expense
                   to have me secured from the Seduction of the world. By degrees I came into a very familiar intercourse with the Friend of Children, &amp; I scarcely closed a day without begging our
                   Savior&#39;s pardon for all that might have grieved him in the course of the day. On our festival the <date>17<hi rend="superscript">th</hi> of <abbr>Aug</abbr>. 1767</date> I
@@ -151,8 +146,7 @@
                </p>
             </div>
             <div type="page" n="5">
-               <head>Page 5 <seg ana="MemLon_300029-05" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-05">5</head>
                <p>my future course to Him &amp; His holy Spirit with particular concern, because I knew very well that my happy Childhood, in which I had not felt much of misery &amp; sinfulness, was
                   now past. But still I went on in my childlike course for a whole Year, &amp; was received into the <abbr>Cong.</abbr><hi rend="superscript"><abbr>n</abbr></hi>
                   <date>July 2<hi rend="superscript">d</hi> 1769</date>. But now I <sic>learnt</sic><corr>learned</corr> in the School of the holy Ghost gradually to discover the wretchedness &amp;
@@ -163,8 +157,7 @@
                   richly comforted by him and recovered my former cheerfulness. </p>
             </div>
             <div type="page" n="6">
-               <head>Page 6 <seg ana="MemLon_300029-06" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-06">6</head>
                <p>Meanwhile my Father was married a second time and <placeName>Gnadau</placeName> being fixed upon as his future place of abode: it was thought proper, that he should take his Children
                   with him, both for his assistance &amp; for their further education. <date>March 17<hi rend="superscript">th</hi> 1770</date> we arrived in <placeName>Gnadau</placeName>. This place
                   was then in its first beginning; not only the outward Subsistance was difficult, but there was also a want of spiritual encouragement, which made me regret
@@ -177,8 +170,7 @@
                </p>
             </div>
             <div type="page" n="7">
-               <head>Page 7 <seg ana="MemLon_300029-07" />
-               </head>
+               <head type="page" ana="MCH/MemLon_300029-07">7</head>
                <p>a blessed impression upon my heart. After his departure I fell upon my knees &amp; entreated our Savior, to take me as a f[???] Orphan under his special Care and to enably me by his
                   grace to follow the steps of my Father. I now moved into the Sisters house, where we labored under great diss[???] outwardly, having frequently no work; but the inward [????] was
                   truly pleasing and I can remember, that frequently a posti_ [???] emotion took place, when but a few [???] were singing for an [????] blessing. In <date>1774</date> I was received
@@ -188,7 +180,7 @@
                   to see my [????] &amp; sinfulness in the true light. How did [??] suffer me to [???] and to [????] [????], but filled my heart with inexpressible comfort and [???] </p>
             </div>
             <div type="page" n="8">
-               <head>Page 8 <seg ana="MemLon_300029-08" /></head>
+               <head type="page" ana="MCH/MemLon_300029-08">8</head>
                <p>It was now my chief concern, to have a full enjoyment of the maritorious life, sufferings and death of our Savior and to apply his merits to my individual Case. In process of time I
                   conceived a doubt, whether I had really experienced the new birth of the heart, and I would often by weeping and praying extort, as it were, some ocular demonstration of it; but our
                   Savior&#39;s will was, I <abbr>shou&#39;d</abbr> believe, without seeing. Some time after it happened at the holy Communion, at the pronouncing of those Words: <hi rend="underline"
@@ -200,7 +192,7 @@
                </p>
             </div>
             <div type="page" n="9">
-               <head>Page 9 <seg ana="MemLon_300029-09" /></head>
+               <head type="page" ana="MCH/MemLon_300029-09">9</head>
                <p>antly comforted, &amp; from that time no more desired my ocular demonstration. I went on for a considerable time in the blessed form of mind, and took a daily hour to [????] with our
                   Savior about all my [???]. As long as I faithfully kept to it, and suffered no business to in[???], I continued in a happy [???] and no coldness took place between Him &amp; me yea
                   our Savior frequently granted me such unexpected visitations of grace, that I [???] not have taken the whole world in [????] for my happiness. How a desire was raised in my Soul: Oh
@@ -210,7 +202,7 @@
                   with [?] Children, for which I felt no great [???]_ nation at first, being well aware, that it is </p>
             </div>
             <div type="page" n="10">
-               <head>Page 10 <seg ana="MemLon_300029-10" /></head>
+               <head type="page" ana="MCH/MemLon_300029-10">10</head>
                <p>a difficult and important Charge, requiring much patience and wisom, to act towards the Children in such a manner, as to give them no <sic>offence</sic>
                   <corr>offense</corr>, but rather prove a blessing to them. Self-love also suggested the thought: hitherto thou couldst go on unobservedly, but now thou wilt be exposed to the
                   criticisms of others. However I was heartily ashamed of it &amp; thought: what a poor Creature am I? I vowed, to sacrifice my life for our Savior, and now, when it comes to the
@@ -221,7 +213,7 @@
                </p>
             </div>
             <div type="page" n="11">
-               <head>Page 11 <seg ana="MemLon_300029-11" /></head>
+               <head type="page" ana="MCH/MemLon_300029-11">11</head>
                <p>be <abbr>remember&#39;d</abbr> by me as a distinguished day of blessing. I mean the <date>4<hi rend="superscript">th</hi> of May</date>, when it was 50 Years since the single Sisters
                   had made this first Covenant. When we kept the Lord&#39;s Supper at the close of the day, and I renewed that Covenant with our Savior, which I had made so often with him, to seek for
                   nothing in the world, but how I might be His with soul &amp; body, with an earnest desire, that each drop of blood might be devoted to Him; I felt the peace of God in such a manner,
@@ -232,7 +224,7 @@
                </p>
             </div>
             <div type="page" n="12">
-               <head>Page 12 <seg ana="MemLon_300029-12" /></head>
+               <head type="page" ana="MCH/MemLon_300029-12">12</head>
                <p>this great and important change, and being convinced, that it was according to the gracious will of God, I gave my consent to it. Relative to my course in this Choir I have thousand
                   reasons to thank our Savior for having given me such a guide through life, who under all circumstances and amidst many failings and infirmities has bor<add>n</add>e me with great
                   love and patience, &amp; has endeavored to promot the welfare of my Soul as well as he could. In the first Year of our marriage a little Son was born to us, whom our Savior took to
@@ -243,7 +235,7 @@
                </p>
             </div>
             <div type="page" n="13">
-               <head>Page 13 <seg ana="MemLon_300029-13" /></head>
+               <head type="page" ana="MCH/MemLon_300029-13">13</head>
                <p>How our good Lord, who has been my light and stay throughout my whole life, will not leave me now forsake me till my dissolution, and when it finally comes to that issue: That I draw
                   my latest breath, And that Soul and body sever Them the <abbr>slaughter&#39;d</abbr> Lamb &amp; <abbr>display&#39;d</abbr> for me I shall see. So far her own Narrative. In her last
                   illness she desired expressly, that the follow declaration might be added to her written account: The holy Ghost at the end of my life has led me into a School of a very trying
@@ -252,7 +244,7 @@
                   late husband, the present Widower contains in the Narrative: The Seven Years of our married State, were, as it was, a connected CHain of difficult </p>
             </div>
             <div type="page" n="14">
-               <head>Page 14 <seg ana="MemLon_300029-14" /></head>
+               <head type="page" ana="MCH/MemLon_300029-14">14</head>
                <p>circumstances and trials of our faith, and in all this our wise Leader seemed to have the perfecting of our late Sister for her eternal rest principally in view. But a few days and
                   nights of hers during this period were free from pain &amp; affliction, and every rising hope was soon blasted again. At times she appeared to herself as appointed for trouble and I
                   myself was inclined to think the same. But the Lord was with her in all her tribulations and his comforts refreshed her Soul daily and richly, so that she could sometimes forget her
@@ -265,7 +257,7 @@
                </p>
             </div>
             <div type="page" n="15">
-               <head>Page 15 <seg ana="MemLon_300029-15" /></head>
+               <head type="page" ana="MCH/MemLon_300029-15">15</head>
                <p>to such a change of life and climate, and an account of the poor State of her health she found it no easy task to learn a new language in short this proved a new trial to her in all
                   respects. But she looked up to Him, who remembers his Servants and handmaids in affliction, who has numbered all their days and noted them down in his book; and whenever it appeared
                   to her as if she was entirely useless, she pos- sessed her Soul in patience and looked forward to the time, when she hoped to be Serviceable and active. Meanwhile the Cough she had
@@ -275,13 +267,13 @@
                   a most comfortable experience of the peace of God, we could take all the </p>
             </div>
             <div type="page" n="16">
-               <head>Page 16 <seg ana="MemLon_300029-16" /></head>
+               <head type="page" ana="MCH/MemLon_300029-16">16</head>
                <p>
                   <!-- Facsimile page missing from Transcription Desk. Page not transcribed -->
                </p>
             </div>
             <div type="page" n="17">
-               <head>Page 17 <seg ana="MemLon_300029-17" /></head>
+               <head type="page" ana="MCH/MemLon_300029-17">17</head>
                <p>her for the glory of the world to come. The holy Ghost discovered unto her all the remaining traces of her natural depravity and wrought such a Poverty of spirit in her, that she
                   gladly forgot all her good work and even wondered, how the <abbr>B.</abbr><hi rend="superscript"><abbr>rn</abbr></hi> &amp; <abbr>S.</abbr><hi rend="superscript"><abbr>rs</abbr></hi>
                   could show so much love and kindness to her; for which she was heartily thankful. The merits of Jesus Christ were exceedingly precious to her and his bitter sufferings afforded her
@@ -292,7 +284,7 @@
                   she said: I thank our Savior, that He has never suffered me, to be careless or indifferent about my Salvation, but has enabled me <abbr>thro</abbr>&#39; grace, </p>
             </div>
             <div type="page" n="18">
-               <head>Page 18 <seg ana="MemLon_300029-18" /></head>
+               <head type="page" ana="MemLon_300029-18">18</head>
                <p>to look upon it at all times as a most serious &amp; important affair, and to make my calling and diction sure. Now I reap the benefits from it, and can heartily rejoice, that the
                   grace of our Savior has not been frustrated by me. A b[???] hope of eternal life and of the glory, which is to be recreated, was an in[?]stionable jewel to her, and the joyful
                   prospect, to be soon at home with the Lord, and to see her Redeemer face to face, made her often forget her pains &amp; afflictions. She therefore frequently desired, to have such
@@ -303,7 +295,7 @@
                </p>
             </div>
             <div type="page" n="19">
-               <head>Page 19 <seg ana="MemLon_300029-20" /></head>
+               <head type="page" ana="MemLon_300029-20">19</head>
                <p>and be with Christ the former the better; but me with less took care, to settle all her matters &amp; to care for me to the very last day. Having gone <abbr>thro</abbr>&#39; so much
                   sickness [????], she [???] shot her last illness wou&#39;d be so much the shorter. But this not being the case, she was at times very much distressed, y[??] above[?] it in [?????]
                   about it. However she departed[??] to our Savior in prayer and begged me some- times to pray in fellowship with her, whereby she was remarkably refreshed &amp; comforted. She
@@ -313,7 +305,7 @@
                   read to her several times and desired also [???] [???] much comfort, rejoicing in the [???] [???] [???] whenever she reacted a [???] [???] of her illness. </p>
             </div>
             <div type="page" n="20">
-               <head>Page 20 <seg ana="MemLon_300029-22" /></head>
+               <head type="page" ana="MemLon_300029-22">20</head>
                <p>She loved to be visited by the B<hi rend="superscript">rn</hi> &amp; S<hi rend="superscript">rn</hi>, but was too weak for a long conversation. All disagreeable things, that had
                   occurred, she could lay aside and rejoice that she was at peace with every boy, and that she would soon come to that perfected Cong<hi rend="superscript">n</hi>, where all is peace
                   and harmony. Many of those, that came to see her, were edified by her meekness and patience and declared, that the peace of God, which (??) her heart, was to be seen inher
@@ -326,7 +318,7 @@
                </p>
             </div>
             <div type="page" n="21">
-               <head>Page 21 <seg ana="MemLon_300029-23" /></head>
+               <head type="page" ana="MemLon_300029-23">21</head>
                <p> At length the long wish'd for hour of her happy dissolution arrived when his sufferings seemed to have risen to the highest degree.</p>
                <p>Some days before, after having once in the middle of the night prayed most affectingly to our Savior, she said: now the time of my departure is at hand, he himself has given me a
                   most comfortable assurance of it. From that time her patience under increasing Sufferings was truly admirable, so that Sometimes I was inclined to think she was without any pains,
@@ -338,7 +330,7 @@
                   had many </p>
             </div>
             <div type="page" n="22">
-               <head>Page 22 <seg ana="MemLon_300029-24" /></head>
+               <head type="page" ana="MemLon_300029-24">22</head>
                <p>times expressed a wish, that she might not be a dishonor to our Savior by unbelief &amp; impatience in her last hours, but that she might deport herself as a Child of God to the very
                   last. This grace was granted unto her and her latter end was truly edifying. She retain'd her presence of mind to the last hour, folding her feeble hands and praying without ceasing;
                   she also begged of us, that were present, to continue singing and praying; &amp; when I gave her the last blessing for her departure, she was much affected. I asked her once more:
