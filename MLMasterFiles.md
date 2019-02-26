@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1KJ0nmsttruL5WBt6-UBxnoni3A-iUIhI0jSNg0sRndY/
 Moravian Lives personography:
 http://moravianlives.bucknell.edu/data/personography.html
 (very much in progress!)
+
+CWRC Writer encoding instructions:
+https://github.com/djakacki/moravianlives/blob/master/TEI_Memoirs/CWRC%20Encoding%20Instructions.md
