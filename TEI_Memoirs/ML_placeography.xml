@@ -37,7 +37,7 @@
             <respStmt>
                <persName>Marleina Cohen</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and encoder</resp>
+               <resp>Research Assistant and encoder, 2018-19</resp>
             </respStmt>
             <respStmt>
                <persName>Marita Gruner</persName>
@@ -48,6 +48,11 @@
                <persName>Sarah Kannemann</persName>
                <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
+            </respStmt>            
+            <respStmt>
+               <persName>Justin Schaumberger</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant, encoder, ontologist, 2019-Present</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -67,7 +72,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p></p>
+            <p />
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -75,16 +80,14 @@
       <body xml:lang="en">
          <listPlace>
             <place xml:id="mlpla000001">
-               <placeName>Herrnhut, Moravia
-                  <ptr target="#mlpla000001"/>
+               <placeName>Herrnhut, Moravia <ptr target="#mlpla000001" />
                </placeName>
-               <idno sameAs="Geonames"/>
+               <idno sameAs="Geonames" />
             </place>
             <place xml:id="mlpla000002">
-               <placeName>Bethlehem, Pennsylvania
-                  <ptr target="#mlpla000002"/>
+               <placeName>Bethlehem, Pennsylvania <ptr target="#mlpla000002" />
                </placeName>
-               <idno sameAs="Geonames"/>
+               <idno sameAs="Geonames" />
             </place>
          </listPlace>
       </body>
