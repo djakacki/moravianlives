@@ -25,21 +25,21 @@
             <respStmt>
                <persName>Michael McGuire</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Developer</resp>
+               <resp>Developer, 2016-Present</resp>
             </respStmt>
             <respStmt>
                <persName>Carly Masonheimer</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and encoder</resp>
+               <resp>Research Assistant and encoder, 2018-Present</resp>
             </respStmt>
             <respStmt>
                <persName>Marleina Cohen</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and encoder</resp>
+               <resp>Research Assistant and encoder, 2018-2019</resp>
             </respStmt>
             <respStmt>
                <persName>Jess Hom</persName>
-               <orgName>Bucknell University</orgName>
+               <orgName>Bucknell University, 2018-Present</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
             <respStmt>
@@ -51,6 +51,11 @@
                <persName>Sarah Kannemann</persName>
                <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Justin Schaumberger</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant, encoder, ontologist, 2019-Present</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -74,7 +79,7 @@
                <msIdentifier>
                   <repository>Repository Name</repository>
                   <msName type="memoir" ana="#">Name</msName>
-                 <!-- <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
+                  <!-- <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />-->
                </msIdentifier>
@@ -87,8 +92,8 @@
          <div type="memoir">
             <head>name</head>
             <div type="page" n="1">
-              <head type="page">1</head>
-               <pb n="1" facs="url"/>
+               <head type="page">1</head>
+               <pb n="1" facs="url" />
                <p>PAGE TEXT HERE</p>
             </div>
          </div>
