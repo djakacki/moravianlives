@@ -444,7 +444,8 @@
             </person>
 
 
-            <person xml:id="mlper000218">
+            <listPerson>
+               <person xml:id="mlper000218">
                <persName>Hannah Ashley</persName>
                <!-- Not finished yet. Asked question on google doc  -->
                
@@ -504,7 +505,14 @@
                   d 05.05.1761 aged 20, interred Fulneck by Br B La Trobe 07.05.1761
                   grave 188 - 1st section, 6th row, 3rd grave from path</note>
             </person>
-            <person xml:id="mlper000219">
+               
+               <listRelation>
+                  <relation type="personsal" name="daughter"></relation><!-- #mlper000351 #mlper000352 -->
+                  <relation type="personal" name="sister"><desc>Mary, Martha, Joshua, Sarah, Betty, and Benigna</desc></relation> <!-- #mlper000353 #mlper000354 #mlper000355 #mlper000356 #mlper000357 #mlper000358 -->
+               </listRelation>
+            
+            </listPerson>
+            <listPerson><person xml:id="mlper000219">
                <persName>Abigail Bentley</persName>
                <birth>
                   <date type="birth" when-iso="1722-09-23">23 September, 1722 </date>
@@ -559,20 +567,64 @@
                   transferred society Holme 1752, received congregation Yorkshire in Fulneck 13.11.1752, new sisters’ house Fulneck 15.12.1752, sacrament Yorkshire in Fulneck 27.01.1754, founder member Fulneck congregation 19.04.1755
                   d 07.12.1766 aged 44 sisters’ house Fulneck, interred Fulneck by Br B La Trobe 10.12.1766 grave 307 - 1st section, 11th row, 7th grave from path</note>
             </person>
-            <person xml:id="mlper000220">
+               
+            </listPerson>
+            <listPerson>
+               <person xml:id="mlper000220">
                <persName>Mary Bird</persName>
                <!-- I could not find her(I am assuming she is married) -->
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/50</bibl>
             </person>
-            <person xml:id="mlper000221">
+            </listPerson>
+            <listPerson>
+               <person xml:id="mlper000221">
                <persName>Elizabeth Booth</persName>
-               <!-- There are two Elizabeth Booth. Idk which one this is supposed to be -->
+                  <birth>
+                     <date type="birth" when-iso="1735-09-11">11 September, 1735</date>
+                     <placeName>Mirfield</placeName>
+                  </birth>
+                  <death>
+                     <date type="death" when-iso="1764-04-21">21 April, 1764</date>
+                     <placeName>Fulneck</placeName>
+                  </death>
+                  <education when-iso="1748"><placeName>girls' school Row Head</placeName></education>
+                  <event type="babtized">
+                     <desc>
+                        <date when-iso="1735-09-14" calendar="Julian">14 September, 1735</date>
+                        <date when-iso="1735-09-25" calendar="Gregorian">25 September, 1735</date>
+                        <placeName>St Mary's Church Mirfield</placeName>
+                     </desc>
+                  </event>
+                  <event type="reception" when-iso="1752-11-13"><desc>recieved congregation <placeName>Yorkshire in Fulneck</placeName></desc></event>
+                  <event when-iso="1752-12-30"><desc><placeName>sisters' house Fulneck</placeName></desc></event>
+                  <event type="sacrament" when-iso="1753-09-09"><desc><placeName>Yorkshire in Fulneck</placeName></desc></event>
+                  <!--  Is "founder member Fulneck congregation 19.04.1755" an event that should be tagged?-->
+                    
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/39</bibl>
+                  <note>(W/F)BOOTH, Elizabeth (Betty) (1735-1764)
+                     b 11.09.1735 Mirfield
+                     educated: girls’ school Row Head 1748
+                     reception: baptized St Mary’s Church Mirfield 14.09.1735 (OS) / 25.09.1735 (NS),
+                     received congregation Yorkshire in Fulneck 13.11.1752,
+                     sisters’ house Fulneck 30.12.1752, sacrament Yorkshire in Fulneck 09.09.1753, founder member Fulneck congregation 19.04.1755,
+                     congregation office: intercessor Fulneck
+                     family: daughter of Thomas Booth (b 1708) and Mary (née Hoykard) (b 1706),
+                     granddaughter of David Booth,
+                     sister of Joseph (b 1730, Martha (b 1738) and Matthew (b 1741), sister-in-law of Mary (née Robinson) (b 1730)
+                     d 21.04.1764 aged 28 Fulneck, interred Fulneck by Br J Charlesworth 24.04.1764 grave 265 - 1st section, 9th row, 7th grave from path</note>
             </person>
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation> <!--#mlper000359 #mlper000360  -->
+                  <relation type="personal" name="granddaughter"></relation><!-- #mlper000361 -->
+                  <relation type="personal" name="sister"></relation><!-- #mlper000362 #mlper000363 #mlper000364 -->
+                  <relation type="personnal" name="sister-in-law"></relation><!--#mlper000365  -->
+               </listRelation>
+            </listPerson>
             
-            <person xml:id="mlper000222">
+            <listPerson>
+               <person xml:id="mlper000222">
                <persName>Rachel Bradley</persName>
                <birth>
                   <date type="birth" when-iso="1742-10-04" calendar="Julian">4 October, 1742</date>
@@ -587,15 +639,15 @@
                <event type="babtized"><desc><placeName>Church of England</placeName></desc>
                </event>
                
-               <event when-iso="1758-05-21"><desc>sisters' house <placeName>Gomersal</placeName></desc></event>
+               <event when-iso="1758-05-21"><desc><placeName>sisters' house Gomersal</placeName></desc></event>
                
-               <event when-iso="1759-11-11"><desc>sisters' house <placeName>Fulneck</placeName></desc></event>
+               <event when-iso="1759-11-11"><desc><placeName>sisters' house Fulneck</placeName></desc></event>
                
                <event when-iso="1759-11-13"><desc>recieved congregation <placeName>Fulneck</placeName></desc></event>
                
                <event type="sacrament" when-iso="1767-08-13"><desc><placeName>Fulneck</placeName></desc></event>
                
-               <event when-iso="1784"><desc>returnend sisters' house <placeName>Gomersal</placeName></desc></event>
+               <event when-iso="1784"><desc>returned<placeName>sisters' house Gomersal</placeName></desc></event>
                
                <!-- Should "not on Gomersal catalogue 1789" be an event? -->
                
@@ -614,8 +666,18 @@
                   aunt of John (b 1757), Richard (b 1760) and Elizabeth Bradley (b 1762)
                   d 30.08.1809 aged 66 Fulneck, interred Fulneck by Br S T Benade 02.09.1809 grave 1242 - 1st section, 53rd row, 2nd grave from path</note>
             </person>
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation> <!--#mlper000366 #mlper000367  -->
+                  <relation type="personal" name="granddaughter"></relation> <!--#mlper000368 #mlper000369  -->
+                  <relation type="personal" name="sister"></relation> <!-- #mlper000370 #mlper000371 #mlper000372 #mlper000373 #mlper000374 #mlper000375 #mlper000376 #mlper000377 #mlper000378 #mlper000379  -->
+                  <relation type="personal" name="sister-in-law"></relation> <!-- #mlper000381 -->
+                  <relation type="personal" name="aunt"></relation> <!--#mlper000382 #mlper000383 #mlper000384  -->
+               </listRelation>
+            </listPerson>
+            
             <!-- There are several Rachel Brook. I chose the one that matched the birth year and location as the google sheet -->
-            <person xml:id="mlper000223">
+            <listPerson>
+               <person xml:id="mlper000223">
                <persName>Rachel Brook</persName>
                <birth>
                   <date type="birth" when-iso="1744-04-28">28 April, 1744</date>
@@ -635,9 +697,9 @@
                </event>
                
                <event type="reception" when-iso="1758-08-30"><desc>recieved society <placeName>Gomersal</placeName></desc></event>
-               <event when-iso="1760-10-04"><desc>sisters' house <placeName>Fulneck</placeName></desc></event>
-               <event type="reception" when-iso="1761-05-11"><desc>recieved congregation <placeName>Fulneck</placeName></desc></event>
-               <event type="sacrament" when-iso="1762-05-08"><desc><placeName>Fulneck</placeName></desc></event>
+               <event when-iso="1760-10-04"><desc><placeName>sisters' house Fulneck</placeName></desc></event>
+               <event type="reception" when-iso="1761-05-11"><desc>recieved congregation <placeName ref="#mlpla000003">Fulneck</placeName></desc></event>
+               <event type="sacrament" when-iso="1762-05-08"><desc><placeName ref="#mlpla000003">Fulneck</placeName></desc></event>
                
                
 
@@ -656,16 +718,68 @@
                   d 16.11.1815 aged 71, interred Fulneck by Br C F Ramftler 20.11.1815
                   grave 1321 - 1st section, 57th row, 4th grave from path</note>
             </person>
-            <!-- There are two Alice Browns and I don't know which is the right one -->
-            <person xml:id="mlper000224">
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation><!--#mlper000384 #mlper000385  -->
+                  <relation type="personal" name="granddaughter"></relation><!--#mlper000386 #mlper000387  #mlper000388 -->
+                  <relation type="personal" name="niece"></relation><!--#mlper000389 #mlper000390  -->
+                  <relation type="personal" name="sister"></relation><!--#mlper000391 #mlper000392  #mlper000393 #mlper000394 #mlper000395  #mlper000396 #mlper000397-->
+               </listRelation>
+            </listPerson>
+            
+            
+            <listPerson>
+               <person xml:id="mlper000224">
                <persName>Alice Brown</persName>
+                  <birth>
+                     <date type="birth" calendar="Julian" when-iso="1720-02-24">24 Febuary, 1720</date>
+                     <date type="birth" calendar="Gregorian" when-iso="1721-03-07">7 March, 1721</date>
+                     <placeName>Newton Parish of Manchester</placeName>
+                  </birth>
+                  <death>
+                     <date type="death" when-iso="1779-06-14">14 June, 1779</date>
+                  </death>
+                  <event type="baptized"><desc><placeName>Church of England</placeName></desc></event>
+                  <event><desc>David Taylor's Society <placeName>Dunkinfield</placeName></desc></event>
+                  <event when-iso="1774"><desc>Moravian Society <placeName>Dukinfield</placeName></desc></event> <!-- January 1774 -->
+                  <event type="reception">
+                     <desc>
+                        recieved congregation
+                     <date calendar="Julian" when-iso="1746-06-08">8 June, 1746</date>
+                     <date calendar="Gregorian" when-iso="1746-06-19">19 June, 1746</date>
+                     </desc>
+                  </event>
+                  <event type="sacrament">
+                     <desc>
+                        <placeName>Yorkshire in Fulneck</placeName>
+                        <date calendar="Julian" when-iso="1747-09-06">6 September, 1747</date>
+                        <date calendar="Gregorian" when-iso="1747-09-17">17 September, 1747</date>
+                     </desc>
+                  </event>
+                  <!-- Are "sisters’ house Holme 1748, Grace Hall Fulneck 09.10.1750, sisters’ house Fulneck 15.12.1752,
+                  sisters’ house Dukinfield 06.10.1753" events or should they not be tagged at all? -->
+                  
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/13</bibl>
+               <note>(D/P/F)CBssBROWN, Elizabeth (Betty) (1721-1779)
+                  b 24.02.1720 (OS) / 07.03.1721 (NS) Newton Parish of Manchester resided: Newton 1721, Ashton-under-Lyne 1730, Dukinfield 1735 reception: baptized Church of England, David Taylor’s society Dukinfield,
+                  Moravian society Dukinfield January 1744,
+                  received congregation Yorkshire in Fulneck 08.06.1746 (OS) / 19.06.1746 (NS), sacrament Yorkshire in Fulneck 06.09.1747 (OS) / 17.09.1747 (NS),
+                  sisters’ house Holme 1748, Grace Hall Fulneck 09.10.1750, sisters’ house Fulneck 15.12.1752,
+                  sisters’ house Dukinfield 06.10.1753
+                  family: daughter of Francis Brown and Alice (née Whitaker),
+                  sister of Mary (b 1719), John (b 1723), Alice (b 1730), James (b 1735) and Hannah (b 1738) d 14.06.1779 aged 58, interred Dukinfield
+                  grave 85</note>
             </person>
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation><!--#mlper000398 #mlper000399  -->
+                  <relation type="personal" name="sister"></relation><!--#mlper000400 #mlper000401 #mlper000402 #mlper000403 #mlper000404 -->
+               </listRelation>
+            </listPerson>
             
             
             
-            <person xml:id="mlper000225">
+            <listPerson>
+               <person xml:id="mlper000225">
                <persName>Martha Calvert</persName>
                <birth>
                   <date type="birth" when-iso="1743-10-10">19 October, 1743</date>
@@ -674,7 +788,7 @@
                <death>
                   <date type="death" when-iso="1816-03-15">15 March, 1816</date>
                </death>
-               <occupation>spinneer</occupation>
+               <occupation>spinner</occupation>
                <event type="babtized">
                   <desc>
                      <date when-iso="1743-10-04" calendar="Julian">6 November, 1743</date>
@@ -699,6 +813,10 @@
                   d 15.03.1816 aged 72, interred Fulneck by Br C F Ramftler 18.03.1816
                   grave 1327 - 1st section, 58th row, 3rd grave from path</note>
             </person>
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation><!--#mlper000405  -->
+               </listRelation>
+            </listPerson>
             
             <!-- Does not exist in the giant list of Moravians -->
             <person xml:id="mlper000226">
@@ -726,7 +844,7 @@
                   <desc>
                      <date when-iso="1746-01-16" calendar="Julian">16 January, 1746</date>
                      <date when-iso="1747-01-27" calendar="Julian">27 January, 1747</date>
-                     left Lonndonn for Germany   
+                     left London for Germany   
                   </desc>
                </event>
                <event when-iso="1747"><desc>sisters' house <placeName>Herrnhaag</placeName></desc></event>
@@ -748,6 +866,7 @@
                   sacrament Herrnhaag January 1748, sisters’ house Pudsey May 1748,
                   Disciple’s House London July 1750-1751, Annenhof Holland January 1759,
                   Herrnhut 12.08.1759, returned England 13.10.1760
+                  
                   congregation office: intercessor Herrnhaag 1748, congregation servant Yorkshire 1748 church orders: received as acoluth and blessed as deaconess Annenhof Holland 24.05.1759 church service: single sisters’ choir servant and choir helper Yorkshire 1748 - July 1750,
                   single sisters’ labourer Dublin 1751, single sisters’ labourer North of Ireland 1752-1759, single sisters’ labour Bedford 13.10.1760, Lampeter c 1762, assistant labourer among single sisters and great girls of country congregations based Gomersal 16.01.1765 retired sisters’ house Fulneck 20.11.1769
                   family: daughter of George Cennick and Anna, sister of John (b 1718) and Anna (Stone), sister-in-law of Jane (née Bryant, later Moore) (b 1721) and ? Stone,
@@ -786,6 +905,7 @@
                      <date when-iso="1743-01-05" calendar="Gregorian">5 January, 1743</date>
                   </desc>
                </event>
+               
                
                
                
@@ -1160,6 +1280,229 @@
                <persName>Margaret (Mary) Woodhouse</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/66</bibl>
+            </person>
+            <person xml:id="mlper000351">
+               <persName>John Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000352">
+               <persName>Martha <surname type="maiden">Keighley</surname> Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000353">
+               <persName>Mary Southwell</persName>
+            </person>
+            <person xml:id="mlper000354">
+               <persName>Martha Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000355">
+               <persName>Joshua Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000356">
+               <persName>Sarah Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000357">
+               <persName>Betty Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000358">
+               <persName>Benigna Ashley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000359">
+               <persName>Thomas Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000360">
+               <persName>Mary <surname type="maiden">Hoykard</surname> Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000361">
+               <persName>David Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000362">
+               <persName>Joseph Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000363">
+               <persName>Martha Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000364">
+               <persName>Matthew Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000365">
+               <persName>Mary <surname type="maiden">Robinson</surname> Booth</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000366">
+               <persName>Benjamin Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000367">
+               <persName>Mary <surname type="maiden">Walker</surname> Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000368">
+               <persName>Robert Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000369">
+               <persName>Walker Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000370">
+               <persName>Richard Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000371">
+               <persName>Henry Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000372">
+               <persName>Job Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000373">
+               <persName>Elizabeth Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000374">
+               <persName>Benjamin Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000375">
+               <persName>John Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000376">
+               <persName>William Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000377">
+               <persName>Mary Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000378">
+               <persName>Grace Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000379">
+               <persName>John Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000380">
+               <persName>Susanna <surname type="maiden">Lee</surname> Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000381">
+               <persName>John Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000382">
+               <persName>Richard Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000383">
+               <persName>Elizabeth Bradley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000384">
+               <persName>John Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000385">
+               <persName>Alice Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000386">
+               <persName>William Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000387">
+               <persName>Hannah Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000388">
+               <persName>Samuel Kird</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000389">
+               <persName>Samuel Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000390">
+               <persName>Hannah Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000391">
+               <persName>John Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000392">
+               <persName>Hannah Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000393">
+               <persName>Sarah Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            
+            <person xml:id="mlper000394">
+               <persName>Elizabeth Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            
+            <person xml:id="mlper000395">
+               <persName>Anna Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            
+            <person xml:id="mlper000396">
+               <persName>Samuel Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000397">
+               <persName>Joshua Brook</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000398">
+               <persName>Francis Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000399">
+               <persName>Alice <surname type="maiden">Whitaker</surname> Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000400">
+               <persName>Mary Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000401">
+               <persName>John Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000402">
+               <persName>Alice Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000403">
+               <persName>James Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000404">
+               <persName>Hannah Brown</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000405">
+               <persName>Samuel Calvert</persName>
+               <occupation>cordwainere of Idle</occupation>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
             </person>
          </listPerson>
       </body>
