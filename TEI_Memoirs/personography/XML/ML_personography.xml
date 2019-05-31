@@ -445,7 +445,7 @@
                </birth>
                <death>
                   <date type="death" when-iso="1761-05-05">5 May, 1761</date>
-                  <!-- There is no place listeed for where she died -->
+                  <!-- There is no place listed for where she died -->
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <event type="baptism">
