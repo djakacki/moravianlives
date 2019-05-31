@@ -7,13 +7,16 @@
          <titleStmt>
             <title>Moravian Lives Personography</title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+            <principal><persName>Katherine Mary Faull</persName>, Principal
+               Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal
+               Investigator, 2015-2018 <orgName>University of
+                  Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -52,7 +55,8 @@
             <respStmt>
                <persName>Justin Schaumberger</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Research Assistant, encoder, ontologist, 2019-Present</resp>
+               <resp>Research Assistant, encoder, ontologist,
+                  2019-Present</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -68,11 +72,13 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike
+                  4.0 International</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>List of Moravian Lives person entities with reference to persistent identifiers, using ML standard names</p>
+            <p>List of Moravian Lives person entities with reference to
+               persistent identifiers, using ML standard names</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -97,7 +103,8 @@
          </classDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#DKJ" when="2019-05-30">Updated responsibility list, added more names and fields</change>
+         <change who="#DKJ" when="2019-05-30">Updated responsibility list, added
+            more names and fields</change>
       </revisionDesc>
    </teiHeader>
    <text type="personography">
@@ -361,12 +368,12 @@
             <person xml:id="mlper000214" sex="f">
                <persName>Elizabeth Wilson</persName>
                <birth>
-                  <date type="birth" />
-                  <placeName />
+                  <date type="birth"/>
+                  <placeName/>
                </birth>
                <death>
-                  <date type="death" />
-                  <placeName />
+                  <date type="death"/>
+                  <placeName/>
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/62</bibl>
@@ -374,12 +381,12 @@
             <person xml:id="mlper000215">
                <persName>Anna Rosina Anderson</persName>
                <birth>
-                  <date type="birth" />
-                  <placeName />
+                  <date type="birth"/>
+                  <placeName/>
                </birth>
                <death>
-                  <date type="death" />
-                  <placeName />
+                  <date type="death"/>
+                  <placeName/>
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/8</bibl>
@@ -387,12 +394,12 @@
             <person xml:id="mlper000216">
                <persName>Martha Adkinson</persName>
                <birth>
-                  <date type="birth" />
-                  <placeName />
+                  <date type="birth"/>
+                  <placeName/>
                </birth>
                <death>
-                  <date type="death" />
-                  <placeName />
+                  <date type="death"/>
+                  <placeName/>
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/38</bibl>
@@ -401,44 +408,47 @@
                <persName>Mary Allot</persName>
                <birth>
                   <date type="birth" when-iso="1734-12-08">8 August, 1734</date>
-                  <placeName ref="#rastrick">Rastrick Parish of Halifax</placeName><!-- need to add placename ID for Rastrick -->
+                  <placeName ref="#rastrick">Rastrick Parish of
+                     Halifax</placeName><!-- need to add placename ID for Rastrick -->
                </birth>
                <death>
-                  <date type="death" when-iso="1754-25-12">25 December, 1754</date>
+                  <date type="death" when-iso="1754-25-12">25 December,
+                     1754</date>
                   <placeName ref="#fulneck">Fulneck</placeName>
-                  <orgName>Sisters' House</orgName>
+                  Sisters' House
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <event type="baptism">
                   <desc>Church of England</desc>
                </event>
                <event type="reception" when-iso="1746-05">
-                  <desc>society/sisters’ house 
-                     <placeName>Cleckheaton</placeName></desc>
+                  <desc><placeName>society/sisters’ house Cleckheaton</placeName></desc>
                </event>
                <event type="reception" when-iso="1750">
                   <desc><placeName>sisters' house Tyresal</placeName></desc>
                </event>
-               <event type="reception" when-iso="1752-15-12">
-                  <desc>received congregation Yorkshire in Fulneck 25.03.1751 (OS) / 05.04.1751 (NS),
-                     new sisters’ house Fulneck 15.12.1752, sacrament Yorkshire in Fulneck 25.02.1753
-                     d 25.12.1754 aged 20 sisters’ house Fulneck, interred Fulneck by Br G Traneker 28.12.1754
-                     grave 75 - 1st section, 2nd row, 8th grave from path</desc>
+               <event type="reception" when-iso="1752-25-03" >
+                  <desc>congregation Yorkshire in Fulneck</desc>
                </event>
+              
                <bibl type="memoir">Ful/SS/12</bibl>
-               <note>(LW/G/F)CBssALLOT, Mary (1734-1754)
-                  b 12.08.1734 Rastrick Parish of Halifax
-                  reception: baptized Church of England, received society/sisters’ house Cleckheaton May 1746,
-                  sisters’ house Tyersal 1750,
-                  received congregation Yorkshire in Fulneck 25.03.1751 (OS) / 05.04.1751 (NS),
-                  new sisters’ house Fulneck 15.12.1752, sacrament Yorkshire in Fulneck 25.02.1753
-                  d 25.12.1754 aged 20 sisters’ house Fulneck, interred Fulneck by Br G Traneker 28.12.1754
-                  grave 75 - 1st section, 2nd row, 8th grave from path</note>
+               <note>(LW/G/F)CBssALLOT, Mary (1734-1754) b 12.08.1734 Rastrick
+                  Parish of Halifax reception: baptized Church of England,
+                  received society/sisters’ house Cleckheaton May 1746, sisters’
+                  house Tyersal 1750, received congregation Yorkshire in Fulneck
+                  25.03.1751 (OS) / 05.04.1751 (NS), new sisters’ house Fulneck
+                  15.12.1752, sacrament Yorkshire in Fulneck 25.02.1753 d
+                  25.12.1754 aged 20 sisters’ house Fulneck, interred Fulneck by
+                  Br G Traneker 28.12.1754 grave 75 - 1st section, 2nd row, 8th
+                  grave from path</note>
             </person>
+
+
             <person xml:id="mlper000218">
                <persName>Hannah Ashley</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/19</bibl>
+               <note></note>
             </person>
             <person xml:id="mlper000219">
                <persName>Abigail Bentley</persName>
@@ -648,7 +658,7 @@
             <person xml:id="mlper000255">
                <persName>Eleanor Luty</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-               <bibl type="memoir" />
+               <bibl type="memoir"/>
             </person>
             <person xml:id="mlper000256">
                <persName>Sarah Metcalf</persName>
