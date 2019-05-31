@@ -438,6 +438,7 @@
             <person xml:id="mlper000218">
                <persName>Hannah Ashley</persName>
                <!-- Not finished yet. Asked question on google doc  -->
+               
                <birth>
                   <date type="birth" when-iso="1740-09-08" calendar="Julian">9 August, 1740</date>
                   <date type="birth" when-iso="1740-20-08" calendar="Gregorian">20 August, 1740</date>
@@ -725,6 +726,7 @@
                <event when-iso="1748"><desc>sisters' house <placeName>Pudsey</placeName></desc></event><!-- Same issue as above. I can't add a month without a specific day -->
                <event when-iso="1750" to="1751"><desc>Disciple's House <placeName>London</placeName></desc></event><!-- July 1750-1751 -->
                <event type="reception" when-iso="1750"><desc>recieved as acoluth and blessed as deaconess<placeName>Annehof Holland</placeName></desc></event><!-- January 1759 -->
+               
                
                
                
