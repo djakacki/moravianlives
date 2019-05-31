@@ -437,58 +437,367 @@
             </person>
             <person xml:id="mlper000218">
                <persName>Hannah Ashley</persName>
+               <!-- Not finished yet. Asked question on google doc  -->
+               <birth>
+                  <date type="birth" when-iso="1740-09-08" calendar="Julian">9 August, 1740</date>
+                  <date type="birth" when-iso="1740-20-08" calendar="Gregorian">20 August, 1740</date>
+                  <placeName ref="#hartshead">Hartshead</placeName><!-- need to add placename ID for Hartshead -->
+               </birth>
+               <death>
+                  <date type="death" when-iso="1761-05-05">5 May, 1761</date>
+                  <!-- There is no place listeed for where she died -->
+               </death>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <event type="baptism">
+                  <desc>St Peter's Church
+                  <placeName>Hartshead</placeName>
+                  <date when-iso="1740-11-08" calendar="Julian">11 August, 1740</date> <!-- There are two dates given for the baptisim, OS and NS. Is this correct? -->
+                  <date when-iso="1740-22-08" calendar="Gregorian">22 August, 1740</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1752">
+                  <desc>society
+                     <placeName>Mirfield</placeName></desc>
+               </event>
+               <event type="reception" when-iso="1756-13-11">
+                  <desc>congregation
+                  <placeName>Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1758-07-01">
+                  <desc>sisters' house
+                     <placeName>Gomersal</placeName></desc>
+               </event>
+               <event when-iso="1759-02-02">
+                  <desc>sisters' house
+                     <placeName>Fulneck</placeName></desc>
+               </event>
+               <event type="sacrament" when-iso="1759-11-28">
+                  <desc><placeName>Fulneck</placeName></desc>
+               </event>
+               
+               <education when-iso="1748">girls' school <placeName>Row Head</placeName></education>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/19</bibl>
+               
+               <note>(W/F/G)ASHLEY, Hannah (1740-1761)
+                  b 09.08.1740 (OS) / 20.08.1740 (NS) Hartshead
+                  educated: girls’ school Row Head 1748
+                  resided: Hartshead 1740-1758
+                  reception: baptized St Peter’s Church Hartshead 11.08.1740 (OS) / 22.08.1740 (NS),
+                  received society Mirfield 1752, received congregation Fulneck 13.11.1756, sisters’ house Gomersal 01.07.1758, sisters’ house Fulneck 02.02.1759, sacrament Fulneck 28.11.1759
+                  family: daughter of John Ashley (b 1712) and Martha (née Keighley) (b 1711),
+                  sister of Mary (Southwell) (b 1734), Martha (b 1737), Joshua (b 1744), Sarah (b 1745),
+                  Betty (b 1747) and Benigna (b 1749)
+                  d 05.05.1761 aged 20, interred Fulneck by Br B La Trobe 07.05.1761
+                  grave 188 - 1st section, 6th row, 3rd grave from path</note>
             </person>
             <person xml:id="mlper000219">
                <persName>Abigail Bentley</persName>
+               <birth>
+                  <date type="birth" when-iso="1722-09-23">23 September, 1722 </date>
+                  <placeName>Wyke Parish of Birstall</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1766-12-07">7 December, 1766</date>
+                  <placeName>sisters' house Fulneck</placeName>
+                  
+               </death>
+               <event type="babtized">
+                  <desc>Church of England</desc>
+               </event>
+               <event>
+                  <desc>Ingham's society
+                  <placeName>Wyke</placeName></desc>
+               </event>
+               <event type="reception" when-iso="1742">
+                  <desc>recieved society
+                  <placeName>Norwood Green</placeName></desc>
+               </event>
+               <event when-iso="1748">
+                  <desc>transfered society
+                     <placeName>Mirfield</placeName></desc>
+               </event>
+               <event when-iso="1752">
+                  <desc>transfered society
+                     <placeName>Holme</placeName></desc>
+               </event>
+               <event when-iso="1752-15-12">
+                  <desc>new sisters' house
+                  <placeName>Fulneck</placeName></desc>
+               </event>
+               <event type="reception" when-iso="1752-11-13">
+                  <desc>recieved congregation Yorkshire <placeName>Fulneck</placeName></desc>
+               </event>
+               <event type="sacrament" when-iso="1754-01-27">
+                  <desc><placeName>Fulneck</placeName></desc>
+               </event>
+               <event when-iso="1755-19-04">
+                  <desc>founder member Fulneck congregation
+                  <placeName>Fulneck</placeName></desc>
+               </event>
+               
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/58</bibl>
+               <note>(LW/W/P/F)=#BENTLEY, Abigail (1722-1766)
+                  b 23.09.1722 Wyke Parish of Birstall
+                  reception: baptized Church of England, Ingham’s society Wyke,
+                  received society Norwood Green 1742, transferred society Mirfield 1748,
+                  transferred society Holme 1752, received congregation Yorkshire in Fulneck 13.11.1752, new sisters’ house Fulneck 15.12.1752, sacrament Yorkshire in Fulneck 27.01.1754, founder member Fulneck congregation 19.04.1755
+                  d 07.12.1766 aged 44 sisters’ house Fulneck, interred Fulneck by Br B La Trobe 10.12.1766 grave 307 - 1st section, 11th row, 7th grave from path</note>
             </person>
             <person xml:id="mlper000220">
                <persName>Mary Bird</persName>
+               <!-- I could not find her(I am assuming she is married) -->
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/50</bibl>
             </person>
             <person xml:id="mlper000221">
                <persName>Elizabeth Booth</persName>
+               <!-- There are two Elizabeth Booth. Idk which one this is supposed to be -->
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/39</bibl>
             </person>
+            
             <person xml:id="mlper000222">
                <persName>Rachel Bradley</persName>
+               <birth>
+                  <date type="birth" when-iso="1742-10-04" calendar="Julian">4 October, 1742</date>
+                  <date type="birth" when-iso="1742-10-15" calendar="Gregorian">15 October, 1742</date>
+                  <placeName>Golcar Parish of Huddersfield</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1809-08-30">30 August, 1809</date>
+                  <placeName>Fulneck</placeName>
+               </death>
+               <occupation>sewer</occupation>
+               <event type="babtized"><desc><placeName>Church of England</placeName></desc>
+               </event>
+               
+               <event when-iso="1758-05-21"><desc>sisters' house <placeName>Gomersal</placeName></desc></event>
+               
+               <event when-iso="1759-11-11"><desc>sisters' house <placeName>Fulneck</placeName></desc></event>
+               
+               <event when-iso="1759-11-13"><desc>recieved congregation <placeName>Fulneck</placeName></desc></event>
+               
+               <event type="sacrament" when-iso="1767-08-13"><desc><placeName>Fulneck</placeName></desc></event>
+               
+               <event when-iso="1784"><desc>returnend sisters' house <placeName>Gomersal</placeName></desc></event>
+               
+               <!-- Should "not on Gomersal catalogue 1789" be an event? -->
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/44</bibl>
+               <note>(W/G/F)£^BRADLEY, Rachel (1742-1809)
+                  b 04.10.1742 (OS) / 15.10.1742 (NS) Golcar Parish of Huddersfield occupation: sewer
+                  resided: Golcar 1735 - 1758
+                  reception: baptized Church of England, sisters’ house Gomersal 21.05.1758,
+                  sisters’ house Fulneck 11.11.1758, received congregation Fulneck 13.11.1759, sacrament Fulneck 13.08.1767, returned sisters’ house Gomersal 1784
+                  not on Gomersal catalogue 1789
+                  family: daughter of Benjamin Bradley (b 1700) and Mary (née Walker) (b 1708),
+                  granddaughter of Robert Bradley, and Thomas Walker,
+                  sister of Richard (b 1732), Henry (b 1733), Job (b 1735), Elizabeth (b 1737), Benjamin (b 1739),
+                  John (b 1741), William (b 1745), Mary (b 1747), Grace (b 1749) and John (b 1753), sister-in-law of Susanna (née Lee) (b 1736),
+                  aunt of John (b 1757), Richard (b 1760) and Elizabeth Bradley (b 1762)
+                  d 30.08.1809 aged 66 Fulneck, interred Fulneck by Br S T Benade 02.09.1809 grave 1242 - 1st section, 53rd row, 2nd grave from path</note>
             </person>
+            <!-- There are several Rachel Brook. I chose the one that matched the birth year and location as the google sheet -->
             <person xml:id="mlper000223">
                <persName>Rachel Brook</persName>
+               <birth>
+                  <date type="birth" when-iso="1744-04-28">28 April, 1744</date>
+                  <placeName>Birstall</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1815-11-16">16 November, 1815</date>
+               </death>
+               <occupation>sewer</occupation>
+               
+               <event type="babtized">
+                  <desc>
+                     <date when-iso="1744-05-13" calendar="Julian">13 May, 1744</date> <!-- There are two dates given for the baptisim, OS and NS. Is this correct? -->
+                     <date when-iso="1744-05-24" calendar="Gregorian">24 May, 1744 </date>
+                     <placeName>St Peter's Church Birstall</placeName>
+                  </desc>
+               </event>
+               
+               <event type="reception" when-iso="1758-08-30"><desc>recieved society <placeName>Gomersal</placeName></desc></event>
+               <event when-iso="1760-10-04"><desc>sisters' house <placeName>Fulneck</placeName></desc></event>
+               <event type="reception" when-iso="1761-05-11"><desc>recieved congregation <placeName>Fulneck</placeName></desc></event>
+               <event type="sacrament" when-iso="1762-05-08"><desc><placeName>Fulneck</placeName></desc></event>
+               
+               
+
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/42</bibl>
+               <note>(G/F)x+^BROOK, Rachel (1744-1815) b 28.04.1744 Birstall
+                  occupation: sewer
+                  resided: Birstall 1744-1760
+                  reception: baptized St Peter’s Church Birstall 13.05.1744 (OS) / 24.05.1744 (NS), received society Gomersal 30.08.1758, sisters’ house Fulneck 04.10.1760, received congregation Fulneck 11.05.1761, sacrament Fulneck 08.05.1762
+                  family: daughter of John Brook (b 1709) and Alice (née Lord) (b 1712),
+                  granddaughter of William Brook and Hannah (née Birtby) (b 1687), and Samuel Lord,
+                  niece of Samuel Brook (b 1713) and Hannah (Brook, née Lord) (b 1708),
+                  sister of John (b 1740), Hannah (b 1742), Sarah (b 1748), Elizabeth (b 1750), Anna (b 1752),
+                  Samuel (b 1754) and Joshua (b 1756)
+                  d 16.11.1815 aged 71, interred Fulneck by Br C F Ramftler 20.11.1815
+                  grave 1321 - 1st section, 57th row, 4th grave from path</note>
             </person>
+            <!-- There are two Alice Browns and I don't know which is the right one -->
             <person xml:id="mlper000224">
                <persName>Alice Brown</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/13</bibl>
             </person>
+            
+            
+            
             <person xml:id="mlper000225">
                <persName>Martha Calvert</persName>
+               <birth>
+                  <date type="birth" when-iso="1743-10-10">19 October, 1743</date>
+                  <placeName>Idle Parish of Calverley</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1816-03-15">15 March, 1816</date>
+               </death>
+               <occupation>spinneer</occupation>
+               <event type="babtized">
+                  <desc>
+                     <date when-iso="1743-10-04" calendar="Julian">6 November, 1743</date>
+                     <date when-iso="1743-11-17" calendar="Gregorian">17 October, 1743</date>
+                     <placeName>St Wilfrid's Church Calvereley</placeName>
+                  </desc>
+               </event>
+              
+               <event type="reception" when-iso="1758"><desc>recieved society <placeName>Pudsey</placeName></desc></event>
+               <event when-iso="1759-05-21"><desc>sisters' house <placeName>Fulneck</placeName></desc></event>
+               <event type="reception" when-iso="1759-11-13"><desc>recieved congregation<placeName>Fulneck</placeName></desc></event>
+               <event type="sacrament" when-iso="1761-08-29"><desc><placeName>Fulneck</placeName></desc></event>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/45</bibl>
+               <note>(P/F)+^CALVERT, Martha (1743-1816)
+                  b 19.10.1743 Idle Parish of Calverley
+                  occupation: spinner
+                  reception: baptized St Wilfrid’s Church Calverley 06.11.1743 (OS) / 17.11.1743 (NS),
+                  received society Pudsey 1758, sisters’ house Fulneck 21.05.1759,
+                  received congregation Fulneck 13.11.1759, sacrament Fulneck 29.08.1761 family: daughter of Samuel Calvert (cordwainer of Idle)
+                  d 15.03.1816 aged 72, interred Fulneck by Br C F Ramftler 18.03.1816
+                  grave 1327 - 1st section, 58th row, 3rd grave from path</note>
             </person>
+            
+            <!-- Does not exist in the giant list of Moravians -->
             <person xml:id="mlper000226">
                <persName>Ann Cannings</persName>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/7</bibl>
             </person>
+            
+            <!-- Very confused on the events in this person's life and what to put and what not to -->
             <person xml:id="mlper000227">
                <persName>Sarah Cennick</persName>
+               
+               <birth>
+                  <date type="birth" when-iso="1712-06-12" calendar="Julian">12 June, 1712</date>
+                  <date type="birth" when-iso="1712-06-23" calendar="Gregorian">23 June, 1712</date>
+                  <placeName>Reading</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1770-01-24">24 January, 1770</date>
+               </death>
+               <event type="babtized"><desc><placeName>Church of England</placeName></desc></event>
+               <event when-iso="1739"><desc>received society Fetter Lane</desc></event> <!-- The date is May 1739 but it wonn't allow me to put May without a day -->
+               <event>
+                  <desc>
+                     <date when-iso="1746-01-16" calendar="Julian">16 January, 1746</date>
+                     <date when-iso="1747-01-27" calendar="Julian">27 January, 1747</date>
+                     left Lonndonn for Germany   
+                  </desc>
+               </event>
+               <event when-iso="1747"><desc>sisters' house <placeName>Herrnhaag</placeName></desc></event>
+               <event type="reception" when-iso="1747"><desc>recieved congregation <placeName>Herrnhaag</placeName></desc></event>
+               <event type="confirmation" when-iso="1747"><desc>confirmed<placeName>Herrnhaag</placeName></desc></event>
+               <event type="sacrament" when-iso="1748"><desc><placeName>Herrnaag</placeName></desc></event><!-- The date is January 1748 but it wonn't allow me to put January without a day -->
+               <event when-iso="1748"><desc>sisters' house <placeName>Pudsey</placeName></desc></event><!-- Same issue as above. I can't add a month without a specific day -->
+               <event when-iso="1750" to="1751"><desc>Disciple's House <placeName>London</placeName></desc></event><!-- July 1750-1751 -->
+               <event type="reception" when-iso="1750"><desc>recieved as acoluth and blessed as deaconess<placeName>Annehof Holland</placeName></desc></event><!-- January 1759 -->
+               
+               
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/68</bibl>
+               <note>(P/F/G)CENNICK Sarah (Sally) (1712-1770) b 12.06.1712 (OS) / 23.06.1712 (NS) Reading
+                  resided: London 1729, returned Reading 1733, Kingswood 1741, East Tytherton 1744-1747 reception: baptized Church of England, received society Fetter Lane May 1739,
+                  left London for Germany 16.01.1746 (OS) / 27.01.1747 (NS), sisters’ house Herrnhaag 1747, received congregation Herrnhaag 1747, confirmed Herrnhaag 1747,
+                  sacrament Herrnhaag January 1748, sisters’ house Pudsey May 1748,
+                  Disciple’s House London July 1750-1751, Annenhof Holland January 1759,
+                  Herrnhut 12.08.1759, returned England 13.10.1760
+                  congregation office: intercessor Herrnhaag 1748, congregation servant Yorkshire 1748 church orders: received as acoluth and blessed as deaconess Annenhof Holland 24.05.1759 church service: single sisters’ choir servant and choir helper Yorkshire 1748 - July 1750,
+                  single sisters’ labourer Dublin 1751, single sisters’ labourer North of Ireland 1752-1759, single sisters’ labour Bedford 13.10.1760, Lampeter c 1762, assistant labourer among single sisters and great girls of country congregations based Gomersal 16.01.1765 retired sisters’ house Fulneck 20.11.1769
+                  family: daughter of George Cennick and Anna, sister of John (b 1718) and Anna (Stone), sister-in-law of Jane (née Bryant, later Moore) (b 1721) and ? Stone,
+                  aunt of John Cennick Stone (b 1743), and
+                  Sarah (b 1749), Ann Grove Cennick (b 1751) and Elizabeth Hannah (Swertner) (b 1752)
+                  d 24.01.1770 aged 57 sisters’ house Fulneck, interred Fulneck by Br J Charlesworth 29.01.1770
+                  grave 390 - 1st section, 16th row, 4th grave from path
+                  resited gravestone - right hand side of path to terrace, 4th stone from gate</note>
             </person>
+            
             <person xml:id="mlper000228">
                <persName>Elizabeth Clagget</persName>
+               
+               <birth>
+                  <date type="birth" when-iso="1715-12-20" calendar="Julian">20 December, 1715</date>
+                  <date type="birth" when-iso="1715-12-31" calendar="Gregorian">31 December, 1715</date>
+                  <placeName>Castleford Yorkshire</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1767-08-12">12 August, 1767</date>
+                  sisters' house <placeName>Fulneck</placeName>
+               </death>
+               <event type="babtized">
+                  <desc>
+                     <date when-iso="1715-01-11" calendar="Julian">11 January, 1715</date>
+                     <date when-iso="1716-01-22" calendar="Gregorian">22 January, 1716</date>
+                     <placeName>All Saints' Church Castleford</placeName>
+                  </desc>
+               </event>
+               <event type="confirmation" when-iso="1732"><desc>confirmed <placeName>All Saints' Church Castleford</placeName></desc></event>
+               <event when-iso="1740"><desc>recieved society <placeName>Fetter Lane</placeName></desc></event>
+               <event>
+                  <desc>
+                     recieved congregation <placeName>London</placeName>
+                     <date when-iso="1742-12-25" calendar="Julian">25 December, 1742</date>
+                     <date when-iso="1743-01-05" calendar="Gregorian">5 January, 1743</date>
+                  </desc>
+               </event>
+               
+               
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/57</bibl>
+               <note>(P/F/D)ssCLAGGETT, Elizabeth (Betty) (1715-1767)
+                  b 20.12.1715 (OS) / 31.12.1715 (NS) Castleford Yorkshire
+                  resided: Castleford 1715, London 1720, Castleford 1730, London 1734 - June 1742,
+                  October 1742 - July 1743, Fulneck settlement 29.09.1750 - 27.02.1753
+                  reception: baptized All Saints’ Church Castleford 11.01.1715 (OS) / 22.01.1716 (NS),
+                  confirmed All Saints’ Church Castleford 1732, received society Fetter Lane 1740, received congregation London 25.12.1742 (OS) / 05.01.1743 (NS),
+                  sacrament London 05.02.1742 (OS) / 16.02.1743 (NS),
+                  left London for Yorkshire 24.06.1743 (OS) / 05.07.1743 (NS),
+                  sisters’ house Pudsey 24.07.1743 (OS) / 04.08.1743 (NS),
+                  sisters’ house Littlemoor 21.06.1748 (OS)/02.07.1748 (NS) - 03.05.1749 (OS)/14.05.1749 (NS), sisters’ house Fulneck 27.02.1753
+                  church service: co-helper with single sisters Yorkshire 02.07.1743 (OS) / 13.07.1743 (NS), single sisters’ warden Yorkshire 16.08.1744 (OS) / 27.08.1744 (NS),
+                  single sisters’ labourer Yorkshire 05.10.1744 (OS) / 16.10.1744 (NS),
+                  resigned due to ill-health June 1748,
+                  single sisters’ warden Dukinfield 04.05.1749 (OS) / 15.05.1749 (NS) - 29.09.1750 family; daughter of Wiseman Claggett and Martha (née Clifton) (b 1691),
+                  sister of Susanna (b 1723), John Clifton (b 1725), Martha (b 1726), Ann (Shepley) (b 1728) and Catherine (b 1730), sister-in-law of Daniel Shepley (b 1721),
+                  aunt of John Benjamin (b 1767) and Anna Shepley (b 1770)
+                  d 12.08.1767 aged 51 sisters’ house Fulneck, interred Fulneck by Br B La Trobe 14.08.1767
+                  grave 324 - 1st section, 12th row, 6th grave from path
+               </note>
             </person>
             <person xml:id="mlper000229">
                <persName>Elizabeth Clark</persName>
