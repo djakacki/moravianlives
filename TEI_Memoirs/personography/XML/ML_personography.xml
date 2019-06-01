@@ -1222,10 +1222,10 @@
                   <surname type="birth">Clark</surname>
                </persName>
                <birth>
-                  <date type="birth">1726 or 1727</date>
+                  <date type="birth" when-iso="1726-12-29">29 December, 1726</date>
                </birth>
                <death>
-                  <date type="death">1756</date>
+                  <date type="death" when-iso="1756-10-11">11 October, 1756</date>
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/26</bibl>
@@ -1257,17 +1257,19 @@
                <bibl type="memoir">Ful/SS/10</bibl>
             </person>
          </listPerson>
+         <!-- There is no Ester Clerk but there is an Ester Cleak who was single. Are these possibly the same person? -->
          <listPerson>
             <person xml:id="mlper000233">
                <persName>
                   <forename>Esther</forename> 
-                  <surname type="birth">Clark</surname>
+                  <surname type="birth">Clerk</surname>
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir" n="1">Ful/SS/14_1</bibl>
                <bibl type="memoir" n="2">Ful/SS/14_2</bibl>
             </person>
          </listPerson>
+         <!-- There is no Elizabeth Coffin in the monster list -->
          <listPerson>
             <person xml:id="mlper000234">
                <persName>
@@ -1286,6 +1288,14 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/41</bibl>
+               <note>(W/P/G/F)>=#CRAVEN, Sarah (1723-1790)
+                  b 01.12.1723 Rothwell
+                  occupation: spinner
+                  reception: baptized Church of England, Ingham’s society Rothwell, received society Holbeck 1745,
+                  sisters’ house Gomersal 20.05.1755, received congregation Gomersal in Fulneck 04.03.1756,
+                  sisters’ house Fulneck 20.09.1756, sacrament Fulneck 21.03.1757
+                  d 10.11.1790 aged 66 Fulneck, interred Fulneck by Br G Traneker 15.11.1790
+                  grave 869 - 1st section, 51st row, 1st grave by path</note>
             </person>
          </listPerson>
          <listPerson>
