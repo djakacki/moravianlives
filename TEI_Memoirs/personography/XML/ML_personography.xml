@@ -827,7 +827,8 @@
             </person>
             
             <!-- Very confused on the events in this person's life and what to put and what not to -->
-            <person xml:id="mlper000227">
+            <listPerson>
+               <person xml:id="mlper000227">
                <persName>Sarah Cennick</persName>
                
                <birth>
@@ -876,8 +877,16 @@
                   grave 390 - 1st section, 16th row, 4th grave from path
                   resited gravestone - right hand side of path to terrace, 4th stone from gate</note>
             </person>
+               
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation> <!--#mlper000406 #mlper000407  -->
+                  <relation type="personal" name="sister"></relation> <!-- #mlper000408 #mlper000409  -->
+                  <relation type="personal" name="sister-in-law"></relation> <!--#mlper000410  -->
+                  <relation type="personal" name="aunt"></relation> <!--#mlper000411 #mlper000412 #mlper000413 #mlper000414  -->
+               </listRelation>
+            </listPerson>
             
-            <person xml:id="mlper000228">
+            <listPerson><person xml:id="mlper000228">
                <persName>Elizabeth Clagget</persName>
                
                <birth>
@@ -898,17 +907,21 @@
                </event>
                <event type="confirmation" when-iso="1732"><desc>confirmed <placeName>All Saints' Church Castleford</placeName></desc></event>
                <event when-iso="1740"><desc>recieved society <placeName>Fetter Lane</placeName></desc></event>
-               <event>
+               <event type="reception">
                   <desc>
                      recieved congregation <placeName>London</placeName>
                      <date when-iso="1742-12-25" calendar="Julian">25 December, 1742</date>
                      <date when-iso="1743-01-05" calendar="Gregorian">5 January, 1743</date>
                   </desc>
                </event>
-               
-               
-               
-               
+               <event type="sacramennt">
+                  <desc>
+                     <placeName>London</placeName>
+                     <date when-iso="1742-02-05" calendar="Julian">5 Febuary, 1742</date>
+                     <date when-iso="1743-02-16" calendar="Gregorian">16 Febuary, 1743</date>
+                  </desc>
+               </event>
+
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/57</bibl>
                <note>(P/F/D)ssCLAGGETT, Elizabeth (Betty) (1715-1767)
@@ -931,7 +944,16 @@
                   grave 324 - 1st section, 12th row, 6th grave from path
                </note>
             </person>
-            <person xml:id="mlper000229">
+               <listRelation>
+                  <relation type="personal" name="daughter"></relation><!--#mlper000415 #mlper000416  -->
+                  <relation type="personal" name="sister"></relation><!--#mlper000417 #mlper000418 #mlper000419 #mlper000420 #mlper000421   -->
+                  <relation type="personal" name="sister-in-law"></relation><!-- #mlper000422 -->
+                  <relation type="personal" name="aunt"></relation><!--#mlper000423 #mlper000424  -->
+               </listRelation>
+            </listPerson>
+            
+            <listPerson>
+               <person xml:id="mlper000229">
                <persName>Elizabeth Clark</persName>
                <birth>
                   <date type="birth">1717</date>
@@ -941,19 +963,58 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/81</bibl>
-            </person>
-            <person xml:id="mlper000230">
+               
+               <note>(P)CBssox+^>=#CLARK, Elizabeth (Betty) (1717-1768)
+                  b 07.05.1717 (OS) / 18.05.1717 Holbeck Parish of Leeds
+                  reception: baptized Presbyterian Church, Ingham’s society Holbeck,
+                  received society Holbeck 1742,
+                  received congregation Yorkshire in Fulneck 25.12.1743 (OS) / 05.01.1744 (NS), sacrament Yorkshire in Fulneck 20.07.1744 (OS) / 31.07.1744 (NS),
+                  sisters’ house Pudsey 1753, founder member Pudsey congregation 18.04.1755, returned society Holbeck August 1758
+                  d 22.06.1768 aged 51 Pudsey, interred Fulneck by Br B La Trobe 25.06.1768 grave 354 - 1st section, 14th row, 2nd grave from path</note>
+            </person></listPerson>
+            
+            <listPerson>
+               <person xml:id="mlper000230">
                <persName>Elizabeth Clark</persName>
                <birth>
-                  <date type="birth">1725</date>
+                  <date type="birth" when-iso="1725-07-31" calendar="Julian">31 July, 1725</date>
+                  <date type="birth" when-iso="1725-08-11" calendar="Gregorian">11 August, 1725</date>
+                  <placeName>Northowram Parish of Halifax</placeName>
                </birth>
                <death>
-                  <date type="death">1785</date>
+                  <date type="death" when-iso="1785-01-17">17 January, 1785</date>
                </death>
+               <event type="babtized"><desc><placeName>Presbyterian Church</placeName></desc></event>
+               <event type="reception" when-iso="1744">
+                  <desc>
+                     recieved society
+                     <placeName>Shelf</placeName>
+                  </desc>
+               </event>
+                  <event when-iso="1745">
+                     <desc>
+                        transfered society
+                        <placeName>Smith House</placeName>
+                     </desc>
+                  </event>
+                  
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/21</bibl>
+               <note>(LW/P/F)CBss=#CLARK, Elizabeth (Betty) (1725-1785)
+                  b 31.07.1725 (OS) / 11.08.1725 (NS) Northowram Parish of Halifax
+                  reception: baptized Presbyterian Church, Ingham’s society Shelf, received society Shelf 1744, transferred society Smith House 1745, sisters’ house Oxheys February 1745,
+                  received congregation Yorkshire in Fulneck 14.04.1745 (OS) / 25.04.1745 (NS),
+                  sacrament Yorkshire in Fulneck 18.08.1745 (OS) / 29.08.1745 (NS),
+                  sisters’ house Holme 1747, Pudsey 1752, sisters’ house Fulneck March 1753, founder member Fulneck congregation 19.04.1755,
+                  transferred congregation Pudsey 14.03.1775
+                  church orders: received as acoluth Fulneck 14.08.1766
+                  church service: single sisters’ labourer Littlemoor 14.03.1775
+                  d 17.01.1785 aged 59 sisters’ house Fulneck, interred Fulneck by Br G Traneker 21.01.1785
+                  grave 731 - 1st section, 43rd row, 1st grave by path</note>
             </person>
-            <person xml:id="mlper000231">
+            </listPerson>
+            <listPerson>
+               <person xml:id="mlper000231">
                <persName>Hannah Clark</persName>
                <birth>
                   <date type="birth">1726 or 1727</date>
@@ -963,7 +1024,18 @@
                </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/26</bibl>
+               <note>(G/P/F)CBssCLARK, Hannah (1726-1756)
+                  b 29.12.1726 Northowram Parish of Halifax
+                  reception: baptized Northowram and Coley non-conformist (Presbyterian) Church
+                  03.02.1726 (OS) / 14.02.1727 (NS), received society Little Gomersal 1748,
+                  received congregation Yorkshire in Fulneck 01.01.1751 (OS) / 12.01.1752 (NS), sisters’ house Pudsey 1752, sacrament Yorkshire in Fulneck 02.12.1753,
+                  sisters’ house Fulneck 09.11.1754, founder member Fulneck congregation 19.04.1755
+                  family: daughter of William Clark
+                  d 11.10.1756 aged 29 sisters’ house Fulneck, interred Fulneck by Br G Traneker 14.10.1756
+                  grave 103 - 1st section, 3rd row, 8th grave from path</note>
             </person>
+            </listPerson>
+            <!-- Not in the monster list -->
             <person xml:id="mlper000232">
                <persName>Grace Clark</persName>
                <birth>
@@ -1281,6 +1353,11 @@
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/66</bibl>
             </person>
+            
+            
+            
+            
+            
             <person xml:id="mlper000351">
                <persName>John Ashley</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
@@ -1452,17 +1529,14 @@
                <persName>Sarah Brook</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
             </person>
-            
             <person xml:id="mlper000394">
                <persName>Elizabeth Brook</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
-            </person>
-            
+            </person>   
             <person xml:id="mlper000395">
                <persName>Anna Brook</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
             </person>
-            
             <person xml:id="mlper000396">
                <persName>Samuel Brook</persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
@@ -1504,6 +1578,86 @@
                <occupation>cordwainere of Idle</occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
             </person>
+            <person xml:id="mlper000406">
+               <persName>George Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000407">
+               <persName>Anna Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000408">
+               <persName>John Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000409">
+               <persName>Anna <surname type="maiden">Cennick</surname> Stone</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000410">
+               <persName>Jane <surname type="maiden">Bryant</surname> Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000411">
+               <persName>John Cennick Stone</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000412">
+               <persName>Sarah Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000413">
+               <persName>Ann Grove Cennick</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000414">
+               <persName>Elizabeth Hannah Swertner</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000415">
+               <persName>Wiseman Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000416">
+               <persName>Martha <surname type="maiden">Clifton</surname> Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000417">
+               <persName>Susanna Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000418">
+               <persName>John Clifton Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000419">
+               <persName>Martha Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000420">
+               <persName>Ann <surname type="maiden">Claggett</surname> Shepley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <!-- See question on Personography Decisions Doc -->
+            <person xml:id="mlper000421"> 
+               <persName>Catherine ???</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000422"> 
+               <persName>Daniel Shepley Claggett</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000423"> 
+               <persName>John Benjamin</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            <person xml:id="mlper000424"> 
+               <persName>Anna Shepley</persName>
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+            </person>
+            
+            
+            
          </listPerson>
       </body>
    </text>
