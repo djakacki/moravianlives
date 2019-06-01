@@ -956,11 +956,38 @@
                <person xml:id="mlper000229">
                <persName>Elizabeth Clark</persName>
                <birth>
-                  <date type="birth">1717</date>
+                  <date type="birth" calendar="Julian" when-iso="1717-05-07">7 May, 1717</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1717-05-18">18 May, 1717</date>
+                  <placeName>Holbecek Parish of Leeds</placeName>
                </birth>
                <death>
-                  <date type="death">1768</date>
+                  <date type="death" when-iso="1768-06-22">22 June, 1768</date>
                </death>
+                  
+               <event type="babtism"><desc><placeName>Presbyterian Church</placeName></desc></event>
+               <event type="reception" when-iso="1742">
+                  <desc>
+                     recieved society <placeName>Holbeck</placeName>
+                  </desc>
+               </event>
+                  <event type="reception">
+                     <desc>
+                        <date calendar="Julian" when-iso="1743-12-25">25 December, 1743</date>
+                        <date calendar="Gregorian" when-iso="1744-01-05">5 January, 1744</date>
+                        recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+                     </desc>
+                  </event>
+                  <event type="sacrament">
+                     <desc>
+                        <date calendar="Julian" when-iso="1744-07-20">20 July, 1744</date>
+                        <date calendar="Gregorian" when-iso="1744-07-31">31 July, 1744</date>
+                        <placeName>Yorkshire in Fulneck</placeName>
+                     </desc>
+                  </event>
+                  <event when-iso="1758"> <!-- August 1758 -->
+                     <desc>returned society <placeName>Holbeck</placeName></desc>
+                  </event>
+                 
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/81</bibl>
                
@@ -971,7 +998,9 @@
                   received congregation Yorkshire in Fulneck 25.12.1743 (OS) / 05.01.1744 (NS), sacrament Yorkshire in Fulneck 20.07.1744 (OS) / 31.07.1744 (NS),
                   sisters’ house Pudsey 1753, founder member Pudsey congregation 18.04.1755, returned society Holbeck August 1758
                   d 22.06.1768 aged 51 Pudsey, interred Fulneck by Br B La Trobe 25.06.1768 grave 354 - 1st section, 14th row, 2nd grave from path</note>
-            </person></listPerson>
+            </person>
+            
+            </listPerson>
             
             <listPerson>
                <person xml:id="mlper000230">
