@@ -2572,6 +2572,1549 @@
             </person>
          </listPerson>
 
+
+
+
+
+
+   <!-- STARTING WITH THE NEW APPROACH -->
+         <listPerson>
+            <person xml:id="mlper000425" sex="f">
+               <persName>
+                  <forename>Susanna</forename>
+                  <surname type="birth">Liley</surname>
+                  <surname type="married">Sharman</surname>
+               </persName>
+               <birth>
+                  <date type="birth" when-iso="1769-09-22">22, September, 1769</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1846-07-04">4 July, 1846</date>
+                  <placeName>Keighley</placeName>
+               </death>
+               <event type="babtized" when-iso="1769-09-24">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                     Babtized by Br J Worthington
+                  </desc> 
+               </event>
+               <event type="reception" when-iso="1783-12-01">
+                  <desc>
+                     recieved congregation
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1785-05-04">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     transfered congnregation <placeName>Bedford</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1813">
+                  <desc>
+                     transfered congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="marriage" when-iso="1794-04-29">
+                  <desc>
+                     <placeName>St Peter's Church Bedford</placeName>
+                  </desc>
+               </event>
+               
+               <affiliation ref="#fulneck">Fulneck</affiliation>
+               <note>F)LILEY, Susanna (1769-1846)
+                  b 22.09.1769 Fulneck
+                  resided: Knotting 1794, Riseley 1799-1813, Baildon 1819, Keighley 1820s,
+                  Sandy Wood House Keighley 1841
+                  reception: baptized Fulneck by Br J Worthington 24.09.1769,
+                  received congregation Fulneck 01.12.1783, sacrament Fulneck 04.05.1785,
+                  transferred congregation Bedford, transferred congregation Fulneck 1813
+                  m John SHARMAN (b 1767) St Peter’s Church Bedford 29.04.1794 - widowed 20.06.1837 family: daughter of James Liley (b 1727) and Ann (née Crowther) (b 1739),
+                  granddaughter of Robert Liley (b 1697) and Mary (née Walker) (b 1696), and Joshua Crowther (clothier) and Ann (née Procter) (b 1697),
+                  great-granddaughter of James Liley, and James Walker and Susannah (née Walker), and John Procter,
+                  niece of Joseph (b 1722), Rebecca (b 1724), Dinah (Saxon) (b 1728), Joshua (b 1730) and Mary Crowther (b 1743),
+                  cousin of Mary (b 1767), Ann (b 1769) and Sarah Saxon (b 1772), and
+                  Joshua (b 1760), Elizabeth (b 1762), Ann (b 1765) and Mary Crowther (b 1768),
+                  sister of James (b 1773), sister-in-law of Eleanor Cockill (b 1780), and
+                  Ann Mary Sharman (b 1752), Eleonora (Schirmer) (b 1759) and Sarah (Church) (b 1760),
+                  aunt of James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  daughter-in-law of John Sharman (b 1727) and Modesty (née Yonness) (b 1729),
+                  mother of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797), Charles James (b 1799),
+                  Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808),
+                  Sarah (b 1810) and Margaret Susanna (Craig) (b 1813),
+                  mother-in-law of William Archer (b 1801), Sarah Hannah (née Maud) (b 1807),
+                  Mary Harland (née Chippendale) (b 1807), Phoebe (née Pilling) (b 1800) and
+                  William Craig (b 1808),
+                  grandmother of Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and
+                  John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835), Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839),
+                  George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and
+                  Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842),
+                  John Henry (b 1843) and Charles William Craig (b 1846), and
+                  great-grandmother of George William (b 1861), Charles Herbert (b 1864),
+                  Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and
+                  Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889)
+                  d 04.07.1846 aged 76 Keighley, interred Fulneck by Br J Rogers 08.07.1846
+                  grave 1711 - 2nd section, 39th row, 8th grave from path together with father James Liley (grave 1121)</note>
+            </person>
+            
+            <listRelation>
+               <relation type="personal" name="spouse" mutual="#mlper000425 #mlper000426"></relation>
+               <relation type="personal" name="daughter" active="#mlper000425" passive="#mlper000427 #mlper000428"></relation>
+               <relation type="personal" name="granddaughter" active="#mlper000425" passive="#mlper000429 #mlper000430 #mlper000431 #mlper000432"></relation>
+               <relation type="personal" name="great-granddaughter" active="#mlper000425" passive="#mlper000433 #mlper000434 #mlper000435 #mlper000436"></relation>
+               <relation type="personal" name="niece" active="#mlper000425" passive="#mlper00437 #mlper00438 #mlper00439 #mlper00440"></relation>
+               <relation type="personal" name="cousin" active="#mlper000425" passive="#mlper000441 #mlper000442 #mlper000443 #mlper000444 #mlper000445 #mlper000446 #mlper000447 #mlper000448"></relation>
+               <relation type="personal" name="sister" active="#mlper000425" passive="#mlper000449"></relation>
+               <relation type="personal" name="sister-in-law" active="#mlper000425" passive="#mlper000450 #mlper000451 #mlper000452 #mlper000453"></relation>
+               <relation type="personal" name="aunt" active="#mlper000425" passive="#mlper000454 #mlper000455 #mlper000456 #mlper000457 #mlper000458 #mlper000459"></relation>
+               <relation type="personal" name="daughter-in-law" active="#mlper000425" passive="#mlper000460 #mlper000461"></relation>
+               <relation type="personal" name="mother" active="#mlper000425" passive="#mlper000462 #mlper000463 #mlper000464 #mlper000465 #mlper000466 #mlper000467 #mlper000468 #mlper000469 #mlper000470 #mlper000471"></relation>
+               <relation type="personal" name="mother-in-law" active="#mlper000425" passive="#mlper000472 #mlper000473 #mlper000474 #mlper000475 #mlper000476"></relation>
+               <relation type="personal" name="grandmother" active="#mlper000425" passive="#mlper000477 #mlper000478 #mlper000479 #mlper000480 #mlper000481 #mlper000482 #mlper000483 #mlper000484 #mlper000485 #mlper000486 #mlper000487 #mlper000488 #mlper000489 #mlper000490 #mlper000491 #mlper000492 #mlper000493 #mlper000494 #mlper000495 #mlper000496 #mlper000497"></relation>
+               <relation type="personal" name="great-grandmother" active="#mlper000425" passive="#mlper000498 #mlper000499 #mlper000500 #mlper000501 #mlper000502 #mlper000503 #mlper000504 #mlper000505 #mlper000506 #mlper000507 #mlper000508 #mlper000509 #mlper000510 #mlper000511 #mlper000512 #mlper000513 #mlper000514 #mlper000515 #mlper000516 #mlper000517 #mlper000518 #mlper000519 #mlper000520 #mlper000521 #mlper000522 #mlper000523 #mlper000524 #mlper000525 #mlper000526 #mlper000527 #mlper000528 #mlper000529 #mlper000530 #mlper000531 #mlper000532 #mlper000533 #mlper000534"></relation>
+               
+            </listRelation>
+         </listPerson>
+         
+         <listPerson>
+            <!-- Information from Susanna Liley -->
+            <person xml:id="mlper000426" sex="m">
+               <persName>
+                  <forename>John</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+               <birth>
+                  <date type="birth" when-iso="1767"></date>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1837-06-20">20 June, 1837</date>
+               </death>
+               <event type="marriage" when-iso="1794-04-29">
+                  <desc>
+                     <placeName>St Peter's Church Bedford</placeName>
+                  </desc>
+               </event>
+            </person>
+            <listRelation>
+               <relation type="personal" name="spouse" mutual="#mlper000425 #mlper000426"></relation>
+            </listRelation>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000427" sex="m">
+               <persName>
+                  <forename>James</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1726-01-04">4 January, 1726</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1727-01-15">15 January, 1727</date>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1802-07-10">10 July, 1802</date>
+               </death>
+               <occupation>clothier</occupation>
+               <event type="babtized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1726-01-22">22 January, 1726</date>
+                     <date calendar="Gregorian" when-iso="1726-02-02">2 Febuary, 1726</date>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     added Ingham's society <placeName>Cleckheaton</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1743">
+                  <desc>
+                     recieved society <placeName>Cleckheaton</placeName> when a boy
+                  </desc>
+               </event>
+               <event when-iso="1748">
+                  <desc>
+                     transfered society <placeName>Little Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-05-28">28 May, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-06-08">8 April, 1748</date>
+                     recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-06-28">28 June, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-07-09">9 July, 1748</date>
+                     <placeName>brethen's house Wyke</placeName>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <placeName>Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-08-02">2 August, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-08-13">13 August, 1748</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-11-02">2 November, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-11-13">13 November, 1748</date>
+                     <placeName>Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event from="1752-04-25" to="1768-11-21">
+                  <desc>
+                     <placeName>brethenn's house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member <placeName ref="#fulneck">Fulneck</placeName> congregation
+                  </desc>
+               </event>
+               <event when-iso="1759-11-12">
+                  <desc>
+                     regulated <placeName>Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="marriage" when-iso="1768-11-21">
+                  <desc>
+                     <placeName>St Wilfrid's Church Calverley</placeName>
+                  </desc>
+               </event>
+               <note>
+                  (LW/G/F)CBsb=#LILEY, James (1727-1802)
+                  b 04.01.1726 (OS) / 15.01.1727 (NS) Hightown Parish of Birstall
+                  occupation: clothier
+                  resided: Fulneck 21.11.1768
+                  reception: baptized St Peter’s Church Birstall 22.01.1726 (OS) / 02.02.1726 (NS),
+                  added Ingham’s society Cleckheaton, received society Cleckheaton when a boy 1743, transferred society Little Gomersal 1748,
+                  received congregation Yorkshire in Fulneck 28.05.1748 (OS) / 08.06.1748 (NS) , brethren’s house Wyke 28. 06.1748 (OS) / 09.07.1748 (NS),
+                  confirmed Yorkshire in Fulneck 02.08.1748 (OS) / 13.08.1748 (NS),
+                  sacrament Yorkshire in Fulneck 02.11.1748 (OS) / 13.11.1748 (NS),
+                  brethren’s house Fulneck 25.04.1752 - 21.11.1768,
+                  founder member Fulneck congregation 19.04.1755, regulated Fulneck 12.11.1759
+                  congregation office: College of Overseers
+                  church orders: received as acoluth Fulneck 14.08.1766
+                  church service: single brethren’s choir helper Fulneck, curator of single sisters Fulneck m Ann Crowther (b 1739) St Wilfrid’s Church Calverley 21.11.1768
+                  family: son of Robert Liley (b 1697) and Mary (née Walker) (b 1696),
+                  grandson of James Liley, and James Walker and Susannah (née Walker),
+                  nephew of Mary Liley (b 1709),
+                  son-in-law of Joshua Crowther (clothier) and Ann (née Procter) (b 1697),
+                  brother-in-law of Joseph (b 1722), Rebecca (b 1724), Dinah (Saxon) (b 1728), Joshua (b 1730)
+                  and Mary Crowther (b 1743),
+                  father of Susanna (Sharman) (b 1769) and James (b 1773),
+                  father-in-law of John Sharman (b 1767) and Ellinor (née Cockill) (b 1780), grandfather of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797),
+                  Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813), and James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  great-grandfather Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and
+                  John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835), Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839),
+                  George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and
+                  Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842),
+                  John Henry (b 1843) and Charles William Craig (b 1846), and
+                  William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845),
+                  Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853),
+                  Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and
+                  Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854),
+                  Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858),
+                  Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-great-grandfather of George William (b 1861), Charles Herbert (b 1864),
+                  Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and
+                  
+                  Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889), and
+                  Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and
+                  Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893),
+                  great-great-great-grandfather of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912),
+                  great-great-great-great-grandfather of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 10.07.1802 aged 75 Fulneck, interred Fulneck by Br S T Benade 14.07.1802
+                  grave 1121 - 2nd section, 39th row, 8th grave from path together with daughter Susanna Sharman (grave 1711)
+                  (F/G)LILEY, James (1773-1827)
+                  b 02.07.1773 Fulneck
+                  occupation: clothier
+                  reception: baptized Fulneck by Br E Miller 04.07.1773, received congregation Fulneck 09.04.1787,
+                  sacrament Fulneck 28.06.1794
+                  church orders: ordained as deacon November 1807
+                  church service: teacher and room overseer boys’ school Fulneck December 1801,
+                  assistant and single brethren’s labourer Dublin 27.05.1805,
+                  congregation labourer Gracehill 20.11.1807 and co-director boys’ academy 09.10.1811, co-labourer and co-director boys’ academy Gracehill 1813,
+                  director boys’ academy Fairfield March 1820, congregation labourer Gomersal 1823, Bedford with Culworth 1824-26
+                  provincial office: provincial helper Bedford 1824, Ockbrook 1826, retired widows’ house Fulneck November 1826
+                  m Ellinor Cockill (b 1780) St Peter’s Church Birstall 22.10.1807 family: son of James Liley (b 1727) and Ann (née Crowther) (b 1739),
+                  grandson of Robert Liley (b 1697) and Mary (née Walker) (b 1696), and Joshua Crowther (clothier) and Ann (née Procter) (b 1697),
+                  great-grandson of James Liley, and James Walker and Susannah (née Walker), and John Procter,
+                  nephew of Joseph (b 1722), Rebecca (b 1724), Dinah (Saxon) (b 1728), Joshua (b 1730) and Mary Crowther (b 1743),
+                  cousin of Mary (b 1767), Ann (b 1769) and Sarah Saxon (b 1772), and
+                  Joshua (b 1760), Elizabeth (b 1762), Ann (b 1765) and Mary Crowther (b 1768),
+                  brother of Susanna (Sharman) (b 1769),
+                  brother-in-law of John Sharman (b 1767), and Thomas (b 1774), Mary (Waller) (b 1776),
+                  Lydia Cockill (b 1777) and Sarah (Waller) (b 1785),
+                  
+                  uncle of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797), Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813),
+                  son-in-law of Thomas Cockill (b 1748) and Sarah (née Wilcock) (b 1748),
+                  father of James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia (b 1813),
+                  Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821), father-in-law of Susanna (née Sharp) (b 1804), Samuel Warren (b 1808),
+                  James England (b 1810) and Godfrey Clemens (b 1818),
+                  grandfather of William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845),
+                  Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853),
+                  Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and
+                  Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854),
+                  Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858),
+                  Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-grandfather of Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and
+                  Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893),
+                  great-great-grandfather of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912),
+                  great-great-great-grandfather of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 02.03.1827 aged 53 widows’ house Fulneck, interred Fulneck by Br J B Holmes 07.03.1827 grave 1459 - 2nd section, 61st row, 3rd grave from path
+               </note>
+            </person>
+            <listRelation>
+               <relation type="personal" name="spuse"></relation> <!-- Ann Crowther (1739) -->
+               <!--<relation type="personal" name="son"></relation>
+               <relation type="personal" name=""></relation>
+               <relation type="personal" name=""></relation>
+               <relation type="personal" name=""></relation>
+               <relation type="personal" name=""></relation>-->
+            </listRelation>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000428">
+               <persName>
+                  <forename>Ann</forename>
+                  <surname type="birth">Liley</surname>
+                  <surname type="married">Crowther</surname>
+               </persName>
+               <birth>
+                  <date type="birth" when-iso="1739-07-25">25 July, 1739</date>
+                  <placeName>Holme Bradford</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1812-01-30">30 January, 1812</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               
+               <event type="babtized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1739-08-12">12 August, 1739</date>
+                     <date calendar="Gregorian" when-iso="1739-08-23">23 August, 1739</date>
+                     <placeName>Tong Lane Presbyterian chapel Bradford</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     Ingham's society Holme
+                  </desc>
+               </event>
+               <event when-iso="1746">
+                  <desc>
+                     <placeName>sisters' house Holme</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1753">
+                  <desc>
+                     recieved society <placeName>Dudley Hill</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1756-07-22">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1759-03-05">
+                  <desc>
+                     <placeName>sisters' house Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1759-11-25">
+                  <desc>
+                     recieved sacrament <placeName>Gomersal in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event from="1761-02-20" to="1768-11-21">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               
+               <note>(P/G/F)x+^>CROWTHER, Ann (1739-1812)
+                  b 25.07.1739 Holme Bradford
+                  resided: Fulneck 21.11.1768
+                  reception: baptized Tong Lane Presbyterian chapel Bradford 12.08.1739 (OS) / 23.08.1739 (NS),
+                  Ingham’s society Holme, sisters’ house Holme 1746, received society Dudley Hill 1753, received congregation Fulneck 22.07.1756, sisters’ house Gomersal 05.03.1759, sacrament Gomersal in Fulneck 25.11.1759, sisters’ house Fulneck 20.02.1761 - 21.11.1768
+                  m James LILEY (b 1727) St Wilfrid’s Church Calverley 21.11.1768 – widowed 10.07.1802 family: daughter of Joshua Crowther (b 1702) and Ann (née Procter) (b 1697),
+                  granddaughter of John Procter,
+                  niece of Mary (b 1690) and Sarah Procter (b 1702),
+                  sister of Joseph (b 1722), Rebecca (b 1724), Dinah (Saxon) (b 1728), Joshua (b 1730) and
+                  Mary Crowther (b 1743),
+                  sister-in-law of Joseph Saxon (b 1725) and Mary (née Denton), aunt of Mary (b 1767), Ann (b 1769) and Sarah Saxon (b 1772), and
+                  Joshua (b 1760), Elizabeth (b 1762), Ann (b 1765) and Mary Crowther (b 1768), daughter-in-law of Robert Liley (b 1697) and Mary (née Walker) (b 1696),
+                  mother of Susanna (Sharman) (b 1769) and James Liley (b 1773),
+                  mother-in-law of John Sharman (b 1767) and Ellinor (née Cockill) (b 1780), grandmother of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797),
+                  Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813), and James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  great-grandmother of Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835), Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839),
+                  George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and
+                  Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842),
+                  John Henry (b 1843) and Charles William Craig (b 1846), and
+                  William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845),
+                  Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853), Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854), Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858), Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-great-grandmother of George William (b 1861), Charles Herbert (b 1864),
+                  Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889), and
+                  Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and
+                  Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893),
+                  great-great-great-grandmother of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912),
+                  great-great-great-great-grandmother of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 30.01.1812 aged 72 Fulneck, interred Fulneck by Br S T Benade 04.02.1812 grave 1272 - 1st section, 55th row, 5th grave from path</note>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000429">
+               <persName>
+                  <forename>Robert</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+               <note>(LW/G/F)CB+#LILEY, Robert (1697-1771)
+                  b 03.10.1697 (OS) / 14.10.1697 (NS) Liversedge Parish of Birstall
+                  occupation: clothier
+                  resided: Lane End Fulneck 1759
+                  reception: baptized St Peter’s Church Birstall 03.10.1697 (OS) / 14.10.1697 (NS),
+                  Ingham’s society Cleckheaton, received society Cleckheaton 1744,
+                  transferred society Little Gomersal 1748,
+                  received congregation Yorkshire in Fulneck 02.08.1748 (OS) / 13.08.1748 (NS),
+                  sacrament Yorkshire 02.11.1748 (OS) / 13.11.1748 (NS),
+                  founder member Gomersal congregation 17.04.1755, transferred congregation Fulneck 1759
+                  m Mary Walker (b 1696) St Peter’s Church Birstall 14.04.1723 family: son of James Liley, brother of Mary Liley (b 1709),
+                  son-in-law of James Walker and Susannah (née Walker),
+                  father of James (b 1727), father-in-law of Ann (née Crowther) (b 1739), grandfather of Susanna (Sharman) (b 1769) and James Liley (b 1773), great-grandfather of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797),
+                  Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813), and James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  great-great-grandfather of Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835),
+                  Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839), George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842), John Henry (b 1843) and Charles William Craig (b 1846), and
+                  William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845), Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853), Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854), Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858), Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-great-great-grandfather of George William (b 1861), Charles Herbert (b 1864), Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889), and
+                  Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and
+                  Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893),
+                  great-great-great-great-grandfather of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912),
+                  great-great-great-great-great-grandfather of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 16.12.1771 aged 74 Fulneck, interred Fulneck by Br A Taylor 19.12.1771 grave 433 - 2nd section, 10th row, 8th grave from path</note>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000430">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Walker</surname>
+                  <surname type="married">Liley</surname>
+               </persName>
+               <note>(LW/G/F)CB+^>#LILEY, Mary (1696-1784) b WALKER 27.09.1696 Birstall
+                  occupation: spinner
+                  resided: Lane End Fulneck 1759
+                  reception: baptized St Peter’s Church Birstall 29.10.1696 (OS) / 09.11.1696), Ingham’s society Cleckheaton, received society Cleckheaton 1744,
+                  transferred society Little Gomersal 1748,
+                  received congregation Yorkshire in Fulneck 02.08.1748 (OS) / 13.08.1748 (NS), sacrament Yorkshire 02.11.1748 (OS) / 13.11.1748 (NS),
+                  founder member Gomersal congregation 17.04.1755, transferred congregation Fulneck 1759,
+                  widows’ house Fulneck 1772
+                  m Robert Liley (b 1697) St Peter’s Church Birstall 14.04.1723 (OS) / 25.04.1723 (NS)
+                  - widowed 16.12.1771
+                  family: daughter of James Walker and Susannah (née Walker),
+                  daughter-in-law of James Liley, sister-in-law of Mary Liley (b 1709),
+                  mother of James (b 1727), mother-in-law of Ann (née Crowther) (b 1739), grandmother of Susanna (Sharman) (b 1769) and James Liley (b 1773), great-grandmother of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797),
+                  Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813), and James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  great-great-grandmother of Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835), Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839),
+                  George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and
+                  Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842),
+                  John Henry (b 1843) and Charles William Craig (b 1846), and
+                  William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845),
+                  Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853),
+                  Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and
+                  Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854),
+                  Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858),
+                  Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-great-great-grandmother of George William (b 1861), Charles Herbert (b 1864), Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889), and
+                  Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and
+                  Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893), great-great-great-great-grandmother of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912)
+                  great-great-great-great-great-grandmother of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 22.11.1784 aged 88 Fulneck, interred Fulneck by Br J Miller junior 26.11.1784 grave 726 - 1st section, 42nd row, 8th grave from path</note>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000431">
+               <persName>
+                  <forename>Joshua</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000432">
+               <persName>
+                  <forename>Ann</forename>
+                  <surname type="birth">Procter</surname>
+                  <surname type="married">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000433">
+               <persName>
+                  <forename>James</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000434">
+               <persName>
+                  <forename>James</forename>
+                  <surname type="birth">Walker</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000435">
+               <!-- Having trouble determining her married name -->
+               <persName>
+                  <forename>Susannah</forename>
+                  <surname type="birth">Walker</surname>
+                  <surname type="married">????</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000436">
+               <persName>
+                  <forename>John</forename>
+                  <surname type="birth">Procter</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000437">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000438">
+               <persName>
+                  <forename>Rebecca</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000439">
+               <persName>
+                  <forename>Dinah</forename>
+                  <surname type="birth">Crowther</surname>
+                  <surname type="married">Saxon</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000440">
+               <persName>
+                  <forename>Joshua</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000441">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000442">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Saxon</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000443">
+               <persName>
+                  <forename>Ann</forename>
+                  <surname type="birth">Saxon</surname>
+               </persName>
+            </person>
+         </listPerson><listPerson>
+            <person xml:id="mlper000444">
+               <persName>
+                  <forename>Sarah</forename>
+                  <surname type="birth">Saxon</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000445">
+               <persName>
+                  <forename>Joshua</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000446">
+               <persName>
+                  <forename>Elizabeth</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000447">
+               <persName>
+                  <forename>Ann</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson><listPerson>
+            <person xml:id="mlper000448">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Crowther</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000449">
+               <persName>
+                  <forename>James</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+               <note>(LW/G/F)CBsb=#LILEY, James (1727-1802)
+                  b 04.01.1726 (OS) / 15.01.1727 (NS) Hightown Parish of Birstall
+                  occupation: clothier
+                  resided: Fulneck 21.11.1768
+                  reception: baptized St Peter’s Church Birstall 22.01.1726 (OS) / 02.02.1726 (NS),
+                  added Ingham’s society Cleckheaton, received society Cleckheaton when a boy 1743, transferred society Little Gomersal 1748,
+                  received congregation Yorkshire in Fulneck 28.05.1748 (OS) / 08.06.1748 (NS) , brethren’s house Wyke 28. 06.1748 (OS) / 09.07.1748 (NS),
+                  confirmed Yorkshire in Fulneck 02.08.1748 (OS) / 13.08.1748 (NS),
+                  sacrament Yorkshire in Fulneck 02.11.1748 (OS) / 13.11.1748 (NS),
+                  brethren’s house Fulneck 25.04.1752 - 21.11.1768,
+                  founder member Fulneck congregation 19.04.1755, regulated Fulneck 12.11.1759
+                  congregation office: College of Overseers
+                  church orders: received as acoluth Fulneck 14.08.1766
+                  church service: single brethren’s choir helper Fulneck, curator of single sisters Fulneck m Ann Crowther (b 1739) St Wilfrid’s Church Calverley 21.11.1768
+                  family: son of Robert Liley (b 1697) and Mary (née Walker) (b 1696),
+                  grandson of James Liley, and James Walker and Susannah (née Walker),
+                  nephew of Mary Liley (b 1709),
+                  son-in-law of Joshua Crowther (clothier) and Ann (née Procter) (b 1697),
+                  brother-in-law of Joseph (b 1722), Rebecca (b 1724), Dinah (Saxon) (b 1728), Joshua (b 1730)
+                  and Mary Crowther (b 1743),
+                  father of Susanna (Sharman) (b 1769) and James (b 1773),
+                  father-in-law of John Sharman (b 1767) and Ellinor (née Cockill) (b 1780), grandfather of Elizabeth (b 1795), Charlotte (b 1796), Sophia (b 1797),
+                  Charles James (b 1799), Ann (Archer) (b 1802), John Henry (b 1803), George (b 1806), Samuel Renatus (b 1808), Sarah Sharman (b 1810) and Margaret Susanna (Craig) (b 1813), and James (b 1809), Sarah Ann (Warren) (b 1810), Ellinor (b 1812), Lydia Liley (b 1813), Charlotte (England) (b 1816) and Mary Susanna (Clemens) (b 1821),
+                  great-grandfather Joseph Charles (b 1834), Mary Susanna (Morrow) (b 1836) and
+                  John William Archer (b 1839), and
+                  James Maud (b 1827), John (b 1830), Martha (Archer) (b 1832), William (b 1834) and Charlotte Ann Sharman (b 1836), and
+                  Elizabeth Susanna (b 1832), Sarah Ann (Liversedge) (b 1833), Henry Harland (b 1835), Charles John (b 1837), Martha (Sharman) (b 1839), Mary (Robinson) (b 1839),
+                  George Renatus (b 1842) and Frederick Chippendale Sharman (b 1845), and
+                  Frederic William (b 1838), Emma Elizabeth (b 1840), Margaret Louisa (b 1842),
+                  John Henry (b 1843) and Charles William Craig (b 1846), and
+                  William Hunt Liley (b 1837), Charlotte Susannah (Senior) (b 1839),
+                  Mary Ellinor (Bailey) (b 1842), Sarah Ann (Wilson) (b 1844) and
+                  Lydia Cockill (Birtill) (b 1846), and
+                  Phoebe Ellinor (b 1837), Charlotte (Skeen) (b 1839), Arthur (b 1841), James Liley (b 1843), Samuel (b 1845), Isaac (b 1846), John Henry (b 1848), Thomas Stephen (b 1850), Frederick William (b 1852) and Godfrey Octavius Warren (b 1854), and
+                  John J Liley (b 1843), Charlotte Ann (MacCabe) (b 1844), Richard (b 1845),
+                  Lydia (b 1848), Ellinor (b 1850), Sarah Ann (b 1851), Thomas Cockill (b 1853),
+                  Clifford (b 1855), Luke Lawrence (b 1856), Caroline England (b 1858) and
+                  Adelaide Victoria (Arnold) (b 1861), and
+                  Lydia Helena (Swire) (b 1851), Frederic (b 1852), Mary Ellinor (Hahn) (b 1854),
+                  Amelia Louisa (Mumford) (b 1855), Godfrey (b 1857), Theodor Liley (b 1858),
+                  Annie (b 1860), Emily (b 1862) and Charlotte Elizabeth Clemens (b 1864),
+                  great-great-grandfather of George William (b 1861), Charles Herbert (b 1864),
+                  Frank Sharman (b 1871) and Walter James Archer (b 1875), and
+                  George Henry (b 1864), Mary Ellen (b 1868), Alice Ann (b 1870), William N (b 1872), Charles J (b 1874) and Elizabeth S Archer (b 1875), and
+                  William Maud (b 1851), Hannah (b 1852), Mary Jane (b 1856), George (b 1858), Beecroft (b 1859), Christiana (b 1861), Charlotte (b 1864), Alice (b 1866) and Charles James Sharman (b 1868), and
+                  John Earl (b 1868), Christopher George (b 1870), Charles James (b 1872) and
+                  
+                  Catherine Sharman (b 1873), and
+                  Florence (b 1859), Agnes Ann (Langford) (b 1863), Jacob William (b 1864),
+                  Henry Sharman (b 1865), Mary Louisa (b 1867) and Samuel Harland Liversedge (b 1869), and Samuel William (b 1871), George Henry (b 1874), Charles John (b 1876),
+                  Ernest H (b 1879), Alfred (b 1881), Florence (b 1883), Edward (b 1887) and
+                  Martha E Sharman (b 1889), and
+                  Mary Elizabeth (Hawkes) (b 1875), Edith Eleanor (b 1878) and Henry Liley Senior (b 1882), and Mary Elizabeth (Wareing) (b 1869), Winifred Ellen (b 1871), William Liley (b 1874), John Herbert (b 1876), Ronald Cathcart (b 1878), Harold James (b 1880) and
+                  Gilbert Moore Wilson (b 1884), and
+                  Alexander William (b 1873), Caroline Mary (b 1874), Charlotte Mary (b 1874),
+                  Henry Edward (b 1876), Charles Ernest (b 1878) and John Gerald Birtill (b 1886), and Ellinor A E MacCabe (b 1874), and Robert and Frederick Skeen, and
+                  Olive (b 1884), Norman (b 1889) and Conway Arnold (b 1892), and
+                  James Reginald (b 1888), Geoffrey Samuel (b 1889), Marjorie (b 1891) and
+                  Mary Isabella Swire (b 1894), and
+                  Godfrey Jackson (b 1878), Warren Jackson (b 1880), Helena (b 1883) and
+                  Frederick Broadbent Clemens (b 1884), and
+                  Frederic Warren Theodor (b 1889), Mary Liley (b 1891) and Anna E Clemens (b 1893),
+                  great-great-great-grandfather of Eric Avon Hawkes (b 1908), and
+                  Annie Elizabeth Wilson (b 1905), and Peggy Wilson, and
+                  Mary (Smith) (b 1905) and Edward Wilson (b 1909), and
+                  Charles Henry J (b 1899), Francis Ernest (b 1901), Mabel Lydia (b 1903),
+                  Irene Maud (b 1904) and Hilda Violet Birtill (b 1910), and Henry Roy Birtill (b 1905), and Frank Theodor Clemens (b 1912),
+                  great-great-great-great-grandfather of Rosemary Smith, and
+                  Patrick (b 1934), Edward James (b 1936) and Michael Ralph Wilson (b 1943)
+                  d 10.07.1802 aged 75 Fulneck, interred Fulneck by Br S T Benade 14.07.1802
+                  grave 1121 - 2nd section, 39th row, 8th grave from path together with daughter Susanna Sharman (grave 1711)</note>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000450">
+               <persName>
+                  <forename>Eleanor</forename>
+                  <surname type="birth">Cockill</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000451">
+               <persName>
+                  <forename>Ann <addName>Mary</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000452">
+               <persName>
+                  <forename>Eleonora</forename>
+                  <surname type="birth">Schirmer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000453">
+               <persName>
+                  <forename>Sarah</forename>
+                  <surname type="birth">Church</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000454">
+               <persName>
+                  <forename>James</forename>
+                  <surname type="birth">Susanna</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000455">
+               <persName>
+                  <forename>Sarah <addName>Ann</addName></forename>
+                  <surname type="birth">Warren</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000456">
+               <persName>
+                  <forename>Ellinor</forename>
+                  <surname type="birth">Susanna</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000457">
+               <persName>
+                  <forename>Lydia</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000458">
+               <persName>
+                  <forename>Charlotte</forename>
+                  <surname type="birth">England</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000459">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Susanna</surname>
+                  <surname type="married">Clemens</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000460">
+               <persName>
+                  <forename>John</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <!-- Can't find Modesty's married name -->
+         <listPerson>
+            <person xml:id="mlper000461">
+               <persName>
+                  <forename>Modesty</forename>
+                  <surname type="birth">Yonness</surname>
+                  <surname type="married">????</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000462">
+               <persName>
+                  <forename>Elizabeth</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000463">
+               <persName>
+                  <forename>Charlotte</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000464">
+               <persName>
+                  <forename>Sophia</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000465">
+               <persName>
+                  <forename>Charles <addName>James</addName></forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000466">
+               <persName>
+                  <forename>Ann</forename>
+                  <surname type="birth">Liley</surname>
+                  <surname type="married">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000467">
+               <persName>
+                  <forename>John <addName>Henry</addName></forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000468">
+               <persName>
+                  <forename>George</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000469">
+               <persName>
+                  <forename>Samuel <addName>Renatus</addName></forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000470">
+               <persName>
+                  <forename>Sarah</forename>
+                  <surname type="birth">Liley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000471">
+               <persName>
+                  <forename>Margaret <addName>Susanna</addName></forename>
+                  <surname type="birth">Liley</surname>
+                  <surname type="married">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000472">
+               <persName>
+                  <forename>William</forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000473">
+               <persName>
+                  <forename>Sarah <addName>Hannah</addName></forename>
+                  <surname type="birth">Maud</surname>
+                  <surname type="married">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000474">
+               <persName>
+                  <forename>Mary <addName>Harland</addName></forename>
+                  <surname type="birth">Chippendale</surname>
+                  <surname type="married">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000475">
+               <persName>
+                  <forename>Phoebe</forename>
+                  <surname type="birth">Pilling</surname>
+                  <surname type="married">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000476">
+               <persName>
+                  <forename>William</forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000477">
+               <persName>
+                  <forename>Joseph <addName>Charles</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000478">
+               <persName>
+                  <forename>Mary <addName>Susanna</addName></forename>
+                  <surname type="birth">Archer</surname>
+                  <surname type="married">Morrow</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000479">
+               <persName>
+                  <forename>John <addName>William</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000480">
+               <persName>
+                  <forename>James <addName>Maud</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000481">
+               <persName>
+                  <forename>John</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000482">
+               <persName>
+                  <forename>Martha</forename>
+                  <surname type="birth">Sharman</surname>
+                  <surname type="married">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000483">
+               <persName>
+                  <forename>William</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000484">
+               <persName>
+                  <forename>Charlotte <addName>Ann</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000485">
+               <persName>
+                  <forename>Elizabeth <addName>Susanna</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000486">
+               <persName>
+                  <forename>Sarah <addName>Ann</addName></forename>
+                  <surname type="birth">Sharman</surname>
+                  <surname type="married">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000487">
+               <persName>
+                  <forename>Henry <addName>Harland</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000488">
+               <persName>
+                  <forename>Charles <addName>Johnn</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000489">
+               <persName>
+                  <forename>Martha</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000490">
+               <persName>
+                  <forename>Mary</forename>
+                  <surname type="birth">Sharman</surname>
+                  <surname type="married">Robinson</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000491">
+               <persName>
+                  <forename>George <addName>Renatus</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000492">
+               <persName>
+                  <forename>Frederick <addName>Chippendale</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000493">
+               <persName>
+                  <forename>Frederick <addName>William</addName></forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000494">
+               <persName>
+                  <forename>Emma <addName>Elizabeth</addName></forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000495">
+               <persName>
+                  <forename>Margaret <addName>Louisa</addName></forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000496">
+               <persName>
+                  <forename>John <addName>Henry</addName></forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000497">
+               <persName>
+                  <forename>Charles <addName>William</addName></forename>
+                  <surname type="birth">Craig</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000498">
+               <persName>
+                  <forename>George <addName>William</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000499">
+               <persName>
+                  <forename>Charles <addName>Herbert</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000500">
+               <persName>
+                  <forename>Frank <addName>Sharman</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000501">
+               <persName>
+                  <forename>Walter <addName>James</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000502">
+               <persName>
+                  <forename>George <addName>Henry</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000503">
+               <persName>
+                  <forename>Mary <addName>Ellen</addName></forename>
+                  <surname type="birth">archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000504">
+               <persName>
+                  <forename>Alice <addName>Ann</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000505">
+               <persName>
+                  <forename>William <addName>N</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000506">
+               <persName>
+                  <forename>Charles <addName>J</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000507">
+               <persName>
+                  <forename>Elizabeth <addName>S</addName></forename>
+                  <surname type="birth">Archer</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000508">
+               <persName>
+                  <forename>William <addName>Maud</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000509">
+               <persName>
+                  <forename>Hannah</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000510">
+               <persName>
+                  <forename>Mary <addName>Jane</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000511">
+               <persName>
+                  <forename>George</forename>
+                  <surname type="birth">Sharmann</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000512">
+               <persName>
+                  <forename>Beecroft</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000513">
+               <persName>
+                  <forename>Christiana</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000514">
+               <persName>
+                  <forename>Charlotte</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000515">
+               <persName>
+                  <forename>Alice</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000516">
+               <persName>
+                  <forename>Charles <addName>James</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000517">
+               <persName>
+                  <forename>John <addName>Earl</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000518">
+               <persName>
+                  <forename>Christopher <addName>George</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000519">
+               <persName>
+                  <forename>Charles <addName>James</addName></forename>
+                  <surname type="birth">Sharmann</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000520">
+               <persName>
+                  <forename>Catherine</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000521">
+               <persName>
+                  <forename>Florence</forename>
+                  <surname type="birth">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000522">
+               <persName>
+                  <forename>Agnes <addName>Ann</addName></forename>
+                  <surname type="birth">Liversedge</surname>
+                  <surname type="married">Langford</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000523">
+               <persName>
+                  <forename>Jacob <addName>William</addName></forename>
+                  <surname type="birth">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000524">
+               <persName>
+                  <forename>Henery <addName>Sharman</addName></forename>
+                  <surname type="birth">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000525">
+               <persName>
+                  <forename>Mary <addName>Louisa</addName></forename>
+                  <surname type="birth">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000526">
+               <persName>
+                  <forename>Samuel <addName>Harland</addName></forename>
+                  <surname type="birth">Liversedge</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000527">
+               <persName>
+                  <forename>Samuel <addName>William</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000528">
+               <persName>
+                  <forename>George <addName>Henry</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000529">
+               <persName>
+                  <forename>Charles <addName>John</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000530">
+               <persName>
+                  <forename>Ernest <addName>H</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000531">
+               <persName>
+                  <forename>Alfred</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <person xml:id="mlper000532">
+               <persName>
+                  <forename>Florence</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000533">
+               <persName>
+                  <forename>Edward</forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson>
+            <person xml:id="mlper000534">
+               <persName>
+                  <forename>Martha <addName>E</addName></forename>
+                  <surname type="birth">Sharman</surname>
+               </persName>
+            </person>
+         </listPerson>
+         
+         
+
+
+
+
+
+
       </body>
    </text>
 </TEI>
