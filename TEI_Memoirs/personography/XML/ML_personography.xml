@@ -4261,12 +4261,128 @@
          </listPerson>
          
          
-
-
-
-
-
-
+         
+         
+         <listPerson>
+            <person xml:id="mlper000535">
+               <persName>
+                  <forename>Peter <addName>Jacob</addName></forename>
+                  <surname type="birth">Planta</surname>
+               </persName>
+               <birth>
+                  <date type="birth" when-iso="1721-12-16">16 December, 1721</date>
+                  <placeName ref="#mlpla000085">Jonköping Sweden</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1815-05-06">6 May, 1815</date>
+                  <placeName ref="#mlpla000063">Ockbrook</placeName>
+               </death>
+               <residence from="1755-04-10" to="1759">
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </residence>
+               <residence from="1780-10-19" notAfter="1781-01-03">
+                  <placeName ref="#mlpla000063">congregation house Ockbrook</placeName><!-- This ref is only for Ockbrook in general not the specific place -->
+               </residence>
+               <residence from="1781-01-03" notAfter="1784-09-08">
+                  <placeName ref="#mlpla000063">Green Lane Ockbrook</placeName><!-- This ref is only for Ockbrook in general not the specific place -->
+               </residence>
+               <residence notBefore="1784-09-08">
+                  <placeName ref="#mlpla000063">33 - 35 The Settlement Ockbrook</placeName> <!-- This ref is only for Ockbrook in general not the specific place -->
+               </residence>
+               <event type="babtized">
+                  <desc>
+                     <placeName>Lutheran Church</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1747-12-31">
+                  <desc>
+                     recieved congregation <placeName ref="#mlpla000014">Herrnhaag</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1748-03-25">
+                  <desc>
+                     <placeName ref="#mlpla000014">Herrnhaag</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     regulated <placeName>Germanny</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752">
+                  <desc>
+                     <placeName ref="#mlpla000072">brethren’s house Lane End Pudsey</placeName><!-- This ref is for England -->
+                  </desc>
+               </event>
+               <event from="1752" to="1755-04-10">
+                  <desc>
+                     <placeName ref="mlpla000004">brethren’s House Fulneck</placeName> <!-- This ref is for Fulneck in general -->
+                  </desc>
+               </event>
+               <event when-iso="1758-04-18">
+                  <desc>
+                     ordained as a deacon
+                  </desc>
+               </event>
+               <event when-iso="1780">
+                  <desc>
+                     returned <placeName>UK</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1812-01-26">
+                  <desc>
+                     disqualified from committee <placeName ref="#mlpla000063">Ockbrook</placeName> due to great age and infirmity
+                  </desc>
+               </event>
+               <event type="marriage" when-iso="1755-04-10">
+                  <desc>
+                     <placeName>St Wilfrid's Church Calverley</placeName>
+                  </desc>
+               </event>
+               <faith notAfter="1747-12-31">Lutheran</faith>
+               <faith notBefore="1747-12-31">Moravian</faith>
+               <education when-iso="1752">apprenticeship under Dr Hurlock <placeName ref="#mlpla000004">Fulneck</placeName></education>
+               <occupation when-iso="1751">assistant congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
+               <occupation when-iso="1753">congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
+               <occupation when-iso="1759-05-28">medical missionary <placeName ref="#mlpla000076">Jamaica</placeName></occupation>
+               <occupation when-iso="1780-10-19">congregation doctor and assistant labourer <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
+               <occupation when-iso="1780-12-26">committee <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
+               <occupation when-iso="1783-06-25">congregation council <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
+               <occupation when-iso="1790-03-15">committee minute secretary <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
+               
+               <note>(P/F/O)PLANTA, Peter Jacob (1721-1815)
+                  b 16.12.1721 Jonköping Sweden
+                  educated: apprenticeship under Dr Hurlock Fulneck 1752
+                  occupation: surgeon and apothecary
+                  resided: Fulneck 10.04.1755 - 1759, congregation house Ockbrook 19.10.1780,
+                  Green Lane Ockbrook 03.01.1781, 33 - 35 The Settlement Ockbrook 08.09.1784 reception: baptized Lutheran Church, received congregation Herrnhaag 31.12.1747,
+                  sacrament Herrnhaag 25.03.1748, regulated Germany,
+                  brethren’s house Lane End Pudsey 1752, brethren’s House Fulneck 1752-10.04.1755 congregation office: committee Ockbrook 26.12.1780, congregation council Ockbrook 25.06.1783,
+                  committee minute secretary Ockbrook 15.03.1790,
+                  disqualified from committee Ockbrook due to great age and infirmity 26.01.1812
+                  church orders: ordained as deacon 18.04.1758
+                  church service: assistant congregation doctor Fulneck 1751, congregation doctor Fulneck 1753,
+                  medical missionary Jamaica 28.05.1759, returned UK 1780,
+                  congregation doctor and assistant labourer Ockbrook 19.10.1780
+                  m Anna Magdalen(e) Sierin (b 1723) St Wilfrid’s Church Calverley 10.04.1755
+                  by direction of the congregation - widowed 17.12.1793
+                  family: son of Jacob Planta and Martha, son-in-law of Thomas Sier and Dorothy,
+                  father of Anna Johanna (Collis) (b 1756), Benigna (b 1758) and Johannes (b 1764), father-in-law of David Collis (b 1753) and Elizabeth (née Hutchinson) (b 1765),
+                  grandfather of Peter (b 1782), Anna (b 1783), Margaret (Hull) (b 1787), Mary (Nesbit) (b 1789),
+                  David (b 1791), Benigna (b 1794), James (b 1796), John Collis (b 1799), and
+                  Peter John (b 1804) and James Christian Planta (b 1805), great-grandfather of Julia Walker (b 1821), and
+                  David Collis (b 1818), Margaret Ann (b 1820), Henrietta Elizabeth (b 1821),
+                  John Millard (b 1823), Frederick P (b 1825) and James S Hull (b 1828), and
+                  John Collis (b 1818), Mary Ann (b 1821), Edward Planta (b 1822) and
+                  Julia Emily Nesbit (b 1829), and Anna Collis (b 1834) and John Planta Collis (b 1836),
+                  great-great-grandfather of Mary Collis (Deakin) (b 1851), John Collis (b 1853), Alfred Anthony (b 1855), Henry Alderton Nesbit (b 1857) and
+                  Edith (Bland, later Tucker) (b 1858),
+                  great-great-great-grandfather of Mary Annie (b 1877), Godfrey Pariss (b 1881) and John Bartram Deakin (b 1883), and
+                  Paul Cyril (b 1880), Mary Iris (b 1882), Fabian (b 1885), Rosamund Edith (b 1886) and John Bland (b 1898)
+                  d 06.05.1815 aged 93 Ockbrook, interred Ockbrook by Br Traneker 13.05.1815 2nd section, 10th row, 1st grave on the right by 1st path</note>
+            </person>
+            <!-- Relationships are within the notes, but can't be done unless we have xml:ids for the other people -->
+         </listPerson>
       </body>
    </text>
 </TEI>
