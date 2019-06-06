@@ -4294,6 +4294,11 @@
                      <placeName>Lutheran Church</placeName>
                   </desc>
                </event>
+               <event when-iso="1725">
+                  <desc>
+                     Nearly drowned in Lake Witter, but was saved by a woman. 
+                  </desc>
+               </event>
                <event when-iso="1747-12-31">
                   <desc>
                      recieved congregation <placeName ref="#mlpla000014">Herrnhaag</placeName>
@@ -4342,6 +4347,7 @@
                <faith notAfter="1747-12-31">Lutheran</faith>
                <faith notBefore="1747-12-31">Moravian</faith>
                <education when-iso="1752">apprenticeship under Dr Hurlock <placeName ref="#mlpla000004">Fulneck</placeName></education>
+               <education>apprentice to an eminent surgeon and apothecary <placeName ref="#mlpla000086">Gothenburg</placeName> </education>
                <occupation when-iso="1751">assistant congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
                <occupation when-iso="1753">congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
                <occupation when-iso="1759-05-28">medical missionary <placeName ref="#mlpla000076">Jamaica</placeName></occupation>
