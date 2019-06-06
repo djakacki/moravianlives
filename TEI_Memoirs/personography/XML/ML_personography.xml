@@ -397,22 +397,108 @@
             </person>
          </listPerson>
          <listPerson>
-            <person xml:id="mlper000215">
+            <person xml:id="mlper000215" sex="f">
                <persName>
                   <forename>Anna
                      <addName>Rosina</addName> </forename> 
                   <surname type="birth">Anderson</surname>
                </persName>
                <birth>
-                  <date type="birth"/>
-                  <placeName/>
+                  <date type="birth" when-iso="1727-08-09">9 August, 1727</date>
+                  <placeName>Berthelsdorf</placeName>
                </birth>
                <death>
-                  <date type="death"/>
-                  <placeName/>
+                  <date type="death" when-iso="1803-02-20">20 Febuary, 1803</date>
+                  <placeName>sisters' house Fulneck</placeName>
                </death>
+               <event type="babtized">
+                  <desc>
+                     Lutheran Church
+                  </desc>
+               </event>
+               <event when-iso="1738" cert="medium">
+                  <desc>
+                     <placeName>orphan house Marienborn</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1739">
+                  <desc>
+                     <placeName>sisters' house Marienborn</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1740">
+                  <desc>
+                     recieved congregation <placeName ref="mlpla000057">Marienborn</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1741">
+                  <desc>
+                     <placeName ref="#mlpla000014">Hernnhaag</placeName>
+                  </desc>
+               </event>
+               
+               <event when-iso="1764-05">
+                  <desc>
+                     returned <placeName>Europe</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1746-06-24">
+                  <desc>
+                     arrived <placeName ref="#mlpla000054">London</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1747-07-04">
+                  <desc>
+                     blessed as a deaconess <placeName ref="#mlpla000014">Hernnhaag</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1748-09-20">
+                  <desc>
+                     arrived <placeName ref="#mlpla000002">Bethlehem</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1764-07-04">
+                  <desc>
+                     arrived <placeName ref="#mlpla000057">Marienborn</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1764-08">
+                  <desc>
+                     arrived <placeName ref="#herrnhut">Herrnhut</placeName>
+                  </desc>
+               </event>
+               
+               <event when-iso="1743-06-23">
+                  <desc>
+                     recieved as acoluth <placeName ref="mlpla000057">Marienborn</placeName>
+                  </desc>
+               </event>
+               <occupation when-iso="1742">children and great girls bandkeeper <placeName ref="mlpla000057">Marienborn</placeName></occupation>
+               <occupation notBefore="1748-09-20" notAfter="1764-05">single sisters' labourer <placeName ref="#mlpla000002">Bethlehem</placeName></occupation>
+               <occupation when-iso="1765">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></occupation>
+               <occupation when-iso="1765">single sisters' labourer <placeName ref="#mlpla000025">Bedford</placeName></occupation>
+               <occupation from="1722" to="1801">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></occupation>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/8</bibl>
+               <note>
+                  ANDERSON, Anna Rosina (1727-1803)
+                  b 09.08.1727 Berthelsdorf
+                  reception:  baptised Lutheran Church, orphan house Marienborn c 1738, 
+                  sisters’ house Marienborn 1739, received congregation Marienborn 1740, 
+                  sacrament Herrnhaag 1741
+                  congregation office:  children and great girls bandkeeper 1742 Marienborn
+                  church orders:  received as acoluth Herrnhaag 23.06.1743
+                  blessed as deaconess Herrnhaag 04.07.1747
+                  church service:  assistant children’s oeconomy Marienborn 1743, Herrnhaag 1743,
+                  single sisters’ labourer Bethlehem, arrived 20.09.1748, returned Europe May 1764,
+                  arrived London 24.06.1764, arrived Marienborn 04.07.1764, arrived Herrnhut August 1764,
+                  single sisters’ labourer Fulneck 1765, Bedford 1765, Fulneck 1772-1801
+                  d 20.02.1803 aged 75 sisters’ house Fulneck, interred Fulneck by Br S T Benade 24.02.1803
+                  grave 1136 - 2nd section, 52nd row, 2nd grave from path
+                  
+                  
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -434,19 +520,20 @@
             </person>
          </listPerson>
          <listPerson>
-            <person xml:id="mlper000217">
+            <person xml:id="mlper000217" sex="f">
                <persName>
                   <forename>Mary</forename> 
                   <surname type="birth">Allot</surname>
                </persName>
                <birth>
-                  <date type="birth" when-iso="1734-12-08">8 August, 1734</date>
-                  <placeName ref="#rastrick">Rastrick Parish of
-                  Halifax</placeName><!-- need to add placename ID for Rastrick -->
+                  <date type="birth" when-iso="1734-08-12">12 August, 1734</date>
+                  <placeName>Rastrick Parish of
+                  Halifax</placeName>
                </birth>
                <death>
-                  <date type="death" when-iso="1754-25-12">25 December, 1754</date>
-                  <placeName ref="#fulneck">Fulneck</placeName> Sisters' House </death>
+                  <date type="death" when-iso="1754-12-25">25 December, 1754</date>
+                  <placeName ref="#fulneck">Fulneck</placeName> Sisters' House
+               </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <event type="baptism">
                   <desc>Church of England</desc>
@@ -454,11 +541,27 @@
                <event type="reception" when-iso="1746-05">
                   <desc><placeName>society/sisters’ house Cleckheaton</placeName></desc>
                </event>
-               <event type="reception" when-iso="1750">
-                  <desc><placeName>sisters' house Tyresal</placeName></desc>
+               <event when-iso="1750">
+                  <desc>
+                     <placeName>sisters' house Tyersal</placeName>
+                  </desc>
                </event>
-               <event type="reception" when-iso="1752-25-03">
-                  <desc>congregation Yorkshire in Fulneck</desc>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1751-03-25">25 March, 1751</date>
+                     <date calendar="Gregorian" when-iso="1751-04-05">5 April, 1751</date>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>new sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1753-02-25">
+                  <desc>
+                     <placeName>Yorkshire in Fulneck</placeName>
+                  </desc>
                </event>
 
                <bibl type="memoir">Ful/SS/12</bibl>
@@ -546,48 +649,20 @@
 
          </listPerson>
          <listPerson>
-            <person xml:id="mlper000219">
+            <person xml:id="mlper000219" sex="f">
                <persName>
                   <forename>Abigail</forename> 
                   <surname type="birth">Bentley</surname>
                </persName>
                <birth>
-                  <date type="birth" when-iso="1722-09-23">23 September, 1722 </date>
+                  <date type="birth" when-iso="1722-09-23">23 September, 1722</date>
                   <placeName>Wyke Parish of Birstall</placeName>
                </birth>
-               <death>
-                  <date type="death" when-iso="1766-12-07">7 December, 1766</date>
-                  <placeName>sisters' house Fulneck</placeName>
-               </death>
                <event type="babtized">
-                  <desc>Church of England</desc>
+                  <desc>
+                     Church of England
+                  </desc>
                </event>
-               <event>
-                  <desc>Ingham's society <placeName>Wyke</placeName></desc>
-               </event>
-               <event type="reception" when-iso="1742">
-                  <desc>recieved society <placeName>Norwood Green</placeName></desc>
-               </event>
-               <event when-iso="1748">
-                  <desc>transfered society <placeName>Mirfield</placeName></desc>
-               </event>
-               <event when-iso="1752">
-                  <desc>transfered society <placeName>Holme</placeName></desc>
-               </event>
-               <event when-iso="1752-15-12">
-                  <desc>new sisters' house <placeName>Fulneck</placeName></desc>
-               </event>
-               <event type="reception" when-iso="1752-11-13">
-                  <desc>recieved congregation Yorkshire <placeName>Fulneck</placeName></desc>
-               </event>
-               <event type="sacrament" when-iso="1754-01-27">
-                  <desc><placeName>Fulneck</placeName></desc>
-               </event>
-               <event when-iso="1755-19-04">
-                  <desc>founder member Fulneck congregation <placeName>Fulneck</placeName></desc>
-               </event>
-
-
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/58</bibl>
                <note>(LW/W/P/F)=#BENTLEY, Abigail (1722-1766) b 23.09.1722 Wyke Parish of Birstall
@@ -4264,7 +4339,7 @@
          
          
          <listPerson>
-            <person xml:id="mlper000535">
+            <person xml:id="mlper000535" sex="m">
                <persName>
                   <forename>Peter <addName>Jacob</addName></forename>
                   <surname type="birth">Planta</surname>
@@ -4291,7 +4366,7 @@
                </residence>
                <event type="babtized">
                   <desc>
-                     <placeName>Lutheran Church</placeName>
+                     Lutheran Church
                   </desc>
                </event>
                <event when-iso="1725">
@@ -4389,6 +4464,7 @@
             </person>
             <!-- Relationships are within the notes, but can't be done unless we have xml:ids for the other people -->
          </listPerson>
+         
       </body>
    </text>
 </TEI>
