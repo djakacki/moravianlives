@@ -663,6 +663,42 @@
                      Church of England
                   </desc>
                </event>
+               <event>
+                  <desc>
+                     Ingham's society <placeName>Wyke</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1742">
+                  <desc>
+                     recieved society <placeName>Norwood Green</placeName>
+                  </desc>
+               </event>
+                  <event when-iso="1752-11-13">
+                     <desc>
+                        transfered society <placeName>Holme</placeName>
+                     </desc>
+                  </event>
+                  <event type="reception">
+                     <desc>
+                        recieved congregation <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                     </desc>
+                  </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>new sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1754-01-27">
+                  <desc>
+                     <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation <placeName ref="#mlpla000003">Fulneck</placeName>
+                  </desc>
+               </event>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/58</bibl>
                <note>(LW/W/P/F)=#BENTLEY, Abigail (1722-1766) b 23.09.1722 Wyke Parish of Birstall
@@ -764,7 +800,7 @@
                </death>
                <occupation>sewer</occupation>
                <event type="babtized">
-                  <desc><placeName>Church of England</placeName></desc>
+                  <desc>Church of England</desc>
                </event>
 
                <event when-iso="1758-05-21">
@@ -786,8 +822,8 @@
                <event when-iso="1784">
                   <desc>returned<placeName>sisters' house Gomersal</placeName></desc>
                </event>
-
-               <!-- Should "not on Gomersal catalogue 1789" be an event? -->
+               <occupation>sewer</occupation>
+               <residence from="1735" to="1758"><placeName>Golcar</placeName>></residence>
 
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/44</bibl>
@@ -805,21 +841,10 @@
                   Fulneck by Br S T Benade 02.09.1809 grave 1242 - 1st section, 53rd row, 2nd grave
                   from path</note>
             </person>
-            <listRelation>
-               <relation type="personal" name="daughter"/>
-               <!--#mlper000366 #mlper000367  -->
-               <relation type="personal" name="granddaughter"/>
-               <!--#mlper000368 #mlper000369  -->
-               <relation type="personal" name="sister"/>
-               <!-- #mlper000370 #mlper000371 #mlper000372 #mlper000373 #mlper000374 #mlper000375 #mlper000376 #mlper000377 #mlper000378 #mlper000379  -->
-               <relation type="personal" name="sister-in-law"/>
-               <!-- #mlper000381 -->
-               <relation type="personal" name="aunt"/>
-               <!--#mlper000382 #mlper000383 #mlper000384  -->
-            </listRelation>
+            
          </listPerson>
 
-         <!-- There are several Rachel Brook. I chose the one that matched the birth year and location as the google sheet -->
+        
          <listPerson>
             <person xml:id="mlper000223">
                <persName>
@@ -838,9 +863,8 @@
                <event type="babtized">
                   <desc>
                      <date when-iso="1744-05-13" calendar="Julian">13 May, 1744</date>
-                     <!-- There are two dates given for the baptisim, OS and NS. Is this correct? -->
                      <date when-iso="1744-05-24" calendar="Gregorian">24 May, 1744 </date>
-                     <placeName>St Peter's Church Birstall</placeName>
+                     St Peter's Church Birstall
                   </desc>
                </event>
 
@@ -857,6 +881,8 @@
                <event type="sacrament" when-iso="1762-05-08">
                   <desc><placeName ref="#mlpla000003">Fulneck</placeName></desc>
                </event>
+               <occupation>sewer</occupation>
+               <residence from="1744" to="1760"><placeName>Birstall</placeName></residence>
 
 
 
@@ -875,16 +901,7 @@
                   by Br C F Ramftler 20.11.1815 grave 1321 - 1st section, 57th row, 4th grave from
                   path</note>
             </person>
-            <listRelation>
-               <relation type="personal" name="daughter"/>
-               <!--#mlper000384 #mlper000385  -->
-               <relation type="personal" name="granddaughter"/>
-               <!--#mlper000386 #mlper000387  #mlper000388 -->
-               <relation type="personal" name="niece"/>
-               <!--#mlper000389 #mlper000390  -->
-               <relation type="personal" name="sister"/>
-               <!--#mlper000391 #mlper000392  #mlper000393 #mlper000394 #mlper000395  #mlper000396 #mlper000397-->
-            </listRelation>
+            
          </listPerson>
 
 
@@ -897,21 +914,20 @@
                <birth>
                   <date type="birth" calendar="Julian" when-iso="1720-02-24">24 Febuary, 1720</date>
                   <date type="birth" calendar="Gregorian" when-iso="1721-03-07">7 March, 1721</date>
-                  <placeName>Newton Parish of Manchester</placeName>
+                   Newton Parish of Manchester
                </birth>
                <death>
                   <date type="death" when-iso="1779-06-14">14 June, 1779</date>
                </death>
                <event type="baptized">
-                  <desc><placeName>Church of England</placeName></desc>
+                  <desc>Church of England</desc>
                </event>
                <event>
                   <desc>David Taylor's Society <placeName>Dunkinfield</placeName></desc>
                </event>
-               <event when-iso="1774">
+               <event when-iso="1774-01">
                   <desc>Moravian Society <placeName>Dukinfield</placeName></desc>
                </event>
-               <!-- January 1774 -->
                <event type="reception">
                   <desc> recieved congregation <date calendar="Julian" when-iso="1746-06-08">8 June,
                         1746</date>
@@ -925,8 +941,20 @@
                      <date calendar="Gregorian" when-iso="1747-09-17">17 September, 1747</date>
                   </desc>
                </event>
-               <!-- Are "sisters’ house Holme 1748, Grace Hall Fulneck 09.10.1750, sisters’ house Fulneck 15.12.1752,
-                  sisters’ house Dukinfield 06.10.1753" events or should they not be tagged at all? -->
+               <event when-iso="1748">
+                  <desc>
+                     <placeName>sisters' house Holme</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1750-10-09">
+                  <desc><placeName>Grace Hall Fulneck</placeName></desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc><placeName>sisters' house Fulneck</placeName></desc>
+               </event>
+               <event when-iso="1753-10-06">
+                  <desc><placeName>sisters' house Dukinfield</placeName></desc>
+               </event>
 
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/13</bibl>
@@ -941,12 +969,7 @@
                   Mary (b 1719), John (b 1723), Alice (b 1730), James (b 1735) and Hannah (b 1738) d
                   14.06.1779 aged 58, interred Dukinfield grave 85</note>
             </person>
-            <listRelation>
-               <relation type="personal" name="daughter"/>
-               <!--#mlper000398 #mlper000399  -->
-               <relation type="personal" name="sister"/>
-               <!--#mlper000400 #mlper000401 #mlper000402 #mlper000403 #mlper000404 -->
-            </listRelation>
+           
          </listPerson>
 
 
@@ -958,8 +981,8 @@
                   <surname type="birth">Calvert</surname>
                </persName>
                <birth>
-                  <date type="birth" when-iso="1743-10-10">19 October, 1743</date>
-                  <placeName>Idle Parish of Calverley</placeName>
+                  <date type="birth" when-iso="1743-10-19">19 October, 1743</date>
+                   Idle Parish of Calverley
                </birth>
                <death>
                   <date type="death" when-iso="1816-03-15">15 March, 1816</date>
@@ -977,7 +1000,7 @@
                   <desc>recieved society <placeName>Pudsey</placeName></desc>
                </event>
                <event when-iso="1759-05-21">
-                  <desc>sisters' house <placeName>Fulneck</placeName></desc>
+                  <desc><placeName>sisters' house Fulneck</placeName></desc>
                </event>
                <event type="reception" when-iso="1759-11-13">
                   <desc>recieved congregation<placeName>Fulneck</placeName></desc>
@@ -1032,12 +1055,12 @@
                   <date type="death" when-iso="1770-01-24">24 January, 1770</date>
                </death>
                <event type="babtized">
-                  <desc><placeName>Church of England</placeName></desc>
+                  <desc>Church of England</desc>
                </event>
-               <event when-iso="1739">
-                  <desc>received society Fetter Lane</desc>
+               <event when-iso="1739-05">
+                  <desc>received society <placeName>Fetter Lane</placeName></desc>
                </event>
-               <!-- The date is May 1739 but it wonn't allow me to put May without a day -->
+               
                <event>
                   <desc>
                      <date when-iso="1746-01-16" calendar="Julian">16 January, 1746</date>
@@ -1045,31 +1068,47 @@
                      London for Germany </desc>
                </event>
                <event when-iso="1747">
-                  <desc>sisters' house <placeName>Herrnhaag</placeName></desc>
+                  <desc><placeName>sisters' house Herrnhaag</placeName></desc>
                </event>
                <event type="reception" when-iso="1747">
-                  <desc>recieved congregation <placeName>Herrnhaag</placeName></desc>
+                  <desc>recieved congregation <placeName ref="#mlpla000014">Herrnhaag</placeName></desc>
                </event>
                <event type="confirmation" when-iso="1747">
-                  <desc>confirmed<placeName>Herrnhaag</placeName></desc>
+                  <desc>confirmed<placeName ref="#mlpla000014">Herrnhaag</placeName></desc>
                </event>
-               <event type="sacrament" when-iso="1748">
-                  <desc><placeName>Herrnaag</placeName></desc>
+               <event type="sacrament" when-iso="1748-01">
+                  <desc><placeName ref="#mlpla000014">Herrnaag</placeName></desc>
                </event>
-               <!-- The date is January 1748 but it wonn't allow me to put January without a day -->
-               <event when-iso="1748">
-                  <desc>sisters' house <placeName>Pudsey</placeName></desc>
+               <event when-iso="1748-05">
+                  <desc><placeName>sisters' house Pudsey</placeName></desc>
                </event>
-               <!-- Same issue as above. I can't add a month without a specific day -->
-               <event when-iso="1750" to="1751">
-                  <desc>Disciple's House <placeName>London</placeName></desc>
+               <event when-iso="1750-07" to="1751">
+                  <desc><placeName>Disciple's House London</placeName></desc>
                </event>
-               <!-- July 1750-1751 -->
-               <event type="reception" when-iso="1750">
+               <event when-iso="1759-01">
+                  <desc>
+                     <placeName>Annenhof Holland</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1759-08-12">
+                  <desc>
+                     <placeName>Hernnhut</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1760-10-13">
+                  <desc>
+                     returned <placeName ref="#mlpla000072">England</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1759-01">
                   <desc>recieved as acoluth and blessed as deaconess<placeName>Annehof
                         Holland</placeName></desc>
                </event>
-               <!-- January 1759 -->
+               <residence when-iso="1729"><placeName ref="#mlpla000054">London</placeName></residence>
+               <residence when-iso="1733">returned Reading</residence>
+               <residence when-iso="1741">Kingswood</residence>
+               <residence from="1744" to="1747"><placeName>East Tytherton</placeName></residence>
+               
 
 
 
