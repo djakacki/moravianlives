@@ -411,7 +411,7 @@
                   <date type="death" when-iso="1803-02-20">20 Febuary, 1803</date>
                   <placeName>sisters' house Fulneck</placeName>
                </death>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      Lutheran Church
                   </desc>
@@ -658,7 +658,7 @@
                   <date type="birth" when-iso="1722-09-23">23 September, 1722</date>
                   <placeName>Wyke Parish of Birstall</placeName>
                </birth>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      Church of England
                   </desc>
@@ -739,7 +739,7 @@
                   <placeName>Fulneck</placeName>
                </death>
                <education when-iso="1748"><placeName>girls' school Row Head</placeName></education>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date when-iso="1735-09-14" calendar="Julian">14 September, 1735</date>
                      <date when-iso="1735-09-25" calendar="Gregorian">25 September, 1735</date>
@@ -799,7 +799,7 @@
                   <placeName>Fulneck</placeName>
                </death>
                <occupation>sewer</occupation>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>Church of England</desc>
                </event>
 
@@ -860,7 +860,7 @@
                </death>
                <occupation>sewer</occupation>
 
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date when-iso="1744-05-13" calendar="Julian">13 May, 1744</date>
                      <date when-iso="1744-05-24" calendar="Gregorian">24 May, 1744 </date>
@@ -988,7 +988,7 @@
                   <date type="death" when-iso="1816-03-15">15 March, 1816</date>
                </death>
                <occupation>spinner</occupation>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date when-iso="1743-10-04" calendar="Julian">6 November, 1743</date>
                      <date when-iso="1743-11-17" calendar="Gregorian">17 October, 1743</date>
@@ -1038,7 +1038,6 @@
             </person>
          </listPerson>
 
-         <!-- Very confused on the events in this person's life and what to put and what not to -->
          <listPerson>
             <person xml:id="mlper000227">
                <persName>
@@ -1054,7 +1053,7 @@
                <death>
                   <date type="death" when-iso="1770-01-24">24 January, 1770</date>
                </death>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>Church of England</desc>
                </event>
                <event when-iso="1739-05">
@@ -1108,6 +1107,16 @@
                <residence when-iso="1733">returned Reading</residence>
                <residence when-iso="1741">Kingswood</residence>
                <residence from="1744" to="1747"><placeName>East Tytherton</placeName></residence>
+               <occupation when-iso="1748">single sisters' choir servant andn choir helper <placeName>Yorkshire</placeName></occupation>
+               <occupation from="1752" to="1759">single sisters' labourer <placeName>North of Ireland</placeName></occupation>
+               <occupation when-iso="1760-10-13">single sisters’labour <placeName>Bedford</placeName></occupation>
+               <occupation when-iso="1762" cert="medium"><placeName>Lampeter</placeName></occupation>
+               <occupation when-iso="1765-01-16">assistannt labourrer among single sisters andn great girls of country congregation <placeName>Gomersal</placeName></occupation>
+               <event when-iso="1769-11-20">
+                  <desc>
+                     retired <placeName>sinngle sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
                
 
 
@@ -1138,16 +1147,7 @@
                   gravestone - right hand side of path to terrace, 4th stone from gate</note>
             </person>
 
-            <listRelation>
-               <relation type="personal" name="daughter"/>
-               <!--#mlper000406 #mlper000407  -->
-               <relation type="personal" name="sister"/>
-               <!-- #mlper000408 #mlper000409  -->
-               <relation type="personal" name="sister-in-law"/>
-               <!--#mlper000410  -->
-               <relation type="personal" name="aunt"/>
-               <!--#mlper000411 #mlper000412 #mlper000413 #mlper000414  -->
-            </listRelation>
+            
          </listPerson>
 
          <listPerson>
@@ -1162,13 +1162,13 @@
                      1715</date>
                   <date type="birth" when-iso="1715-12-31" calendar="Gregorian">31 December,
                      1715</date>
-                  <placeName>Castleford Yorkshire</placeName>
+                   Castleford Yorkshire
                </birth>
                <death>
                   <date type="death" when-iso="1767-08-12">12 August, 1767</date> sisters' house
                      <placeName>Fulneck</placeName>
                </death>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date when-iso="1715-01-11" calendar="Julian">11 January, 1715</date>
                      <date when-iso="1716-01-22" calendar="Gregorian">22 January, 1716</date>
@@ -1194,6 +1194,36 @@
                      <date when-iso="1743-02-16" calendar="Gregorian">16 Febuary, 1743</date>
                   </desc>
                </event>
+               
+               <residence when-iso="1715"><placeName>Castleford</placeName></residence>
+               <residence when-iso="1720"><placeName ref="#mlpla000054">London</placeName></residence>
+               <residence when-iso="1730"><placeName>Castleford</placeName></residence>
+               <residence from="1734" to="1742-06"><placeName ref="#mlpla000054">London</placeName></residence>
+               <!-- October 1742 - July 1743?????? -->
+               <residence from="1750-09-29" to="1753-02-27"><placeName ref="#mlpla000003">Fulneck settlement</placeName></residence>
+               
+               <occupation>
+                  <date calendar="Julian" when-iso="1743-07-02">2 July, 1743</date>
+                  <date calendar="Gregorian" when-iso="1743-07-13">13 July, 1743</date>
+                  co-helper with single sisters <placeName ref="#mlpla000084">Yorkshire</placeName>
+               </occupation>
+               <occupation>
+                  <date calendar="Julian" when-iso="1744-10-05">5 October, 1744</date>
+                  <date calendar="Gregorian" when-iso="1744-10-16">13 October, 1744</date>
+                  single sisters' labourer <placeName ref="#mlpla000084">Yorkshire</placeName>
+               </occupation>
+               <event when-iso="1748-06">
+                  <desc>
+                     resiged due to ill-health
+                  </desc>
+               </event>
+               <occupation>
+                  <!-- 04.05.1749 (OS) / 15.05.1749 (NS) - 29.09.1750 -->
+                  <date calendar="Julian" when-iso="1749-05-04">4 May, 1749</date>
+                  <date calendar="Gregorian" when-iso="1749-05-15">15 May, 1749</date>
+                  single sisters' warden <placeName>Dukinfield</placeName>
+               </occupation>
+
 
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/57</bibl>
@@ -1218,16 +1248,7 @@
                   house Fulneck, interred Fulneck by Br B La Trobe 14.08.1767 grave 324 - 1st
                   section, 12th row, 6th grave from path </note>
             </person>
-            <listRelation>
-               <relation type="personal" name="daughter"/>
-               <!--#mlper000415 #mlper000416  -->
-               <relation type="personal" name="sister"/>
-               <!--#mlper000417 #mlper000418 #mlper000419 #mlper000420 #mlper000421   -->
-               <relation type="personal" name="sister-in-law"/>
-               <!-- #mlper000422 -->
-               <relation type="personal" name="aunt"/>
-               <!--#mlper000423 #mlper000424  -->
-            </listRelation>
+            
          </listPerson>
 
          <listPerson>
@@ -1239,7 +1260,7 @@
                <birth>
                   <date type="birth" calendar="Julian" when-iso="1717-05-07">7 May, 1717</date>
                   <date type="birth" calendar="Gregorian" when-iso="1717-05-18">18 May, 1717</date>
-                  <placeName>Holbecek Parish of Leeds</placeName>
+                  Holbecek Parish of Leeds
                </birth>
                <death>
                   <date type="death" when-iso="1768-06-22">22 June, 1768</date>
@@ -1265,7 +1286,7 @@
                         <placeName>Yorkshire in Fulneck</placeName>
                      </desc>
                   </event>
-                  <event when-iso="1758"> <!-- August 1758 -->
+                  <event when-iso="1758-08">
                      <desc>returned society <placeName>Holbeck</placeName></desc>
                   </event>
                  
@@ -1302,7 +1323,7 @@
                <death>
                   <date type="death" when-iso="1785-01-17">17 January, 1785</date>
                </death>
-               <event type="babtized">
+               <event type="baptized">
                   <desc><placeName>Presbyterian Church</placeName></desc>
                </event>
                <event type="reception" when-iso="1744">
@@ -1341,6 +1362,46 @@
                <death>
                   <date type="death" when-iso="1756-10-11">11 October, 1756</date>
                </death>
+               
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1726-02-03">3 Febuary, 1726</date>
+                     <date calendar="Gregorian" when-iso="1727-02-14">14 Febuary, 1727</date>
+                     Northowram and Coley non-conformist (Presbyterian) Church
+                  </desc>
+               </event>
+               <event type="receeption" when-iso="1748">
+                  <desc>
+                     recieved society <placeName>Little Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     <date calendar="Julian" when-iso="1751-01-01">1 January, 1751</date>
+                     <date calendar="Gregorian" when-iso="1752-01-12">12 January, 1752</date>
+                     recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752">
+                  <desc>
+                     <placeName>sisters' house Pudsey</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1753-12-02">
+                  <desc>
+                     <placeName>Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1754-11-09">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/26</bibl>
                <note>(G/P/F)CBssCLARK, Hannah (1726-1756) b 29.12.1726 Northowram Parish of Halifax
@@ -1354,7 +1415,6 @@
                   from path</note>
             </person>
          </listPerson>
-         <!-- Not in the monster list -->
          <listPerson>
             <person xml:id="mlper000232">
                <persName>
@@ -1362,13 +1422,99 @@
                   <surname type="birth">Clark</surname>
                </persName>
                <birth>
-                  <date>1718</date>
+                  <date type="birth" calendar="Julian" when-iso="1718-04-17">17 April, 1718</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1718-04-28">28 April, 1718</date>
+                  <placeName>Northowram Parish of Halifax</placeName>
                </birth>
                <death>
-                  <date>1749</date>
+                  <date type="death" calendar="Julian" when-iso="1749-06-23">23 June, 1749</date>
+                  <date type="death" calendar="Gregorian" when-iso="1749-07-04">4 July, 1749</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
                </death>
+               
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1718-05-01">1 May, 1718</date>
+                     <date calendar="Gregorian" when-iso="1718-05-12">12 May, 1718</date>
+                     Northowram and Coley non-conformist (Presbyterian) Church
+                  </desc>
+               </event>
+               <event when-iso="1740">
+                  <desc>
+                     awakened
+                  </desc>
+               </event>
+               
+               <event>
+                  <desc>
+                     <placeName>Ingham's society Shelf</placeName>
+                  </desc>
+               </event>
+               <event type="reception"> 
+                  <desc>
+                     recieved society <placeName>Shelf</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1745">
+                  <desc>
+                     transfered society <placeName>Smith House</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1745-01-19">19 January, 1745</date>
+                     <date calendar="Gregorian" when-iso="1746-01-30">30 January, 1746</date>
+                  </desc>
+               </event>
+               <event when-iso="1746-02-24">
+                  <desc>
+                     <placeName>sisters' house Oxheys</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1747-04-20">20 April, 1747</date>
+                     <date calendar="Gregorian" when-iso="1747-05-01">1 May, 1747</date>
+                  </desc>
+               </event>
+               <event when-iso="1747-02-27">
+                  <desc>
+                     transfered <placeName>sisters' house Pudsey</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>conngregation house Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1749-05-26">26 May, 1749</date>
+                     <date calendar="Gregorian" when-iso="1749-06-06">6 June, 1749</date>
+                  </desc>
+               </event>
+               <!-- Don't know whether the below should be an event or occupation. Asked question on daily log Google Doc -->
+               <!-- congregation office:  visitor Yorkshire 26.03.1748 (OS) / 06.04.1748 (NS) -->
+               <occupation when-iso="1747">single sisters' warden <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/10</bibl>
+               <note>(LW/P/F)CBss=#CLARK, Grace (1718-1749)
+                  b 17.04.1718 (OS) / 28.04.1718 (NS) Northowram Parish of Halifax
+                  reception:  baptized Northowram and Coley non-conformist (Presbyterian) Church
+                  01.05.1718 (OS) / 12.05.1718 (NS), awakened 1740, Ingham’s society Shelf, 
+                  received society Shelf, transferred society Smith House 1745, 
+                  received congregation Yorkshire in Fulneck 19.01.1745 (OS) / 30.01.1746 (NS), 
+                  sisters’ house Oxheys 24.02.1746, 
+                  sacrament Yorkshire in Fulneck 20.04.1747 (OS) / 01.05.1747 (NS), 
+                  transferred sisters’ house Pudsey 27.02.1747, 
+                  congregation house Fulneck 26.05.1749 (OS) / 06.06.1749 (NS)
+                  congregation office:  visitor Yorkshire 26.03.1748 (OS) / 06.04.1748 (NS)
+                  church service:  single sisters’ warden Yorkshire 1747
+                  family:  daughter of William Clark
+                  d 23.06.1749 (OS) / 04.07.1749 (NS) aged 31 years and 2 months Fulneck
+                  interred Fulneck by Br L E Schlicht 26.06.1749 (OS) / 07.07.1749 (NS)
+                  grave 1 - wing of 1st section, 1st row, 1st grave by fence into field
+                  resited gravestone - right hand side of path down from gate, 3rd stone down in 1st section
+               </note>
             </person>
          </listPerson>
          <!-- There is no Ester Clerk but there is an Ester Cleak who was single. Are these possibly the same person? -->
@@ -1400,6 +1546,50 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Craven</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1723-12-01">1 December, 1723</date>
+                  <placeName>Rothwell</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1790-11-10">10 November, 1790</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>Ingham's society Rothwell</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1745">
+                  <desc>
+                     recieved society <placeName>Holbeck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-05-20">
+                  <desc>
+                     <placeName>sisters' house Gomeresal</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1756-03-04">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1756-09-20">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1757-03-21">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <occupation>spinner</occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/41</bibl>
                <note>(W/P/G/F)>=#CRAVEN, Sarah (1723-1790)
@@ -1418,8 +1608,67 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Delamotte</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1729-10-08">8 October, 1729</date>
+                  <date type="birth" calendar="Julian" when-iso="1729-10-19">19 October, 1729</date>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1810-06-19">19 June, 1810</date>
+               </death>
+               <event type="reception" when-iso="1749-09-25">
+                  <desc>
+                     recieved congregation <placeName ref="#mlpla000054">London</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1750-05-02">
+                  <desc>
+                     <placeName>sisters' house Bedford</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1751-04-15">
+                  <desc>
+                     <placeName ref="#mlpla000025">Bedford</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1757-10-29">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1768-07-27">
+                  <desc>
+                     recieved as acoluth <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <occupation>teacher <placeName>girls' day school Bedford</placeName></occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/9</bibl>
+               <note>
+                  (F)DELAMOTTE, Mary (1729-1810)
+                  b 08.10.1729 (OS) / 19.10.1729 (NS) Thames Street London
+                  occupation:  sewer
+                  reception:  baptized St Botolph’s Church Billingsgate 21.10.1729 (OS) / 01.11.1729 (NS), 
+                  received congregation London 25.09.1749, sisters’ house Bedford 02.05.1750, 
+                  sacrament Bedford 15.04.1751, sisters’ house Fulneck 29.10.1757  
+                  church orders:  received as acoluth Fulneck 27.07.1768
+                  church service:  teacher girls’ day school Bedford
+                  family:  daughter of Peter Delamotte and Elizabeth (née Wickham) (b 1685), 
+                  granddaughter of  Thomas Delamotte, and Thomas Wickham and Hester,
+                  sister of Jane (b 1706), Esther (b 1707), Elizabeth (Holland) (b 1710), Peter (b 1711), 
+                  Esther (Kinchin, later Schlicht) (b 1712), Charles (b 1714), William (b 1718), 
+                  George (b 1719) and John (b 1721),
+                  sister-in-law of William Holland (b 1712), Charles Kinchin (b 1711), 
+                  Ludolf Ernst Schlicht (b 1714), Jane (née Carnegie) (b 1720) and 
+                  Elizabeth (née, later Goodwin),
+                  aunt of Isaac (b 1742), Elizabeth (b 1744), Johannes (b 1746), Peter William (b 1748) 
+                  and Anna Marie Holland (b 1752), and Anna Caritas Schlicht (b 1749), and
+                  Mary (b 1743), Hope (b 1744), Peter (b 1745), Jane (b 1747), Charles (b 1749),
+                  Charlotte (Mathias) (b 1751), William (b 1753), Christiana (b 1757), Elizabeth (b 1758) and 
+                  Henrietta Delamotte (b 1760)
+                  d 19.06.1810 aged 80 Fulneck, interred Fulneck by Br J La Trobe 21.06.1810 
+                  grave 1254 - 1st section, 54th row, 6th grave from path
+                  
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1428,8 +1677,88 @@
                   <forename>Hannah</forename> 
                   <surname type="birth">Dyson</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1727-09-27">27 September, 1727</date>
+                  <placeName>Kirkheaton</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1767-09-11">11 September 1767</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Church of St John the Baptist Kirkheaton
+                     <date calendar="Julian" when-iso="1727-10-19">19 October, 1727</date>
+                     <date calendar="Gregorian" when-iso="1727-10-30">30 October, 1727</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1746">
+                  <desc>
+                     recieved society <placeName>Little gomersal</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1746">
+                  <desc>
+                     <placeName>sisters' house Cleckheaton</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congnregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1747-05-22">22 May, 1747</date>
+                     <date calendar="Gregorian" when-iso="1747-06-02">2 June, 1747</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-07-10">10 July, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-07-21">21 July, 1748</date>
+                  </desc>
+               </event>
+               <event when-iso="1749">
+                  <desc>
+                     <placeName>sisters' house Tyersal</placeName>
+                  </desc>
+               </event>
+               <event from="1752-12-15" to="1753">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregationn <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1760">
+                  <desc>
+                     <placeName>sisters' house Bedford</placeName>
+                  </desc>
+               </event>
+               <event notBefore="1760" notAfter="1767">
+                  <desc>
+                     returned <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/75</bibl>
+               <note>
+                  (LW/G/P/F)CBssDYSON, Hannah (1727-1767)
+                     b 27.09.1727 Kirkheaton
+                     resided:  Grace Hall Fulneck 1753-
+                     reception:  baptized Church of St John the Baptist Kirkheaton 19.10.1727 (OS) / 30.10.1727 (NS), 
+                     received society Little Gomersal 1746, sisters’ house Cleckheaton 1746,
+                     received congregation Yorkshire in Fulneck 22.05.1747 (OS) / 02.06.1747 (NS), 
+                     sacrament Yorkshire in Fulneck 10.07.1748 (OS) / 21.07.1748 (NS), 
+                     sisters’ house Tyersal 1749, sisters’ house Fulneck 15.12.1752 - 1753, 
+                     founder member Fulneck congregation 19.04.1755, sisters’ house Bedford 1760, 
+                     returned sisters’ house Fulneck
+                     family:  daughter of George Dyson
+                     d 11.09.1767 aged 39 sisters’ house Fulneck, interred Fulneck by Br J Charlesworth 13.09.1767
+                     grave 327 - 1st section, 12th row, 9th grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1459,8 +1788,60 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Faucet</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1747-02-28">28 Febuary, 1747</date>
+                  <date type="birth" calendar="Gregoria" when-iso="1747-03-10">10 March, 1748</date>
+                  <placeName>Wyke</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1768-06-15">15 June, 1768</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1747-03-09">9 March, 1747</date>
+                     <date calendar="Gregorian" when-iso="1748-03-20">20 March, 1748</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1760-07-02">
+                  <desc>
+                     recieved society <placeName>Wyke</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1761-09-19">
+               <desc>
+                  <placeName>sisters' house Fulnenck</placeName>
+               </desc>
+               </event>
+               <event type="reception" when-iso="1763-01-01">
+                  <desc>
+                     recieved conngregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1767-04-16">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/69</bibl>
+               <note>
+                  (LW/F)/xFAUCET, Mary (1748-1768)
+                  b 28.02.1747 (OS) / 10.03.1748 (NS) Wyke
+                  reception:  baptized parents’ house by Br L E Schlicht 09.03.1747 (OS) / 20.03.1748 (NS), 
+                  received society Wyke 02.07.1760, sisters’ house Fulneck 19.09.1761, 
+                  received congregation Fulneck 01.01.1763, sacrament Fulneck 16.04.1767
+                  family:  daughter of Stephen Faucet (b 1716) and Anna (Hannah) (née Fearnley) (b 1717),
+                  granddaughter of Jonathan Faucet, and
+                  John Fearnley (b 1682) and Susannah (née Tomis) (b 1686),
+                  great-granddaughter of Joseph Fearnley and Elizabeth, and James Tomis,
+                  niece of John Fearnley (b 1718),
+                  sister of Ann (b 1739), Rebecca (Diemer, later Summerskill) (b 1741), Samuel (b 1745), 
+                  Martha (b 1750), John Christian (b 1753) and Hannah (b 1758)
+                  d 15.06.1768 aged 19 sisters’ house Fulneck, interred Fulneck by Br J Worthington 17.06.1768 
+                  grave 353 - 1st section, 14th row, 1st grave by path
+                  resited grave stone - right hand side of path from gate, 7th stone down
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1469,8 +1850,41 @@
                   <forename>Martha</forename> 
                   <surname type="birth">Faucet</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1750-05-17">17 May, 1750</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1750-05-28">28 May, 1750</date>
+                  <placeName>Wyke</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1766-05">May, 1766</date>
+                  <placeName>Holme Lane</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <placeName>baptized meeting house Scholes</placeName>
+                     <date calendar="Julian" when-iso="1750-05-22">22 May, 1750</date>
+                     <date calendar="Gregorian" when-iso="1750-06-02">2 June, 1750</date>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>sisters' house Holme Lane</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/76</bibl>
+               <note>(LW/P)FAUCET, Martha (1750-1766)
+                  b 17.05.1750 (OS) / 28.05.1750 (NS) Wyke
+                  reception:  baptized meeting house Scholes by Br B La Trobe 22.05.1750 (OS) / 02.06.1750 (NS),
+                  sisters’ house Holme Lane
+                  family:  daughter of Stephen Faucet (b 1716) and Anna (Hannah) (née Fearnley) (b 1717),
+                  granddaughter of Jonathan Faucet, and
+                  John Fearnley (b 1682) and Susannah (née Tomis) (b 1686),
+                  great-granddaughter of Joseph Fearnley and Elizabeth, and James Tomis,
+                  niece of John Fearnley (b 1718),
+                  sister of Ann (b 1739), Rebecca (Diemer, later Summerskill) (b 1741), Samuel (b 1745), 
+                  Mary (b 1748), John Christian (b 1753) and Hannah (b 1758)
+                  d May 1766 aged 15 Holme Lane, interred Fulneck by Br B La Trobe 09.05.1766 </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1502,18 +1916,100 @@
                      <addName>Johanna</addName> </forename>
                   <surname type="birth">Gambold</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1752-08-02">2 August, 1752</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1752-08-13">13 August, 1752</date>
+                  <placeName ref="#mlpla000054">London</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1769-05-28">28 May, 1769</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Fetter Lane
+                     <date calendar="Julian" when-iso="1752-08-02">2 August, 1752</date>
+                     <date calendar="Gregorian" when-iso="1752-08-13">13 August, 1752</date>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/22</bibl>
+               <note>
+                  (F)GAMBOLD, Anna Joanna (1752-1769)
+                  b 02.08.1752 (OS) / 13.08.1752 (NS) London
+                  educated:  girls’ school Fulneck 
+                  reception:  baptized Fetter Lane by Br P Böhler 02.08.1752 (OS) / 13.08.1752 (NS)
+                  family:  daughter of John Gambold (b 1711) and Elizabeth (née Walker) (b 1719),
+                  granddaughter of William Gambold, and Joseph Walker (b 1693) and Mary (b 1691), 
+                  niece of George Gambold,
+                  sister of William (b 1744), Anna Mary (Steinhauer) (b 1746), John Peter (b 1750) and
+                  Johannes (b 1760)
+                  d 28.05.1769 aged 16 Fulneck, interred Fulneck by Br J Worthington 30.05.1769 
+                  grave 374 - 1st section, 15th row, 5th grave from path
+                  resited gravestone - sisters’ side of main path, on pathside by 1st tree from bottom of path
+               </note>
             </person>
          </listPerson>
          <listPerson>
             <person xml:id="mlper000245">
                <persName>
                   <forename>Mary</forename> 
-                  <surname type="birth">Gledhill</surname>
+                  <surname type="birth">Barker</surname>
+                  <surname type="married">Gledhill</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1735-06-16">16 June, 1735</date>
+                  <placeName>Dewsbury</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1823-05-27">27 May, 1823</date>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     All Saints' Church Dewsbury
+                     <date calendar="Julian" when-iso="1735-06-08">8 June, 1735</date>
+                     <date calendar="Gregorian" when-iso="1735-06-19">19 June, 1735</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1752">
+                  <desc>
+                     recieved society <placeName ref="#mlpla000059">Mirfield</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1766-08-18">
+               <desc>
+                  recieved congregation <placeName>Wellhouse</placeName>
+               </desc>
+               </event>
+               <event type="sacrament" when-iso="1766-01-31">
+                  <desc>
+                     <placeName>Wellhouse</placeName>
+                  </desc>
+               </event>
+               <residence notBefore="1735-06-16" notAfter="1740"><placeName>Dewsbury</placeName></residence>
+               <residence notBefore="1740" notAfter="1766-06-16"><placeName>Hartshead</placeName>></residence>
+               <residence notBefore="1766-06-16" notAfter="1823-05-27"><placeName ref="#mlpla000059">Mirfield</placeName></residence>
+               <education when-iso="1748"><placeName>girls' school Row Head</placeName></education>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/4</bibl>
+               <note>(W)%o/+^>BARKER, Mary (Molly) (1735-1823)	 
+                  b 16.06.1735 Dewsbury
+                  educated:  girls’ school Row Head 1748
+                  resided:  Dewsbury, Hartshead 1740, Mirfield 16.06.1766
+                  reception:  baptized All Saints’ Church Dewsbury 08.06.1735 (OS) / 19.06.1735 (NS), 
+                  received society Mirfield 1752, received congregation Wellhouse 18.08.1766, 
+                  sacrament Wellhouse 31.01.1766
+                  m John GLEDHILL (b 1732) St Mary’s Church Mirfield 16.06.1766 
+                  by the direction of the congregation - widowed 30.12.1803
+                  family:  daughter of John Barker (b 1707) and Jane (née Williamson) (b 1711),
+                  granddaughter of Isaac Barker, and William Williamson,
+                  daughter-in-law of Richard Gledhill (b 1702) and Jane (née Jenkinson) (b 1697),
+                  sister of Sarah (b 1740), Joseph (b 1745), Benjamin (b 1748) and 
+                  Christian Thomas (b 1751), 
+                  mother of 2 sons
+                  d 27.05.1823 aged 87, interred Wellhouse by Br T Mallalieu 30.08.1823
+                  grave 87 - sisters’ section, 9th row, 2nd grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1522,8 +2018,52 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Gurney</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1715-10-27">27 October, 1715</date>
+                  <placeName>Middlesex</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1800-07-08">8 July, 1800</date>
+               </death>
+               <occupation>knitter</occupation>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#mlpla000054">London</placeName>
+                     <date calendar="Julian" when-iso="1744-12-26">26 December, 1744</date>
+                     <date calendar="Gregorian" when-iso="1745-01-06">6 January, 1745</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#mlpla000054">London</placeName>
+                     <date calendar="Julian" when-iso="1746-01-14">14 January 1746</date>
+                     <date calendar="Gregorian" when-iso="1747-01-25">25 January 1747</date>
+                  </desc>
+               </event>
+               <event when-iso="1757">
+                  <desc>
+                     recieved as acoluth <placeName ref="#mlpla000001">Hernnhut</placeName>
+                  </desc>
+               </event>
+               <occupation from="1765" notAfter="1773">childrenn's sister <placeName>girls' school Fulneck</placeName></occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/72</bibl>
+               <note>(F)GURNEY, Sarah (Sally) (1715-1800)
+                  b 27.10.1715 Middlesex
+                  occupation:  knitter
+                  reception:  baptized Church of England, 
+                  received congregation London 26.12.1744 (OS) / 06.01.1745 (NS), 
+                  sacrament London 14.01.1746 (OS) / 25.01.1747 (NS), transferred Germany
+                  church orders:  received as acoluth Herrnhut 1757  
+                  church service:  children’s sister girls’ school Fulneck 1765 - pre 1773
+                  d 08.07.1800 aged 84 Fulneck, interred Fulneck by Br J Smith 11.07.1800 
+                  grave 1084 - 2nd section, 50th row, 1st grave by path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1532,8 +2072,68 @@
                   <forename>Lydia</forename> 
                   <surname type="birth">Haley</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1725-04-16">16 April, 1725</date>
+                  <placeName>Spen Parish of Birstall</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1757-07-10">10 July, 1757</date>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <placeName>St Peter's Church Birstall</placeName>
+                     <date calendar="Julian" when-iso="1725-04-18">18 April, 1725</date>
+                     <date calendar="Gregoiran" when-iso="1725-04-29">29 April, 1725</date>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved Presbyterian Church
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1744">
+                  <desc>
+                     recieved society Little Gomersal
+                  </desc>
+               </event>
+               <event when-iso="1751">
+                  <desc>
+                     sisters' house Tyersal
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1752-05-03">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     sisters' house Fulneck
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1753-02-25">
+                  <desc>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/28</bibl>
+               <note>(G/LW/P/F)=HALEY, Lydia (1725-1757)
+                  b 16.04.1725 Spen Parish of Birstall
+                  reception:  baptized St Peter’s Church Birstall 18.04.1725 (OS) / 29.04.1725,
+                  received Presbyterian Church, received society Little Gomersal 1744, 
+                  sisters’ house Tyersal 1751, received congregation Yorkshire in Fulneck 03.05.1752, 
+                  sisters’ house Fulneck 15.12.1752, sacrament Yorkshire in Fulneck 25.02.1753, 
+                  Fulneck congregation 19.04.1755
+                  family:  daughter of Joshua Haley (b 1698) and Susan (née Rouse) (b 1699),
+                  granddaughter of Joshua Haley, sister of Mary (b 1735)
+                  d 10.07.1757 aged 34, interred Fulneck by Br A Taylor 12.07.1757 
+                  grave 117 - 1st section 4th row, 4th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1552,8 +2152,49 @@
                   <forename>Sally</forename> 
                   <surname type="birth">Holt</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1727-02-25">25 Febuary, 1727</date>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1753-09-15">15 September, 1753</date>
+                  <placeName>Fulneck</placeName>
+                  <!-- Cause of death was dropsy and a consumption -->
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Presbyterian Church
+                  </desc>
+               </event>
+               <event when-iso="1750-10-09">
+                  <desc>
+                     sisters' house Tyersal
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1752-11-13">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1753-09-09">
+                  <desc>
+                     <placeName>Yorkshire</placeName> <!-- on her sickbed -->
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/35</bibl>
+               <note>HOLT, Sarah (Sally) (1727-1753)
+                  b 25.02.1727 Bramhall Cheshire
+                  reception:  baptized Presbyterian Church, sisters’ house Tyersal 09.10.1750, 
+                  received congregation Yorkshire in Fulneck 13.11.1752, sisters’ house Fulneck 15.12.1752, 
+                  sacrament Yorkshire on her sickbed 09.09.1753 
+                  d 15.09.1753 aged 26 of dropsy and a consumption sisters’ house Fulneck, 
+                  interred Fulneck by Br G J Hauptman 17.09.1753 
+                  grave 45 - 1st section, 2nd row, 4th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1562,8 +2203,68 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Horsfall</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1697-11-24">24 November, 1697</date>
+                  <date type="death" calendar="Gregorian" when-iso="1697-12-5">5 December, 1697</date>
+                  <placeName>Barnsley</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1765-09-24">24 September, 1765</date>
+                  <placeName>Golcar</placeName>
+               </death>
+               <residence>Golcar</residence>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1748">
+                  <desc>
+                     recieved society <placeName>Mirfield</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-12-10">10 December, 1748</date>
+                     <date calendar="Julian" when-iso="1748-12-21">21 December, 1748</date>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <placeName ref="#mlpla000084">Yorkshire</placeName>
+                     <date calendar="Julian" when-iso="1751-10-14">14 October, 1751</date>
+                     <date calendar="Julian" when-iso="1751-10-25">25 October, 1751</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#mlpla000084">Yorkshire</placeName>
+                     <date calendar="Julian" when-iso="1751-11-24">24 November, 1751</date>
+                     <date calendar="Julian" when-iso="1751-12-5">5 December, 1751</date>
+                  </desc>
+               </event>
+               <event when-iso="1755-05-16">
+                  <desc>
+                     founder member Mirfield congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/65</bibl>
+               <note>(W)CBo/+^>HORSFALL, Sarah (1697-1765)
+                  b 24.11.1697 (OS) / 05.12.1697 (NS) Barnsley
+                  resided:  Golcar
+                  reception:  baptized Church of England, received society Mirfield 1748, 
+                  received congregation Yorkshire in Fulneck 10.12.1748 (OS) / 21.12.1748 (NS), 
+                  confirmed Yorkshire 14.10.1751 (OS) / 25.10.1751 (NS), 
+                  sacrament Yorkshire 24,11,1751 (OS) / 05.12.1751 (NS), 
+                  founder member Mirfield congregation 16.05.1755 
+                  m John Horsfall (b 1703)
+                  family:  daughter-in-law of Henry Horsfall,
+                  mother of Elizabeth (b 1730), William (b 1733), Mary (b 1735), Joseph (b 1737) and 
+                  Joseph (b 1740)
+                  d 24.09.1765 aged 67 Golcar, interred Fulneck by Br E Miller 27.09.1765 
+                  grave 287 - 1st section, 10th row, 10th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1582,8 +2283,48 @@
                   <forename>Hannah</forename> 
                   <surname type="birth">Hunt</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1755-05-16">16 May, 1755</date>
+                  <placeName>Gomersal</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1769-07-20">20 July, 1769</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <residence notBefore="1775-05-16" notAfter="1759"><placeName>Gomersal</placeName></residence>
+               <residence notBefore="1759" notAfter="1769-07-20"><placeName ref="#fulneck">Fulneck</placeName></residence>
+               <event type="baptized" when-iso="1755-05-18">
+                  <desc>
+                     <placeName>Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1769-03-27">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1769-07-16">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/16</bibl>
+               <note>(G/F)HUNT, Hannah (1755-1769)
+                  b 16.05.1755 Gomersal
+                  resided:  Gomersal, moved with parents to Fulneck 1759
+                  reception:  baptized Gomersal by Br G Prosky 18.05.1755, sisters’ house Fulneck,
+                  received congregation Fulneck 27.03.1769, sacrament Fulneck 16.07.1769
+                  family:  daughter of Thomas Hunt (b 1720) and Phoebe (née Craven) (b 1723),
+                  granddaughter of Isaac Hunt, and Thomas Craven (b 1691) and Sarah (née Dixon) (b 1693),
+                  niece of Samuel (b 1721), Abraham (b 1724), Isaac (b 1727), John (b 1728)? and 
+                  Jacob Hunt (b 1730), and
+                  Robert (b 1721), Thomas (b 1726) and Joseph Craven (b 1729),
+                  sister of Christian Thomas (b 1748), Mary (b 1750), John (b 1752), Joseph (b 1757) and
+                  Sarah (b 1759) 
+                  d 20.07.1769 aged 14 sisters’ house Fulneck, interred Fulneck by Br J Worthington 22.07.1769 
+                  grave 378 - 1st section, 15th row, 9th grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1591,9 +2332,75 @@
                <persName>
                   <forename>Hannah</forename> 
                   <surname type="birth">Hutchinson</surname>
+                  <surname type="married">Grundy</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1760-03-10">10 March, 1760</date>
+                  <placeName>Pudsey</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1837-02-02">2 Febuary, 1837</date>
+               </death>
+               <event type="baptized" when-iso="1760-04-03">
+                  <desc>
+                    <placeName> All Saint's chapel-of-ease Pudsey</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1774-09-23">
+                  <desc>
+                     <placeName>sisters' house Littlemoor</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1776-10-14">
+                  <desc>
+                     recieved congregation <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1781-01-28">
+                  <desc>
+                     <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event notAfter="1801">
+                  <desc>
+                     <placeName>sisters' house Lower Wyke</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1820">
+                  <desc>
+                     widows' house Fulneck
+                  </desc>
+               </event>
+               <occupation when-iso="1802">congregation labourer <placeName ref="#mlpla000035">Dukinfield</placeName></occupation>
+               <occupation when-iso="1805"><placeName>Kingswood</placeName></occupation>
+               <occupation when-iso="1813-11-24">housekeeper <placeName>boys' school Ockbrook</placeName></occupation>
+               
+               <event from="1818-07-27" to="1820">
+                  <desc>
+                     retired <placeName>Baildon</placeName>
+                  </desc>
+               </event>
+               
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/43</bibl>
+               <note>HUTCHINSON, Hannah (1760-1837)
+                  b 10.03.1760 Pudsey
+                  reception:  baptized All Saints’ chapel-of-ease Pudsey 03.04.1760, 
+                  sisters’ house Littlemoor 23.09.1774, received congregation Pudsey in Fulneck 14.10.1776, 
+                  sacrament Pudsey in Fulneck 28.01.1781, sisters’ house Fulneck, 
+                  sisters’ house Lower Wyke -1801, widows’ house Fulneck 1820
+                  church service:  congregation labourer Dukinfield 1802, Kingswood 1805,  
+                  housekeeper boys’ school Ockbrook 24.11.1813, retired Baildon 27.07.1818 - 1820  
+                  m James GRUNDY (b 1748) St Wilfrid’s Church Calverley 07.12.1801 – widowed 11.10.1820
+                  family:  daughter of Joseph Hutchinson, daughter-in-law of Elizabeth Grundy (née Alred) (b 1717)
+                  d 02.02.1837 aged 76 Fulneck, interred Fulneck by Br J Smith 06.02.1837 
+                  grave 1585 - 2nd section, 67th row, 8th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1612,8 +2419,67 @@
                   <forename>Eleanor</forename> 
                   <surname type="birth">Luty</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1718-10-09">9 October, 1718</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1718-10-20">20 October, 1718</date>
+                  <placeName>Killinghall Parish of Ripley</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1798-03-31">31 March, 1798</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <occupation>quilter</occupation>
+               <occupation when-iso="1744">servant maid <placeName>congregation house Fulneck</placeName></occupation>
+               <occupation from="1747-02-08" to="1753">cook <placeName>congregation house Fulneck</placeName></occupation>
+               
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1718-10-17">17 October, 1718</date>
+                     <date calendar="Gregorian" when-iso="1718-10-28">28 October, 1718</date>
+                     <placeName>All Saints' Church Ripley</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved society
+                  </desc>
+               </event>
+               <event type="reception">
+               <desc>
+                  recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+               </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-04-01">1 April, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-04-12">12 April, 1748</date>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1753">
+                  <desc>
+                     <placeName>sisters’ house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir"/>
+               <note>(F)CBssLUTY, Eleanor (Ellen/Nelly) (1718-1798)
+                  b 09.10.1718 (OS) / 20.10.1718 (NS) Killinghall Parish of Ripley
+                  occupation:  quilter, servant maid congregation house Fulneck 1744, 
+                  cook congregation house Fulneck 08.02.1747 - 1753
+                  reception:  baptized All Saints’ Church Ripley 17.10.1718 (OS) / 28.10.1718 (NS), received society,
+                  received congregation Yorkshire in Fulneck 08.06.1746 (OS) / 19.06.1746 (NS), 
+                  sacrament Yorkshire in Fulneck 01.04.1748 (OS) / 12.04.1748 (NS), 
+                  sisters’ house Fulneck 1753, founder member Fulneck congregation 19.04.1755
+                  family:  daughter of Robert Luty
+                  d 31.03.1798 aged 80 sisters’ house Fulneck, interred Fulneck by Br J Hartley 03.04.1798 
+                  grave 1033 - 2nd section, 47th row, 7th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1622,8 +2488,72 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Metcalf</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1708-02-05">5 Febuary, 1708</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1709-02-16">16 Febuary, 1709</date>
+                  <placeName>Southowram Parish of Halifax</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1722-06-22">22 June 1722</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     Ingham’s society <placeName>Halifax</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1744">
+                  <desc>
+                     recieved society <placeName>Halifax</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-10-10">10 October, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-10-21">21 October, 1748</date>
+                     <placeName>sisters' house Cleckheaton</placeName>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-02-11">11 Febuary, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-10-22">22 Febuary, 1749</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-03-24">24 March, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-04-04">4 April, 1749</date>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/70</bibl>
+               <note>(LW/G/F)CBss=#METCALF, Sarah (1709-1772)
+                  b 05.02.1708 (OS) / 16.02.1709 Southowram Parish of Halifax
+                  reception:  baptized Church of England, Ingham’s society Halifax, received society Halifax 1744, 
+                  received congregation Yorkshire in Fulneck 13.07.1748 (OS) / 24.07.1748 (NS), 
+                  sisters’ house Cleckheaton 10.10.1748 (OS) / 21.10.1748 (NS), 
+                  confirmed Fulneck 11.02.1748 (OS) / 22.02.1749 (NS), 
+                  sacrament Yorkshire in Fulneck 24.03.1748 (OS) / 04.04.1749 (NS), 
+                  sisters’ house Fulneck 15.12.1752, founder member Fulneck congregation 19.04.1755
+                  d 22.06.1772 aged 63 sisters’ house Fulneck, interred Fulneck by Br A Taylor 24.06.1772 
+                  grave 450 - 1st section, 19th row, 8th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1632,8 +2562,88 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Mortimer</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1709-06-18">18 June, 1709</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1709-06-19">19 June, 1709</date>
+                  <placeName>Farley Parish of Leeds</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1765-12-27">27 December, 1765</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     Ingham's society <placeName>Holme</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1742">
+                  <desc>
+                     recieved society <placeName>Holme</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     <date calendar="Julian" when-iso="1746-06-08">8 June, 1746</date>
+                     <date calendar="Gregorian" when-iso="1746-06-19">19 June, 1746</date>
+                     recieved congregation in <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1746">
+                  <desc>
+                     <placeName>sisters' house Holme</placeName>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-07-10">10 July, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-07-21">21 June, 1748</date>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-08-02">2 August, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-08-13">13 August, 1748</date>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/2</bibl>
+               <note>(P/F)CBss#MORTIMER, Mary (1709-1765)
+                  b 18.06.1709 (OS) / 19.06.1709 (NS) Farnley Parish of Leeds
+                  reception:  baptized Church of England, Ingham’s society Holme, received society Holme 1742, 
+                  received congregation Yorkshire in Fulneck 08.06.1746 (OS) / 19.06.1746 (NS), 
+                  sisters’ house Holme 1746, confirmed Yorkshire in Fulneck 10.07.1748 (OS) / 21.07.1748 (NS),
+                  sacrament Yorkshire in Fulneck 02.08.1748 (OS) / 13.08.1748 (NS), 
+                  sisters’ house Fulneck 15.12.1752, founder member Fulneck congregation 19.04.1755
+                  family: daughter of Richard Mortimer and Dorothy, 
+                  sister of Samuel (b 1711), Richard (b 1714) and Peter Mortimer (b 1717), 
+                  sister-in-law of Martha (née Mortimer) (b 1717), Dorothy (née Frobisher) (b 1724) and 
+                  Hannah (née Hirst) (b 1727),
+                  aunt of Mary Salome (b 1745), Polycarp (b 1746), Anna Maria (b 1750), 
+                  Dorothy Martha (b 1754), Elizabeth (b 1756), Margaret (Willet) (b 1758) and 
+                  Richard Mortimer (b 1761), and
+                  John (b 1746), Anna Benigna (b 1748), Peter (b 1750), Mary (b 1753),
+                  Elizabeth (Miller/Møller) (b 1755), Christian Frederic (b 1758), Ignatius (b 1760), 
+                  Hannah Benigna (b 1762), Joseph (b 1764) and Benjamin Mortimer (b 1767)
+                  d 27.12.1765 aged 56 Fulneck, interred Fulneck by Br B La Trobe 30.12.1765 
+                  grave 291 - 1st section, 11th row, 1st grave by path
+                  resited gravestone - bottom of right side of main path, 1st tree, 2nd row, 1st grave </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1642,8 +2652,46 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Mortimer</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1780-06-03">3 June, 1780</date>
+                  <placeName>Oakeshaw</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1811-01-03">3 January, 1811</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <education when-iso="1784"><placeName>girls' school Lower Wyke</placeName></education>
+               <event>
+                  <desc>
+                    <placeName>sisters' house Lower Wyke</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1794-11-30">
+                  <desc>
+                     recieved cogregation <placeName>Lower Wyke</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1796-11-13">
+                  <desc>
+                     <placeName>Lower Wyke</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <occupation when-iso="1807">teacher over great girls <placeName>Gomersal</placeName></occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/29</bibl>
+               <note>MORTIMER, Sarah (1780-1811)
+                  b 03.06.1780 Oakenshaw
+                  educated:  girls’ school Lower Wyke 1784
+                  reception:  sisters’ house Lower Wyke, received congregation Lower Wyke 30.11.1794,
+                  sacrament Lower Wyke 13.11.1796, sisters’ house Fulneck
+                  church service:  teacher over great girls Gomersal 1807
+                  d 03.01.1811 aged 30 Fulneck, interred Fulneck by Br S T Benade 07.01.1811 
+                  grave 1264 - 1st section, 55th row, 9th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1652,8 +2700,64 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Myers</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1731-01-15">15 January, 1731</date>
+                  <placeName>Great Horton</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1731-01-25">25 January, 1731</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1732-02-11">11 Febuary, 1732</date>
+                     <date calendar="Gregorian" when-iso="1733-02-22">22 Febuary, 1733</date>
+                     <placeName>St Peter's Church Bradford</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1748">
+                  <desc>
+                     recieved society <placeName>Great Horton</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1753-11-13">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-18">
+                  <desc>
+                     Pudsey congregation
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1756-09-05">
+                  <desc>
+                     <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1757-06-04">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1768-07-27">
+                  <desc>
+                     recieved as acoluth <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+            
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/80</bibl>
+               <note>(H/P/F)>MYERS, Mary (1731-1771)
+                  b 15.01.1731 Great Horton
+                  reception:  baptized St Peter’s Church Bradford 11.02.1732 (OS) 22.02.1733 (NS), 
+                  received society Great Horton 1748,
+                  received congregation Yorkshire in Fulneck 13.11.1753, Pudsey congregation 18.04.1755, 
+                  sacrament Pudsey in Fulneck 05.09.1756, sisters’ house Fulneck 04.06.1757  
+                  church orders:  received as acoluth Fulneck 27.07.1768
+                  family:  daughter of Joseph Myers (b 1705) and Ann (née Lee), sister of Ann (b 1736)
+                  d 25.01.1771 aged 40 Fulneck, interred Fulneck by Br B La Trobe 29.01.1771 
+                  grave 413 - 1st section, 17th row, 7th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1662,8 +2766,56 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Oates</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1747-06-26">26 June, 1747</date>
+                  <placeName>Great Horton Parish of Bradford</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1726-05-10">10 May, 1826</date>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <placeName>St Peter's Church Bradford</placeName>
+                     <date calendar="Julian" when-iso="1747-07-13">13 July, 1747</date>
+                     <date calendar="Gregorian" when-iso="1747-07-24">24 July, 1747</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1760-03-14">
+                  <desc>
+                     received society <placeName>Horton</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1773-04-12">
+                  <desc>
+                     recieved congregation <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1776-12-08">
+                  <desc>
+                     <placeName>Pudsey</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1812">
+                  <desc>
+                     transferred Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/77</bibl>
+               <note>(H/P/F)oxOATES, Mary (1747-1826)
+                  b 26.06.1747 Great Horton Parish of Bradford
+                  resided:  Great Horton Bradford
+                  reception:  baptized St Peter’s Church Bradford 13.07.1747 (OS) / 24.07.1747 (NS), 
+                  received society Horton 14.03.1760, received congregation Pudsey in Fulneck 12.04.1773, 
+                  sacrament Pudsey 08.12.1776, transferred Fulneck congregation 1812
+                  family:  daughter of Henry Oates and Rachel (née Ackroyd) (b 1706), 
+                  granddaughter of James Ackroyd,
+                  sister of John (b 1737), Henry (b 1739), Elkanah (b 1741), Thomas (b 1743) and 
+                  James (b 1745), sister-in-law of Martha (née Bower) (b 1750),
+                  aunt of Henry (b 1785), Joseph (b 1786), Anna Mary (Bower) (b 1788) and 
+                  Martha Oates (b 1791)
+                  d 10.05.1826 aged 78, interred Fulneck by Br C F Reichel 16.05.1826 
+                  grave 1444 - 1st section, 65th row, 8th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1672,8 +2824,58 @@
                   <forename>Suzanna</forename> 
                   <surname type="birth">Peel</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1729-10-06">6 October, 1729</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1729-11-02">2 November, 1729</date>
+                  <placeName>Cleckheatonn Parish of Birstall</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1756-10-30">30 October, 1756</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <date calendar="Julian" when-iso="1729-11-02">2 November, 1729</date>
+                     <date calendar="Gregorian" when-iso="1729-11-13">13 November, 1729</date>
+                     <placeName>St Peter's Church Birstall</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1750-12-31">31 December, 1750</date>
+                     <date calendar="Gregorian" when-iso="1751-01-11">11 Januaryy, 1751</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1751-08-02">2 August, 1751</date>
+                     <date calendar="Gregorian" when-iso="1751-08-13">13 August, 1751</date>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+               <desc>
+                  <placeName>sisters' house Fulneck</placeName>
+               </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/24</bibl>
+               <note>(G/F)CBssPEEL, Susanna (1729-1756)
+                  b 06.10.1729 (OS) / 17.10.1729 (NS) Cleckheaton Parish of Birstall
+                  reception:  baptized St Peter’s Church Birstall 02.11.1729 (OS) / 13.11.1729 (NS), 
+                  received congregation Yorkshire in Fulneck 31.12.1750 (OS) / 11.01.1751 (NS),
+                  sacrament Yorkshire in Fulneck 02.08.1751 (OS) / 13.08.1751 (NS), 
+                  sisters’ house Fulneck 15.12.1752, founder member Fulneck congregation 19.04.1755
+                  family:  daughter of Richard Peel
+                  d 30.10.1756 aged 27 sisters’ house Fulneck, interred Fulneck by Br G Traneker 01.11.1756 
+                  grave 105 - 1st section, 3rd row, 10th grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1682,8 +2884,98 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Peel</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1722-05-18">18 May, 1722</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1722-05-29">29 May, 1722</date>
+                  <placeName>Northhowram Parish of Halifax</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1755-03-03">3 March, 1755</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <residence when-iso="1714"><placeName>Northowram Halifax</placeName></residence>
+               <residence from="1742" to="1745"><placeName>Cleckheaton</placeName></residence>
+               <event type="baptized">
+                  <desc>
+                     <placeName> Northowram and Coley non-conformist (Presbyterian) Church Halifax</placeName>
+                     <date calendar="Julian" when-iso="1722-05-28">28 May, 1722</date>
+                     <date calendar="Gregorian" when-iso="1722-06-08">8 June, 1722</date>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     Ingham's society <placeName>Cleckheaton</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved society
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1744-12-26">26 December, 1744</date>
+                     <date calendar="Gregorian" when-iso="1745-01-06">6 January, 1745</date>
+                  </desc>
+               </event>
+               <event when-iso="1745">
+                  <desc>
+                     transfered society <placeName>Smith House</placeName><!-- Is this a place? -->
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1746-11-15">15 November, 1746</date>
+                     <date calendar="Gregorian" when-iso="1746-11-26">26 November, 1746</date>
+                  </desc>
+               </event>
+               <event when-iso="1746">
+                  <desc>
+                     <placeName>sisters' house Holme</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752-12-15">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1760">
+                  <desc>
+                     <placeName>sisters' house Bedford</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1770-02-16">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/79</bibl>
+               <note>(G/LW/P/F)CBss#PEEL, Mary (1722-1775)
+                  b 18.05.1722 (OS) / 29.05.1722 (NS) Northowram Parish of Halifax
+                  resided:  Northowram Halifax 1714, Shelf, Cleckheaton 1742-1745
+                  reception:  baptized Northowram and Coley non-conformist (Presbyterian) Church Halifax
+                  28.05.1722 (OS) / 08.06.1722 (NS), Ingham’s society Cleckheaton, received society,
+                  received congregation Yorkshire in Fulneck 26.12.1744 (OS) / 06.01.1745 (NS), 
+                  transferred society Smith House 1745, 
+                  sacrament Yorkshire in Fulneck 15.11.1746 (OS) / 26.11.1746 (NS), 
+                  sisters’ house Holme 1746, sisters’ house Fulneck 15.12.1752, 
+                  sisters’ house Bedford 1760, sisters’ house Fulneck 16.02.1770
+                  family:  daughter of Jeremiah Peel and Grace, 
+                  sister of Sarah (b 1714), John (b 1716), Joseph (b 1719), Jeremiah (b 1721), 
+                  Grace (Haley) (b 1725) and Elizabeth (b 1730),
+                  sister-in-law of Elizabeth (née Mortimer) (b 1708), Ann (née Shepherd) (b 1720), and 
+                  Jeremy Haley (b 1722),
+                  aunt of Susanna (b 1734), James (b 1737), Joseph (b 1739), Mary (b 1740), 
+                  Hannah (Wagner) (b 1745), William (b 1747), Samuel (b 1749) and John Peel (b 1751), and 
+                  William (b 1743), Jeremiah (b 1745), John (b 1747), John b 1749), Thomas (b 1751), 
+                  Hannah (b 1752), Mary (b 1755), Ann (b 1757), Mary (b 1758), Joseph (b 1760), 
+                  Martha (b 1762) and Sarah Peel (b 1765),
+                  d 03.03.1775 aged 52 sisters’ house Fulneck, interred Fulneck by Br E Miller 05.03.1775 
+                  grave 499 - 1st section, 21st row, 10th grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1692,8 +2984,68 @@
                   <forename>Susanna</forename> 
                   <surname type="birth">Popplewell</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1735-05-05">5 May, 1735</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1735-05-16">16 May, 1735</date>
+                  <placeName>Hartshead</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1756-08-11">11 August, 1756</date>
+                  <placeName>sisters' house Gomersal</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <placeName>St Peter's Church Hartshead</placeName>
+                     <date calendar="Julian" when-iso="1735-06-15">15 June, 1735</date>
+                     <date calendar="Gregorian" when-iso="1735-06-26">26 June, 1735</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1750">
+                  <desc>
+                     recieved society <placeName>Mirfield</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1751-01-01">1 January, 1751</date>
+                     <date calendar="Gregorian" when-iso="1752-01-12">12 January, 1751</date>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-17">
+                  <desc>
+                     founder member Gomersal congnregation
+                  </desc>
+               </event>
+               <event when-iso="1755-05-20">
+                  <desc>
+                     <placeName>sisters' house Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="conformation" when-iso="1755-08-13">
+                  <desc>
+                     <placeName ref="#fulneck">Fulnenck</placeName>
+                  </desc>
+               </event>
+               <education when-iso="1748"><placeName>girls' school Row Head</placeName></education>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/11</bibl>
+               <note>(W/G)CBss>POPPLEWELL, Susannah (1735-1756)
+                  b 05.05.1735 (OS) / 16.05.1735 (NS) Hartshead
+                  educated:  girls’ school Row Head 1748
+                  reception:  baptized St Peter’s Church Hartshead 15.06.1735 (OS) / 26.06.1735 (NS), 
+                  received society Mirfield 1750,
+                  received congregation Yorkshire in Fulneck 01.01.1751 (OS) / 12.01.1752 (NS), 
+                  founder member Gomersal congregation 17.04.1755, sisters’ house Gomersal 20.05.1755,
+                  confirmed by Sr Mary Vogelsang Fulneck 13.08.1755, 
+                  sacrament Gomersal in Fulneck 07.09.1755
+                  family:  daughter of Richard Popplewell (b 1700) and Mary (née Drake) (b 1703),
+                  granddaughter of Richard Popplewell, and John Drake,
+                  sister of Richard, Sarah (Zander) (b 1727) and Mary (Heatley) (b 1732)
+                  d 11.08.1756 aged 21 sisters’ house Gomersal, interred Fulneck by Br G Traneker 14.08.1756 
+                  grave 102 - 1st section, 3rd row, 7th grave from path
+                  resited gravestone - bottom of main path, right hand side, 1st stone on 1st row
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1702,8 +3054,46 @@
                   <forename>Mary</forename> 
                   <surname type="birth">Render</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1747-07-22">22 July, 1747</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1747-08-02">2 August, 1747</date>
+                  <placeName>Holbeck Leeds</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1760-11-28">28 November, 1760</date>
+               </death>
+               <residence notBefore="1747" notAfter="1749"><placeName>Holbeck</placeName></residence>
+               <residence notBefore="1749"><placeName>Leeds</placeName></residence>
+               <event type="baptized">
+                  <desc>
+                     <placeName>baptized meeting house Holbeck</placeName>
+                     <date calendar="Julian" when-iso="1747-08-09">9 August, 1747</date>
+                     <date calendar="Gregorian" when-iso="1747-08-20">20 August, 1747</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1760-03-14">
+                  <desc>
+                     recieved society <placeName>Holbeck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1760">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/30</bibl>
+               <note>(P/F)xRENDER, Mary (1747-1760)
+                  b 22.07.1747 (OS) / 02.08.1747 (NS) Holbeck Leeds
+                  resided:  Holbeck, Leeds 1749
+                  reception:  baptized meeting house Holbeck by Br J Töltschig 09.08.1747 (OS) / 20.08.1747 (NS), 
+                  received society Holbeck 14.03.1760, sisters’ house Fulneck 1760
+                  family:  daughter of John Render (b 1713) and Ann (née Naylor) (b 1718),  
+                  granddaughter of George Render, and James Naylor,
+                  sister of John (b 1745), Anna Johanna (b 1749), Susanna (b 1753), Rachel (b 1755), 
+                  Sarah (b 1755), Isabel (b 1756) and Sarah (b 1759)
+                  d 28.11.1760 aged 14, interred Fulneck by Br A Taylor 01.12.1760 
+                  grave 170 - 1st section, 5th row, 8th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1712,8 +3102,46 @@
                   <forename>Isabel</forename> 
                   <surname type="birth">Render</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1756-09-09">9 September, 1756</date>
+                  <placeName>Leeds</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1777-07-25">25 July, 1777</date>
+               </death>
+               <event type="baptized" when-iso="1756-09-10">
+                  <desc>
+                     <placeName>parents' house</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1769-04-29">
+                  <desc>
+                     <placeName>sisters' house Littlemoor</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1769-08-13">
+                  <desc>
+                     recieved congergation <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1771-10-06">
+                  <desc>
+                     <placeName>Pudsey in Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/67</bibl>
+               <note>RENDER, Isabel (1756-1777)
+                  b 09.09.1756 Leeds
+                  reception:  baptized parents’ house by Br G Traneker 10.09.1756, 
+                  sisters’ house Littlemoor 29.04.1769, received congregation Pudsey in Fulneck 13.08.1769, 
+                  sacrament Pudsey in Fulneck 06.10.1771
+                  family:  daughter of John Render (b 1713) and Ann( née Naylor) (b 1718),
+                  granddaughter of George Render, and James Naylor,
+                  sister of John (b 1745), Mary (b 1746), Anna Johanna (b 1749), Susanna (b 1753), 
+                  Rachel (b 1755), Sarah (b 1755) and Sarah (b 1759)
+                  d 25.07.1777 aged 20, interred Fulneck by Br J Caldwell 28.07.1777 
+                  grave 554 - 1st section, 25th row, 3rd grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1733,8 +3161,87 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Robinson</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1714-02-25">25 Febuary, 1714</date>
+                  <date type="birth" calendar="Gregoiran" when-iso="1715-03-08">8 March, 1715</date>
+                  <placeName>Halifax</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1796-01-25">25 January, 1796</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <occupation>spinner</occupation>
+               <residence from="1744" to="1746"><placeName>Shelf</placeName></residence>
+               <event type="baptized">
+                  <desc>
+                     Church of Englannd
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1744">
+                  <desc>
+                     <placeName>Norwood Green</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1746-07-07">
+                  <desc>
+                     <placeName>sisters' house Oxheys</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1747">
+                  <desc>
+                     transferred society <placeName>Gomersal</placeName> and <placeName>sisters' house Cleckheaton</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved conngregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-05-28">28 May, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-06-08">8 June, 1748</date>
+                  </desc>
+               </event>
+               <event when-iso="1746-07-07">
+                  <desc>
+                     <placeName>sisters' house Oxheys</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1751-01-08">
+                  <desc>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1753">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755-04-19">
+                  <desc>
+                     founder member Fulneck congregation
+                  </desc>
+               </event>
+               <event when-iso="1768-07-27">
+                  <desc>
+                     recieved as acoluth <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <occupation>disciple’s intercessor</occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/78</bibl>
+               <note>(LW/G/P/F)CBssROBINSON, Sarah (1715-1796)
+                  b 25.02.1714 (OS) / 08.03.1715 Halifax  
+                  occupation:  spinner
+                  resided:  Shelf 1744-1746
+                  reception:  baptized Church of England, received society Norwood Green 1744,
+                  sisters’ house Oxheys 07.07.1746, 
+                  transferred society Gomersal and sisters’ house Cleckheaton 1747,
+                  received congregation Yorkshire in Fulneck 28.05.1748 (OS) / 08.06.1748 (NS), 
+                  sisters’ house Tyersal 1749, sacrament Yorkshire in Fulneck 08.01.1751, 
+                  sisters’ house Fulneck 1753, founder member Fulneck congregation 19.04.1755  
+                  church orders:  received as acoluth Fulneck 27.07.1768  
+                  unity office:  disciple’s intercessor
+                  d 25.01.1796 aged 80 sisters’ house Fulneck, interred Fulneck by Br J Steinhauer 28.01.1796 
+                  grave 987 - 2nd section, 45th row, 9th grave from path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1743,8 +3250,50 @@
                   <forename>Rachel</forename> 
                   <surname type="birth">Roebuck</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1735-02-14">14 Febuary, 1735</date>
+                  <placeName>Almondbury</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1812-12-28">28 December, 1812</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <occupation>washing and spining</occupation>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1759">
+                  <desc>
+                     <placeName>Golcar</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1760-10-04">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1761-11-14">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1767-01-11">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/5</bibl>
+               <note>(W/F)+ROEBUCK, Rachel (1735-1812)
+                  b 14.02.1735 Almondbury
+                  occupation:  washing and spinning
+                  reception:  baptized Church of England, received society Golcar 1759,
+                  sisters’ house Fulneck 04.10.1760, received congregation Fulneck 14.11.1761, 
+                  sacrament Fulneck 11.01.1767
+                  d 28.12.1812 aged 80 Fulneck, interred Fulneck by Br C F Reichel 31.12.1812 
+                  grave 1284 - 1st section, 56th row, 10th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1753,18 +3302,74 @@
                   <forename>Anna</forename> 
                   <surname type="birth">Rogers</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1743-08-15">15 August, 1743</date>
+                  <placeName ref="#mlpla000025">Bedford</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1763-10-24">24 October, 1763</date>
+               </death>
+               <education when-iso="1754-09-16"><placeName>girls' school Chelsea</placeName></education>
+               <education when-iso="1755-04-11"><placeName>girls' school Fulneck</placeName></education>
+               <event type="baptized">
+                  <desc>
+                     <placeName>St Paul's Church Bedford</placeName>
+                     <date calendar="Julian" when-iso="1743-08-31">31 August, 1743</date>
+                     <date calendar="Gregorian" when-iso="1734-09-11">11 September, 1734</date>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1758-08-21">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1763-08-28">
+                  <desc>
+                     (choir commuion) <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/59</bibl>
+               <note>(F)ROGERS, Anna (1743-1763)
+                  b 15.08.1743 Bedford
+                  educated:  girls’ school Chelsea 16.09 1754, girls’ school Fulneck 11.04.1755
+                  reception:  baptized St Paul's Church Bedford 31.08.1743 (OS) / 11.09.1743 (NS), 
+                  received congregation Fulneck 21.08.1758, sisters’ house Fulneck, 
+                  sacrament (choir communion) Fulneck 28.08.1763
+                  family:  daughter of Jacob Rogers (b 1715) and Mary (née Heaver) (b 1714),
+                  granddaughter of Richard Rogers (b 1677) and Mercy (née Appleyard) (b 1677),
+                  great-granddaughter of John (Squire) Rogers and Elizabeth,
+                  niece of Richard (b 1704), John, Abraham, Joseph, Marmaduke, Isaac and Hannah Rogers,
+                  stepdaughter of Ann Mary (née Parsons),
+                  sister of Elizabeth (Mott) (b 1738), Mary (b 1740), Francis (b 1741), John (b 1744), 
+                  Jacob (b 1746), 	Joseph (b 1747), Thomas (b 1748) and Martha Copson (b 1750), 
+                  half sister of Johanna Salome (b 1757)
+                  d 24.10.1763 aged 20 sisters’ house Fulneck, interred Fulneck by Br La Trobe 27.10.1763 
+                  grave 248 - 1st section, 9th row, 3rd grave from path</note>
             </person>
          </listPerson>
          <listPerson>
             <person xml:id="mlper000270">
+               
                <persName>
                   <forename>Mary</forename> 
                   <surname type="birth">Scott</surname>
                </persName>
+               <event type="reception" when-iso="1752">
+                  <desc>
+                     recieved society <placeName>Halifax</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/63</bibl>
+               <note>(LW)/x^>SCOTT, Mary 
+                  reception:  received society Halifax 1752, not on Halifax catalogue 13.04.1762
+                  m Scott</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1773,8 +3378,43 @@
                   <forename>Anna</forename> 
                   <surname type="birth">Shoesmith</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1752-08-13">13 August, 1752</date>
+                  <placeName>Norwood Green Halifax</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1772-08-03">3 August, 1772</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     <placeName>Bretheren's Church</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1767-03-23">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1768-07-17">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1772-07-01">
+                  <desc>
+                     <!-- There is no information to put in here -->
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/74</bibl>
+               <note>SHOESMITH, Anna (1752-1772)		
+                  b 13.08.1752 Norwood Green Halifax
+                  reception:  baptized Brethren’s Church, sisters’ house Fulneck 23.03.1767, 
+                  received congregation Fulneck 17.07.1768, sacrament 01.07.1772
+                  d 03.08.1772 aged 19 Fulneck, interred Fulneck by Br J F Zander 05.08.1772 
+                  grave 455 - 1st section, 20th row, 2nd grave from path
+                  re-sited gravestone - left hand side of path from gate, 5th stone down from gate</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1783,8 +3423,43 @@
                   <forename>Sarah</forename> 
                   <surname type="birth">Skelton</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1755-09-30">30 September, 1755</date>
+                  <placeName>Robeerttownn</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1778-05-03">3 May, 1778</date>
+                  <placeName>sisters' house Fulneck</placeName>
+               </death>
+               <event type="baptized">
+                  <desc>
+                     Church of England
+                  </desc>
+               </event>
+               <event when-iso="1770-03-25">
+                  <desc>
+                     <placeName>sisters' house Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1771-11-24">
+                  <desc>
+                     recieved congregationn <placeName>Gomersal</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1776-02-18">
+                  <desc>
+                     <placeName>Gomersal</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/37</bibl>
+               <note>(G/F)$SKELTON, Sarah (1755-1778)
+                  b 30.09.1755 Roberttown
+                  reception:  baptized Church of England, sisters’ house Gomersal 25.03.1770, 
+                  received congregation Gomersal 24.11.1771, sacrament Gomersal 18.02.1776, 
+                  sisters’ house Fulneck 1778
+                  d 03.05.1778 aged 22 sisters’ house Fulneck, interred Fulneck by Br G Traneker 06.05.1778
+                  grave 568 - 1st section, 33rd row, 2nd grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1793,8 +3468,58 @@
                   <forename>Susan</forename> 
                   <surname type="birth">Smith</surname>
                </persName>
+               <birth>
+                  <date type="birth" calendar="Julian" when-iso="1747-12-26">26 December, 1747</date>
+                  <date type="birth" calendar="Gregorian" when-iso="1748-01-06">6 January, 1748</date>
+                  <placeName>Morton Banks Bingley</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1814-12-19">19 December, 1814</date>
+                  <placeName ref="#fulneck">Fulneck</placeName>
+               </death>
+               <occupation>sewer</occupation>
+               <residence from="1748" to="1762"><placeName>Morton Banks Bingley</placeName></residence>
+               <event type="baptized">
+                  <desc>
+                     <placeName>All Saint's Church Bingley</placeName>
+                     <date calendar="Julian" when-iso="1747-01-04">4 January, 1747</date>
+                     <date calendar="Gregorian" when-iso="1748-01-15">15 January, 1749</date>
+                  </desc>
+               </event>
+               <event when-iso="1762-03-31">
+                  <desc>
+                     <placeName>sisters' house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1768-11-13">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament" when-iso="1770-09-08">
+                  <desc>
+                     <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/6</bibl>
+               <note>(B/F)SMITH, Susan (1748-1814)
+                  b 26.12.1747 (OS) / 06.01.1748 (NS) Morton Banks Bingley
+                  occupation:  sewer
+                  resided:  Morton Banks Bingley 1748-1762
+                  reception:  baptized All Saints’ Church Bingley 04.01.1747 (OS) / 15.01.1748 (NS), 
+                  sisters’ house Fulneck 31.03.1762, received congregation Fulneck 13.11.1768, 
+                  sacrament Fulneck 08.09.1770
+                  family:  daughter of William Smith (b 1722) and Susan (née Brever), 
+                  granddaughter of Jonas Smith,
+                  stepdaughter of Martha (née Newby, later Graham) (b 1728),
+                  half sister of Anna Mary (Staw) (b 1755), William (b 1758), Martha (b 1761), Sophia (b 1763), 
+                  Sarah (b 1765), David (b 1768) and John Smith (b 1771),
+                  sister-in-law of William Staw (b 1748), Sarah (née Bottomley) (b 1763), 
+                  Martha (née Wooler) (b 1770) and Mary (née Skelton (b 1765),
+                  aunt of Mary Smith (b 1787), and Anna Mary (b 1794) and Sarah Smith (b 1799), and
+                  George (b 1798), Anna (b 1803) and Mary Smith (b 1805)
+                  d 19.12.1814 aged 66 Fulneck, interred Fulneck by Br C F Ramftler 22.12.1814 </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1815,6 +3540,15 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/31</bibl>
+               <note>(LW/G/P/F)CBssSUTCLIFFE, Mercy (Mary) (1716-1768)
+                  b 21.12.1715 (OS) / 01.01.1716 (NS) Clayton Parish of Bradford
+                  reception:  baptized Church of England, 
+                  received society Gomersal and sisters’ house Cleckheaton 1746, 
+                  received congregation Yorkshire in Fulneck 22.05.1747 (OS) /  02.06.1747 (NS), 
+                  sacrament Yorkshire in Fulneck 10.07.1748 (OS) / 21.07.1748 (NS), sisters’ house Holme 1748,
+                  sisters’ house Fulneck 15.12.1752, founder member Fulneck congregation 19.04.1755
+                  congregation office:  intercessor Yorkshire
+                  d 03.05.1768 aged 52 sisters’ house Fulneck, interred Fulneck by Br B La Trobe 05.05.1768 </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1825,6 +3559,21 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/64</bibl>
+               <note>(LW/P)TATTERSALL, Mary (1756-1798)
+                  b 29.05.1756 King Cross Halifax
+                  occupation:  sewer
+                  reception:  baptized Christ Church Sowerby Bridge 27.06.1756, 
+                  sisters’ house Littlemoor 05.05.1769, received congregation Pudsey 31.03.1777, 
+                  sacrament Pudsey 22.05.1779
+                  family:  daughter of James Tattersall (b 1717) and Dinah (née Holroyd) (b 1729),
+                  granddaughter of Edmund Tattersall (b 1692) and Phoebe (née Haigh) (b 1690),
+                  great-granddaughter of Timothy Tattersall, and Edward Haigh, son-in-law of James Holroyd,
+                  niece of John (b 1715), Sarah (b 1716), Mary (b 1719), Martha (Haigh) (b 1722) and
+                  Elizabeth Tattersall (b 1724), stepdaughter of Esther (née, later Johnson) (b 1724),
+                  sister of James Christian (b 1758), Phoebe Hannah (b 1760) and Rachel (b 1761),
+                  half-sister of Hannah (b 1766)
+                  d 17.07.1798 aged 42, interred Fulneck by Br G Traneker 20.07.1798 
+                  grave 1040 - 2nd section, 47th row, 4th grave from path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -1835,6 +3584,17 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/17</bibl>
+               <note>(LW/G)o/x+^TAYLOR, Hannah (1740-1773)
+                  b 1739 (OS) / 1740 (NS) Wyke
+                  reception:  baptized St Peter’s Church Birstall 09.03.1739 (OS) / 20.03.1740 (NS), 
+                  received society Wyke August 1758, sisters’ house Gomersal 06.10.1771, 
+                  received congregation Gomersal 20.04.1772, sacrament on sickbed Gomersal 10.05.1773
+                  family:  daughter of Crispin Taylor (b 1698) and Mary (née Wilkinson) (b 1699),
+                  sister of John (b 1724), Thomas (b 1732), Crispianus (b 1737) and Crispin (b 1737) 
+                  d 18.05.1773 aged 33 sisters’ house Gomersal
+                  interred Fulneck by Br J Ockershausen 20.05.1773 
+                  grave 470 - 1st section, 20th row, 8th grave from path</note>
+               <note></note>
             </person>
          </listPerson>
          <listPerson>
@@ -1845,6 +3605,13 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/61</bibl>
+               <note>TAYLOR, Mary (1698-1790)
+                  b 28.02.1698
+                  reception:  received congregation Yorkshire 13.11.1752, 
+                  Lower Wyke congregation 15.04.1755, sacrament Lower Wyke 25.11.1759
+                  d 24.02.1790 aged 91 Fulneck, interred Fulneck by Br J Miller 26.02.1790 
+                  grave 855 - 1st section, 50th row, 1st grave by path
+               </note>
             </person>
          </listPerson>
          <listPerson>
@@ -1855,6 +3622,15 @@
                </persName>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/71</bibl>
+               <note>(G/P/F)TAYLOR, Ann (1731-1758)
+                  b 08.05.1731 Cleckheaton
+                  reception:  baptized Presbyterian Church, received society Little Gomersal 1748,
+                  transferred society Holme 1752, crossed off Holme catalogue 1752,
+                  received congregation Yorkshire in Fulneck 13.05.1754, 
+                  sacrament Pudsey in Fulneck 13.07.1755, sisters’ house Gomersal 1756, 
+                  sisters’ house Fulneck 15.06.1758
+                  d 15.12.1758 aged 27 Fulneck,  interred Fulneck by Br J Charlesworth 18.12.1758 
+                  grave 142 -1st section, 5th row, 1st grave by path</note>
             </person>
          </listPerson>
          <listPerson>
@@ -2707,10 +4483,10 @@
                   <date type="death" when-iso="1846-07-04">4 July, 1846</date>
                   <placeName>Keighley</placeName>
                </death>
-               <event type="babtized" when-iso="1769-09-24">
+               <event type="baptized" when-iso="1769-09-24">
                   <desc>
                      <placeName ref="#fulneck">Fulneck</placeName>
-                     Babtized by Br J Worthington
+                     baptized by Br J Worthington
                   </desc> 
                </event>
                <event type="reception" when-iso="1783-12-01">
@@ -2842,7 +4618,7 @@
                   <date type="death" when-iso="1802-07-10">10 July, 1802</date>
                </death>
                <occupation>clothier</occupation>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date calendar="Julian" when-iso="1726-01-22">22 January, 1726</date>
                      <date calendar="Gregorian" when-iso="1726-02-02">2 Febuary, 1726</date>
@@ -3004,7 +4780,7 @@
                   <placeName ref="#fulneck">Fulneck</placeName>
                </death>
                
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      <date calendar="Julian" when-iso="1739-08-12">12 August, 1739</date>
                      <date calendar="Gregorian" when-iso="1739-08-23">23 August, 1739</date>
@@ -4403,7 +6179,7 @@
                <residence notBefore="1784-09-08">
                   <placeName ref="#mlpla000063">33 - 35 The Settlement Ockbrook</placeName> <!-- This ref is only for Ockbrook in general not the specific place -->
                </residence>
-               <event type="babtized">
+               <event type="baptized">
                   <desc>
                      Lutheran Church
                   </desc>
@@ -4503,6 +6279,7 @@
             </person>
             <!-- Relationships are within the notes, but can't be done unless we have xml:ids for the other people -->
          </listPerson>
+         
          
       </body>
    </text>
