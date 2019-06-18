@@ -5,7 +5,7 @@
          <titleStmt>
             <title>[NAME]: Memoir</title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+            <principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
@@ -18,44 +18,54 @@
                <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
-               <persName>Diane Jakacki</persName>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
                <resp>Project Manager</resp>
             </respStmt>
             <respStmt>
-               <persName>Michael McGuire</persName>
+               <persName xml:id="mmcguire">Michael McGuire</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Developer, 2016-Present</resp>
+               <resp>Developer</resp>
             </respStmt>
             <respStmt>
-               <persName>Carly Masonheimer</persName>
+               <persName xml:id="cmasonheimer">Carly Masonheimer</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder, 2018-Present</resp>
             </respStmt>
             <respStmt>
-               <persName>Marleina Cohen</persName>
+               <persName xml:id="mcohen">Marleina Cohen</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant and encoder, 2018-2019</resp>
             </respStmt>
             <respStmt>
-               <persName>Jess Hom</persName>
+               <persName xml:id="jhom">Jess Hom</persName>
                <orgName>Bucknell University, 2018-Present</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
             <respStmt>
-               <persName>Marita Gruner</persName>
+               <persName xml:id="mgruner">Marita Gruner</persName>
                <orgName>University of Greifswald</orgName>
                <resp>Encoder</resp>
             </respStmt>
             <respStmt>
-               <persName>Sarah Kannemann</persName>
+               <persName xml:id="skanneman">Sarah Kannemann</persName>
                <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
             </respStmt>
             <respStmt>
-               <persName>Justin Schaumberger</persName>
+               <persName xml:id="jschaumberger">Justin Schaumberger</persName>
                <orgName>Bucknell University</orgName>
                <resp>Research Assistant, encoder, ontologist, 2019-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="cpirmann">Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="cpaddick">Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -86,6 +96,9 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <revisionDesc>
+         <change when="2019-06-10" who="#JAKA1">Updated header</change>
+      </revisionDesc>
    </teiHeader>
    <text type="memoir">
       <body xml:lang="en">
@@ -93,7 +106,7 @@
             <head>name</head>
             <div type="page" n="1">
                <head type="page">1</head>
-               <pb n="1" facs="url" />
+               <pb n="1" facs="url"/>
                <p>PAGE TEXT HERE</p>
             </div>
          </div>
