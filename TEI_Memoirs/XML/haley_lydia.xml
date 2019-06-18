@@ -80,6 +80,9 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <revisionDesc>
+         <change when="2019-06-18" who="#jschaumberger">Started markup.</change>
+      </revisionDesc>
    </teiHeader>
    <text type="memoir">
       <body xml:lang="en">
@@ -88,14 +91,14 @@
             <div type="page" n="1">
               <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg"></pb>
-               <p>Lydia Halley was <name event="birth">Born</name> at Spen near little 
-                  gimersal, ye <date when-iso="1724-04-16">16th of April 1724</date> where She lived with 
+               <p><persName ref="#mlper000247">Lydia Halley</persName> was Born at <placeName>Spen near little 
+                  gimersal</placeName>, ye <date type="birth" when-iso="1724-04-16">16th of April 1724</date> where She lived with 
                   her Parents. till she thought it woud be proper to 
                   leave them and go to Service in some family, for that 
                   switch her inclination the most; She being of a brish and  
                   Lively dispolick <hi rend="superscript">cor</hi> After haveing Lived thus some years 
                   She returned again to her parent, were She stayed till 
-                  Mr. Ingham began to preach, She went to hear <hi rend="superscript">him</hi> &amp; after 
+                  <persName>Mr. Ingham</persName> began to preach, She went to hear <hi rend="superscript">him</hi> &amp; after 
                   some time became alittle consornd about her Salvation 
                   So she continued till ye soci<hi rend="superscript">e</hi>ty way begun to be keept in 
                   her Fathers house, She was one of ye first members 
