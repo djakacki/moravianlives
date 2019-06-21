@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -106,7 +106,7 @@
             <head>name</head>
             <div type="page" n="1">
                <head type="page">1</head>
-               <pb n="1" facs="url"/>
+               <pb n="1" facs="url" />
                <p>PAGE TEXT HERE</p>
             </div>
          </div>
