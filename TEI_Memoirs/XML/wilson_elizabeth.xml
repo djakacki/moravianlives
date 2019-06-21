@@ -5,7 +5,7 @@
          <titleStmt>
             <title>Elizabeth Wilson: Memoir</title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+            <principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
@@ -18,39 +18,54 @@
                <email>christer.ahlberger@history.gu.se</email>
             </principal>
             <respStmt>
-               <persName>Diane Jakacki</persName>
+               <persName xml:id="JAKA1">Diane Jakacki</persName>
                <orgName>Bucknell University</orgName>
                <resp>Project Manager</resp>
             </respStmt>
             <respStmt>
-               <persName>Michael McGuire</persName>
+               <persName xml:id="mmcguire">Michael McGuire</persName>
                <orgName>Bucknell University</orgName>
                <resp>Developer</resp>
             </respStmt>
             <respStmt>
-               <persName>Carly Masonheimer</persName>
+               <persName xml:id="cmasonheimer">Carly Masonheimer</persName>
                <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder, 2018-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="mcohen">Marleina Cohen</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant and encoder, 2018-2019</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="jhom">Jess Hom</persName>
+               <orgName>Bucknell University, 2018-Present</orgName>
                <resp>Research Assistant and encoder</resp>
             </respStmt>
             <respStmt>
-               <persName>Marleina Cohen</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and encoder</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Jess Hom</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Research Assistant and encoder</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Marita Gruner</persName>
+               <persName xml:id="mgruner">Marita Gruner</persName>
                <orgName>University of Greifswald</orgName>
                <resp>Encoder</resp>
             </respStmt>
             <respStmt>
-               <persName>Sarah Kannemann</persName>
+               <persName xml:id="skanneman">Sarah Kannemann</persName>
                <orgName>University of Mainz</orgName>
                <resp>Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="jschaumberger">Justin Schaumberger</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Research Assistant, encoder, ontologist, 2019-Present</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="cpirmann">Carrie Pirmann</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Social Sciences Librarian</resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="cpaddick">Courtney Paddick</persName>
+               <orgName>Bucknell University</orgName>
+               <resp>Arts &amp; Humanities Librarian</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -80,17 +95,13 @@
                   <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg" />
                   <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg" />
-                  <msName type="memoir" ana="MAF/Ful_SS_62Wilson">Elizabeth Wilson</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-03.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-04.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-05.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-06.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <revisionDesc>
+         <change when-iso="2019-06-21" who="#JAKA1">Updated header to include xml:ids and checked encoding</change>
+      </revisionDesc>
    </teiHeader>
    <text type="memoir">
       <body xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="en">
@@ -99,26 +110,27 @@
             <div type="page" n="1">
                <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg" />
-               <p><persName ref="#mlper000214">Eliz: Wilson</persName>. I was born in <placeName ref="#mlpla000084">Yorkshire</placeName> in in the parish of <placeName>Leeds</placeName> in <date
+               <p><persName ref="#mlper000214">Eliz: Wilson</persName>. I was born in <placeName ref="#mlpla000084">Yorkshire</placeName> in the parish of <placeName>Leeds</placeName> in <date
                      type="birth" when-iso="1731-02-21">Feb<hi rend="superscript">ry</hi> 21<hi rend="superscript">st</hi> 1731.</date>
                   <name event="baptism">baptized</name> in the <orgName>Church of England.</orgName> I was educated by my parents till I was 13 Years of age, then I was put <name type="occupation"
-                     >apprentice</name> for 6 Years, w<hi rend="superscript">c</hi><hi rend="superscript">h</hi> I serv'd faithfully, tho' not without hardships, but I being of a lightsome Furr of
-                  mind I got thro' better. for at that time I knew nothing of our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> , neither did I think of any religion, so I went on
-                  without tho<hi rend="superscript">t</hi>, sometimes my Father wou'd ask me, come with thou go with us to hear the preaching to day, at w<hi rend="superscript">ch </hi> I was griev'd,
-                  &amp; said no never while I live, will I go to hear them naughty people, then my parents tho<hi rend="superscript">t</hi> I sh<hi rend="superscript">d</hi> come into something bad,
-                  because I seem'd so wild, but for all that, I had no liking to that w<hi rend="superscript">ch</hi> my companions follow'd, but always felt an aversion against it in my heart, at
-                  that time, I did not know how it sh<hi rend="superscript">d</hi> be so, but now I <note type="catchword">know</note></p>
+                     >apprentice</name> for 6 Years, w<hi rend="superscript">ch</hi> I serv'd faithfully, tho' not without hardships, but I being of a lightsome Turn of mind I got thro' better. for at
+                  that time I knew nothing of our <persName type="diety">Sav<hi rend="superscript">r</hi></persName>, neither did I think of any religion, so I went on without tho<hi
+                     rend="superscript">t</hi>, sometimes my Father wou'd ask me, come will thou go with us to hear the preaching to day, at w<hi rend="superscript">ch </hi> I was griev'd, &amp; said
+                  no never while I live, will I go to hear them naughty people, then my parents tho<hi rend="superscript">t</hi> I sh<hi rend="superscript">d</hi> come into something bad, because I
+                  seem'd so wild, but for all that, I had no liking to that w<hi rend="superscript">ch</hi> my companions follow'd, but always felt an aversion against it in my heart, at that time, I
+                  did not know how it sh<hi rend="superscript">d</hi> be so, but now I <note type="catchword">know</note></p>
             </div>
             <div type="page" n="2">
                <head type="page">2</head>
                <pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-02.jpg" />
                <p>know that it was my dear <persName type="diety">Lord</persName> that kept me, from all hurt &amp; shame. In my <date when-iso="1748" cert="medium">17<hi rend="superscript">th</hi>
-                     Year</date> my Master had the misfortune to be kill'd, this shuck one very much, but that went oft again without thinking any further, but that he was at rest; In my <date
+                     Year</date> my Master had the misfortune to be kill'd, this struck one very much, but that went oft again without thinking any further, but that he was at rest; In my <date
                      when-iso="1749" cert="medium">18<hi rend="superscript">th</hi> Year</date> I had a dream w<hi rend="superscript">ch </hi> made such an impression on my heart, that I never forgot,
-                  my parents were afraid that something had happen'd to me, my Mother ask'd me if my mistress had been hard with me, I answer'd no, it was something that I had dream'd, then my Father
-                  came to me, &amp; said, come now tell me what it is, but my heart was quite full, however I told it, &amp; it was, I tho<hi rend="superscript">t</hi> a man came to me, drest in a
-                  white surples, stood over me, &amp; look'd very solid at me, then he spread his hands over me, &amp; then folded them upon his breast, &amp; I not knowing that I was in Bed, tho<hi
-                     rend="superscript">t</hi> I <hi rend="superscript">will</hi> lye quite still &amp; see what </p>
+                  my parents were afraid that something had happen'd to me, my Mother ask'd me if my mistress had been hard with me. I answer'd no, it was something that I had dream'd, then my Father
+                  came to me, &amp; said, come now tell me what it is, but my heart was quite full, however I told it; &amp; it was, I tho<hi rend="superscript">t</hi> a man came to me, drest in a
+                  white surples, stood over me, &amp; look'd very solid at me, then he spread his hands over me, &amp; then folded them upon his breast, &amp; I <del>not</del> knowing that I was in
+                  Bed, tho<hi rend="superscript">t</hi> I <add place="above">will</add> lye quite still &amp; see what 
+               <note type="catchword">he</note></p>
             </div>
             <div type="page" n="3">
                <head type="page">3</head>
