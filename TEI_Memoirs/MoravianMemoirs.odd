@@ -120,7 +120,39 @@
             </attList>
           </classSpec>
 
-<!--          this is where the event list goes-->
+          <!-- CUSTOMIZATION: added name:@event / English. Wherever possible adding @sameAs to track parallels -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="event" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="baptism" sameAs="taufe"/>
+                  <valItem ident="birth" sameAs="geburt"/>
+                  <valItem ident="conversion" sameAs="bekehrung"/>
+                  <valItem ident="death" sameAs="tod"/>
+                  <valItem ident="draw lot" sameAs="losen"/>
+                  <valItem ident="marriage" sameAs="hochzeit"/>
+                  <valItem ident="reception" sameAs="aufnahme"/>
+                  <valItem ident="sacrament"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added name:@ereignis / German. Wherever possible adding @sameAs to track parallels -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="ereignis" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="aufnahme" sameAs="reception"/>
+                  <valItem ident="bekehrung" sameAs="conversion"/>
+                  <valItem ident="geburt" sameAs="birth"/>
+                  <valItem ident="hochzeit" sameAs="marriage"/>
+                  <valItem ident="losen" sameAs="draw lot"/>
+                  <valItem ident="taufe" sameAs="baptism"/>
+                  <valItem ident="tod" sameAs="death"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
 
 
           <!-- CUSTOMIZATION: added name:@relation / English -->

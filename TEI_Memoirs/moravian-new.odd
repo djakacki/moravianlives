@@ -113,6 +113,8 @@
                                     <valItem ident="marriage"/>
                                     <valItem ident="sacrament"/>
                                     <valItem ident="conversion"/>
+                                    <valItem ident="death"/>
+                                    <valItem ident="birth"/>
                                 </valList>
                             </attDef>
                         </attList>
