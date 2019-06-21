@@ -133,6 +133,7 @@
                   <valItem ident="marriage" sameAs="hochzeit"/>
                   <valItem ident="reception" sameAs="aufnahme"/>
                   <valItem ident="sacrament"/>
+                  <valItem ident="interrment"/>
                 </valList>
               </attDef>
             </attList>

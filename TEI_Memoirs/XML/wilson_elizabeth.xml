@@ -116,7 +116,7 @@
                   facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_62Wilson-01.jpg"/>
                <p><persName ref="#mlper000214">Eliz: Wilson</persName>. I was born in <placeName ref="#mlpla000084">Yorkshire</placeName> in in the parish of
                   <placeName>Leeds</placeName> in <date type="birth" when-iso="1731-02-21">Feb<hi rend="superscript">ry</hi> 21<hi
-                     rend="superscript">st</hi> 1731.</date> <name type="event" subtype="baptized">baptized</name> in the <orgName>Church of
+                     rend="superscript">st</hi> 1731.</date> <name event="baptism">baptized</name> in the <orgName>Church of
                   England.</orgName> I was educated by my parents till I was 13 Years of
                   age, then I was put <name type="occupation">apprentice</name> for 6 Years, w<hi
                      rend="superscript">c</hi><hi rend="superscript">h</hi> I
