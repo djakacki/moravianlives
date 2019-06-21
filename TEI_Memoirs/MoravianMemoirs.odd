@@ -134,6 +134,7 @@
                   <valItem ident="reception" sameAs="aufnahme"/>
                   <valItem ident="sacrament"/>
                   <valItem ident="interrment"/>
+                  <valItem ident="communion"></valItem>
                 </valList>
               </attDef>
             </attList>
@@ -150,6 +151,18 @@
                   <valItem ident="losen" sameAs="draw lot"/>
                   <valItem ident="taufe" sameAs="baptism"/>
                   <valItem ident="tod" sameAs="death"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added name:@health / English. -->
+          
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="health" mode="change">
+                <valList mode="add" type="closed">
+                  <valItem ident="recovered"/>
+                  <valItem ident="disease"/>
                 </valList>
               </attDef>
             </attList>
