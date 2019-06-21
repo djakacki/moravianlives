@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -132,7 +129,7 @@
       <body xml:lang="en">
          <div type="memoir">
             <head type="memoir">Elizabeth Grundy</head>
-            <docAuthor></docAuthor>
+            <docAuthor />
             <div type="page" n="1">
                <head type="page" ana="MemLon_300023-01">1</head>
                <p> Page 1: -Vo.10. G. Gd Life I. Holmes of the widow Sr. <persName>Elizabeth Grundy</persName>, late Alvd, who <name type="event">departed this life</name> at

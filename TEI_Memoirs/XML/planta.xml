@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -93,47 +93,72 @@
             <head>name</head>
             <div type="page" n="1">
                <head type="page">1</head>
-               <pb n="1" facs="url"/>
-               <p>Memoir of the Life of our late venerable and happily departed Br Peter Jacob Planta, who entered into the joy of his Lord, at Ockbrook, May the 6th 1815, in teh 94th year of his age, written by himself.</p>
-                  
-               <p>I was born at <placeName ref="#mlpla000085">Jonköping or town in Sweden</placeName>, <date when-iso="1721-12-5" calendar="Julian">Dec. the 5th, old style in the year 1721</date>. My Father's name was <persName>Jacob Planta</persName> &amp; my Mother's maiden name <persName>Martha Ruda</persName>. They were both of the <orgName>Lutheran Religion</orgName><!-- I dont know how to tag Lutheran. The faith tag must be contained within a person tag -->. I had two sisters, the [one] was born during my <persName ana="Martha Ruda">Mother</persName>'s marriage to her first husband, whose name was <persName>Peter Shilling</persName>. Our <persName ana="Martha Ruda Jacob Planta">Parents</persName> spared no pains in giving us a religious &amp; genteel education; we had morning &amp; evening prayers in the family, to which the servants were also admitted. </p>
-                  <p>My dear <persName ana="Martha Ruda">Mother</persName> would often read in the bible, &amp; after prayers, read to me - take [] to us pleasing scritoral his-
-                  tories, especially such as had a reference to the life, suffering &amp; death of our dear <persName>Lord</persName> &amp; <persName>Saviour</persName>, &amp; also his [connection]
-                     <note type="catchword">with</note> </p>                                  
+               <pb n="1" facs="url" />
+               <p>Memoir of the Life of our late venerable and happily departed Br Peter Jacob Planta, who entered into the joy of his Lord, at Ockbrook, May the 6th 1815, in teh 94th year of his age,
+                  written by himself.</p>
+               <p>I was born at <placeName ref="#mlpla000085">Jonköping or town in Sweden</placeName>, <date when-iso="1721-12-5" calendar="Julian">Dec. the 5th, old style in the year 1721</date>. My
+                  Father's name was <persName>Jacob Planta</persName> &amp; my Mother's maiden name <persName>Martha Ruda</persName>. They were both of the <orgName>Lutheran
+                  Religion</orgName><!-- I dont know how to tag Lutheran. The faith tag must be contained within a person tag -->. I had two sisters, the [one] was born during my <persName ana="Martha
+                     Ruda">Mother</persName>'s marriage to her first husband, whose name was <persName>Peter Shilling</persName>. Our <persName ana="Martha Ruda Jacob Planta">Parents</persName> spared
+                  no pains in giving us a religious &amp; genteel education; we had morning &amp; evening prayers in the family, to which the servants were also admitted. </p>
+               <p>My dear <persName ana="Martha Ruda">Mother</persName> would often read in the bible, &amp; after prayers, read to me - take [] to us pleasing scritoral his- tories, especially such
+                  as had a reference to the life, suffering &amp; death of our dear <persName>Lord</persName> &amp; <persName>Saviour</persName>, &amp; also his [connection] <note type="catchword"
+                     >with</note>
+               </p>
             </div>
-            
             <div type="page" n="2">
-            <head type="page">2</head>
-            <pb n="2" facs="url"/>
-               <p>with his disciples &amp; some of the []
-                  time which the latter had to endure for his sake. On such occasions I used to sit on <persName ana="Martha Ruda">her</persName> lap, &amp; sometimes asked what reward the disciples had for this faithful-ness to our <persName>Saviour</persName>, to which <persName ana="Martha Ruda">she</persName> replied: "They are richly rewarded for they are now exceeding happy with <persName>Him</persName> in his <placeName>heavenly kingdom</placeName>, singing his praises, &amp; adoring him for ever." I said with <name type="emotion">tear</name>, <quote>O my dear <persName ana="Martha Ruda">Mamma</persName>, I wish that I had lived at the time our <persName>Saviour</persName> was upon earth, I also would have served him &amp; suffered for his sake.</quote> My <persName ana="Martha Ruda">Mother</persName> replied weeping, "my dear child, if you had lived at that time you might perhaps have been of the number of those who cried out, crucify hiim! crucify him! " I said, O no, I never would, but I should have <name type="emotion">loved</name> him dearly. She then blessed me, &amp; prayed the <persName>Lord</persName> to keep me as his property, &amp; to preserve me throughout my future life from sin, &amp; the seductions of this evil world, until I should be with him in his <placeName>heavenly kingdom</placeName>, &amp; then added that all those who <name type="emotion">loved</name> &amp; served him here, would share in the same blessings which his disciples did. This made a deep impression on my mind, &amp; was the first time when I []
-                  <note type="catchword">but</note> </p>
+               <head type="page">2</head>
+               <pb n="2" facs="url" />
+               <p>with his disciples &amp; some of the [] time which the latter had to endure for his sake. On such occasions I used to sit on <persName ana="Martha Ruda">her</persName> lap, &amp;
+                  sometimes asked what reward the disciples had for this faithful-ness to our <persName>Saviour</persName>, to which <persName ana="Martha Ruda">she</persName> replied: "They are
+                  richly rewarded for they are now exceeding happy with <persName>Him</persName> in his <placeName>heavenly kingdom</placeName>, singing his praises, &amp; adoring him for ever." I
+                  said with <name type="emotion">tear</name>, <quote>O my dear <persName ana="Martha Ruda">Mamma</persName>, I wish that I had lived at the time our <persName>Saviour</persName> was
+                     upon earth, I also would have served him &amp; suffered for his sake.</quote> My <persName ana="Martha Ruda">Mother</persName> replied weeping, "my dear child, if you had lived at
+                  that time you might perhaps have been of the number of those who cried out, crucify hiim! crucify him! " I said, O no, I never would, but I should have <name type="emotion"
+                     >loved</name> him dearly. She then blessed me, &amp; prayed the <persName>Lord</persName> to keep me as his property, &amp; to preserve me throughout my future life from sin,
+                  &amp; the seductions of this evil world, until I should be with him in his <placeName>heavenly kingdom</placeName>, &amp; then added that all those who <name type="emotion"
+                     >loved</name> &amp; served him here, would share in the same blessings which his disciples did. This made a deep impression on my mind, &amp; was the first time when I [] <note
+                     type="catchword">but</note>
+               </p>
             </div>
-            
             <div type="page" n="3">
                <head type="page">3</head>
-               <pb n="3" facs="url"/>
-               <p>but to have felt a real &amp; <name type="emotion">tender love</name> &amp; <name type="emotion">attachment</name> in my heart to our dear <persName>Saviour</persName> &amp; in the sequel I always wished &amp; <name type="empotion">prayed</name> that I might become &amp; remain a true child of <persName>God</persName>. When I was about 4 years of age<!-- I know this should be tagged as something but idk what it should be -->, I experienced a remarkable preservation of my life. Having run out of the house [], with a spoon in my hand, I came to <placeName>Lake Witter</placeName>, which was not far distant from our house, &amp; there being a broad plank laid over the water I got to the end of it, &amp; was sitting on it playing with the spoon, admiring the drops which appeared to me like pearls. </p>
-                 <p>A woman who came to fetch water, called out to me to take care that I did not fall into the water, to whom I replied: I will not fall in, but she had scarcely returned to the house before she thought that she heard a plunge in the water, upon which she set down her pail, &amp; ran towards the lake. Perceiving me in the water, she ventured in, &amp; with difficulty caught hold of me by the hair of my head, &amp; drawing me out, she laid me across the plank, believing me to be dead. She then carried me home to my Parents, who, with the whole family were 
-                  <note type="catchword">greatly</note></p>
+               <pb n="3" facs="url" />
+               <p>but to have felt a real &amp; <name type="emotion">tender love</name> &amp; <name type="emotion">attachment</name> in my heart to our dear <persName>Saviour</persName> &amp; in the
+                  sequel I always wished &amp; <name type="empotion">prayed</name> that I might become &amp; remain a true child of <persName>God</persName>. When I was about 4 years of
+                  age<!-- I know this should be tagged as something but idk what it should be -->, I experienced a remarkable preservation of my life. Having run out of the house [], with a spoon in
+                  my hand, I came to <placeName>Lake Witter</placeName>, which was not far distant from our house, &amp; there being a broad plank laid over the water I got to the end of it, &amp; was
+                  sitting on it playing with the spoon, admiring the drops which appeared to me like pearls. </p>
+               <p>A woman who came to fetch water, called out to me to take care that I did not fall into the water, to whom I replied: I will not fall in, but she had scarcely returned to the house
+                  before she thought that she heard a plunge in the water, upon which she set down her pail, &amp; ran towards the lake. Perceiving me in the water, she ventured in, &amp; with
+                  difficulty caught hold of me by the hair of my head, &amp; drawing me out, she laid me across the plank, believing me to be dead. She then carried me home to my Parents, who, with
+                  the whole family were <note type="catchword">greatly</note></p>
             </div>
-            
             <div type="page" n="4">
                <head type="page">4</head>
-               <pb n="4" facs="url"/>
-               <p><name type="emotion">greatly alarmed</name>, &amp; exceedingly distressed, as they could perceive no signs of life in me. I was however put into a warm bed, &amp; after some time, while they were lamenting over me, I came to myself &amp; said dear Mamma don't cry for me. I am here, &amp; to the great joy of the whole family, I recovered. As I increased in years, I experienced several preservations of my life, having been in danger of losing it, both by fire &amp; water, &amp; once escaped being murdered. My Parents being desirous to give me a good education, procured a private Tutor in the house, until I went to a large school, in which I continued till my Father's happyp depar-ture, which took place in my 10th year.</p> 
-                  <p>My Mother's intention was that I should continue my studies, wishing me to be a Minister of the Gospel, which also accord-ed with my inclination. However a Relation persuaded my Mother to put me apprentice to an eminent Surgeon &amp; Apothecary in Gothenburg. Here I had a favourable opportunity to learn Pharmacy &amp; chemistry, &amp; as my master had very extensive practice, &amp; employed me to visit his patients, I gradually began to practice myself, &amp; gave considerable satisfaction to my employer.
-                  Having been awakened to a sense of
-                  <note type="catchword">my</note>
+               <pb n="4" facs="url" />
+               <p><name type="emotion">greatly alarmed</name>, &amp; exceedingly distressed, as they could perceive no signs of life in me. I was however put into a warm bed, &amp; after some time,
+                  while they were lamenting over me, I came to myself &amp; said dear Mamma don't cry for me. I am here, &amp; to the great joy of the whole family, I recovered. As I increased in
+                  years, I experienced several preservations of my life, having been in danger of losing it, both by fire &amp; water, &amp; once escaped being murdered. My Parents being desirous to
+                  give me a good education, procured a private Tutor in the house, until I went to a large school, in which I continued till my Father's happyp depar-ture, which took place in my 10th
+                  year.</p>
+               <p>My Mother's intention was that I should continue my studies, wishing me to be a Minister of the Gospel, which also accord-ed with my inclination. However a Relation persuaded my
+                  Mother to put me apprentice to an eminent Surgeon &amp; Apothecary in Gothenburg. Here I had a favourable opportunity to learn Pharmacy &amp; chemistry, &amp; as my master had very
+                  extensive practice, &amp; employed me to visit his patients, I gradually began to practice myself, &amp; gave considerable satisfaction to my employer. Having been awakened to a
+                  sense of <note type="catchword">my</note>
                </p>
-         </div>
-            
+            </div>
             <div type="page" n="5">
                <head type="page">5</head>
-               <pb n="5" facs="url"/>
-               <p>my lost condition, I was for several years much concerned for my salvation, yea I may say ever since I was a child, the Holy Ghost carried on his work in my heart, by which I was presented from many sinful things.
-                  I did frequently fall into sin, repenting &amp; sinning alternately, so that when I would do good, ever was present with me. I felt frequently a great desire to separate myself from the world, &amp; used to walk in the fields, where I could be alone, praying to our dear Saviour in which I took great delight. At such times I felt much pleasure in singing praises &amp; thank<del>sgive</del>ing God; &amp; nothing afforded me greater joy, than to thank our Saviour for the many preservations I had experienced from him, when in danger of my life. However I also, alas! often forgot myself, &amp; gave way to levity when playing with my companions. But the good spirit of God frequently reminded me to seek the <hi rend="underscore">One thing needful</hi>. I felt strong desire to be a child of God, &amp; when I was invited with my Parents to entertainments, at which was music &amp; dancing, I felt afterwards, great uneasiness, &amp; like one who is sick, not understanding properly the accusations of my conscience. When I was about 13 years of age I ahd a great desire to enjoy the Holy Com<add place="above">n</add>, for which preparing
-               </p>
+               <pb n="5" facs="url" />
+               <p>my lost condition, I was for several years much concerned for my salvation, yea I may say ever since I was a child, the Holy Ghost carried on his work in my heart, by which I was
+                  presented from many sinful things. I did frequently fall into sin, repenting &amp; sinning alternately, so that when I would do good, ever was present with me. I felt frequently a
+                  great desire to separate myself from the world, &amp; used to walk in the fields, where I could be alone, praying to our dear Saviour in which I took great delight. At such times I
+                  felt much pleasure in singing praises &amp; thank<del>sgive</del>ing God; &amp; nothing afforded me greater joy, than to thank our Saviour for the many preservations I had
+                  experienced from him, when in danger of my life. However I also, alas! often forgot myself, &amp; gave way to levity when playing with my companions. But the good spirit of God
+                  frequently reminded me to seek the <hi rend="underscore">One thing needful</hi>. I felt strong desire to be a child of God, &amp; when I was invited with my Parents to
+                  entertainments, at which was music &amp; dancing, I felt afterwards, great uneasiness, &amp; like one who is sick, not understanding properly the accusations of my conscience. When I
+                  was about 13 years of age I ahd a great desire to enjoy the Holy Com<add place="above">n</add>, for which preparing </p>
             </div>
          </div>
       </body>

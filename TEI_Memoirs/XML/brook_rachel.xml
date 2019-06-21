@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -6,9 +6,7 @@
             <title>Rachel Brook: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal
-               Investigator <orgName>Bucknell University</orgName>
-            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator
-                  <orgName>Bucknell University</orgName>
+               Investigator <orgName>Bucknell University</orgName>            
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
@@ -16,9 +14,7 @@
             </principal>
             <principal><persName>Christer Ahlberger</persName>, Principal
                Investigator, 2015-2018 <orgName>University of
-                  Gothenburg</orgName>
-            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018
-                  <orgName>University of Gothenburg</orgName>
+                  Gothenburg</orgName>            
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>

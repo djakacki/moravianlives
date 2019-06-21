@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -126,7 +123,7 @@
       <body xml:lang="en">
          <div type="memoir">
             <head type="memoir">Samuel Tippet</head>
-            <docAuthor></docAuthor>
+            <docAuthor />
             <div type="page" n="2">
                <head type="page" ana="MemLon_300045-02">2 </head>
                <p> I <persName>Sam.l Tippett</persName> have thought it might not be amiss to leave the following lines behind me I was Born in the year of our Lord in <date>1711</date> In the

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -113,7 +110,7 @@
       <body xml:lang="en">
          <div type="memoir">
             <head type="memoir">Joseph Lingard</head>
-            <docAuthor></docAuthor>
+            <docAuthor />
             <div type="page" n="1">
                <head type="page" ana="MemBeth_0130-01">1 </head>
                <p> Age <placeName>Dukenfield</placeName> the <date>29th of March</date> was a blessed Lovefeast after the <name type="event">Burying of Brother</name>

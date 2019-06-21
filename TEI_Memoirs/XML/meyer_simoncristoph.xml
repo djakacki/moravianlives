@@ -1,22 +1,17 @@
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Simon Christoph Meyer: Memoir</title>
             <funder>The Moravian Lives Project</funder>
-            <principal><persName>Katherine Mary Faull</persName>, Principal
-               Investigator <orgName>Bucknell University</orgName>
+            <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
                   <addrLine>Lewisburg, Pennsylvania</addrLine>
                </address>
                <email>faull@bucknell.edu</email>
             </principal>
-            <principal><persName>Christer Ahlberger</persName>, Principal
-               Investigator, 2015-2018 <orgName>University of
-                  Gothenburg</orgName>
+            <principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
                <address>
                   <addrLine>Gothenburg, Sweden</addrLine>
                </address>
@@ -66,25 +61,18 @@
          <publicationStmt>
             <distributor>The Moravian Lives Project</distributor>
             <availability>
-               <licence>Creative Commons Attribution-NonCommercial-ShareAlike
-                  4.0 International</licence>
+               <licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
-                  <msName type="memoir" ana="MAB/MemBeth_0291">Simon Christoph
-                     Meyer</msName>
-                  <msName
-                     facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-01.jpg"/>
-                  <msName
-                     facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-02.jpg"/>
-                  <msName
-                     facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-03.jpg"/>
-                  <msName
-                     facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-04.jpg"
-                  />
+                  <msName type="memoir" ana="MAB/MemBeth_0291">Simon Christoph Meyer</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-02.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-03.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0291a-04.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -96,180 +84,89 @@
             <head>Personalia</head>
             <div type="page" n="1">
                <head type="page" ana="MAB/MemBeth_0291a-01">1</head>
-               <p>unsers am 13. December 1786. selig entschlafenen Bruders Simon
-                  Christoph Meyer. Er schreibt selbst von sich: </p>
-               <p> Ich bin geboren 1719. den 28ten Januar zu Langensalza in
-                  Thüringen; woselbst mein Vater Bürger und Knopfmacher war, der
-                  aber in 2 Jahren nemlich anno 1721. aus der Zeit ging, und
-                  meine Mutter heyrathete anno 1723. zum andern- mal. Nach
-                  meinem ersten Abendmahl im 14ten Jahr faßte ich in Absicht auf
-                  mein künftiges Leben den ernstlichen Vorsaz, ein ordentlicher
-                  Mensch zu werden; von einer Be- kanntschaft und Connexion mit
-                  Gott aber wußte ich nichts; bis im Januar 1733., da es mir bey
-                  dem Gespräch eines erweckten Mannes mit meinem Stief-Vater so
-                  wurde, mich dem lieben Gott von ganzem Herzen zu ergeben, und
-                  Ihn mit keiner Sünde zu betrüben. Ich ging folglich in meine
-                  Kammer, und bat Gott auf meinen Knien, mir alle meine Sünden
-                  um Jesu wil- len zu vergeben, und mir seinen heiligen Geist zu
-                  schencken. Ich dachte an den Spruch: Wenn sich der Gottlose
-                  bekehrt, so soll aller seiner Uebertretung die er gethan hat,
-                  nicht mehr gedacht werden; und glaubte, was Gott ver- spricht
-                  das hält er auch. Von der Zeit </p>
+               <p>unsers am 13. December 1786. selig entschlafenen Bruders Simon Christoph Meyer. Er schreibt selbst von sich: </p>
+               <p> Ich bin geboren 1719. den 28ten Januar zu Langensalza in Thüringen; woselbst mein Vater Bürger und Knopfmacher war, der aber in 2 Jahren nemlich anno 1721. aus der Zeit ging, und
+                  meine Mutter heyrathete anno 1723. zum andern- mal. Nach meinem ersten Abendmahl im 14ten Jahr faßte ich in Absicht auf mein künftiges Leben den ernstlichen Vorsaz, ein ordentlicher
+                  Mensch zu werden; von einer Be- kanntschaft und Connexion mit Gott aber wußte ich nichts; bis im Januar 1733., da es mir bey dem Gespräch eines erweckten Mannes mit meinem
+                  Stief-Vater so wurde, mich dem lieben Gott von ganzem Herzen zu ergeben, und Ihn mit keiner Sünde zu betrüben. Ich ging folglich in meine Kammer, und bat Gott auf meinen Knien, mir
+                  alle meine Sünden um Jesu wil- len zu vergeben, und mir seinen heiligen Geist zu schencken. Ich dachte an den Spruch: Wenn sich der Gottlose bekehrt, so soll aller seiner
+                  Uebertretung die er gethan hat, nicht mehr gedacht werden; und glaubte, was Gott ver- spricht das hält er auch. Von der Zeit </p>
             </div>
-
             <div type="page" n="2">
                <head type="page" ana="MAB/MemBeth_0291a-02">2</head>
-               <p> an stand ich unter einer beßeden Leitung des heiligen
-                  Geistes, und habe oftmals bitterlich geweint, wenn ich dachte,
-                  Gott mit etwas betrübt und beleidigt zu haben. Noch in
-                  demselben Jahr hatte ich in meinem Herzen die er- ste lebhafte
-                  Empfindung von der Liebe des Heilands, da ich bey meiner
-                  Arbeit den Vers sang: Du Frie- defürst Herr Jesu Christ,
-                  wahr'r Mensch und wahrer Gott! ein starcker Nothhelfer du bist
-                  im Leben und im Tod p., über welcher Beschreibung des lieben
-                  Heilands mir unaussprechlich wohl und mein Herz mit inniger
-                  Freude erfüllt wurde. In dieser Zeit sehnte ich mich ofte gar
-                  sehr, nur <hi rend="underline">eine</hi> Seele zu kennen, die
-                  gleiches Sinnes mit mir wäre. Endlich fügte sichs am 25<hi
-                     rend="superscript">ten</hi> April 1734, als dem ersten
-                  Osterfeyertag, daß ich mit den erweckten Leuten in Langensalza
-                  bekannt wurde, welcher Tag einer der frohesten in meinem Leben
-                  war. Da ich in der Folge aller- ley Beschreibungen zu hören
-                  und zu lesen bekam, wie es bey der Begnadigung einer Seele
-                  zuginge; so wurde ich sehr bedencklich über mich, weil ich es
-                  so noch nicht erfahren hatte, und hielt mich für einen
-                  verlornen Menschen; ging aber Tag und Nacht in der Sehnsucht
-                  hin, eine Versicherung von der Kindschaft Gottes in mein Herz
-                  zu kriegen. Endlich, da ich einmal vor dem lieben Heiland auf
-                  meinen Knien in grosser Verlegenheit lag, offenbarte Er sich
-                  meinem Herzen, daß Er für mich genug gethan habe, und nur von
-                  mir verlange, daß ich es glauben möchte. Ich sagte denn in
-                  meinem <pb/>///<lb/> Herzen: ich will es glauben, mein lieber
-                  Heiland! daß du für mich genug gethan hast. Sogleich
-                  verschwand mein ganzer Kummer und die ewige Unruhe, und ich
-                  stund getröstet auf. Dis geschah anno 1737.</p>
-               <p> (In einem Liede hat er sich über diese Gnaden- Stunde und
-                  deren selige Folgen in seinem künftigen Gange folgendermassen
-                  geäußert. Ich hab mir einen Freund erkohren, der mich geliebt,
-                  eh ich geboren, und auf die Freundschaft schon gedacht die
-                  zwischen uns zu stand gebracht. Ich kan mich noch in meinem
-                  Innern der selgen Gnaden-Stund erinnern, da mit verborgner
-                  Liebes Hand Er mein Herz hat zu sich gewandt. Als Noth und
-                  Jammer auf mich drangen, und ich der Noth gern wär entgangen,
-                  hat Er sich meiner Seel genannt, und machte mir zum Trost
-                  bekannt: Er sey es, der mir helfen solte, wenn ichs nur
-                  kindlich glauben wolte, daß Er für mich genug gethan; ich
-                  glaubts; da ging die Freundschaft an. Nun kenn ich Ihn seit
-                  manchen Jahren, und hab es anders nie erfahren, als daß Ers
-                  mit mir treu gemeint, ach ja! ein solcher ist mein Freund. Ihm
-                  sag ich alles, was mir fehlet, Ihm klag ich, was mich drückt
-                  und quälet; kaum daß ich mit Ihm red' davon, vergibt er oder
-                  hilft mir schon.) </p>
+               <p> an stand ich unter einer beßeden Leitung des heiligen Geistes, und habe oftmals bitterlich geweint, wenn ich dachte, Gott mit etwas betrübt und beleidigt zu haben. Noch in demselben
+                  Jahr hatte ich in meinem Herzen die er- ste lebhafte Empfindung von der Liebe des Heilands, da ich bey meiner Arbeit den Vers sang: Du Frie- defürst Herr Jesu Christ, wahr'r Mensch
+                  und wahrer Gott! ein starcker Nothhelfer du bist im Leben und im Tod p., über welcher Beschreibung des lieben Heilands mir unaussprechlich wohl und mein Herz mit inniger Freude
+                  erfüllt wurde. In dieser Zeit sehnte ich mich ofte gar sehr, nur <hi rend="underline">eine</hi> Seele zu kennen, die gleiches Sinnes mit mir wäre. Endlich fügte sichs am 25<hi
+                     rend="superscript">ten</hi> April 1734, als dem ersten Osterfeyertag, daß ich mit den erweckten Leuten in Langensalza bekannt wurde, welcher Tag einer der frohesten in meinem
+                  Leben war. Da ich in der Folge aller- ley Beschreibungen zu hören und zu lesen bekam, wie es bey der Begnadigung einer Seele zuginge; so wurde ich sehr bedencklich über mich, weil
+                  ich es so noch nicht erfahren hatte, und hielt mich für einen verlornen Menschen; ging aber Tag und Nacht in der Sehnsucht hin, eine Versicherung von der Kindschaft Gottes in mein
+                  Herz zu kriegen. Endlich, da ich einmal vor dem lieben Heiland auf meinen Knien in grosser Verlegenheit lag, offenbarte Er sich meinem Herzen, daß Er für mich genug gethan habe, und
+                  nur von mir verlange, daß ich es glauben möchte. Ich sagte denn in meinem <pb />///<lb /> Herzen: ich will es glauben, mein lieber Heiland! daß du für mich genug gethan hast.
+                  Sogleich verschwand mein ganzer Kummer und die ewige Unruhe, und ich stund getröstet auf. Dis geschah anno 1737.</p>
+               <p> (In einem Liede hat er sich über diese Gnaden- Stunde und deren selige Folgen in seinem künftigen Gange folgendermassen geäußert. Ich hab mir einen Freund erkohren, der mich
+                  geliebt, eh ich geboren, und auf die Freundschaft schon gedacht die zwischen uns zu stand gebracht. Ich kan mich noch in meinem Innern der selgen Gnaden-Stund erinnern, da mit
+                  verborgner Liebes Hand Er mein Herz hat zu sich gewandt. Als Noth und Jammer auf mich drangen, und ich der Noth gern wär entgangen, hat Er sich meiner Seel genannt, und machte mir
+                  zum Trost bekannt: Er sey es, der mir helfen solte, wenn ichs nur kindlich glauben wolte, daß Er für mich genug gethan; ich glaubts; da ging die Freundschaft an. Nun kenn ich Ihn
+                  seit manchen Jahren, und hab es anders nie erfahren, als daß Ers mit mir treu gemeint, ach ja! ein solcher ist mein Freund. Ihm sag ich alles, was mir fehlet, Ihm klag ich, was mich
+                  drückt und quälet; kaum daß ich mit Ihm red' davon, vergibt er oder hilft mir schon.) </p>
             </div>
-
             <div type="page" n="3">
                <head type="page" ana="MAB/MemBeth_0291a-03">3</head>
-               <p> Noch in demselben Jahr zu Weyhnachten besuchte uns unser
-                  lieber Bruder Johannes von Jena aus; da wir uns unter dem
-                  Vers: Wir fassen uns im Geiste an p. lieblich mit einander auf
-                  Jesu Tod und Blut verbunden. Anno 1738 kam ich nähere Bekannt-
-                  schaft mit den Brüdern in Jena, reiste anno 1742 zum Besuch
-                  nach Herrnhaag, wurde den 31. Merz in die Gemeine aufgenommen,
-                  war beym nächsten Abendmahl am 14ten April ein Mitgenoße, und
-                  bekam zugleich Erlaubniß zum Bleiben. Bald darauf kam ich in
-                  die Kinder-Anstalt zu Marienborn und wurde von da anno 1743 im
-                  April nach Gotha geschickt, um theils dem Bruder Lükkart in
-                  der Profession zu helfen, theils mich der ledigen Mannsleute
-                  im Thüringischen anzunehmen. Da ich in dieser Zeit mich
-                  besonders in meiner Natur-Verbundenheit und Sündigkeit zu
-                  sehen krigte, und mich dieses ofte sehr verlegen machte, so
-                  führte mich der Heilige Geist in meinem Herzen ganz apart
-                  darauf, meine Zuflucht im Glauben zu den blutigen Wunden Jesu
-                  zu nehmen, wodurch mein armes y zerschlagenes Herz und
-                  Gewissen geheilt und getröstet wurde, und dieses selige Mittel
-                  habe ich in der künftigen Zeit immer bewährt gefunden. anno
-                  1744. machte ich einen Besuch in Herrnhaag, und blieb auf mein
-                  Begehren da, bis anno 1745 da ich in die Kinder Anstalt nach
-                  Lindheim, und dann anno 1747 nach Marienborn kam. anno 1748.
-                     <del>kam ich</del> wurde ich nach Gnadenfrey <pb/>///<lb/>
-                  geschickt woselbst ich die Knopfmacherey im ledigen Bruder
-                  Hause 23 Jahre als Meister besorgte. (Aus verschiedenen in
-                  dieser Zeit von ihm gemachten Liedern ist seine sünderhafte
-                  Herzens-Stellung gegen den lieben Heiland deutlich abzunehmen.
-                  Unter andern heist es: 
-                  <lg>                     
-                  <l>Treuer Heiland, treuer Fürste,</l> 
-                  <l>ach du weist, wornach ich dürste </l>
-                  <l>was mein armes Herz begehrt, </l>
-                  <l>den Genuß der blutgen Wunden </l>
-                  <l>ungestört, zu allen Stunden. </l>
-                  <l>Ach wann wird mir dies gewährt? </l>
-                  <l>An dir liegt die Schuld wol nimmer,</l>
-                  <l>dein treu Herz das gibet immer, </l>
-                  <l>dem der sich nach dir ausstreckt. </l>
-                  <l>Aber Sinnen und Gedancken </l>
-                  <l>ach! die sind so voller Wancken, </l>
-                  <l>das ists, wo der Fehler steckt. </l>
-                  <l>Ja es liegt an meiner Seiten </l>
-                  <l>meiner Füß' oftmaligs Gleiten: </l>
-                  <l>ich bekenn dir meine Schuld. </l>
-                  <l>Aber solches abzuwenden </l>
-                  <l>das steht nicht in meinen Händen </l>
-                  <l>ach verleyh mir deine Huld. </l>
-                  <l>Laß es meiner Seel gelingen, </l>
-                  <l>gib dem Wollen das Vollbringen, </l>
-                  <l>es ist ja dein Gnaden-Werck, </l>
-                  <l>das du in mir angefangen. </l>
-                  <l>Jesu höre mein Verlangen </l>
-                  <l>zieh mich an mit Kraft und Stärck.)</l>
+               <p> Noch in demselben Jahr zu Weyhnachten besuchte uns unser lieber Bruder Johannes von Jena aus; da wir uns unter dem Vers: Wir fassen uns im Geiste an p. lieblich mit einander auf
+                  Jesu Tod und Blut verbunden. Anno 1738 kam ich nähere Bekannt- schaft mit den Brüdern in Jena, reiste anno 1742 zum Besuch nach Herrnhaag, wurde den 31. Merz in die Gemeine
+                  aufgenommen, war beym nächsten Abendmahl am 14ten April ein Mitgenoße, und bekam zugleich Erlaubniß zum Bleiben. Bald darauf kam ich in die Kinder-Anstalt zu Marienborn und wurde von
+                  da anno 1743 im April nach Gotha geschickt, um theils dem Bruder Lükkart in der Profession zu helfen, theils mich der ledigen Mannsleute im Thüringischen anzunehmen. Da ich in dieser
+                  Zeit mich besonders in meiner Natur-Verbundenheit und Sündigkeit zu sehen krigte, und mich dieses ofte sehr verlegen machte, so führte mich der Heilige Geist in meinem Herzen ganz
+                  apart darauf, meine Zuflucht im Glauben zu den blutigen Wunden Jesu zu nehmen, wodurch mein armes y zerschlagenes Herz und Gewissen geheilt und getröstet wurde, und dieses selige
+                  Mittel habe ich in der künftigen Zeit immer bewährt gefunden. anno 1744. machte ich einen Besuch in Herrnhaag, und blieb auf mein Begehren da, bis anno 1745 da ich in die Kinder
+                  Anstalt nach Lindheim, und dann anno 1747 nach Marienborn kam. anno 1748. <del>kam ich</del> wurde ich nach Gnadenfrey <pb />///<lb /> geschickt woselbst ich die Knopfmacherey im
+                  ledigen Bruder Hause 23 Jahre als Meister besorgte. (Aus verschiedenen in dieser Zeit von ihm gemachten Liedern ist seine sünderhafte Herzens-Stellung gegen den lieben Heiland
+                  deutlich abzunehmen. Unter andern heist es: <lg>
+                     <l>Treuer Heiland, treuer Fürste,</l>
+                     <l>ach du weist, wornach ich dürste </l>
+                     <l>was mein armes Herz begehrt, </l>
+                     <l>den Genuß der blutgen Wunden </l>
+                     <l>ungestört, zu allen Stunden. </l>
+                     <l>Ach wann wird mir dies gewährt? </l>
+                     <l>An dir liegt die Schuld wol nimmer,</l>
+                     <l>dein treu Herz das gibet immer, </l>
+                     <l>dem der sich nach dir ausstreckt. </l>
+                     <l>Aber Sinnen und Gedancken </l>
+                     <l>ach! die sind so voller Wancken, </l>
+                     <l>das ists, wo der Fehler steckt. </l>
+                     <l>Ja es liegt an meiner Seiten </l>
+                     <l>meiner Füß' oftmaligs Gleiten: </l>
+                     <l>ich bekenn dir meine Schuld. </l>
+                     <l>Aber solches abzuwenden </l>
+                     <l>das steht nicht in meinen Händen </l>
+                     <l>ach verleyh mir deine Huld. </l>
+                     <l>Laß es meiner Seel gelingen, </l>
+                     <l>gib dem Wollen das Vollbringen, </l>
+                     <l>es ist ja dein Gnaden-Werck, </l>
+                     <l>das du in mir angefangen. </l>
+                     <l>Jesu höre mein Verlangen </l>
+                     <l>zieh mich an mit Kraft und Stärck.)</l>
                   </lg>
                </p>
             </div>
-
             <div type="page" n="4">
                <head type="page" ana="MAB/MemBeth_0291a-04">4</head>
-               <p> Im December 1771. wurde ich nach Pablowizky, jezt Gnaden-
-                  feld geschickt, um dem Bruder Stöhr an die Hand zu gehn, und
-                  mich dabey der ledigen Brüder mit anzunehmen.</p>
-               <p>1773. erhielt
-                  ich einen Ruf nach Amerika, wurde den 14<hi rend="superscript"
-                     >ten</hi> Juni in Barby zum Diacono ordinirt, und kam den
-                  24. September nebst noch 5 Brüdern in Bethlehem an. Im October
-                  kam ich nach Christiansbrunn als Bruder David Zeis- bergers
-                  Gehülfe beym Helfer-Amt des ledigen Brüder Chores; und da das
-                  in dem neuen Gemein-Ort Nazareth erbaute ledige Brüder
-                  Chorhaus fertig war, bezog ich daselbe <del>mit</del> den 18.
-                  May. 1774 mit 20 Brüdern und Knaben als Chorhelfer derselben.</p>
+               <p> Im December 1771. wurde ich nach Pablowizky, jezt Gnaden- feld geschickt, um dem Bruder Stöhr an die Hand zu gehn, und mich dabey der ledigen Brüder mit anzunehmen.</p>
+               <p>1773. erhielt ich einen Ruf nach Amerika, wurde den 14<hi rend="superscript">ten</hi> Juni in Barby zum Diacono ordinirt, und kam den 24. September nebst noch 5 Brüdern in Bethlehem
+                  an. Im October kam ich nach Christiansbrunn als Bruder David Zeis- bergers Gehülfe beym Helfer-Amt des ledigen Brüder Chores; und da das in dem neuen Gemein-Ort Nazareth erbaute
+                  ledige Brüder Chorhaus fertig war, bezog ich daselbe <del>mit</del> den 18. May. 1774 mit 20 Brüdern und Knaben als Chorhelfer derselben.</p>
                <p>So weit der selige Bruder.</p>
-               <p> Er hat dem ledigen Brüder Chor in Nazareth <del>diese</del>
-                  über 12 Jahre mit Treue und inniger Herzens-Angelegenheit für
-                  das Wohl desselben nach seinem besten Erkenntniß und Vermögen
-                  gedient; sich auch verschiedene Jahre den Schul-Unterricht der
-                  Orts-Knäbgen angelegen seyn lassen. Vor 2 Jahren hatte er das
-                  Unglück durch einen Fall im Finstern sein Bein zu brechen,
-                  woran er viel Schmerzen auszustehen hatte, und dadurch seine
-                  ohnehin schwächliche Constitution sehr litte, seine Kräfte
-                  nahmen mehr und mehr ab, so daß es vor nöthig gefunden wurde,
-                  auf seine Ablösung zu dencken. Diese erfolgte zu Anfang des
-                  vorigen Monats, und es wurde ihm sein Ruhe-Pläzgen im hiesigen
-                  Chorhause angewiesen. Hier war er die <del>kurze</del> Zeit
-                  her besonders vergnügt, und heiter, <pb/>///<lb/> 
-                  und sein
-                  Herz stand im kindlichen Umgang mit dem Heiland, und sein
-                  Betragen war demüthig und liebhabend. Vor ein paar Tagen
-                  äußerte er, daß er öfters eine grosse Schwäche fühle; aber
-                  weder er noch wir vermutheten sein so baldiges Ende. Am 13<hi
-                     rend="superscript">ten</hi> ging er nach seiner Art wohl zu
-                  Bette, stand aber bald wieder auf, und klagte, daß ihm nicht
-                  wohl sey. Es stellte sich balde ein stockender Husten und
-                  Röcheln auf der Brust ein, doch konte er noch über ein und
-                  anders Abrede nehmen; allein in wenigen Minuten zeigten sich
-                  die Merckmaale zu seinem Verscheiden, und nach dem Gesang
-                  eines Verses und dem ihm ertheilten Segen ging seine Seele
-                  sanfte und unvermerckt in ihre ewige Ruhe ein, im 68<hi
-                     rend="superscript">ten</hi> Jahre seines Alters! </p>
+               <p> Er hat dem ledigen Brüder Chor in Nazareth <del>diese</del> über 12 Jahre mit Treue und inniger Herzens-Angelegenheit für das Wohl desselben nach seinem besten Erkenntniß und
+                  Vermögen gedient; sich auch verschiedene Jahre den Schul-Unterricht der Orts-Knäbgen angelegen seyn lassen. Vor 2 Jahren hatte er das Unglück durch einen Fall im Finstern sein Bein
+                  zu brechen, woran er viel Schmerzen auszustehen hatte, und dadurch seine ohnehin schwächliche Constitution sehr litte, seine Kräfte nahmen mehr und mehr ab, so daß es vor nöthig
+                  gefunden wurde, auf seine Ablösung zu dencken. Diese erfolgte zu Anfang des vorigen Monats, und es wurde ihm sein Ruhe-Pläzgen im hiesigen Chorhause angewiesen. Hier war er die
+                     <del>kurze</del> Zeit her besonders vergnügt, und heiter, <pb />///<lb /> und sein Herz stand im kindlichen Umgang mit dem Heiland, und sein Betragen war demüthig und liebhabend.
+                  Vor ein paar Tagen äußerte er, daß er öfters eine grosse Schwäche fühle; aber weder er noch wir vermutheten sein so baldiges Ende. Am 13<hi rend="superscript">ten</hi> ging er nach
+                  seiner Art wohl zu Bette, stand aber bald wieder auf, und klagte, daß ihm nicht wohl sey. Es stellte sich balde ein stockender Husten und Röcheln auf der Brust ein, doch konte er
+                  noch über ein und anders Abrede nehmen; allein in wenigen Minuten zeigten sich die Merckmaale zu seinem Verscheiden, und nach dem Gesang eines Verses und dem ihm ertheilten Segen
+                  ging seine Seele sanfte und unvermerckt in ihre ewige Ruhe ein, im 68<hi rend="superscript">ten</hi> Jahre seines Alters! </p>
             </div>
-
          </div>
       </body>
    </text>
