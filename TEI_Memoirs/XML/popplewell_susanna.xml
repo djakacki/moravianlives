@@ -80,6 +80,9 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <revisionDesc>
+         <change when="2019-06-19" who="#jschaumberger">Started and finished markup</change>
+      </revisionDesc>
    </teiHeader>
    <text type="memoir">
       <body xml:lang="en">
@@ -88,39 +91,39 @@
             <div type="page" n="1">
               <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_11PopplewellSusanna-01.jpg"/>
-               <p>Susan Popplewell was Born in Yorkeshire 
-                  in ye Parish of harckeh in ye year 1735 ye 16th 
-                  of May when she was about 3 years of age she 
-                  begun to go to to hear <del>the</del>. Br Ockershausen 
+               <p><persName ref="#mlper000263">Susan Popplewell</persName> was Born in <placeName ref="#mlpla000084">Yorkeshire</placeName> 
+                  in ye <placeName>Parish of harckeh</placeName> in ye year <date when-iso="1735-05-16">1735 ye 16th 
+                  of May</date> when she was about <date when-iso="1738" cert="medium">3 years of age</date> she 
+                  begun to go to to hear <del>the</del>. <persName>Br Ockershausen</persName> 
                   and was one of ye first children that was taken 
                   under ye Brs care and when ye schoole was begun 
                   She was one that came to it, and was a prilly 
                   child, and remind so till she became a great 
                   <del>Con </del>girl and then she Expressd her hearts att<hi rend="superscript">a</hi>chment 
-                  to our Saviour and to become intierly his, and indeed 
-                  She was a joy to Br and Sr Helt Who had ye 
-                  Care of ye Children and whom she lov&#39;d very 
+                  to our <persName type="diety">Saviour</persName> and to become intierly his, and indeed 
+                  She was a joy to Br and Sr Helt Who had ye  <!-- Are these people? -->
+                  Care of ye Children and whom she <name type="emotion">lov&#39;d</name> very 
                   tenderly and she desired many times to be recived 
                   into ye congregation, and Espress<del>d</del> her heart 
                   and mind meny times to ye srs which had 
-                  ye care of her, in ye year 51 at ye conclusion 
-                  of ye ould year in Grace hall she got her 
-                  her desire granted to be recived unto ye 
-                  Congregation of which she was very glad 
-                  May ye 4th 1753 she was Recived into ye Single  
-                  Sisters Choir, by our dear Sr Annajoanna with 
+                  ye care of her, in ye <date when-iso="1751">year 51</date> at ye conclusion 
+                  of ye ould year in <placeName>Grace hall</placeName> she got her 
+                  her desire granted to be <name type="event" subtype="reception">recived unto ye 
+                  Congregation</name> of which she was very glad 
+                  <date when-iso="1753-05-04">May ye 4th 1753</date> she was <name type="event" subtype="reception">Recived</name> into ye <orgName en="single sisters choir">Single  
+                  Sisters Choir</orgName>, by our dear <persName>Sr Annajoanna</persName> with 
                   gathers she remaind with her Parents till ye 
-                  year 55 then it was made out that there shoud 
-                  be a S Sisters house ^<hi rend="superscript">at </hi>Gumme<hi rend="superscript">r</hi>sall she desired 
-                  thaht she might have ye saviour to Come there  
+                  <date when-iso="1755">year 55</date> then it was made out that there shoud 
+                  be a S <placeName>Sisters house</placeName> ^<hi rend="superscript">at </hi><placeName ref="#mlpla000041">Gumme<hi rend="superscript">r</hi>sall</placeName> she desired 
+                  thaht she might have ye <persName type="diety">saviour</persName> to Come there  
                   and she was one of ye first that came into ye 
                   house and was very much beloved by all her Sr and 
                   one coud see by all her Actions and behaviour 
                   that her heart was near to ye man of smart 
                   she long&#39;d very much to be apertaken of ye 
-                  Holy Sacrament for which she was confirmd 
-                  on ye 3<hi rend="superscript">th</hi> of Aug- by Sr Mary, 
-                  Sep- she partook of ye holy sacrament for
+                  <name type="event" subtype="sacrament">Holy Sacrament</name> for which she was confirmd 
+                  on ye <date when-iso="1755-08-03">3<hi rend="superscript">th</hi> of Aug-</date> by Sr Mary, 
+                  <date when-iso="1755-09">Sep</date>- she partook of ye holy sacrament for
                </p>
             </div>
             
@@ -130,26 +133,26 @@
                <p>ye first  
                   of her deart Bridgroom in same year  
                   little before Christmas she was taken with  
-                  a pain in her side, but did not comeplain 
+                  a <name type="health">pain in her side</name>, but did not comeplain 
                   much of it: but yet one Could plainly see 
                   that it siezd on her body very much in a 
                   little wile she become something better 
                   But about two months ago her disorder 
-                  reurned again of ye 11th of July she partook 
-                  of our dear Savr flesh and blood for ye 
+                  reurned again of ye <date when-iso="-1756-07-11">11th of July</date> she partook 
+                  of our dear <persName type="diety">Savr</persName> flesh and blood for ye 
                   Last time with ye Congregation in ye 
                   Chapter and when she came home, she said 
                   Those been my last time, she soon 
-                  after took to her bed, her pains incresed 
-                  Every Day, and she got a swelling in her 
-                  Body and leges and one Could plainly see 
+                  after took to her bed, her <name type="health">pains incresed </name>
+                  Every Day, and she got a s<name type="health">welling in her 
+                  Body and leges </name>and one Could plainly see 
                   that she would soon go to her beloved 
                   for nothing that she took from ye Docter 
                   took much affect, in all her sickness she 
                   was very patient and her choice was all was 
                   much more to go to her spouse then to 
-                  Recover on ye first of August she grew still 
-                  worse and Sr Sophia being come She spoke to 
+                  Recover on ye <date when-iso="1756-08-01">first of August</date> <name type="health">she grew still 
+                  worse</name> and <persName>Sr Sophia</persName> being come She spoke to 
                   her about going home, and Said that she 
                   knew everything was made up with our dear 
                   Lamb, and she should be glad to go him, so she 
@@ -159,22 +162,22 @@
                   wiches to go and that she would not forget 
                    
                   one of them, when she came to be with our  
-                  Saviour for she could not forget Gummersal 
-                  Oconemy and what she there enjoyd, has she 
+                  <persName type="diety">Saviour</persName> for she could not forget <placeName ref="#mlpla000041">Gummersal</placeName> 
+                  <orgName>Oconemy</orgName> and what she there enjoyd, has she 
                   Rained with Patients and watched for our dear 
-                  Saviour her Eternal Bridegroom to come 
+                  <persName type="diety">Saviour</persName> her Eternal Bridegroom to come 
                   And fetch, so that it was a pleasuer to  
                   see her, She now began to alter and grew very  
                   Weak She was now and then a little light 
                   Headed, but spoke very forcfly and lung 
                   that whole verse when I shall get  
                   permishion to leve this mortal tent 
-                  and on ye 12 about twelve a Clock at Noon 
+                  and on ye 12 about twelve a Clock at Noon <!-- Do I need to capturee times like this? -->
                   she said now I am a going pray call them 
-                  Our Dear Sr Sophia then Came to her 
+                  Our Dear <persName>Sr Sophia</persName> then Came to her 
                   and begun to Sing meny lafable Verses then 
                   She said dear Lamb I am a Comeing 
-                  then Sister Sophia Blesd her under those  
+                  then <persName>Sister Sophia Blesd</persName> her under those  
                   Words pail lipes kiss her on ye heart 
                   Open Armes take her under which  
                   words. this happy Virgin went over 

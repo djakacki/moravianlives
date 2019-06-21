@@ -82,6 +82,7 @@
       </fileDesc>
       <revisionDesc>
          <change when="2019-06-18" who="#jschaumberger">Started markup.</change>
+         <change when="2019-06-19" who="#jschaumberger">Worked on markup.</change>
       </revisionDesc>
    </teiHeader>
    <text type="memoir">
@@ -91,7 +92,7 @@
             <div type="page" n="1">
               <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_28HaleyLydia-01.jpg"></pb>
-               <p><persName ref="#mlper000247">Lydia Halley</persName> was Born at <placeName>Spen near little 
+               <p><persName ref="#mlper000247">Lydia Haley</persName> was Born at <placeName>Spen near little 
                   gimersal</placeName>, ye <date type="birth" when-iso="1724-04-16">16th of April 1724</date> where She lived with 
                   her Parents. till she thought it woud be proper to 
                   leave them and go to Service in some family, for that 
@@ -108,21 +109,21 @@
                   intangelments. She coud not come to ye Right Enjoyment 
                   of what she was convitced she wanted this render &amp; her 
                   her Course of Leading heavy and troublesom 
-                  When ye S<hi rend="superscript">rs</hi> lived in ye Oconemy at Clecketor, she 
+                  When ye S<hi rend="superscript">rs</hi> lived in ye Oconemy at <placeName>Clecketor</placeName>, she 
                   Visited them sometimes, and other told them she cou'd 
                   Like very well to live with them, after some time  
-                  ye S<hi rend="superscript">r</hi> Removed from Clecketon to Tyrsal Hall, where she 
-                  also on ye 14th of july 51 had ye favour to be one of 
+                  ye S<hi rend="superscript">r</hi> Removed from <placeName>Clecketon</placeName> to <placeName>Tyrsal Hall</placeName>, where she 
+                  also on ye <date when-iso="1751-07-14">14th of july 51</date> had ye favour to be one of 
                   their family, this ples'd her very much, soon after she 
-                  began to grow Sickley, and continued some time in 
-                  a lingering way, when ye Chappel in gummesall was 
+                  <name type="health">began to grow Sickley</name>, and continued some time in 
+                  a lingering way, when ye Chappel in <placeName>gummesall</placeName> was 
                   Concecrated, She went there, and being not well and ye 
-                  Weather West, She got a Voilent Cold, which threw 
+                  Weather West, She got a <name type="health" subtype="illness">Voilent Cold</name>, which threw 
                   her into a fiver, but she recoverd and grew better 
                   in ye mean time She got a desier, and longing to become 
-                  a Member of ye Congregation which was granted to 
-                  her, ye year following on ye Sr of May for which she was 
-                  Very thankfull to our Savior, &amp; lookd upon it as a  
+                  a Member of ye <orgName>Congregation</orgName> which was granted to 
+                  her, ye year following on ye <date when-iso="1752-05-03">Sr of May</date> for which she was <!-- I think this is the 3rd of May -->
+                  Very thankfull to our <persName type="diety">Savior</persName>, &amp; lookd upon it as a  
                   real Grace and favour bestowd upon her
                </p>
             </div>
@@ -136,20 +137,20 @@
                   oconomy, by which means she lost that right enjoy- 
                   ment and fellowship, which she might have injoyed, 
                   had she been more free &amp; Open hearted, however 
-                  our dear Saviour had a faithfull Eye over her, and  
+                  our dear <persName type="diety">Saviour</persName> had a faithfull Eye over her, and  
                   often came near her heart to see when he coud reach 
                   his time with her in make-ing her intier 
                   so<span style="font-size: 10.8333px;"> <hi rend="superscript">he</hi></span>  led her from step to step, just as a tender Nurse 
                   cares for her Child 
-                  On ye 13th of August 175 &amp; She became a Candidate 
-                  for ye Sacrament, When ye S<hi rend="superscript">r</hi> Removed into ye 
-                  Choir hous She came along with them. and has ever 
-                  since been very sickley, so that it has often been thought  
+                  On ye <date when-iso="1751-08-13">13th of August 175</date> &amp; She became a Candidate <!-- I believe this is 1751 -->
+                  for ye <name type="event" subtype="sacrament">Sacrament</name>, When ye S<hi rend="superscript">r</hi> Removed into ye 
+                  <placeName>Choir hous</placeName> She came along with them. and has ever 
+                  since been <name type="health">very sickley</name>, so that it has often been thought  
                   She woud go home, tho it was never clear to 
                   her, for she aways thought of recovering again  
-                  Decb<hi rend="superscript">er</hi> ye 17<hi rend="superscript">th</hi> 53 She was confirmed 
-                  and, on jan<hi rend="superscript">ry</hi> y 16 She for ye firsd time partkook of ye 
-                  holy Sacrament for which she had long'd very  
+                  <date when-iso="1753-12-17">Decb<hi rend="superscript">er</hi> ye 17<hi rend="superscript">th</hi> 53</date> She was confirmed 
+                  and, on <date when-iso="1754-01-16">jan<hi rend="superscript">ry</hi> y 16</date> She for ye firsd time partkook of ye 
+                  <name type="event" subtype="sacrament">holy Sacrament</name> for which she had long'd very  
                   much, it proved a lasting blessing to her, tho 
                   she never expressd much in Words, yet ye desier 
                   of her heart after his marter'd Carpess by Each 
@@ -158,7 +159,7 @@
                   with <hi rend="superscript">for</hi> ye Sacrament, She expressd her Self in Sick a perti- 
                   cular <hi rend="superscript">manner</hi> concerning her heart as she never had done before 
                   O said she I know and feel very, for why our 
-                  Saviour permits me to suffer so much in this body 
+                  <persName type="diety">Saviour</persName> permits me to suffer so much in this body 
                   it is becose he means it well with me, had I my 
                   Healt and was well, very likely I shoud have not 
                   remaind in that Conextion, with him and his Congre 
