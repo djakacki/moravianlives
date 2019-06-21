@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-12-07T15:55:37Z. .
+Schema generated from ODD source 2019-06-21T14:56:14Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -4116,7 +4116,7 @@ Suggested values include: 1] choir festival; 2] foot washing; 3] lovefeast; 4] M
          <optional>
             <attribute name="event">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] baptism; 2] birth; 3] conversion; 4] death; 5] draw lot; 6] marriage; 7] reception</a:documentation>
+Suggested values include: 1] baptism; 2] birth; 3] conversion; 4] death; 5] draw lot; 6] interrment; 7] marriage; 8] reception; 9] sacrament</a:documentation>
                <choice>
                   <value>baptism</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -4128,9 +4128,13 @@ Suggested values include: 1] baptism; 2] birth; 3] conversion; 4] death; 5] draw
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>draw lot</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>interrment</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>marriage</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>reception</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>sacrament</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
