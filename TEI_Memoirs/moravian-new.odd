@@ -112,6 +112,7 @@
                                 <valList mode="add" type="semi">
                                     <valItem ident="marriage"/>
                                     <valItem ident="sacrament"/>
+                                    <valItem ident="conversion"/>
                                 </valList>
                             </attDef>
                         </attList>
