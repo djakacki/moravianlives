@@ -95,7 +95,7 @@
             we have customized the name element to include them as attributes in English and German.
             the specifications are documented in English and German with @sameAs for the other language. If we find that additional languages are needed in the Moravian Lives tagging protocols, we will add them. 
             ~Diane Jakacki, 11/06/2018 -->
-          
+
           <!-- div  - can't remember why I did this ....-->
           <elementSpec ident="div" mode="change" module="textstructure"> </elementSpec>
 
@@ -119,44 +119,10 @@
               <attDef ident="zeremonie" mode="change" sameAs="ceremony"/>
             </attList>
           </classSpec>
-          
-          <!-- CUSTOMIZATION: added name:@event / English. Wherever possible adding @sameAs to track parallels -->
-          <elementSpec ident="name" mode="change" module="core">
-            <attList>
-              <attDef ident="event" mode="change">
-                <valList mode="add" type="semi">
-                  <valItem ident="baptism" sameAs="taufe"/>
-                  <valItem ident="birth" sameAs="geburt"/>
-                  <valItem ident="conversion" sameAs="bekehrung"/>
-                  <valItem ident="death" sameAs="tod"/>
-                  <valItem ident="draw lot" sameAs="losen"/>
-                  <valItem ident="interrment"/><!-- some day we should add German -->
-                  <valItem ident="marriage" sameAs="hochzeit"/>
-                  <valItem ident="reception" sameAs="aufnahme"/>
-                  <valItem ident="sacrament"/><!-- some day we should add German -->
 
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-          <!-- CUSTOMIZATION: added name:@ereignis / German. Wherever possible adding @sameAs to track parallels -->
-          <elementSpec ident="name" mode="change" module="core">
-            <attList>
-              <attDef ident="ereignis" mode="change">
-                <valList mode="add" type="semi">
-                  <valItem ident="aufnahme" sameAs="reception"/>
-                  <valItem ident="bekehrung" sameAs="conversion"/>
-                  <valItem ident="geburt" sameAs="birth"/>
-                  <valItem ident="hochzeit" sameAs="marriage"/>
-                  <valItem ident="losen" sameAs="draw lot"/>
-                  <valItem ident="taufe" sameAs="baptism"/>
-                  <valItem ident="tod" sameAs="death"/>
-                  <!-- Add @sameAs for English - interrment, sacrament -->
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-          
+<!--          this is where the event list goes-->
+
+
           <!-- CUSTOMIZATION: added name:@relation / English -->
           <elementSpec ident="name" mode="change" module="core">
             <attList>
@@ -213,7 +179,7 @@
               </attDef>
             </attList>
           </elementSpec>
-          
+
           <!-- CUSTOMIZATION: added en, de to distinguish language for roleName, orgName, addName -->
           <classSpec ident="att.naming" module="namesdates" type="atts" mode="change">
             <attList>
@@ -221,8 +187,9 @@
               <attDef ident="en" mode="change"/>
             </attList>
           </classSpec>
-          
-          <!-- CUSTOMIZATION: added addName:@en / English --> <!-- NEED TO RETHINK THIS -->
+
+          <!-- CUSTOMIZATION: added addName:@en / English -->
+          <!-- NEED TO RETHINK THIS -->
           <elementSpec ident="addName" mode="change" module="namesdates">
             <attList>
               <attDef ident="en" mode="change">
@@ -246,7 +213,7 @@
               </attDef>
             </attList>
           </elementSpec>
-          
+
           <!-- CUSTOMIZATION: added orgName:@en / English -->
           <elementSpec ident="orgName" mode="change" module="namesdates">
             <attList>

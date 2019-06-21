@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2019-06-21T14:56:14Z. .
+Schema generated from ODD source 2019-06-21T15:16:08Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -4080,8 +4080,10 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
          <ref name="att.personal.attribute.full"/>
          <ref name="att.personal.attribute.sort"/>
          <ref name="att.naming.attribute.emotion"/>
+         <ref name="att.naming.attribute.event"/>
          <ref name="att.naming.attribute.health"/>
          <ref name="att.naming.attribute.beruf"/>
+         <ref name="att.naming.attribute.ereignis"/>
          <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.de"/>
          <ref name="att.naming.attribute.en"/>
@@ -4114,33 +4116,6 @@ Suggested values include: 1] choir festival; 2] foot washing; 3] lovefeast; 4] M
             </attribute>
          </optional>
          <optional>
-            <attribute name="event">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] baptism; 2] birth; 3] conversion; 4] death; 5] draw lot; 6] interrment; 7] marriage; 8] reception; 9] sacrament</a:documentation>
-               <choice>
-                  <value>baptism</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>birth</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>conversion</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>death</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>draw lot</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>interrment</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>marriage</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>reception</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>sacrament</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <data type="Name"/>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
             <attribute name="relation">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
 Suggested values include: 1] child; 2] parent; 3] sibling; 4] spouse</a:documentation>
@@ -4152,29 +4127,6 @@ Suggested values include: 1] child; 2] parent; 3] sibling; 4] spouse</a:document
                   <value>sibling</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>spouse</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <data type="Name"/>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="ereignis">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] aufnahme; 2] bekehrung; 3] geburt; 4] hochzeit; 5] losen; 6] taufe; 7] tod</a:documentation>
-               <choice>
-                  <value>aufnahme</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>bekehrung</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>geburt</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>hochzeit</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>losen</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>taufe</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>tod</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
