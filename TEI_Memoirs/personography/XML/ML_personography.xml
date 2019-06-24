@@ -1,7 +1,6 @@
 <?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
     schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -465,6 +464,7 @@
                <event type="baptized">
                  <desc><orgName>Lutheran Church</orgName></desc>
                </event>
+               
                <event when-iso="1738" cert="medium">
                   <desc>
                      <placeName>orphan house Marienborn</placeName>
