@@ -171,6 +171,18 @@
               </attDef>
             </attList>
           </elementSpec>
+          <!-- CUSTOMIZATION: added name:@occupation / English. -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="occupation" mode="change">
+                <valList mode="add" type="open">
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          
+          
           <!-- CUSTOMIZATION: added name:@relation / English -->
           <elementSpec ident="name" mode="change" module="core">
             <attList>
