@@ -1,7 +1,6 @@
 <?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
     schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -465,6 +464,7 @@
                <event type="baptized">
                  <desc><orgName>Lutheran Church</orgName></desc>
                </event>
+               
                <event when-iso="1738" cert="medium">
                   <desc>
                      <placeName>orphan house Marienborn</placeName>
@@ -2170,12 +2170,20 @@
                      <placeName>sisters' house Fulneck</placeName>
                   </desc>
                </event>
+               <event type="sacrament" when-iso="1753-08-13">
+                  <desc></desc>
+               </event>
                <event type="sacrament" when-iso="1753-09-09">
                   <desc>
                      <placeName ref="#mlpla000084">Yorkshire</placeName>
                      <!-- on her sickbed -->
                   </desc>
                </event>
+               <residence from="1727-02-25" to="1743"><placeName>Bramell</placeName></residence>
+               <residence from="1748"><placeName>Single Sisters House</placeName> in <placeName>Duckenfield</placeName></residence>
+               <!-- In the month of <date when-iso="1750-09">September 1750</date> she with the rest of the Oconomy Removing from
+                  <placeName ref="#mlpla000035">Duckenfield</placeName> to Live in <placeName ref="#mlpla000084">Yorkshire</placeName>?????? -->
+               
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/35</bibl>
                <note>HOLT, Sarah (Sally) (1727-1753) b 25.02.1727 Bramhall Cheshire reception:

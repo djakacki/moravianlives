@@ -171,6 +171,28 @@
               </attDef>
             </attList>
           </elementSpec>
+          <!-- CUSTOMIZATION: added name:@occupation / English. -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="occupation" mode="change">
+                <valList mode="add" type="closed"> <!-- I believe we should leave this open because there are numerous different occupations. We could go through and record all of them, but I don't believe that is necessary. -->
+                <valItem ident="sewer"/>
+                  <valItem ident="blacksmith"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added event @death @cause -->
+          <elementSpec ident="death" mode="change">
+            <attList>
+              <attDef ident="cause" mode="change">
+                <valList mode="add" type="open"></valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          
+          
           <!-- CUSTOMIZATION: added name:@relation / English -->
           <elementSpec ident="name" mode="change" module="core">
             <attList>
