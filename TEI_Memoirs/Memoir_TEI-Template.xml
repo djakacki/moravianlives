@@ -1,4 +1,4 @@
-<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://moravianlives.bucknell.edu/schema/MoravianMemoirs.xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -60,12 +60,7 @@
             <respStmt>
                <persName xml:id="cpirmann">Carrie Pirmann</persName>
                <orgName>Bucknell University</orgName>
-               <resp>Social Sciences Librarian</resp>
-            </respStmt>
-            <respStmt>
-               <persName xml:id="cpaddick">Courtney Paddick</persName>
-               <orgName>Bucknell University</orgName>
-               <resp>Arts &amp; Humanities Librarian</resp>
+               <resp>Transkribus, Text Encoding Specialist</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
