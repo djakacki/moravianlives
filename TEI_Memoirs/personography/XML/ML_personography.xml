@@ -1109,18 +1109,21 @@
                <residence when-iso="1715"><placeName>Castleford</placeName></residence>
                <residence when-iso="1720"><placeName ref="#mlpla000054">London</placeName></residence>
                <residence when-iso="1730"><placeName>Castleford</placeName></residence>
-<<<<<<< HEAD
+
                <residence from="1734" to="1742-06"><placeName ref="#mlpla000054"
                   >London</placeName></residence>
                <residence from="1742-07" to="1743-10"><placeName cert="low">Lambeth?</placeName></residence> <!-- Based on the memoir we believe it is Lambeth it is not clear -->
                <residence from="1750-09-29" to="1753-02-27"><placeName ref="#mlpla000003">Fulneck
                      settlement</placeName></residence>
 
-=======
                <residence from="1734" to="1742-06"><placeName ref="#mlpla000054">London</placeName></residence>
                <!-- October 1742 - July 1743?????? -->
                <residence from="1750-09-29" to="1753-02-27"><placeName ref="#mlpla000003">Fulneck settlement</placeName></residence>
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
+
+               <residence from="1734" to="1742-06"><placeName ref="#mlpla000054">London</placeName></residence>
+               <!-- October 1742 - July 1743?????? -->
+               <residence from="1750-09-29" to="1753-02-27"><placeName ref="#mlpla000003">Fulneck settlement</placeName></residence>
+
                <occupation>
                   <date calendar="Julian" when-iso="1743-07-02">2 July, 1743</date>
                   <date calendar="Gregorian" when-iso="1743-07-13">13 July, 1743</date> co-helper with single sisters <placeName ref="#mlpla000084">Yorkshire</placeName>
@@ -1172,12 +1175,15 @@
                <event type="reception">
                   <desc>
                      <date calendar="Julian" when-iso="1743-12-25">25 December, 1743</date>
-<<<<<<< HEAD
+
                      <date calendar="Gregorian" when-iso="1744-01-05">5 January, 1744</date>
                      recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
-=======
+
                      <date calendar="Gregorian" when-iso="1744-01-05">5 January, 1744</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
+
+
+                     <date calendar="Gregorian" when-iso="1744-01-05">5 January, 1744</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+
                   </desc>
                </event>
                <event type="sacrament">
@@ -1258,12 +1264,14 @@
                <event type="reception">
                   <desc>
                      <date calendar="Julian" when-iso="1751-01-01">1 January, 1751</date>
-<<<<<<< HEAD
+
                      <date calendar="Gregorian" when-iso="1752-01-12">12 January, 1752</date>
                      recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
-=======
+
                      <date calendar="Gregorian" when-iso="1752-01-12">12 January, 1752</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
+
+                     <date calendar="Gregorian" when-iso="1752-01-12">12 January, 1752</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+
                   </desc>
                </event>
                <event when-iso="1752">
@@ -1568,11 +1576,7 @@
                   <desc> returned <placeName>sisters' house Fulneck</placeName>
                   </desc>
                </event>
-<<<<<<< HEAD
-               
 
-=======
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/75</bibl>
                <note> (LW/G/P/F)CBssDYSON, Hannah (1727-1767) b 27.09.1727 Kirkheaton resided: Grace Hall Fulneck 1753- reception: baptized Church of St John the Baptist Kirkheaton 19.10.1727 (OS) /
@@ -4763,12 +4767,14 @@
                <event type="reception">
                   <desc>
                      <date calendar="Julian" when-iso="1748-05-28">28 May, 1748</date>
-<<<<<<< HEAD
+
                      <date calendar="Gregorian" when-iso="1748-06-08">8 April, 1748</date> 
                      recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
-=======
+
                      <date calendar="Gregorian" when-iso="1748-06-08">8 April, 1748</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
+
+                     <date calendar="Gregorian" when-iso="1748-06-08">8 April, 1748</date> recieved congregation <placeName>Yorkshire in Fulneck</placeName>
+
                   </desc>
                </event>
                <event>
@@ -6178,7 +6184,7 @@
             <!-- Relationships are within the notes, but can't be done unless we have xml:ids for the other people -->
          </listPerson>
          <listPerson>
-<<<<<<< HEAD
+
             <person xml:id="mlper000536" sex="m" sameAs="https://www.wikidata.org/wiki/Q4888851">
                <persName>
                   <forename>Benjamin</forename>
@@ -6188,25 +6194,14 @@
             </person>
          </listPerson>
 
-
-
-
-=======
-            <person xml:id="mlper000536" sameAs="https://www.wikidata.org/wiki/Q4888851">
-               <persName>
-                  <forename>Benjamin</forename>
-                  <surname>Ingham</surname>
-               </persName>
-               <!-- more information can be added -->
-            </person>
-         </listPerson>
+         
          <listPerson>
             <person xml:id="mlper000537" sameAs="https://www.wikidata.org/wiki/Q7496562">
                <persName>Shikellamy
                </persName>
             </person><!-- there will be a lot of information to add, including family members -->
          </listPerson>
->>>>>>> 9ecc6ab5edd56b3acffd7d21a7fbce01d2c0fc50
+
       </body>
    </text>
 </TEI>
