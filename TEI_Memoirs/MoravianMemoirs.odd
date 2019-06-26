@@ -407,14 +407,15 @@
             </attList>
           </classSpec>
           
-          <!-- CUSTOMIZATION: added date:@cause / English -->
+          <!-- CUSTOMIZATION: added date:@cause / English (Also avaliable for others such as roleName. Could not figure out how to only have it for date) -->
           <elementSpec ident="date" mode="change" module="core">
             <attList>
               <attDef ident="cause" mode="change">
                 <valList mode="add" type="semi">
                   <valItem ident="unkown"/>
-                  <valItem ident="illness"></valItem>
-                  <valItem ident="natural causes"></valItem>
+                  <valItem ident="disease"/>
+                  <valItem ident="natural causes"/>
+                  <valItem ident="injury"/>
                 </valList>
               </attDef>
             </attList>
