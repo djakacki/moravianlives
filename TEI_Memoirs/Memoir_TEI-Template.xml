@@ -62,6 +62,11 @@
                <orgName>Bucknell University</orgName>
                <resp>Transkribus, Text Encoding Specialist</resp>
             </respStmt>
+            <respStmt>
+               <persName xml:id="bacharya">Bhagawat Acharya</persName>
+               <orgName>Bucknell Univesrity</orgName>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -101,7 +106,7 @@
             <head>name</head>
             <div type="page" n="1">
                <head type="page">1</head>
-               <pb n="1" facs="url" />
+               <pb n="1" facs="url"/>
                <p>PAGE TEXT HERE</p>
             </div>
          </div>
