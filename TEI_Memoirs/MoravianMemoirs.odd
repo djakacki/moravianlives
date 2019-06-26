@@ -400,7 +400,7 @@
           
 
           
-          <!-- CUSTOMIZATION: Trying to add @cause to the date tag -->
+          <!-- CUSTOMIZATION: Adding cause to date -->
           <classSpec ident="att.datable.iso" module="core" type="atts" mode="change">
             <attList>
               <attDef ident="cause" mode="change" />
@@ -413,12 +413,13 @@
               <attDef ident="cause" mode="change">
                 <valList mode="add" type="semi">
                   <valItem ident="unkown"/>
+                  <valItem ident="illness"></valItem>
+                  <valItem ident="natural causes"></valItem>
                 </valList>
               </attDef>
             </attList>
           </elementSpec>
 
-        
           
           <!-- end of schema -->
         </schemaSpec>

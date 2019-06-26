@@ -93,6 +93,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
+         <change when="2019-06-26" who="#jschaumberger">Started and completed markup of the text</change>
          <change when="2019-06-10" who="#JAKA1">Updated header</change>
       </revisionDesc>
    </teiHeader>
@@ -103,23 +104,23 @@
             <div type="page" n="1">
                <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_65Horsfall-01.jpg" />
-               <p>The married Sr Sar: Horsefall was born at Barnsley
-                  Decr: 5<hi rend="superscript">th</hi> 1697. Her Parents being religious Members of the Church
-                  of England bro<hi rend="superscript">t</hi> her up in the same way, and when her Father
+               <p>The married <addName en="sister">Sr</addName> <persName>Sar: Horsefall</persName> was born at <placeName>Barnsley</placeName>
+                  <date type="birth" when-iso="1697-12-05">Decr: 5<hi rend="superscript">th</hi> 1697</date>. Her Parents being religious Members of the <orgName>Church
+                  of England</orgName> bro<hi rend="superscript">t</hi> her up in the same way, and when her Father
                   was about to depart this Life, which happened when the
-                  deceased S<hi rend="superscript">r</hi> was 7 years old, he desired that this his Daugh-
+                  deceased S<hi rend="superscript">r</hi> was <date when-iso="1704" cert="medium">7 years old</date>, he desired that this his Daugh-
                   ter, for whom he had a great Love, might go to live with her
                   Grand Mother who was a pious old Woman. With her she 
                   remained till she departed this Life, and then went to wait
                   on a Gentlewoman, in which Place as well as in some other
                   Gentleman's Families she was never easy in her Mind, but
                   always thoughtfull about her future State till she was
-                  married to the present Widower at Glosop in Derbyshire
-                  July 2<hi rend="superscript">d</hi>: 1727, by whom she had 7 Children, 1 Son is in the S B<hi rend="superscript">rns</hi>
-                  House at Fulneck and 1 Daughter marr<hi rend="superscript">d</hi> in Gohar &amp; in our Society;
+                  <name event="marriage">married</name> to the present Widower at <placeName>Glosop in Derbyshire</placeName>
+                  <date when-iso="1727-07-02">July 2<hi rend="superscript">d</hi>: 1727</date>, by whom she had 7 Children, 1 Son is in the S B<hi rend="superscript">rns</hi>
+                  House at <placeName ref="#mlpla000003">Fulneck</placeName> and 1 Daughter marr<hi rend="superscript">d</hi> in <placeName>Gohar</placeName> &amp; in our Society;
                   3 are gone home before her &amp; 2 in the World.
-                  About the Year 1743 Her Husband went to hear M<hi rend="superscript">r</hi> Ingham
-                  preach at Smithhouse, whereby he became awaken'd, and his
+                  <date when-iso="1743" cert="medium">About the Year 1743</date> Her Husband went to hear <persName ref="#mlper000536">M<hi rend="superscript">r</hi> Ingham</persName>
+                  preach at <placeName>Smithhouse</placeName>, whereby he became awaken'd, and his
                   frequent attending the meetings of awaken'd People caused
                   a good deal of uneasiness between them both, till being
                   drawn by Curiosity to see what her Husband was so fond
@@ -127,7 +128,7 @@
                   wretched Condition as touching her Salvation. Then it became
                   clear to her what it was that made her Husband so diligent
                   in going to the meetings at such a distance, she asked his
-                  Pardon with shame for her past behaviour and nothing
+                  Pardon with <name type="emotion">shame</name> for her past behaviour and nothing
                   cou'd prevent her going along with him ever after. About
                   the same time she desired the Gospel might be preached in their</p>
             </div>
@@ -142,19 +143,19 @@
                   lost Sinner and found him gracious to the forgiving her
                   all her Sins and cleansing Her from all Unrighteousness,
                   the clear impression of which she retained unalterably to 
-                  her last Moment. She was received into the Congn at Fulneck
-                  Dec<hi rend="superscript">r</hi> 21<hi rend="superscript">st</hi> 1748. to her great Joy, and went the first time to
+                  her last Moment. She was <name event="reception">received into the Congn</name> at <placeName ref="#mlpla000003">Fulneck</placeName>
+                  <date when-iso="1748-12-21">Dec<hi rend="superscript">r</hi> 21<hi rend="superscript">st</hi> 1748</date>. to her great Joy, and went the first time to
                   the holy Com<hi rend="superscript">n</hi> with the Cong<hi rend="superscript">n</hi> in Gumersal Chapel Dec<hi rend="superscript">r</hi> 4<hi rend="superscript">th</hi> 1751</p>
                   <p>
                   From that time she prized her Elec=
                   tion of Grace to the Cong<hi rend="superscript">n</hi> as dear and precious, and missed
-                  no Oppertunity either at Mirfield or Fulneck till old Age
-                  and bodily Infirmities obliged her to stay at home much
+                     no Oppertunity either at <placeName ref="#mlpla000059">Mirfield</placeName> or <placeName ref="#mlpla000003">Fulneck</placeName> till old Age
+                  and <name health="disease">bodily Infirmities</name> obliged her to stay at home much
                   against her will. When she at any time heard B<hi rend="superscript">rn</hi> &amp; S<hi rend="superscript">rs</hi> excuse
                   their not attending the Meetings on Account of family Con=
                   cerns or Business, she always replied: "That never hindered
                   "me, for if I knew of a blessing for my heart, I always recom=
-                  "mended my family concerns to our Savr and went, and
+                  "mended my family concerns to our <persName type="diety">Savr</persName> and went, and
                   "when I return'd, found things in better order than if I had
                   "been at home my Self." She was a faithfull and carefull
                   Hostess and Nurse to all B<hi rend="superscript">rn</hi> &amp; S<hi rend="superscript">rs</hi> who came to her House 
@@ -163,7 +164,7 @@
                   Activity of Soul was sometimes hurtfull to her, but when
                   ever she was reminded of it she always acknowledged her
                   fault and came to rights again. <del>She had naturally</del> This
-                  sick? disposition very often hurried her beyond her
+                  sick? <name health="disease">disposition</name> very often hurried her beyond her
                   </p>
             </div>
             
@@ -172,28 +173,28 @@
                <pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_65Horsfall-03.jpg" />
                <p>           
                   Strength of Body and bro<hi rend="superscript">t</hi> on slight Sicknesses, which in
-                  a little time went of again, but Sep<hi rend="superscript">r</hi> 9<hi rend="superscript">th</hi> being much hurry'd
+                  a little time went of again, but <date when-iso="1765-09-09">Sep<hi rend="superscript">r</hi> 9<hi rend="superscript">th</hi></date> being much hurry'd
                   in providing for those who were working in the Harvest
-                  was the Day on which she took her last Sickness. However
+                  was the Day on which she took her <name health="disease">last Sickness</name>. However
                   she was well at Noon and dined with her Husband &amp; B<hi rend="superscript">r</hi> Wor=
                   thington who went there to keep the meeting, in her usual
                   chearfull way; but suddenly got up from Table and went
-                  out complaining of an uncommon Pain in her Head. Her
+                  out complaining of an uncommon <name health="disease">Pain in her Head</name>. Her
                   long stay caused her Husband to follow her, and finding her
                   incapable of helping herself, he bro<hi rend="superscript">t</hi> her in and put her
-                  to Bed where her disorder soon shewed itself to be a hot
-                  fever. When her pain was most Violent she soothed her Soul
+                  to Bed where her disorder soon shewed itself to be a <name health="disease">hot
+                  fever</name>. When her <name health="disease">pain was most Violent</name> she soothed her Soul
                   to ease &amp; rest with the tormenting Anguish &amp; Pain of her
-                  dear Saviour which she told B<hi rend="superscript">r</hi> Worthington that same day.
-                  Sunday Sep<hi rend="superscript">r</hi> 15<hi rend="superscript">th</hi>: when B<hi rend="superscript">r</hi> Worthn: went to preach at Golear
-                  he found her much easier as if the fever had left her Up:
+                  dear <persName type="diety">Saviour</persName> which she told B<hi rend="superscript">r</hi> <persName>Worthington</persName> that same day.
+                  <date when-iso="1765-09-15">Sunday Sep<hi rend="superscript">r</hi> 15<hi rend="superscript">th</hi>:</date> when B<hi rend="superscript">r</hi> <persName>Worthn</persName>: went to preach at <placeName>Golear</placeName>
+                  he found her much easier as if the <name health="disease">fever</name> had left her Up:
                   on asking her if she thot she shou'd go home? she said: that
                   wou'd be my hearts Inclination, for I have lived long enough
                   without seeing him, tho' he has never left me from the first
                   time I knew him to this Hour, but I cannot tell how it will
                   be. However if he will take me I am ready, for I have his
                   Blood and Righteousness, tho' I feel my Self more vile
-                  than ever I did in my Life. Sunday Sep<hi rend="superscript">r</hi> 22<hi rend="superscript">d</hi>: Her Husband
+                  than ever I did in my Life. Sunday <date when-iso="1765-09-22">Sep<hi rend="superscript">r</hi> 22<hi rend="superscript">d</hi></date>: Her Husband
                   reminded her that it was the Com<hi rend="superscript">n</hi> day. she replied I know
                   it and have no Mind for eating or for drinking food which
                   must corrupt again; of Gods Bread that heavenly I 
@@ -207,7 +208,7 @@
                <pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_65Horsfall-04.jpg" />
                <p>    
                   I crave it from Earth's life to be set free in Love's Immortallity.
-                  She continued mostly in a Slumber till Tuesday the 24 at Night
+                  She continued mostly in a Slumber till <date when-iso="1765-09-24">Tuesday the 24</date> at Night
                   when her Soul took flight to the Arms of her eternal Bridegroom
                   about 10 oClock in the 68<hi rend="superscript">th</hi>: year of her Age.
                </p>
