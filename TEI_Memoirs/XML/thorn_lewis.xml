@@ -1,6 +1,4 @@
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -157,8 +155,8 @@
                <head type="page" ana="MCH/MemLon_300033-06">6</head>
                <p> Scenes of his short Life, <del>which</del> were regulated by him, who pre, pared him for a happy Rest in his own Bosom, in such a Man, ner, that we have not the least uneasiness
                   about any Step that was taken with him, but are heartily convinced and satisfied, that the Mind and whole Aim of the Lamb is obtaind with him, <del>and wish all only that all who
-                     loved him, might be as happy as he was, and find the Way into the Wounds of Jesus so surely and plainly as he has found it.</del> has been read in <placeName>Okbrook</placeName> <date>Aug. the 18<hi
-                     rend="superscript">th</hi></date>
+                     loved him, might be as happy as he was, and find the Way into the Wounds of Jesus so surely and plainly as he has found it.</del> has been read in <placeName>Okbrook</placeName>
+                  <date>Aug. the 18<hi rend="superscript">th</hi></date>
                </p>
             </div>
          </div>

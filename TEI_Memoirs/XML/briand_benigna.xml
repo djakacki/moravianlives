@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -113,8 +110,7 @@
          <div type="memoir">
             <head>Benigna Briand</head>
             <div type="page" n="1">
-               <head type="page" ana="MemBeth_0132-01">1
-               </head>
+               <head type="page" ana="MemBeth_0132-01">1 </head>
                <p> Here followed the <date when-iso="03-22">22nd of March</date> our dear <persName>Sister Benigna Briand</persName>. She was born the <date when-iso="1707-12-17">17th of December
                      1707</date> at <placeName>Lyneham</placeName> in <placeName>Wiltshire</placeName>. Her Parents have been of the <orgName>Quaker Religion</orgName> &amp; She was brought up in the
                   same Principles. <date when-iso="1740-02-19">Anno 1740 the 19th february</date> was She marryed to our <persName>Br. Briand</persName> &amp; they followed a religious Life according
@@ -140,8 +136,7 @@
                   with her <persName ana="Br. Briand">Husband</persName> to <placeName>Bath</placeName>. Here she entertained the Brethren as formerly which just now begun to visit and preach in </p>
             </div>
             <div type="page" n="2">
-               <head type="page" ana="MemBeth_0132-02">2
-               </head>
+               <head type="page" ana="MemBeth_0132-02">2 </head>
                <p> in this Parts, with all imaginable <name type="emotion">Tenderness</name> &amp; wish'd nothing more as that the Brethren would settle in this <placeName ana="Bath"
                   >Place</placeName>. In the meantime She &amp; <persName ana="Br. Briand">her Husband</persName> visited diligently at <placeName>Bristol</placeName> till <date when-iso="1757"
                      >1757</date>. a <orgName>Society</orgName> was errected at <placeName>Bath</placeName>. Her House was the Residence of our Labourer &amp; She made it her Pleasure to serve
@@ -169,8 +164,7 @@
                   &amp; flew her </p>
             </div>
             <div type="page" n="3">
-               <head type="3" ana="MemBeth_0132-03">3
-               </head>
+               <head type="3" ana="MemBeth_0132-03">3 </head>
                <p> her happy Soul into the Bosom of her <persName>bloody Bride groom</persName>. In the 56th Year of her Age <persName ana="Br. Briand">Her Husband</persName> who had in his Sleep an
                   Instinct of her Departure, said as he awaked to the People in the House: My <persName ana="Benigna Briand">Wife</persName> is gone, fell down on his Face &amp; thanked our dear
                      <persName>Saviour</persName> for all the Blessings bestowed on her. Soon after that, <persName>Mr. Miller</persName> came before his Door &amp; sung: Ihi Mund ist mun erblasset in

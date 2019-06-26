@@ -5,11 +5,16 @@
       <titleStmt>
         <title>Moravian Lives TEI P5 ODD Customisation</title>
         <author xml:id="JAKA1">Diane Jakacki</author>
+        <author xml:id="jschaumberger">Justin Schaumberger</author>
       </titleStmt>
       <publicationStmt>
         <authority>
           <name>Diane Jakacki</name>
           <email>diane.jakack@bucknell.edu</email>
+        </authority>
+        <authority>
+          <name>Justin Schaumberger</name>
+          <email>jes083@bucknell.edu</email>
         </authority>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</licence>
@@ -36,6 +41,7 @@
       </editorialDecl>
     </encodingDesc>
     <revisionDesc>
+      <change when="2019-06-21" who="#JAKA1 #jschaumberger">Updated and added schematic specifities</change>
       <change when="2018-12-07" who="#JAKA1">Removed note types</change>
       <change when="2018-11-23" who="#JAKA1">Cleaned up ODD structure</change>
       <change when="2018-11-15" who="#JAKA1">Extended English and German attributes</change>
@@ -74,8 +80,10 @@
           <moduleRef key="linking" />
           <!-- Include all of msdescription for now -->
           <moduleRef key="msdescription" />
-          <!-- namesdates: include all for now. -->
-          <moduleRef key="namesdates" />
+          <!-- namesdates: include all for now -being explicit because the object tags are not yet introduced universally. -->
+          <moduleRef key="namesdates" include="addName affiliation age birth bloc climate country death district education event faith floruit forename genName geo geogFeat geogName langKnowledge
+            langKnown listEvent listNym listObject listOrg listPerson listPlace listRelation location nameLink nationality nym object objectIdentifier objectName occupation offset org orgName persName
+            person personGrp persona place placeName population region relation residence roleName settlement sex socecStatus state surname terrain trait" />
           <!-- Include all of verse module -->
           <moduleRef key="verse" />
           <!-- tagsdoc module to include code -->
@@ -87,14 +95,16 @@
           <!-- Do not include transcription module unless we decide we want to get more specific about describing the physical document-->
           <!-- Do not include feature structures (iso-fs) unless we decide we need it -->
           <!-- Do not include textcrit module unless we decide to compare versions of memoirs across archives -->
+          
+          
           <!-- IMPORTANT: In order to accommodate complex semantic tagging regarding the Moravians with regard to emotion, events, health/illness, and occupation, 
             we have customized the name element to include them as attributes in English and German.
-            the specifications are documented in English and German with @sameAs for the other language. If we find that additional languages are needed in the Moravian Lives tagging protocols,
-            we will add them. 
+            the specifications are documented in English and German with @sameAs for the other language. If we find that additional languages are needed in the Moravian Lives tagging protocols, we will add them. 
             ~Diane Jakacki, 11/06/2018 -->
           <!-- div  - can't remember why I did this ....-->
           <elementSpec ident="div" mode="change" module="textstructure"> </elementSpec>
-
+          
+          
           <!-- CUSTOMIZATION: added emotion, event, health, occupation attributes / English. Wherever possible adding @sameAs to track parallels -->
           <classSpec ident="att.naming" module="tei" type="atts" mode="change">
             <attList>
@@ -103,6 +113,7 @@
               <attDef ident="event" mode="change" sameAs="ereignis" />
               <attDef ident="health" mode="change" sameAs="beruf" />
               <attDef ident="relation" mode="change" sameAs="verwandte" />
+              <attDef ident="occupation" mode="change"/>
             </attList>
           </classSpec>
           <!-- CUSTOMIZATION: added gefühl, ereignis, beruf, gesundheitszustand attributes / German. Wherever possible adding @sameAs to track parallels -->
@@ -127,6 +138,9 @@
                   <valItem ident="draw lot" sameAs="losen" />
                   <valItem ident="marriage" sameAs="hochzeit" />
                   <valItem ident="reception" sameAs="aufnahme" />
+                  <valItem ident="sacrament" />
+                  <valItem ident="interrment" />
+                  <valItem ident="communion" />
                 </valList>
               </attDef>
             </attList>
@@ -147,6 +161,39 @@
               </attDef>
             </attList>
           </elementSpec>
+          <!-- CUSTOMIZATION: added name:@health / English. -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="health" mode="change">
+                <valList mode="add" type="closed">
+                  <valItem ident="recovered" />
+                  <valItem ident="disease" />
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added name:@occupation / English. -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="occupation" mode="change">
+                <valList mode="add" type="semi"> <!-- I believe we should leave this open because there are numerous different occupations. We could go through and record all of them, but I don't believe that is necessary. -->
+                  <valItem ident="sewer"/>
+                  <valItem ident="blacksmith"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added event @death @cause -->
+          <elementSpec ident="death" mode="change">
+            <attList>
+              <attDef ident="cause" mode="change">
+                <valList mode="add" type="open"></valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          
+          
           <!-- CUSTOMIZATION: added name:@relation / English -->
           <elementSpec ident="name" mode="change" module="core">
             <attList>
@@ -203,6 +250,10 @@
               </attDef>
             </attList>
           </elementSpec>
+
+          
+          
+          
           <!-- CUSTOMIZATION: added en, de to distinguish language for roleName, orgName, addName -->
           <classSpec ident="att.naming" module="namesdates" type="atts" mode="change">
             <attList>
@@ -210,7 +261,18 @@
               <attDef ident="en" mode="change" />
             </attList>
           </classSpec>
+          
+          <!-- CUSTOMIZATION: added objectName, object, and listObject to namesdates module - because TEI has not yet implemented objectName universally -->
+          <elementSpec module="namesdates" ident="att.typed" mode="add">
+            <attList>
+              <attDef ident="objectName" mode="change" />
+              <attDef ident="object" mode="change" />
+              <attDef ident="listObject" mode="change" />
+            </attList>
+          </elementSpec>
+
           <!-- CUSTOMIZATION: added addName:@en / English -->
+          <!-- NEED TO RETHINK THIS -->
           <elementSpec ident="addName" mode="change" module="namesdates">
             <attList>
               <attDef ident="en" mode="change">
@@ -281,6 +343,9 @@
               </attDef>
             </attList>
           </elementSpec>
+         
+            
+            
           <!-- CUSTOMIZATION: added roleName@en / English - DKJ: I'm really not convinced we need to get this degree of granularity. We should probably create a more comprehensive taxonomy file-->
           <elementSpec ident="roleName" mode="change" module="namesdates">
             <attList>
@@ -332,6 +397,29 @@
               </attDef>
             </attList>
           </elementSpec>
+          
+
+          
+          <!-- CUSTOMIZATION: Trying to add @cause to the date tag -->
+          <classSpec ident="att.datable.iso" module="core" type="atts" mode="change">
+            <attList>
+              <attDef ident="cause" mode="change" />
+            </attList>
+          </classSpec>
+          
+          <!-- CUSTOMIZATION: added date:@cause / English -->
+          <elementSpec ident="date" mode="change" module="core">
+            <attList>
+              <attDef ident="cause" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="unkown"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+        
+          
           <!-- end of schema -->
         </schemaSpec>
       </div>

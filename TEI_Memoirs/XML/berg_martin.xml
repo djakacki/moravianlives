@@ -1,6 +1,4 @@
-<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/djakacki/moravianlives/master/TEI_Memoirs/XML/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -87,301 +85,152 @@
             <head>name</head>
             <div type="page" n="1">
                <head type="page" ana="MAB/MemBeth_0185a-01">1</head>
-               <p>
-                  Personals of the Single Brother Martin Berg
-                  Who departed to our Saviour the 16<hi rend="superscript">th</hi> of February 1768
-                  at New Dietenderff. He has left the following account
+               <p> Personals of the Single Brother Martin Berg Who departed to our Saviour the 16<hi rend="superscript">th</hi> of February 1768 at New Dietenderff. He has left the following account
                   of his Path thro time:</p>
-                  <p>I was born at Strahlsund the 17<hi rend="superscript">th</hi> of October 1711. My Father who
-                  was a Captain of a Vessel, dying when I was very young, and <add place="above">my</add> Mother dying
-                  in the Plague, our Relations took care to place my B<hi rend="superscript">r</hi>. and <del>??</del> <corr>me</corr> in the
-                  Orphan House, where my Brother soon after dyed  died very happy. But I became
-                  a wicked Child. As I was in full Career towards all evil, wild and thoughtless,
-                  I saw one day the <sic>Apearance</sic>  <corr>Appearance</corr> of a Person whose Face was <sic>wrapt</sic>  <corr>wrapped</corr> in Red
-                  Callico. As I look'd earnestly at it, It seemd to me as the Blood broke out
-                  at every Pore. I ran away from this sight, and full of Surprize and 
-                  Terror, Jump'd down a high pair of stairs. My Fright was so great
-                  that I had one Dainty Fitt after the other, and was sick several Days
-                  yea I lost my speech 3 days, and could tell no one what had befallen me.
-                  Soon after I fell ill of a violent Fever, in which I was lightheaded and
-                  thought I saw nothing but Devils, and it was to me as if I was really
-                  in Hell. In this distress I beg'd of God to spare me this time, I would
-                  be converted and be a good Child. I repeated all the Ejaculations I had
-                  learnt  learned, and pray'd heartily for my recovery, and the Lord heard my Prayers
-                  and gave to feel his grace and Pardon of my Sins. As soon as I regaind my
-                  Health, I set faithfully about performing the promise I had made to God,
-                  with the Assistance of his Holy Spirit, who was my faithful Bystand,
-                  at which the Guardian of the Orphan House grew displeas'd and endeavoured
-                  to distress me all maner  manner of ways. As I durst not pray Openly, I crept
-                  into Holes and Corners, wept and pray'd to the Lord whom I had griev'd
-                  so long, but who was now so gracious to me, that I had a Heaven upon
-                  Earth. I could not refrain letting my School fellows know what pass'd
-                  with me, which was a means of Increaing my Persecution. When I
-                  was alone at Prayers the other Children would listen, and that prov'd
-                  a means of bringing several to think as I did, that their Hearts was
-                  touch'd and they was of the same Mind with my self; their number
-                  was 8. Here upon the Enemy was enraged, and as I was accused of being
-                  the cause of this stirring among the Children, I suffered a great deal,
-                  and receiv'd more stripes than as tho  though I had done evil. I had no one
-                  <note type="catchword">To</note></p>
+               <p>I was born at Strahlsund the 17<hi rend="superscript">th</hi> of October 1711. My Father who was a Captain of a Vessel, dying when I was very young, and <add place="above">my</add>
+                  Mother dying in the Plague, our Relations took care to place my B<hi rend="superscript">r</hi>. and <del>??</del>
+                  <corr>me</corr> in the Orphan House, where my Brother soon after dyed died very happy. But I became a wicked Child. As I was in full Career towards all evil, wild and thoughtless, I
+                  saw one day the <sic>Apearance</sic>
+                  <corr>Appearance</corr> of a Person whose Face was <sic>wrapt</sic>
+                  <corr>wrapped</corr> in Red Callico. As I look'd earnestly at it, It seemd to me as the Blood broke out at every Pore. I ran away from this sight, and full of Surprize and Terror,
+                  Jump'd down a high pair of stairs. My Fright was so great that I had one Dainty Fitt after the other, and was sick several Days yea I lost my speech 3 days, and could tell no one
+                  what had befallen me. Soon after I fell ill of a violent Fever, in which I was lightheaded and thought I saw nothing but Devils, and it was to me as if I was really in Hell. In this
+                  distress I beg'd of God to spare me this time, I would be converted and be a good Child. I repeated all the Ejaculations I had learnt learned, and pray'd heartily for my recovery,
+                  and the Lord heard my Prayers and gave to feel his grace and Pardon of my Sins. As soon as I regaind my Health, I set faithfully about performing the promise I had made to God, with
+                  the Assistance of his Holy Spirit, who was my faithful Bystand, at which the Guardian of the Orphan House grew displeas'd and endeavoured to distress me all maner manner of ways. As
+                  I durst not pray Openly, I crept into Holes and Corners, wept and pray'd to the Lord whom I had griev'd so long, but who was now so gracious to me, that I had a Heaven upon Earth. I
+                  could not refrain letting my School fellows know what pass'd with me, which was a means of Increaing my Persecution. When I was alone at Prayers the other Children would listen, and
+                  that prov'd a means of bringing several to think as I did, that their Hearts was touch'd and they was of the same Mind with my self; their number was 8. Here upon the Enemy was
+                  enraged, and as I was accused of being the cause of this stirring among the Children, I suffered a great deal, and receiv'd more stripes than as tho though I had done evil. I had no
+                  one <note type="catchword">To</note></p>
             </div>
-            
             <div type="page" n="2">
                <head type="page" ana="MAB/MemBeth_0185a-02">2</head>
-               <p>to make my Compaint to, but the Lord Jesus, and he made my heart still
-                  more happy from day to day; the more I was beat, the greater was my Joy as
-                  I thought I should the sooner come to the Lord Jesus. More Children joining
-                  with me, and The Guardians finding they could not settle this Affair
-                  by leaking and <sic>useing</sic>  <corr>using</corr> me roughly, they thought We was all bewitch'd
-                  and that I was possess'd with the Devil, for which reason they would fain
-                  have beat me to death, at length they concluded to confine me in Prison which they did accordingly. How happy I was in that dark Hole
-                  where I was fed with Bread and Water, I cannot describe, my Companions
-                  often singing a Hymn and weeping at the door of my Prison. After I had
-                  been 8 Days confin'd, I was sent for, and required to promise that I would
-                  no longer sing, Pray nor weep, nor lead others astray. As I could not
-                  promise this, I was examined into the first cause of my change. I gave
-                  them a full Account of what had befallen me, but they gave no Credit to my Words. Just then, there was a New <sic>Minester</sic>  <corr>Minister</corr> at S<hi rend="superscript">r</hi>. Marys
-                  Church named Siebeth, I was brought before him, and he examined 
-                  me out of the Cathechism, which I answerd pretty well. This Man
-                  whom I look'd upon as my Deliverer, order'd me to be set at Liberty
-                  and told me to come and spend an Hour with him every Day [??]
-                  whenever I came, he used to kneel and pray with me, and gave me
-                  a Bible which was a great Joy to me, for I never had one in my hand
-                  before. In my 10<hi rend="superscript">th</hi> Year a Young Nobleman desired a Boy out
-                  of the Orphan House, and they being glad to get rid of me, sent 
-                  me to him. I travelled with him to Greifswalde where he was
-                  in office. In 6 Months time he sent me back, and I met with
-                  great difficulties before I could again be Admitted into the Orphan
-                  House. I found my Companions still cheerful and we was very happy
-                  together I rejoicing much to be with them. As the Enemy could
-                  not Overcome me with sharp treatment he now tried another
-                  Method, 6 Months was scarce over, before the Chief Judge of the
-                  City took me to live with him, He was much kinder to me than my
-                  former Master, yea he was for <sic>makeing</sic>  <corr>making</corr> a Young Gentleman of me
-                  and had a Master to teach me Languages and dancing with his only
-                  Daughter, this pleas'd me mightyly  mightily, but I lost my former Grace &amp; Blessing.
-                  Reading in the Bible, and going to Church grew irksome to me, Sin &amp;
-                  Corruption got the <sic>uperhand</sic>  <corr>upperhand</corr>, and I had <sic>Oppertunitys</sic>  <corr>Opportunities</corr> enough to Commit Evil. As I fell out with my Master, I left him and lived
-                  some
-                  
-                  <cb/>///<lb/>
-                  
-                  some time with another gentleman who led still a worse life from.
-                  Hence I went to learn the Anchor Smiths Trade, but this being <sic>to</sic>  <corr>too</corr>
-                  hard for me I ran away, and went on board a Ship bound to Stockholm. There I met with my Mothers Brother, who was a very rich
-                  Man and as I was his only Near Relation, He took to me as his own
-                  Child, would have made me his Heir and Educated me with his 2
-                  Step Sons. But as we could not agree together, he sent me to Upsal
-                  to study Divinity, but this would not do, as I was much to Wild and determined to follow the Seas; My Uncle made another Trial and brought me
-                  to another of my uncles, who was Captain of the Guards, here I was
-                  to use my self to a high Life, but this did not please me, and I was
-                  no where easy. After I had been 2 Years at Sweden, I became a
-                  Mocker of all good, and Endeavourd to Opress the Pious Souls all that
-                  I could. I resolved to go to sea, and all things being ready, the day
-                  before we was to sail, I fell into the river with an Iron barr in
-                  my hand, and was brought back to the city for dead. I could not 
-                  go this time, but was obliged to spend the winter there. The next
-                  Spring I saild to Spain, and continued following the Sea as that
-                  was my Delight, one winter I spent in London. In my 19<hi rend="superscript">th</hi>
-                  Year, a rich Man offerd me his Daughter, with a Ship and Cargo
-                  but when all things was ready for Conclusion, some one broke it
-                  off- This has been often my Lot, that when good Fortune has
-                  seem'd to court me, it has suddenly vanish'd and left me as I
-                  was before. One Time being on board a Vessel bound from Diourheim to Newcastle, we lost our Course and narrowly escaped foundring on the Norway Rocks, with much difficulty we reach'd Helsingoer were we repaird our Vessel, and then saild to Gothenburg &amp; from thence
-                  to Gibraltar In this voyage we fell among the Pirates, but happily escap'd
-                  them. From thence I went in another Vessel by the way of Rouen
-                  to Reval, from thence to Abo, and then to Bourdeaux; Here I saw a
-                  <sic>Minester</sic>  <corr>Minister</corr> suffer death for the <sic>Gosple</sic>  <corr>Gospel</corr>, which went very near me but
-                  I soon got rid of that Impression. At Copenhagen a sermon I heard
-                  made me uneasy, but I soon recoverd again. From here I went to
-                  Lisbon then to Amsterdam. After this I was cast away in a Vessel
-                  <note type="catchword">that</note>
+               <p>to make my Compaint to, but the Lord Jesus, and he made my heart still more happy from day to day; the more I was beat, the greater was my Joy as I thought I should the sooner come
+                  to the Lord Jesus. More Children joining with me, and The Guardians finding they could not settle this Affair by leaking and <sic>useing</sic>
+                  <corr>using</corr> me roughly, they thought We was all bewitch'd and that I was possess'd with the Devil, for which reason they would fain have beat me to death, at length they
+                  concluded to confine me in Prison which they did accordingly. How happy I was in that dark Hole where I was fed with Bread and Water, I cannot describe, my Companions often singing a
+                  Hymn and weeping at the door of my Prison. After I had been 8 Days confin'd, I was sent for, and required to promise that I would no longer sing, Pray nor weep, nor lead others
+                  astray. As I could not promise this, I was examined into the first cause of my change. I gave them a full Account of what had befallen me, but they gave no Credit to my Words. Just
+                  then, there was a New <sic>Minester</sic>
+                  <corr>Minister</corr> at S<hi rend="superscript">r</hi>. Marys Church named Siebeth, I was brought before him, and he examined me out of the Cathechism, which I answerd pretty well.
+                  This Man whom I look'd upon as my Deliverer, order'd me to be set at Liberty and told me to come and spend an Hour with him every Day [??] whenever I came, he used to kneel and pray
+                  with me, and gave me a Bible which was a great Joy to me, for I never had one in my hand before. In my 10<hi rend="superscript">th</hi> Year a Young Nobleman desired a Boy out of the
+                  Orphan House, and they being glad to get rid of me, sent me to him. I travelled with him to Greifswalde where he was in office. In 6 Months time he sent me back, and I met with great
+                  difficulties before I could again be Admitted into the Orphan House. I found my Companions still cheerful and we was very happy together I rejoicing much to be with them. As the
+                  Enemy could not Overcome me with sharp treatment he now tried another Method, 6 Months was scarce over, before the Chief Judge of the City took me to live with him, He was much
+                  kinder to me than my former Master, yea he was for <sic>makeing</sic>
+                  <corr>making</corr> a Young Gentleman of me and had a Master to teach me Languages and dancing with his only Daughter, this pleas'd me mightyly mightily, but I lost my former Grace
+                  &amp; Blessing. Reading in the Bible, and going to Church grew irksome to me, Sin &amp; Corruption got the <sic>uperhand</sic>
+                  <corr>upperhand</corr>, and I had <sic>Oppertunitys</sic>
+                  <corr>Opportunities</corr> enough to Commit Evil. As I fell out with my Master, I left him and lived some <cb />///<lb /> some time with another gentleman who led still a worse life
+                  from. Hence I went to learn the Anchor Smiths Trade, but this being <sic>to</sic>
+                  <corr>too</corr> hard for me I ran away, and went on board a Ship bound to Stockholm. There I met with my Mothers Brother, who was a very rich Man and as I was his only Near
+                  Relation, He took to me as his own Child, would have made me his Heir and Educated me with his 2 Step Sons. But as we could not agree together, he sent me to Upsal to study Divinity,
+                  but this would not do, as I was much to Wild and determined to follow the Seas; My Uncle made another Trial and brought me to another of my uncles, who was Captain of the Guards,
+                  here I was to use my self to a high Life, but this did not please me, and I was no where easy. After I had been 2 Years at Sweden, I became a Mocker of all good, and Endeavourd to
+                  Opress the Pious Souls all that I could. I resolved to go to sea, and all things being ready, the day before we was to sail, I fell into the river with an Iron barr in my hand, and
+                  was brought back to the city for dead. I could not go this time, but was obliged to spend the winter there. The next Spring I saild to Spain, and continued following the Sea as that
+                  was my Delight, one winter I spent in London. In my 19<hi rend="superscript">th</hi> Year, a rich Man offerd me his Daughter, with a Ship and Cargo but when all things was ready for
+                  Conclusion, some one broke it off- This has been often my Lot, that when good Fortune has seem'd to court me, it has suddenly vanish'd and left me as I was before. One Time being on
+                  board a Vessel bound from Diourheim to Newcastle, we lost our Course and narrowly escaped foundring on the Norway Rocks, with much difficulty we reach'd Helsingoer were we repaird
+                  our Vessel, and then saild to Gothenburg &amp; from thence to Gibraltar In this voyage we fell among the Pirates, but happily escap'd them. From thence I went in another Vessel by
+                  the way of Rouen to Reval, from thence to Abo, and then to Bourdeaux; Here I saw a <sic>Minester</sic>
+                  <corr>Minister</corr> suffer death for the <sic>Gosple</sic>
+                  <corr>Gospel</corr>, which went very near me but I soon got rid of that Impression. At Copenhagen a sermon I heard made me uneasy, but I soon recoverd again. From here I went to
+                  Lisbon then to Amsterdam. After this I was cast away in a Vessel <note type="catchword">that</note>
                </p>
-         </div>
-            
+            </div>
             <div type="page" n="3">
                <head type="page" ana="MAB/MemBeth_0185a-03">3</head>
-               <p>
-                  that saild from hence to Bergen in Norway, we lost all we had and was
-                  Obliged to beg our Bread, till we could get on board another Vessel.
-                  I came almost Naked to London, where I met with a Merchant who
-                  tok me with him to Greifwalde- In our way to Stralsund we was
-                  Obliged to cast our Leading overboard, and had no rest Night nor day.
-                  After we came to Stralsund, I stay'd there the winter over, but my
-                  wicked Life soon brought me into Prison. After I had been 4 Weeks
-                  confin'd, and reflected on my wrteched state, My hard heart broke &amp;
-                  and I fell into despair, yea I would fain have put an end to my Life.
-                  I resolv'd to turn Soldier, but no One would take me because I was
-                  too Wicked for them. Upon this I ran away from Stralsund to Anelam In a
-                  deep snow, without a coat to my Body, or a shoe on my feet. I bargaind
-                  with a Captain of a <sic>Vesel</sic>  <corr>Vessel</corr> to sail in his ship, and offerd to work for
-                  him tell the Vessel sail'd, but he was afriad of me, and took me to
-                  be a thief and a <sic>Murtherer</sic>  <corr>Murderer</corr>, yet when I honestly told him how it had
-                  gone with me, He <sic>keept</sic>  <corr>kept</corr> me out of Compassion tell the Vessel saild,
-                  when we went to Danzig. Here I came among the Seperatists who
-                  advised me to become Religious, telling me I was lost, if I continued my
-                  present way of Life, which was my own thoughts. Coming a [2]d time
-                  to Danzig I log'd with a pious Menonist, who was a Merchant and who hip
-                  good Orders in his House. Out of kindness he offerd me his House, and
-                  as I could write and keep Accounts would have employ'd me in his Home
-                  but my Love to the sea, made me refuse his offers, Notwithstanding he
-                  endeavour'd to <sic>diswade</sic>  <corr>dissuade</corr> me, and represented a Seamans Life very wicked.
-                  Finding I was not be prevaild on to change my Mind, he <sic>recomended</sic>  <corr>recommended</corr> me
-                  to the good Captains at Shettin and Konigsberg. But finding them
-                  saild at my <sic>Arival</sic>  <corr>Arrival</corr> at Shettin, I went with Another who pretended
-                  to much goodness, but I found him quite otherwise when we came
-                  out to sea. The Pious Clergy at Konigsberg, often made me restless
-                  and uneasy, I grew very Anxious concerning my situation, not only
-                  the Law, but my own wicked heart condem'd me, yea the very Stones
-                  in the Street seemd to Cry out against me, yea I was in my Own Eyesight the scum of all Mankind. In this situation I came to Shettin
-                  and was bruoght to Pastor Sehinmeyer, he employ'd me in teaching the
-                  Children at the free School, till the Orphan House he was then
-                  <note type="catchword">Building</note>
-                  
-                  <cb/>
-                  ///<lb/>
-                  
-                  Building was finish'd In to which I was also Admitted, here I was thoroughly
-                  Awakened, and under such Concern for my Salvation, that I was day &amp;
-                  Night at Prayers, so that my knees swell'd from constant kneeling.
-                  I fasted often and shed thousands of tears for my Past Sins. In this
-                  Distress our Saviour drew so near my heart, that it was to me as <sic>tho</sic>  <corr>though</corr> I saw
-                  Him Bodily and embraced him. Yet I could not be at Rest, <sic>untell</sic>  <corr>until</corr> He
-                  gave me the Certainty of His Forgiveness of my Sins, and Grace in his
-                  Blood. My unbelief often caused doubts, and finding all manner of
-                  Evil dwelling in me, I began to strive against <del>??</del> but all in Vain.
-                  this <sic>weakned</sic>  <corr>weakened</corr> my Body greatly and I fell sick, neither did I recover <sic>untill</sic>  <corr>until</corr>
-                  our Saviour gave me to feel his grace, which was a great Consolation
-                  to me. After staying here a year and a half, I receivd a call to Landsberg on the
-                  Water Where I taught in the Orphan House. From here I was call'd to
-                  Zillichau where I saw the first B<hi rend="superscript">rn</hi>: from Herrnhuth, at my return to
-                  Landsberg I receiv'd an Invitation to the Orphan House at Herrnhuth,
-                  but had no Inclination to accept it. But receiving a second Invitation
-                  and being advised not to decline the offer, but to follow Gods wink, I went.
-                  At the first things did not go well with me, for I attaind not that
-                  for which I came, and I could not forgo the Comdious Life I had been
-                  used to, and suit my self to a poor way of Living. After staying there
-                  half a Year I went to Sorace, and from thence to Chrishanstadt, where
-                  I staid  stayed some time, and then pursued my Course to Stralsund, where I
-                  found One of my Relations Living, who offerd me her House: But as
-                  I was no longer of the World, our Friendship was soon at an end. At
-                  Dargam I often visited the Awakened Souls, and the Clergy made
-                  much of me. One of them took me to the Princess, to whom I gave 
-                  an account of my Awakenining, and likewise some Information of
-                  Herrnhuth. The next day she made me the offer of her Service, and
-                  While I took the Matter into Consideration, I often held Meetings which
-                  the Princess and her Court attended. But a New <sic>Minester</sic>  <corr>Minister</corr> coming
-                  from Wernigerode, brought the Princess so many falsehoods from
-                  Herrnhuth, that It was given me to understand I should depart:
-                  upon which I went into Prusian Pomerania, and became Preceptor
-                  to a Clergymans Children, <sic>keept</sic>  <corr>kept</corr> Meetings and had many hea[???].
-                  Complaints was soon made to the Regency and the Clergy Examined
-                  <note type="catchword">me</note>
+               <p> that saild from hence to Bergen in Norway, we lost all we had and was Obliged to beg our Bread, till we could get on board another Vessel. I came almost Naked to London, where I met
+                  with a Merchant who tok me with him to Greifwalde- In our way to Stralsund we was Obliged to cast our Leading overboard, and had no rest Night nor day. After we came to Stralsund, I
+                  stay'd there the winter over, but my wicked Life soon brought me into Prison. After I had been 4 Weeks confin'd, and reflected on my wrteched state, My hard heart broke &amp; and I
+                  fell into despair, yea I would fain have put an end to my Life. I resolv'd to turn Soldier, but no One would take me because I was too Wicked for them. Upon this I ran away from
+                  Stralsund to Anelam In a deep snow, without a coat to my Body, or a shoe on my feet. I bargaind with a Captain of a <sic>Vesel</sic>
+                  <corr>Vessel</corr> to sail in his ship, and offerd to work for him tell the Vessel sail'd, but he was afriad of me, and took me to be a thief and a <sic>Murtherer</sic>
+                  <corr>Murderer</corr>, yet when I honestly told him how it had gone with me, He <sic>keept</sic>
+                  <corr>kept</corr> me out of Compassion tell the Vessel saild, when we went to Danzig. Here I came among the Seperatists who advised me to become Religious, telling me I was lost, if
+                  I continued my present way of Life, which was my own thoughts. Coming a [2]d time to Danzig I log'd with a pious Menonist, who was a Merchant and who hip good Orders in his House.
+                  Out of kindness he offerd me his House, and as I could write and keep Accounts would have employ'd me in his Home but my Love to the sea, made me refuse his offers, Notwithstanding
+                  he endeavour'd to <sic>diswade</sic>
+                  <corr>dissuade</corr> me, and represented a Seamans Life very wicked. Finding I was not be prevaild on to change my Mind, he <sic>recomended</sic>
+                  <corr>recommended</corr> me to the good Captains at Shettin and Konigsberg. But finding them saild at my <sic>Arival</sic>
+                  <corr>Arrival</corr> at Shettin, I went with Another who pretended to much goodness, but I found him quite otherwise when we came out to sea. The Pious Clergy at Konigsberg, often
+                  made me restless and uneasy, I grew very Anxious concerning my situation, not only the Law, but my own wicked heart condem'd me, yea the very Stones in the Street seemd to Cry out
+                  against me, yea I was in my Own Eyesight the scum of all Mankind. In this situation I came to Shettin and was bruoght to Pastor Sehinmeyer, he employ'd me in teaching the Children at
+                  the free School, till the Orphan House he was then <note type="catchword">Building</note>
+                  <cb /> ///<lb /> Building was finish'd In to which I was also Admitted, here I was thoroughly Awakened, and under such Concern for my Salvation, that I was day &amp; Night at
+                  Prayers, so that my knees swell'd from constant kneeling. I fasted often and shed thousands of tears for my Past Sins. In this Distress our Saviour drew so near my heart, that it was
+                  to me as <sic>tho</sic>
+                  <corr>though</corr> I saw Him Bodily and embraced him. Yet I could not be at Rest, <sic>untell</sic>
+                  <corr>until</corr> He gave me the Certainty of His Forgiveness of my Sins, and Grace in his Blood. My unbelief often caused doubts, and finding all manner of Evil dwelling in me, I
+                  began to strive against <del>??</del> but all in Vain. this <sic>weakned</sic>
+                  <corr>weakened</corr> my Body greatly and I fell sick, neither did I recover <sic>untill</sic>
+                  <corr>until</corr> our Saviour gave me to feel his grace, which was a great Consolation to me. After staying here a year and a half, I receivd a call to Landsberg on the Water Where
+                  I taught in the Orphan House. From here I was call'd to Zillichau where I saw the first B<hi rend="superscript">rn</hi>: from Herrnhuth, at my return to Landsberg I receiv'd an
+                  Invitation to the Orphan House at Herrnhuth, but had no Inclination to accept it. But receiving a second Invitation and being advised not to decline the offer, but to follow Gods
+                  wink, I went. At the first things did not go well with me, for I attaind not that for which I came, and I could not forgo the Comdious Life I had been used to, and suit my self to a
+                  poor way of Living. After staying there half a Year I went to Sorace, and from thence to Chrishanstadt, where I staid stayed some time, and then pursued my Course to Stralsund, where
+                  I found One of my Relations Living, who offerd me her House: But as I was no longer of the World, our Friendship was soon at an end. At Dargam I often visited the Awakened Souls, and
+                  the Clergy made much of me. One of them took me to the Princess, to whom I gave an account of my Awakenining, and likewise some Information of Herrnhuth. The next day she made me the
+                  offer of her Service, and While I took the Matter into Consideration, I often held Meetings which the Princess and her Court attended. But a New <sic>Minester</sic>
+                  <corr>Minister</corr> coming from Wernigerode, brought the Princess so many falsehoods from Herrnhuth, that It was given me to understand I should depart: upon which I went into
+                  Prusian Pomerania, and became Preceptor to a Clergymans Children, <sic>keept</sic>
+                  <corr>kept</corr> Meetings and had many hea[???]. Complaints was soon made to the Regency and the Clergy Examined <note type="catchword">me</note>
                </p>
             </div>
-            
             <div type="page" n="4">
                <head type="page" ana="MAB/MemBeth_0185a-04">4</head>
-               <p>
-                  me and alton'd me to ?????????? right, at which one of them was so en???
-                  that he held a pistol to my Breast, but our Saviour preservd me from
-                  getting hurt. This affair moved the General Field Marshal Tehweir
-                  to send for me, but as soon as I was there, I was spoke against in every
-                  Pulpit. The General not being able to quiet the rage of the Clergy,
-                  I was examined by the Consistory, and aliho they could prove nothing
-                  against me, was forbid to keep Meetings at the Castle. The General
-                  often <sic>Perswaded</sic>  <corr>Persuaded</corr> me to Communicate, but the Parson would not allow
-                  it; and when the Consistory gave him orders to Admit me, I was first
-                  of all examined, in the <sic>Publich</sic>  <corr>Public</corr> Church, as tho  though I was to do Pennance
-                  for some Crime, upon which I receiv'd the Sacrament. The general
-                  finding that the Alarm concerning me increas'd, put me to an organist at Shettin, that I might learn to play on the organ. But here
-                  Pastor Tehinmeyer <sic>perswaded</sic>  <corr>persuaded</corr> me to abide with Him, which I accordingly did. The year following a comapny of B<hi rend="superscript">rn</hi>: Pass'd <sic>thro</sic>  <corr>through</corr> Shettin
-                  to Copenhagen. I visited them by Night, and my heart was so taken
-                  with them, that I would fain have gone with them. Sometime after
-                  The Consistory took me as a Preparant, but I would not Accept of
-                  any Theological Office, the offer was made me of the first Civil or
-                  Military Office that should present itself, after waiting 3 Years to
-                  no purpose, I became Preceptor to a Gentlemans 7 Children here it
-                  did not fail on good proposals, and I <sic>belive</sic>  <corr>believe</corr> I should have settled there
-                  had not the Children been Seperated  Separated, after their Mothers Decease the
-                  Relations taking of them. The prince of Anhaltzerlst, Governor of
-                  Shettin, with whom I was acquainted, Procurd me a Controllers Office
-                  which brought me a good Income, This Prince was very kind to me
-                  and offer'd me a Helpmake out of his House, but that was on such
-                  Conditions that I could not accept and for which reason I went to
-                  Wolgast, and Altho a letter was sent after me, to <sic>enform</sic>  <corr>inform</corr> me that
-                  all Difficulties was remov'd, yet I pursued my Journey to Stralsund,
-                  intending to go to Stockholm. But Lieutenant Crassau had me
-                  sought after, and took me with him to Rügen, where I taught
-                  Children 2 Years and an half, and became acquainted with B<hi rend="superscript">r</hi>.
-                  Schick. Here I learn'd to know myself more thoroughly, and found
-                  <note type="catchword">that</note>
-                  
-                  <cb/>
-                  ///<lb/>
-                  
-                  that I was no ???? poor?????? ?????? former Path was self made and
-                  formal goodness, as I had many Na???? gifts. Now my Preaching was
-                  sinful to me, and I found out my Envious heart because I was angry with
-                  Brother Schick, notwithstanding he let me keep all the Meetings. On
-                  account of these Meetings, myself and a Pastor was cited before the consistory, who forbid us keeping any more. B<hi rend="superscript">r</hi>. Schick going soon after to the
-                  Congregation, I would fain have gone with him, but as I had still many
-                  doubts remaining concerning my livelihood, I suffer'd myself to be preswaded  persuaded
-                  to stay with M<hi rend="superscript">r</hi>. Crassau, who was not willing to part with me. But soon
-                  after the B<hi rend="superscript">rn</hi>: Becklind and Linde comeing  coming to us, all my difficulties
-                  Vanish'd, and I apointed  appointed the 4<hi rend="superscript">th</hi> of May for my departure with the
-                  Watch Word: <hi rend="underline">Is there any one that will go take him with ye</hi>. As I was
-                  going to set out, 3 Sisters came who would go to the Cong<hi rend="superscript">n</hi>. which the
-                  B<hi rend="superscript">rn</hi>: thought Proper to send with me, tho  though I had no Inclination to do it
-                  and really thought how to leave them on the way, but as I was crossing
-                  a small Bridge over a <sic>Ditsch</sic> <corr>ditch</corr>, I fell into the water, and should have
-                  been drown'd had not the Sisters been with me. The first'h Year
-                  that I was at Herrnhaag, I was often in confusion concerning my outward affairs, and once on a Prayer day not being receiv'd into the
-                  Congregation, I thought to go away, but our Saviour who had brought
-                  me to the Cong.n drew so near my Heart, that I was quite bow'd in the
-                  Dust before him, and the 25<hi rend="superscript">th</hi> of April 1744 I had the unspeakable
-                  grace to be receiv'd into the Congregation. The B<hi rend="superscript">rn</hi>: going once to the
-                  Lord Supper at Marienborn, had desired me to assist the Masons who
-                  was building a Chimney, and I fell down from the upper story to the
-                  ground, so that I was 15 weeks confined before I recoverd myself, as soon
-                  as I got well, I went out to daily Labour, but could not hold it out and
-                  was ill 7 weeks. The B<hi rend="superscript">rn</hi>: then put me to learn the Needle Makers
-                  Trade. The 13<hi rend="superscript">th</hi> of November 1746 I partook the holy Sacrament, from
-                  which time on, I had a quiet cheerful and happy Path, and in the
-                  year 1747 brother Johannes admitted into the single Brus Covenant.
-                  In the Sifting Period 1748 I remaind still and quiet. The B<hi rend="superscript">rn</hi> would
-                  fain have sent me on board the Irene as Cook of the Ship but my
-                  Body was too weakly. In the year 1747 I came to Herrnhuth where
-                  I was employ'd to sweep the House and Sleep Hall. In which year I was
-               </p>
+               <p> me and alton'd me to ?????????? right, at which one of them was so en??? that he held a pistol to my Breast, but our Saviour preservd me from getting hurt. This affair moved the
+                  General Field Marshal Tehweir to send for me, but as soon as I was there, I was spoke against in every Pulpit. The General not being able to quiet the rage of the Clergy, I was
+                  examined by the Consistory, and aliho they could prove nothing against me, was forbid to keep Meetings at the Castle. The General often <sic>Perswaded</sic>
+                  <corr>Persuaded</corr> me to Communicate, but the Parson would not allow it; and when the Consistory gave him orders to Admit me, I was first of all examined, in the
+                     <sic>Publich</sic>
+                  <corr>Public</corr> Church, as tho though I was to do Pennance for some Crime, upon which I receiv'd the Sacrament. The general finding that the Alarm concerning me increas'd, put me
+                  to an organist at Shettin, that I might learn to play on the organ. But here Pastor Tehinmeyer <sic>perswaded</sic>
+                  <corr>persuaded</corr> me to abide with Him, which I accordingly did. The year following a comapny of B<hi rend="superscript">rn</hi>: Pass'd <sic>thro</sic>
+                  <corr>through</corr> Shettin to Copenhagen. I visited them by Night, and my heart was so taken with them, that I would fain have gone with them. Sometime after The Consistory took me
+                  as a Preparant, but I would not Accept of any Theological Office, the offer was made me of the first Civil or Military Office that should present itself, after waiting 3 Years to no
+                  purpose, I became Preceptor to a Gentlemans 7 Children here it did not fail on good proposals, and I <sic>belive</sic>
+                  <corr>believe</corr> I should have settled there had not the Children been Seperated Separated, after their Mothers Decease the Relations taking of them. The prince of Anhaltzerlst,
+                  Governor of Shettin, with whom I was acquainted, Procurd me a Controllers Office which brought me a good Income, This Prince was very kind to me and offer'd me a Helpmake out of his
+                  House, but that was on such Conditions that I could not accept and for which reason I went to Wolgast, and Altho a letter was sent after me, to <sic>enform</sic>
+                  <corr>inform</corr> me that all Difficulties was remov'd, yet I pursued my Journey to Stralsund, intending to go to Stockholm. But Lieutenant Crassau had me sought after, and took me
+                  with him to Rügen, where I taught Children 2 Years and an half, and became acquainted with B<hi rend="superscript">r</hi>. Schick. Here I learn'd to know myself more thoroughly, and
+                  found <note type="catchword">that</note>
+                  <cb /> ///<lb /> that I was no ???? poor?????? ?????? former Path was self made and formal goodness, as I had many Na???? gifts. Now my Preaching was sinful to me, and I found out my
+                  Envious heart because I was angry with Brother Schick, notwithstanding he let me keep all the Meetings. On account of these Meetings, myself and a Pastor was cited before the
+                  consistory, who forbid us keeping any more. B<hi rend="superscript">r</hi>. Schick going soon after to the Congregation, I would fain have gone with him, but as I had still many
+                  doubts remaining concerning my livelihood, I suffer'd myself to be preswaded persuaded to stay with M<hi rend="superscript">r</hi>. Crassau, who was not willing to part with me. But
+                  soon after the B<hi rend="superscript">rn</hi>: Becklind and Linde comeing coming to us, all my difficulties Vanish'd, and I apointed appointed the 4<hi rend="superscript">th</hi> of
+                  May for my departure with the Watch Word: <hi rend="underline">Is there any one that will go take him with ye</hi>. As I was going to set out, 3 Sisters came who would go to the
+                     Cong<hi rend="superscript">n</hi>. which the B<hi rend="superscript">rn</hi>: thought Proper to send with me, tho though I had no Inclination to do it and really thought how to
+                  leave them on the way, but as I was crossing a small Bridge over a <sic>Ditsch</sic>
+                  <corr>ditch</corr>, I fell into the water, and should have been drown'd had not the Sisters been with me. The first'h Year that I was at Herrnhaag, I was often in confusion
+                  concerning my outward affairs, and once on a Prayer day not being receiv'd into the Congregation, I thought to go away, but our Saviour who had brought me to the Cong.n drew so near
+                  my Heart, that I was quite bow'd in the Dust before him, and the 25<hi rend="superscript">th</hi> of April 1744 I had the unspeakable grace to be receiv'd into the Congregation. The
+                     B<hi rend="superscript">rn</hi>: going once to the Lord Supper at Marienborn, had desired me to assist the Masons who was building a Chimney, and I fell down from the upper story
+                  to the ground, so that I was 15 weeks confined before I recoverd myself, as soon as I got well, I went out to daily Labour, but could not hold it out and was ill 7 weeks. The B<hi
+                     rend="superscript">rn</hi>: then put me to learn the Needle Makers Trade. The 13<hi rend="superscript">th</hi> of November 1746 I partook the holy Sacrament, from which time on, I
+                  had a quiet cheerful and happy Path, and in the year 1747 brother Johannes admitted into the single Brus Covenant. In the Sifting Period 1748 I remaind still and quiet. The B<hi
+                     rend="superscript">rn</hi> would fain have sent me on board the Irene as Cook of the Ship but my Body was too weakly. In the year 1747 I came to Herrnhuth where I was employ'd to
+                  sweep the House and Sleep Hall. In which year I was </p>
             </div>
-            
             <div type="page" n="5">
                <head type="page" ana="MAB/MemBeth_0185a-05">5</head>
-               <p>    
-                  was receivd among the ????? right at In the year 1753 I ???
-                  to Ebersdorf where I work'd som????? at my Trade till in the year 1755 I ???
-                  had the care of the Dining Room an Sleeping Hall.
-                  In the year 1766 I became School and Recouing Master at Irebus,
-                  But my ill State of Health preventing me from attending this Business so
-                  faithfully as I could have wish'd, I gave it up to Another Brother, and
-                  removed to my Choir House at Neisky, where in the year 1766 I was
-                  receiv'd an Acccoluth. After I had a little regain'd my Health I was called
-                  to an Employment at Barby, where I arrived the 21<hi rend="superscript">st</hi> of March 1767</p>
-                  <p>Thus far his Own Words.</p>
-                  <p>His continual Ill Health preventing his Business, He desired to be
-                  taken again in the Choir House . and therefore accepted the call
-                  to the B<hi rend="superscript">rns</hi> House here, with great Joy, and came hither the 3d of
-                  October 1767 <sic>tho</sic>  <corr>though</corr> his ill Health continued here, yet he performd
-                  the Office of Watchman of his Choir, with great faithfulness, had a
-                  quiet cheerful and happy Walk among us, and testified a Desire
-                  to go to Astracan; But it soon appeard our Saviour had other Intentions with him, for the 17<hi rend="superscript">th</hi> of October he took to his Bed. His
-                  Illness which began with pain in the side, increas'd so, that it
-                  was plain our Saviour hasten'd with his happiness; That blessed
-                  Moment came the 19 Instant, in the afternoon when he departd
-                  to ever Lasting Rest, during a fine Lihirgie, with the Blessing of
-                  his Choir, and the Cong<hi rend="superscript">n</hi>. in the 57<hi rend="superscript">th</hi> Year of his Age.
-               </p>
+               <p> was receivd among the ????? right at In the year 1753 I ??? to Ebersdorf where I work'd som????? at my Trade till in the year 1755 I ??? had the care of the Dining Room an Sleeping
+                  Hall. In the year 1766 I became School and Recouing Master at Irebus, But my ill State of Health preventing me from attending this Business so faithfully as I could have wish'd, I
+                  gave it up to Another Brother, and removed to my Choir House at Neisky, where in the year 1766 I was receiv'd an Acccoluth. After I had a little regain'd my Health I was called to an
+                  Employment at Barby, where I arrived the 21<hi rend="superscript">st</hi> of March 1767</p>
+               <p>Thus far his Own Words.</p>
+               <p>His continual Ill Health preventing his Business, He desired to be taken again in the Choir House . and therefore accepted the call to the B<hi rend="superscript">rns</hi> House
+                  here, with great Joy, and came hither the 3d of October 1767 <sic>tho</sic>
+                  <corr>though</corr> his ill Health continued here, yet he performd the Office of Watchman of his Choir, with great faithfulness, had a quiet cheerful and happy Walk among us, and
+                  testified a Desire to go to Astracan; But it soon appeard our Saviour had other Intentions with him, for the 17<hi rend="superscript">th</hi> of October he took to his Bed. His
+                  Illness which began with pain in the side, increas'd so, that it was plain our Saviour hasten'd with his happiness; That blessed Moment came the 19 Instant, in the afternoon when he
+                  departd to ever Lasting Rest, during a fine Lihirgie, with the Blessing of his Choir, and the Cong<hi rend="superscript">n</hi>. in the 57<hi rend="superscript">th</hi> Year of his
+                  Age. </p>
             </div>
          </div>
       </body>

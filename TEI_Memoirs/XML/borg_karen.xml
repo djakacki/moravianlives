@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -155,12 +152,12 @@
             </div>
             <div type="page" n="6">
                <head type="page" ana="MemLon_300009-06">6</head>
-               <p>more than everything to me. <date>May 4 1786</date> I was received into the <abbr>Sgle</abbr>. <abbr>Srs</abbr>. choir, on which occasion I had an inexpressibly blessed perception
-                  of the Lord's nearness, and gave myself up to him anew as his eternal property, imploring him to keep posses- sion of my heart, that all his thoughts of peace with me might be
-                  attained. Towards the end of the same month, I had the pleasure to see my dear father here on a visit, and many a pleasing recollection of the conversation I had with him on
-                  spiritual subjects, is im- printed on my memory. <date>July 2</date> in the same year, I received a proposal to as- sist as teacher in the Girls' school, which caused me many heavy
-                  hours, feeling as I did my insufficiency and inex- perience, and knowing that there were others more suitable for the situation. The Lord however enabled me to take the proposal as
-                  from His hand, and helped me graciously through all dif- ficulties. It is true I had much to <note type="catchword">learn</note>
+               <p>more than everything to me. <date>May 4 1786</date> I was received into the <abbr>Sgle</abbr>. <abbr>Srs</abbr>. choir, on which occasion I had an inexpressibly blessed perception of
+                  the Lord's nearness, and gave myself up to him anew as his eternal property, imploring him to keep posses- sion of my heart, that all his thoughts of peace with me might be attained.
+                  Towards the end of the same month, I had the pleasure to see my dear father here on a visit, and many a pleasing recollection of the conversation I had with him on spiritual
+                  subjects, is im- printed on my memory. <date>July 2</date> in the same year, I received a proposal to as- sist as teacher in the Girls' school, which caused me many heavy hours,
+                  feeling as I did my insufficiency and inex- perience, and knowing that there were others more suitable for the situation. The Lord however enabled me to take the proposal as from His
+                  hand, and helped me graciously through all dif- ficulties. It is true I had much to <note type="catchword">learn</note>
                </p>
             </div>
             <div type="page" n="7">

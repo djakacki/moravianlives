@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Moravian Lives TEI P5 ODD Customisation</title>
+                <author xml:id="JAKA1">Diane Jakacki</author>
+                <author xml:id="jschaumberger">Justin Schaumberger</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <name>Diane Jakacki</name>
+                    <email>diane.jakack@bucknell.edu</email>
+                </authority>
+                <authority>
+                    <name>Justin Schaumberger</name>
+                    <email>jes083@bucknell.edu</email>
+                </authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This TEI P5 Customisation file is being developed for memoirs from the Moravian Archives in Bethlehem, Pennsylvania as part of the Moravian Lives project ("ML"). The intention is that it should evolve over time.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p>Corrections are made to the transcribed memoirs based on transcribers' interpretations of deletions, overwrites, additions, and corrections.</p>
+                </correction>
+                <interpretation>
+                    <p>In some cases - but not all - transcribers have corrected non-standard spelling and punctuation.</p>
+                    <p>In order to take on more complex textual analysis, certain tags have been customized in this schema. These are marked in comments by "CUSTOMIZATION: " and then the element or attribute that has been altered or expanded.</p>
+                </interpretation>
+                <punctuation>
+                    <p>In some cases - but not all - transcriptions reflect 18th century forms of punctuation, including '=' rather than hyphens, glyphs rather than asterisks, etc.</p>
+                </punctuation>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2019-06-21" who="#JAKA1 #jschaumberger">Updated and added schematic specifities</change>
+            <change when="2018-12-07" who="#JAKA1">Removed note types</change>
+            <change when="2018-11-23" who="#JAKA1">Cleaned up ODD structure</change>
+            <change when="2018-11-15" who="#JAKA1">Extended English and German attributes</change>
+            <change when="2018-10-06" who="#JAKA1">Added English and German name attributes</change>
+            <change when="2018-09-30" who="#JAKA1">Added types for Faull's FA2018 HUMN100 course</change>
+            <change when="2017-12-30" who="#JAKA1">Creation of ODD to version 0.1</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+                <head>Formal Declaration</head>
+                <schemaSpec ident="ML" start="TEI">
+                    <!-- tei module sets up class structure, etc. -->
+                    <moduleRef key="tei"/>
+                    <!-- analysis module, include only span -->
+                    <moduleRef key="analysis" include="span"/>
+                    <!-- Include all of transcription -->
+                    <moduleRef key="transcr"/>
+                    <!-- certainty module-->
+                    <moduleRef key="certainty" include="certainty respons"/>
+                    <!-- core module, lots of things. -->
+                    <moduleRef key="core" include="abbr add addrLine address author bibl biblScope cb choice cit citedRange corr date del desc editor email expan facs foreign gap gloss graphic head hi item
+                        label l lb lg list listBibl measure milestone name note orig p pb ptr pubPlace publisher quote ref reg region relatedItem resp respStmt rs sic term textLang title unclear"/>
+                    <!-- Including only settingDesc and particDesc for the time being - may go back and add later -->
+                    <moduleRef key="corpus" include="settingDesc particDesc"/>
+                    <!-- Include all of dictionaries for language processing, just in case -->
+                    <moduleRef key="dictionaries"/>
+                    <!-- Include all of characters and glyphs for the time being - may go back and exclude some -->
+                    <moduleRef key="gaiji"/>
+                    <!-- Include all of figures -->
+                    <moduleRef key="figures"/>
+                    <!-- Include all header module -->
+                    <moduleRef key="header"/>
+                    <!-- include all for linking module -->
+                    <moduleRef key="linking"/>
+                    <!-- Include all of msdescription for now -->
+                    <moduleRef key="msdescription"/>
+                    <!-- namesdates: include all for now. -->
+                    <moduleRef key="namesdates"/>
+                    <!-- Include all of verse module -->
+                    <moduleRef key="verse"/>
+                    <!-- tagsdoc module to include code -->
+                    <moduleRef key="tagdocs" include="code"/>
+                    <!-- textstructure module -->
+                    <moduleRef key="textstructure" include="TEI body byline closer dateline div docAuthor docDate floatingText group opener postscript salute signed text trailer"/>
+                    <!-- Do not include Graphs, networks, and trees (nets) unless we find we need it -->
+                    <!-- Do not include Transcribed speech (spoken) unless we decide we want to customize distinction between ownhand and dictated -->
+                    <!-- Do not include transcription module unless we decide we want to get more specific about describing the physical document-->
+                    <!-- Do not include feature structures (iso-fs) unless we decide we need it -->
+                    <!-- Do not include textcrit module unless we decide to compare versions of memoirs across archives -->
+                    <!-- IMPORTANT: In order to accommodate complex semantic tagging regarding the Moravians with regard to emotion, events, health/illness, and occupation, 
+            we have customized the name element to include them as attributes in English and German.
+            the specifications are documented in English and German with @sameAs for the other language. If we find that additional languages are needed in the Moravian Lives tagging protocols, we will add them. 
+            ~Diane Jakacki, 11/06/2018 -->
+                    
+                    
+                    <!-- CUSTOMIZATION: added event, health, attributes  -->
+                    <classSpec ident="att.naming" module="tei" type="atts" mode="change">
+                        <attList>
+                            <attDef ident="event" mode="change" sameAs="ereignis"/>
+                            <attDef ident="health" mode="change" sameAs="beruf"/>
+                       </attList>
+                    </classSpec>
+                    
+                    <elementSpec ident="name" mode="change" module="core">
+                        <attList>
+                            <attDef ident="event" mode="change">
+                                <valList mode="add" type="semi">
+                                    <valItem ident="marriage"/>
+                                    <valItem ident="sacrament"/>
+                                    <valItem ident="conversion"/>
+                                    <valItem ident="death"/>
+                                    <valItem ident="birth"/>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+                </schemaSpec>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="entry">
+            <table>
+               <row>
+                  <cell><date when-iso="1748-01-29">29</date></cell>
+                  <cell>Shekelleme made us a presant of half a Dear. gave it hartily.</cell>
+               </row>
+            </table>
+         </div>
+         <div type="entry">
+            <table>
+               <row>
+                  <cell><date when-iso="1748-01-30">30</date></cell>
+                  <cell>had a Still Sweet Sabbath felt in per=ticuler our Lambs peace. offer'd him our Worthless poor Hearts. beg'd him to take and keep us as Rewards of His paine. </cell>
+               </row>
+               <row>
+                  <cell />
+                  <cell>in the Evening two Dellaware Desir'd Room for a Bundle of things. we refus'd it fearing others Shud Demand unto whom thay Did not belong</cell>
+               </row>
+            </table>
+         </div>
+         <div type="entry">
+            <table>
+               <row>
+                  <cell><date when-iso="1748-01-31">31</date></cell>
+                  <cell>Bro. &amp; Sister Smith went a visiting found verry few at hom.</cell>
+               </row>
+               <row>
+                  <cell />
+                  <cell>Shekellame ask'd Powell if hee'd make him a larg fence. Said hee'd pay in Skins. tould him Powel had not time</cell>
+               </row>
+            </table>
+         </div>
+         <div type="entry">
+            <table>
+               <row>
+                  <cell><date when-iso="1748-02-01">Feb. 1</date></cell>
+                  <cell>came two Traders down the river cal.d of Shekellame but came not to us. we see that tho we behave friend-dly towards the Traders yet
+                     when one happens to come in our hous hees as a fish out of water. thank our Lord thay trouble us so little</cell>
+               </row>
+            </table>
+         </div>
+         <div type="entry">
+            <table>
+               <row>
+                  <cell><date when-iso="1748-02-03">2.3</date></cell>
+                  <cell>had Severall visi.. Some Indians we had not before Seen. Sum have no corn at all &amp; cannot by with Skins But are oblig'd first to chang them for Brandy or with that by Corn</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>
