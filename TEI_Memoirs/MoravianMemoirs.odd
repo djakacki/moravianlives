@@ -400,25 +400,27 @@
           
 
           
-          <!-- CUSTOMIZATION: Trying to add @cause to the date tag -->
+          <!-- CUSTOMIZATION: Adding cause to date -->
           <classSpec ident="att.datable.iso" module="core" type="atts" mode="change">
             <attList>
               <attDef ident="cause" mode="change" />
             </attList>
           </classSpec>
           
-          <!-- CUSTOMIZATION: added date:@cause / English -->
+          <!-- CUSTOMIZATION: added date:@cause / English (Also avaliable for others such as roleName. Could not figure out how to only have it for date) -->
           <elementSpec ident="date" mode="change" module="core">
             <attList>
               <attDef ident="cause" mode="change">
                 <valList mode="add" type="semi">
                   <valItem ident="unkown"/>
+                  <valItem ident="disease"/>
+                  <valItem ident="natural causes"/>
+                  <valItem ident="injury"/>
                 </valList>
               </attDef>
             </attList>
           </elementSpec>
 
-        
           
           <!-- end of schema -->
         </schemaSpec>
