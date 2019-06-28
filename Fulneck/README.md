@@ -20,3 +20,6 @@ State 3 TEI files are in two directories:
 
 State 3 completed files are moved up one directory so ...
 ../Fulneck/SemanticXML/#.xml
+
+
+** We have not yet taken into account the workflow for files in the Transcription Desk. 
