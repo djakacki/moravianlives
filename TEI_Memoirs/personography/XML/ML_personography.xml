@@ -6346,6 +6346,11 @@
                      <placeName>Amsterdam</placeName>
                   </desc>
                </event>
+               <residence>
+                  <placeName>Harwich</placeName>
+                  <date calendar="Julian" from="1744-05-29" to="1742-02-28">29 May, 1744 to 28 Febuary, 1742</date>
+                  <date calendar="Gregorian" from="1744-06-09" to="1743-03-11">9 June, 1744 to 11 March, 1743</date>
+               </residence>
                <!-- returned Germany, left London for Harwich 29.05.1744 (OS) / 09.06.1744 (NS) -->
                <!-- returned London 28.02.1742 (OS) / 11.03.1743 (NS),
                   returned Germany, sailed from London 14.03.1742 (OS) / 25.03.1743 (NS), returned London 16.07.1743 (OS) / 27.07.1743 (NS),???????? -->
@@ -6651,13 +6656,20 @@
                <occupation when-iso="1754">congregation warden <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
                <occupation when-iso="1755">congregation warden <placeName ref="#fulneck">Fulneck</placeName></occupation>
                <occupation from="1765" to="1767">congregation labourer <placeName>Pudsey</placeName></occupation>
-               <!-- board of administrators 1757, oeconomates’ conference 1767 unity office: deputy General Synod Herrnhut 1756, Marienborn 1764, -->
-               
+               <!--  unity office: deputy General Synod Herrnhut 1756, Marienborn 1764, -->
+               <occupation when-iso="1757">member of the board of administrators</occupation>
                <event type="marriage" when-iso="1754-11-19">
                   <desc>
                      <placeName>Church of St Dunstan's in the West London</placeName>
                   </desc>
                </event>
+               <event when-iso="1767">
+                  <desc>
+                     oeconomates’ conference
+                  </desc>
+               </event>
+               <occupation when-iso="1756">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000001">Herrnhut</placeName></occupation>
+               <occupation when-iso="1764">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000057">Marienborn</placeName></occupation>
                
                <note>(LW/G/P/F)CBsb#CHARLESWORTH, James (1721-1770)
                   b 05.12.1721 (OS) / 16.12.1721 (NS) Little Gomersal Parish of Birstall occupation: cloth worker / cloth dresser
