@@ -1,6 +1,7 @@
 # THE BIG LIST OF FULNECK PEOPLE
 
 ## (those with memoirs - meant for tracking.)
+### This list is synchronized with the image-tracking file, which can be found here:
 
 Adkinson, Martha<br />
 Allot, Mary<br />
