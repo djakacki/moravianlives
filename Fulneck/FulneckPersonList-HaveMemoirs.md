@@ -20,7 +20,7 @@ Bird, Mary<br />
 Birkhead, William<br />
 Booth, Elizabeth<br />
 Bradley, Rachel<br />
-_Brook, Ann_<br />
+__Brook, Ann__<br />
 Brook, Rachel<br />
 Brown, Alice<br />
 Bullock, Ann<br />
@@ -38,12 +38,12 @@ Clark, Grace<br />
 Clark, Hannah<br />
 Clark, Mary<br />
 Clarke, John<br />
-_Clayton, Martha_<br />
+__Clayton, Martha__<br />
 Clerk, Esther (1)<br />
 Clerk, Esther (2)<br />
-_Clemens, Sophia_<br />
+__Clemens, Sophia__<br />
 Clough, Elizabeth<br />
-_Clough, Sarah_<br />
+__Clough, Sarah__<br />
 Coffin, Elizabeth<br />
 Craven, Sarah<br />
 Darnbrook, John<br />
@@ -62,36 +62,36 @@ Gray, Timothy<br />
 Green, Hannah Maria<br />
 Grinfield, Thomas<br />
 Gurney, Sarah<br />
-_Hague, Mary_<br />
-_von Hayn, Henrietta_<br />
+__Hague, Mary__<br />
+__von Hayn, Henrietta__<br />
 Haley, Joseph<br />
 Haley, Lydia<br />
 Hartley, Martha<br />
 Hinchcliffe, Mary<br />
 Hindley, Mary<br />
 Holt, Sally<br />
-_Horsefield, Hannah_<br />
+__Horsefield, Hannah__<br />
 Horsfall, Sarah<br />
 Horsman, Mary<br />
-_Howe, Lydia_<br />
+__Howe, Lydia__<br />
 Hugh, John<br />
 Hunt, Hannah<br />
 Hutchinson, Hannah<br />
 Kellet, Ann<br />
 von Larisch, Charles<br />
-_Langley, Anne_<br />
+__Langley, Anne__<br />
 LaTrobe, Justina Elizabeth<br />
 Lawton, Elizabeth<br />
 Liley, Robert<br />
 Liley, Suzanna<br />
 Luty, Eleanor<br />
-_Marychurch, Ann_<br />
-_Mercer, Hannah_<br />
+__Marychurch, Ann__<br />
+__Mercer, Hannah__<br />
 Metcalf, Sarah<br />
-_Moor, Esther_<br />
+__Moor, Esther__<br />
 Molther, Philip Henry<br />
 Morgan, John<br />
-_Mortimer, Anna Maria_<br />
+__Mortimer, Anna Maria__<br />
 Mortimer, Mary<br />
 Mortimer, Sarah<br />
 Myers, Mary (1)<br />
@@ -99,12 +99,12 @@ Myers, Mary (2)<br />
 Naylor, Faith<br />
 Naylor, James<br />
 Naylor, Martha<br />
-_Nisbet, Jane_<br />
-_Nyberg, Benigna_<br />
+__Nisbet, Jane__<br />
+__Nyberg, Benigna__<br />
 Oates, James<br />
 Oates, Mary<br />
-_Oxley, Christian_<br />
-_Pell, AE_<br />
+__Oxley, Christian__<br />
+__Pell, AE__<br />
 Peel, Elizabeth<br />
 Peel, Mary<br />
 Peel, Suzanna<br />
@@ -115,7 +115,7 @@ Ramftler, Christian Friedrich<br />
 Ratcliffe, Millan<br />
 Render, Isabel<br />
 Render, Mary<br />
-_Rice, Anna Caritas_<br />
+__Rice, Anna Caritas__<br />
 Robbins, Hannah Sophia<br />
 Robinson, Sarah<br />
 Roebuck, Rachel<br />
@@ -124,7 +124,7 @@ Rogers, Mary<br />
 Rothera Esther<br />
 Scott, Mary<br />
 Sheard, Benjamin<br />
-_Sheard, Sarah_<br />
+__Sheard, Sarah__<br />
 Shoesmith, Anna<br />
 Shoesmith, Thomas<br />
 Skelton, John<br />
@@ -133,7 +133,7 @@ Smith, Susan<br />
 Spence, Marianne<br />
 Stansfield, Grace<br />
 Stead, Ann<br />
-_Stockwell, Abraham_<br />
+__Stockwell, Abraham__<br />
 Sutcliffe, Mercy<br />
 Tattersall, Edmund<br />
 Tattersall, Mary<br />
