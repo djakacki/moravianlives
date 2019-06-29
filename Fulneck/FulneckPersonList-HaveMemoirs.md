@@ -4,6 +4,8 @@
 ### This list is synchronized with the image-tracking file, which can be found here:
 [https://github.com/moravianlives/moravianlives/blob/master/Bethlehem_UK-Image-lists/Fulneck_ImageFiles.md]
 
+(if name is __BOLD__ the images have not yet been added to server)
+
 Adkinson, Martha<br />
 Allot, Mary<br />
 Anderson, Anna Rosina<br />
