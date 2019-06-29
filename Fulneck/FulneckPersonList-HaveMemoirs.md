@@ -1,6 +1,6 @@
-#THE BIG LIST OF FULNECK PEOPLE
+# THE BIG LIST OF FULNECK PEOPLE
 
-##(those with memoirs - meant for tracking.)
+## (those with memoirs - meant for tracking.)
 
 Adkinson, Martha
 Allot, Mary
