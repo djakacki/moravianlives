@@ -2,6 +2,7 @@
 
 ## (those with memoirs - meant for tracking.)
 ### This list is synchronized with the image-tracking file, which can be found here:
+[https://github.com/moravianlives/moravianlives/blob/master/Bethlehem_UK-Image-lists/Fulneck_ImageFiles.md]
 
 Adkinson, Martha<br />
 Allot, Mary<br />
