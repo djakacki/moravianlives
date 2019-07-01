@@ -89,8 +89,8 @@
 					<msIdentifier>
 						<repository>Moravian Archive: Fulneck, UK</repository>
 						<msName type="memoir" ana="Ful_3_54_MorganJohn">John Morgan</msName>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-01.jpg" />
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-02.jpg" />
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-01.jpg"/>
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-02.jpg"/>
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
@@ -100,8 +100,12 @@
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
 		</revisionDesc>
 	</teiHeader>
-	<text>
-		<body>
+	<text type="memoir">
+		<body xml:lang="en">
+			<div type="memoir">
+				<head>John Morgan</head>
+				<div type="page" n="1">
+					<head type="page">1</head>
 			<pb xml:id="Ful_3_54_MorganJohn-01.jpg" n="1"/>
 			<p>
 				<lg>
@@ -115,7 +119,8 @@
 					<l>his heart there always appeard a tendency to being close, and re</l>
 					<l>serv&apos;d, which often made his Brn sigh, least in futurity the same</l>
 					<l>should continue and consequently prove detrimental to his Boys and</l>
-					<l>Youths course in the Congn</l></lg>
+					<l>Youths course in the Congn</l>
+				</lg>
 				<lg>
 					<l>About the time of the Oeconomies removing from Smith house</l>
 					<l>to Lambshill in 1753 there often appeared something of the dear Mo</l>
@@ -130,7 +135,8 @@
 					<l>him on account of which he should become a Sinner. However he</l>
 					<l>applied himself with exemplary Diligence to writing Cong<hi rend="superscript">n</hi> Accounts,</l>
 					<l>and showed a certain pleasure in doing whatsoever was committed to</l>
-					<l>him with great faithfulness and punctuallity.</l></lg>
+					<l>him with great faithfulness and punctuallity.</l>
+				</lg>
 				<lg>
 					<l>He was receiv&apos;d into the great Boys choir Jan<hi rend="superscript">y</hi> 9, 1797 by B<hi rend="superscript">r</hi> Renatus</l>
 					<l>which seemingly had a blessed effect upon him for a long time af</l>
@@ -142,12 +148,16 @@
 					<l>desire to learn the business thoroughly was pleasing to every </l>
 				</lg>
 			</p>
+				</div>
+				<div type="page" n="2">
+					<head type="page">2</head>
 			<pb xml:id="Ful_3_54_MorganJohn-02.jpg" n="2"/>
 			<p>
 				<lg>
 					<l>one who had to do with him but he laboured under an impedi</l>
 					<l>ment in his Eyesight which often pain&apos;d him and made him dis</l>
-					<l>pair sometimes of ever learning to work as he should do</l></lg>
+					<l>pair sometimes of ever learning to work as he should do</l>
+				</lg>
 				<lg>
 					<l>In Nov<hi rend="superscript">r</hi> 1759 he was one of those Youth when our dear Johannes</l>
 					<l>has been very orderly ever since he came into the choirhouse,</l>
@@ -184,7 +194,8 @@
 					<l>and particularly to express himself about going home. The 7<hi rend="superscript">th</hi></l>
 					<l>in the Morning he expressed again his desire to go home so as to </l>
 					<l>be understood, &amp; about 11 at Night his Sickness took such a turn</l>
-					<l>that it was thought he would go directly.</l></lg>
+					<l>that it was thought he would go directly.</l>
+				</lg>
 				<lg>
 					<l>From this time he took very little notice of any person or thing</l>
 					<l>about him but lay quite still seemingly without pain till the 9<hi rend="superscript">th</hi></l>
@@ -198,6 +209,8 @@
 					<l>his 18<hi rend="superscript">th</hi> Year</l>
 				</lg>
 			</p>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI>
