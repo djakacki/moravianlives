@@ -98,6 +98,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change when="2019-07-01" who="#jschaumberger">Started and finished markup of the text</change>
 			<change when="2019-06-27" who="#JAKA1">Created Elizabeth Clark memoir</change>
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
 		</revisionDesc>
@@ -111,10 +112,10 @@
 						<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_81Clark-01.jpg"/>
 			<p>
 				
-					I was born in holbeck in the parish of Leeds in the year of our
-					Lord 1717 May ye 18 of very dear &amp; tender parrents who were
-					prebytouryons but I was baptiz&apos;d by a Minister of the Church
-					of England on account of their thinking of my soon departing
+					I was born in <placeName>holbeck</placeName> in the <placeName>parish of Leeds</placeName> in the year of our
+					<persName type="diety">Lord</persName> <date type="birth" when-iso="1717-05-18">1717 May ye 18</date> of very dear &amp; tender parrents who were
+					prebytouryons but I was <name event="baptism">baptiz&apos;d</name> by a Minister of the <orgName>Church
+					of England</orgName> on account of their thinking of my soon departing
 					this life Else I was educated in the Religion of the presbytierens
 					When I was a little Child and my mother Dressing of me
 					She generaly told me I was now going amongst other Children
