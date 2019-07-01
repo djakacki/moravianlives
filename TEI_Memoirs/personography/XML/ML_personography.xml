@@ -6289,7 +6289,8 @@
          <listPerson>
             <person xml:id="mlper000539" sex="m">
                <persName>
-                  <forename>Charles Henry Conrad von</forename>
+                  <forename>Charles Henry Conrad</forename>
+                  <nameLink>von</nameLink>
                   <surname>Larisch</surname>
                </persName>
                <birth>
@@ -7460,6 +7461,61 @@
                   <forename>Thomas</forename>
                   <surname>Shoesmith</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1741-02-20">20 Febuary, 1741</date>
+                  <placeName>Norwood Green</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1770-07-21">21 July, 1770</date>
+                  <placeName>Pudsey</placeName>
+               </death>
+               <occupation>stuff weaver</occupation>
+               <residence when-iso="1767">Pudsey</residence>
+               <event type="baptism">
+                  <desc>
+                     <orgName>Church of England</orgName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     under the <orgName>Brethren</orgName>'s care from childhood
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1756" cert="medium">
+                  <desc>
+                     recieved society <placeName>Wyke</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1758-08-05">
+                  <desc>
+                     <placeName>brethren's house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1758-08-21">
+                  <desc>
+                     recieved congregation <placeName ref="#fulneck">Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1767">
+                  <desc>
+                     proved unfaithful annd excluded congregation
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     readmitted society <placeName>Pudsey</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1770-06-04">
+                  <desc>
+                     readmitted congregation <placeName>Pudsey</placeName>
+                  </desc>
+               </event>
+               <event type="marriage" when-iso="1767-09-20">
+                  <desc>
+                     <placeName>St Wilfrid's Church Calverley</placeName>
+                  </desc>
+               </event>
                <note>SHOESMITH, Thomas (1741-1770) b 20.02.1741 Norwood Green occupation: stuff weaver
                   resided: Pudsey 1767
                   reception: baptized Church of England, under the Brethren’s care from childhood,
@@ -7477,6 +7533,86 @@
                   <forename>Timothy</forename>
                   <surname>Gray</surname>
                </persName>
+               <birth>
+                  <date type="birth" when-iso="1718-07-30">30 July, 1718</date>
+                  <placeName>Northowram Parish of Halifax</placeName>
+               </birth>
+               <death>
+                  <date type="death" when-iso="1795-08-11">11 August, 1795</date>
+                  <placeName>Wyke</placeName>
+               </death>
+               <occupation>clothier</occupation>
+               <event type="baptism">
+                  <desc>
+                     <orgName>Presbyterian Church</orgName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1743">
+                  <desc>
+                     received society <placeName>Birkenshaw</placeName>
+                  </desc>
+               </event>
+               <event type="transfer" when-iso="1748">
+                  <desc>
+                     transfered society <placeName ref="#mlpla000059">Mirfield</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-10-01">1 October, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-10-12">12 October, 1748</date>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-02-11">11 Febuary, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-02-22">22 Febuary, 1749</date>
+                     <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <date calendar="Julian" when-iso="1748-03-24">24 March, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-04-04">4 April, 1749</date>
+                     recieved congregation <placeName ref="#fulneck">Yorkshire in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1752">
+                  <desc>
+                     <placeName>brethren's house Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1753-05-03">
+                  <desc>
+                     advised to leave <placeName>brethren's house</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1755">
+                  <desc>
+                     excluded congnregation on <name event="marriage">marriage</name>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     readmitted society <placeName>Wyke</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1757-11-13">
+                  <desc>
+                     readmitted congregation <placeName>Lower Wyke in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event when-iso="1758-09-03">
+                  <desc>
+                     reaadmitted sacrament <placeName>Lower Wyke in Fulneck</placeName>
+                  </desc>
+               </event>
+               <event type="marriage" when-iso="1755-02-06">
+                  <desc>
+                     <placeName>St Peter's Church Hartshead</placeName>
+                  </desc>
+               </event>
                <note>(P/G/W/F/LW)CBsbo/x+^GRAY, Timothy (1718-1795)
                   b 30.07.1718 Northowram Parish of Halifax
                   occupation: clothier
