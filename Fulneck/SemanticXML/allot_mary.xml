@@ -1,4 +1,5 @@
-<?xml-model href="../out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -97,12 +98,13 @@
             <div type="page" n="1">
                <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_12AllotMary-01.jpg"/>
-               <p><persName ref="#mlper000217">Mary Alott</persName> Was born at <placeName>Barksland in the Parish of Elland</placeName>.
-                  On the <date when-iso="1734-12-12">12th of Dec<hi rend="superscript">r
-                     </hi>1734</date> N S. When she was about <date when-iso="1737" cert="medium"
-                     >three years old</date> her Father dyed &amp; she liv&#39;d with her mother
-                  &amp; her <persName ana="Betty Midgley">Aunt</persName> (Namely Betty Midgley) who
-                  jointly Nurs&#39;d &amp; maintain&#39;d her <hi rend="superscript">till</hi>
+               <p><persName ref="#mlper000217">Mary Alott</persName> Was born at
+                     <placeName>Barksland in the Parish of Elland</placeName>. On the <date
+                     when-iso="1734-12-12">12th of Dec<hi rend="superscript">r </hi>1734</date> N S.
+                  When she was about <date when-iso="1737" cert="medium">three years old</date> her
+                  Father dyed &amp; she liv&#39;d with her mother &amp; her <persName
+                     ana="Betty Midgley">Aunt</persName> (Namely Betty Midgley) who jointly
+                  Nurs&#39;d &amp; maintain&#39;d her <hi rend="superscript">till</hi>
                   <date when-iso="1741" cert="medium">she was about seven</date>, then her mother
                   being again married her <persName ana="Betty Midley">aunt</persName> left them
                   took a Room &amp; design&#39;d to live by herself, But <hi rend="superscript"
@@ -140,18 +142,18 @@
                   thing except whom spoken to: But however as we now have found she took good Notice
                   of ever thing &amp; Ponder<hi rend="superscript">d </hi>them in her Heart. <date
                      when-iso="1754-02">In February this present year</date> she had the <name
-                     health="disease">small-Pox</name> which not only went very
-                  hardly with her But also left that remaining on her which Render&#39;d her much
-                  more <name health="disease">Weak &amp; Sickly</name> than before a <name health="disease">Consumption</name>
-                  appearing thro&#39; her h hole Constitution: It was manifest to all about her she
-                  could not hold it out Cong, tho she herself wou commonly say when sek&#39;d about
-                  it &quot;that she was pretty well Nevertheless what she inwardly felt harmful
-                     her<hi rend="superscript"> &quot; also</hi> upon the thoughts &amp;
-                  consideration of going to <persName type="diety">Our Saviour</persName> (as she
-                  afterward, dec lar&#39;d with joy.) In <date when-iso="1754-07">July</date> she
-                  was a little Better but the <name health="disease"
-                     >disor der</name> presently return&#39;d more strong than ever: Yet she
-                  continued to walk abouttill the <date when-iso="1754-11-22">22<hi
+                     health="disease">small-Pox</name> which not only went very hardly with her But
+                  also left that remaining on her which Render&#39;d her much more <name
+                     health="disease">Weak &amp; Sickly</name> than before a <name health="disease"
+                     >Consumption</name> appearing thro&#39; her h hole Constitution: It was
+                  manifest to all about her she could not hold it out Cong, tho she herself wou
+                  commonly say when sek&#39;d about it &quot;that she was pretty well Nevertheless
+                  what she inwardly felt harmful her<hi rend="superscript"> &quot; also</hi> upon
+                  the thoughts &amp; consideration of going to <persName type="diety">Our
+                     Saviour</persName> (as she afterward, dec lar&#39;d with joy.) In <date
+                     when-iso="1754-07">July</date> she was a little Better but the <name
+                     health="disease">disor der</name> presently return&#39;d more strong than ever:
+                  Yet she continued to walk abouttill the <date when-iso="1754-11-22">22<hi
                         rend="superscript">d</hi> of November</date>, then she entirely took her to
                   her Room &amp; soon after to her Bed. Now she freely acknowledgeing that she had
                   all this summer last, been in a Continual meditation &amp; Consiltation with her
@@ -160,25 +162,26 @@
                   should not stay here but the Reason why she would not confess it openly was
                   because she was <name type="emotion">affraid</name> she should not go as soon as
                   she wish&#39;d for. She was now <name health="disease">exceeding Bad</name>, but
-                  quite <name type="emotion">Brisk in <hi rend="superscript">her</hi> spirits</name> &amp; <name type="emotion">chearful in Heart
-                  &amp; Soul</name>, &amp; as before even Ever since we have known her she has been
-                  us&#39;d to speak very little, so now to the Con trary, spoke a great deal
-                  especialy to these with whom she had had an intimiate acquaintance &amp;
-                     <persName>Perlien Carly</persName> with our dear <persName>Sister Mary
-                     </persName> who very faithfully visited her all the time <date when-iso="1754-12-12">On the 12<hi
-                     rend="superscript">th</hi> instant she had her Birth-Day (being 20; years old,)</date>
-                  when many Sister who vis- (-ited her Express&#39;d) their Hearty wishes for her
-                  which receiv&#39;d, &amp; answer&#39;d with much satis -faction: In the afternoon
-                  her class made her a Very Pretty Love- Feast which rejoice -ed her Exceeding by
-                  &amp; in which she spoke of her Departure with such <name type="emotion">Pleasure
-                     &amp; Delight </name> as she never had done before; she spoke with
-                     <persName>sister Mary</persName> &amp; made out Ev&#39;ry thing that was in her
-                  Mind about her Burial, as well as all the Hearty wishes &amp; desires of her heart
-                  for her Class &amp; c. In short she said that this had been to her the <name
-                     type="emotion">Happiest day she ever had had in all her life.</name> This day
-                  &amp; forward she unbosom&#39;d &amp; declar&#39;d what she had (Perhaps) kept
-                  ftreasur&#39;d up in her Heart to this Opper- -tunity for some years Past, She
-                  spoke of her various Troubles &amp; anxieties in Particular Circumstances </p>
+                  quite <name type="emotion">Brisk in <hi rend="superscript">her</hi> spirits</name>
+                  &amp; <name type="emotion">chearful in Heart &amp; Soul</name>, &amp; as before
+                  even Ever since we have known her she has been us&#39;d to speak very little, so
+                  now to the Con trary, spoke a great deal especialy to these with whom she had had
+                  an intimiate acquaintance &amp; <persName>Perlien Carly</persName> with our dear
+                     <persName>Sister Mary </persName> who very faithfully visited her all the time
+                     <date when-iso="1754-12-12">On the 12<hi rend="superscript">th</hi> instant she
+                     had her Birth-Day (being 20; years old,)</date> when many Sister who vis-
+                  (-ited her Express&#39;d) their Hearty wishes for her which receiv&#39;d, &amp;
+                  answer&#39;d with much satis -faction: In the afternoon her class made her a Very
+                  Pretty Love- Feast which rejoice -ed her Exceeding by &amp; in which she spoke of
+                  her Departure with such <name type="emotion">Pleasure &amp; Delight </name> as she
+                  never had done before; she spoke with <persName>sister Mary</persName> &amp; made
+                  out Ev&#39;ry thing that was in her Mind about her Burial, as well as all the
+                  Hearty wishes &amp; desires of her heart for her Class &amp; c. In short she said
+                  that this had been to her the <name type="emotion">Happiest day she ever had had
+                     in all her life.</name> This day &amp; forward she unbosom&#39;d &amp;
+                  declar&#39;d what she had (Perhaps) kept ftreasur&#39;d up in her Heart to this
+                  Opper- -tunity for some years Past, She spoke of her various Troubles &amp;
+                  anxieties in Particular Circumstances </p>
             </div>
             <div type="page" n="3">
                <head type="page">3</head>
@@ -189,15 +192,16 @@
                      when-iso="1754" cert="low">About the 15th</date> it being two years since we
                   came in <hi rend="superscript">our</hi>
                   <placeName>Choir House</placeName> she told <persName>Sister Mary</persName>
-                  Ev&#39;rything how she had been &amp; was in <placeName>Lyre- sell- Hall</placeName> at that time, What
-                     <name type="emotion">anxiety &amp; concern she felt</name> about coming in the
-                     <placeName>Choir House</placeName>
+                  Ev&#39;rything how she had been &amp; was in <placeName>Lyre- sell-
+                     Hall</placeName> at that time, What <name type="emotion">anxiety &amp; concern
+                     she felt</name> about coming in the <placeName>Choir House</placeName>
                   <name type="emotion">fearing</name> least she should not have leave to come &amp;
-                  how she had in Shillness Pray&#39;d &amp; <name type="emotion">wept</name> before her dear Lamb, that he would
-                  give her leave to come &amp; that if she should have that favour that he would
-                  grant her the feel ing &amp; nearness of his Wounds that she might be faithful to
-                  him therein &amp;c. Nay his almost incredible, how quick &amp; active her memory
-                  was over this matter she not only gabve Sis<hi rend="superscript">r</hi>
+                  how she had in Shillness Pray&#39;d &amp; <name type="emotion">wept</name> before
+                  her dear Lamb, that he would give her leave to come &amp; that if she should have
+                  that favour that he would grant her the feel ing &amp; nearness of his Wounds that
+                  she might be faithful to him therein &amp;c. Nay his almost incredible, how quick
+                  &amp; active her memory was over this matter she not only gabve Sis<hi
+                     rend="superscript">r</hi>
                   <persName>Mary</persName> an account of herself but of all the
                      <orgName>Sisters</orgName> in <placeName>Lyre-sell-Hall</placeName> at that
                   time, she (unperceiv&#39;d) had taken noticve of ev&#39;ry One, conduct words
@@ -208,30 +212,31 @@
                      <name type="emotion">inly tender feeling</name> about the
                      <placeName>Choir</placeName> &amp; what her dear Bridegroom has done from time
                   to time on her therein, &amp; Particularly in this Present year, together with the
-                  <name type="emotion">Esteem &amp; Satisfaction</name> she has had for, &amp; in the <placeName>Choir
-                     House</placeName> this she did from time to time Repear and also she would
-                  allways take notice of many sisters whom she saw &amp; Reflected on their
-                  Situation at Present and time Pass &amp; when <persName>Sister Mary</persName>
-                  came to her then she would sell her all her mind about them &amp; Especialy the
-                  concern she had had, about her Class under some heavy Circumstances some months
-                  agoe &amp; being ask&#39;d why she did not speak as such time what she had in her
-                  mind? She answer&#39;d &quot;that she always thought herself too mean &amp; too
-                  insignificant to Speak Her mind about any thing, But she had instead of that gone
-                  somewhere in a Corner &amp; Wept for them be- fore her dear <persName type="diety"
-                     >Saviour</persName> &amp; Pray&#39;d hum that he would Bless Preserve &amp;
-                  keep <hi rend="underline">them</hi> &amp; <hi rend="underline">Her</hi> &amp; that
-                  they might <hi rend="underline">all</hi> become a joy to <persName type="diety"
-                     >Him</persName> Once in <persName>sister Mary</persName> Presence after having
-                  fully spoken &amp; Open&#39;d all her mind to her a- bout many things, she took
-                  motice that her <persName ana="Betty
-                     Midgley">Aunt</persName>
-                  (who faithfuly tended &amp; nurs&#39;d her all the time of sickness) was a Cry-
-                  ing: So she demanded the Reason of her why she wept, telling her she had no
-                  ocassion to weep for her since &quot;says she&quot; I am fully satisfied &amp;
-                  Reconciled both with my Lamb &amp; &amp; with all my <orgName>Sisters</orgName>
-                  &amp; have spoke my mind about Everything &amp; now am Ready to go whenever he
-                  Pleases Thus she continued under a Deep Sense &amp; speaking of herself &amp; her
-                  Choir &amp; often Expressing her Desire to go. But yet she </p>
+                     <name type="emotion">Esteem &amp; Satisfaction</name> she has had for, &amp; in
+                  the <placeName>Choir House</placeName> this she did from time to time Repear and
+                  also she would allways take notice of many sisters whom she saw &amp; Reflected on
+                  their Situation at Present and time Pass &amp; when <persName>Sister
+                     Mary</persName> came to her then she would sell her all her mind about them
+                  &amp; Especialy the concern she had had, about her Class under some heavy
+                  Circumstances some months agoe &amp; being ask&#39;d why she did not speak as such
+                  time what she had in her mind? She answer&#39;d &quot;that she always thought
+                  herself too mean &amp; too insignificant to Speak Her mind about any thing, But
+                  she had instead of that gone somewhere in a Corner &amp; Wept for them be- fore
+                  her dear <persName type="diety">Saviour</persName> &amp; Pray&#39;d hum that he
+                  would Bless Preserve &amp; keep <hi rend="underline">them</hi> &amp; <hi
+                     rend="underline">Her</hi> &amp; that they might <hi rend="underline">all</hi>
+                  become a joy to <persName type="diety">Him</persName> Once in <persName>sister
+                     Mary</persName> Presence after having fully spoken &amp; Open&#39;d all her
+                  mind to her a- bout many things, she took motice that her <persName
+                     ana="Betty
+                     Midgley">Aunt</persName> (who faithfuly tended
+                  &amp; nurs&#39;d her all the time of sickness) was a Cry- ing: So she demanded the
+                  Reason of her why she wept, telling her she had no ocassion to weep for her since
+                  &quot;says she&quot; I am fully satisfied &amp; Reconciled both with my Lamb &amp;
+                  &amp; with all my <orgName>Sisters</orgName> &amp; have spoke my mind about
+                  Everything &amp; now am Ready to go whenever he Pleases Thus she continued under a
+                  Deep Sense &amp; speaking of herself &amp; her Choir &amp; often Expressing her
+                  Desire to go. But yet she </p>
             </div>
             <div type="page" n="4">
                <head type="page">4</head>
