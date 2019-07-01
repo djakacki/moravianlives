@@ -97,7 +97,7 @@
             <div type="page" n="1">
                <head type="page">1</head>
                <pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_12AllotMary-01.jpg"/>
-               <p>Mary Alott Was born at <placeName>Barksland in the Parish of Elland</placeName>.
+               <p><persName ref="#mlper000217">Mary Alott</persName> Was born at <placeName>Barksland in the Parish of Elland</placeName>.
                   On the <date when-iso="1734-12-12">12th of Dec<hi rend="superscript">r
                      </hi>1734</date> N S. When she was about <date when-iso="1737" cert="medium"
                      >three years old</date> her Father dyed &amp; she liv&#39;d with her mother
