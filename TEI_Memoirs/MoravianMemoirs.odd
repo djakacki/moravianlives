@@ -177,8 +177,23 @@
               <attDef ident="occupation" mode="change">
                 <valList mode="add" type="semi">
                   <!-- I believe we should leave this open because there are numerous different occupations. We could go through and record all of them, but I don't believe that is necessary. -->
-                  <valItem ident="sewer"/>
+                  <valItem ident="acolyte"/>
+                  <valItem ident="bishop"/>
                   <valItem ident="blacksmith"/>
+                  <valItem ident="choir helper"/>
+                  <valItem ident="choir labourer"/>
+                  <valItem ident="deacon"/>
+                  <valItem ident="deaconess"/>
+                  <valItem ident="elder"/>
+                  <valItem ident="eldress"/>
+                  <valItem ident="general elder"/>
+                  <valItem ident="general eldress"/>
+                  <valItem ident="heathen worker"/>
+                  <valItem ident="overseer"/>
+                  <valItem ident="sewer"/>
+                  <valItem ident="sick waiter"/>
+                  <valItem ident="supervisor"/>
+                  <valItem ident="teacher"/>
                 </valList>
               </attDef>
             </attList>
@@ -351,21 +366,8 @@
             <attList>
               <attDef ident="en" mode="change">
                 <valList mode="add" type="semi">
-                  <valItem ident="acolyte"/>
-                  <valItem ident="bishop"/>
-                  <valItem ident="choir helper"/>
-                  <valItem ident="choir labourer"/>
-                  <valItem ident="deacon"/>
-                  <valItem ident="deaconess"/>
-                  <valItem ident="elder"/>
-                  <valItem ident="eldress"/>
-                  <valItem ident="general elder"/>
-                  <valItem ident="general eldress"/>
-                  <valItem ident="heathen worker"/>
-                  <valItem ident="overseer"/>
-                  <valItem ident="sick waiter"/>
-                  <valItem ident="supervisor"/>
-                  <valItem ident="teacher"/>
+                  <valItem ident="sister"></valItem>
+                  <valItem ident="brother"></valItem>
                 </valList>
               </attDef>
             </attList>
