@@ -7643,6 +7643,85 @@
                <note>There is no entry in the Yorkshire Families Document</note>
             </person>
          </listPerson>
+         <listPerson>
+            <person xml:id="mlper000562" sex="m">
+               <persName>
+                  <forename>Crispin</forename>
+                  <surname>Taylor</surname>
+               </persName>
+               <birth>
+                  <date type="birth" when-iso="1698-04-26">26 April, 1698</date>
+                  <placeName>Wyke Parish of Birstall</placeName>
+               </birth>
+               <death>
+                  <date type="death" cause="consumption" when-iso="1752-12-16">16 December, 1752</date>
+                  <placeName>Wyke</placeName>
+               </death>
+               <occupation>shoemaker</occupation>
+               <event type="baptism">
+                  <desc>
+                     <orgName>Church of England</orgName>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
+                     <orgName>Ingham's society</orgName> <placeName>Wyke</placeName>
+                  </desc>
+               </event>
+               <event type="reception" when-iso="1742">
+                  <desc>
+                     recieved society <placeName>Norwood Green</placeName>
+                  </desc>
+               </event>
+               <event type="transfer" when-iso="1748">
+                  <desc>
+                     transferred society <placeName>Scholes</placeName>
+                  </desc>
+               </event>
+               <event type="reception">
+                  <desc>
+                     recieved congregation <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-10-01">1 September, 1748</date>
+                     <date calendar="Gregorian" when-iso="1748-10-12">12 September, 1748</date>
+                  </desc>
+               </event>
+               <event type="confirmation">
+                  <desc>
+                     <placeName ref="#mlpla000003">Yorkshire in Fulneck</placeName>
+                     <date calendar="Julian" when-iso="1748-01-31">31 January, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-02-11">11 Febuary, 1749</date>
+                  </desc>
+               </event>
+               <event type="sacrament">
+                  <desc>
+                     <placeName ref="#mlpla000084">Yorkshire</placeName>
+                     <date calendar="Julian" when-iso="1748-03-24">24 March, 1748</date>
+                     <date calendar="Gregorian" when-iso="1749-04-04">4 April, 1749</date>
+                  </desc>
+               </event>
+               <event type="marriage">
+                  <desc>
+                     <placeName>St Peter's Church Birstall</placeName>
+                     <date calendar="Julian" when-iso="1723-04-15">15 April, 1723</date>
+                     <date calendar="Gregorian" when-iso="1723-04-26">26 April, 1723</date>
+                  </desc>
+               </event>
+               
+               <note>(LW)CB>=#TAYLOR, Crispin (1698-1752)
+                  b 26.04.1698 Wyke Parish of Birstall
+                  occupation:  shoemaker
+                  reception:  baptized Church of England, Ingham’s society Wyke, 
+                  received society Norwood Green 1742, transferred society Scholes 1748, 
+                  received congregation Yorkshire in Fulneck 01.10.1748 (OS) / 12.10.1748 (NS), 
+                  confirmed Yorkshire in Fulneck 31.01.1748 (OS) / 11.02.1749 (NS), 
+                  sacrament Yorkshire 24.03.1748 (OS) / 04.04.1749 (NS)
+                  m Mary Wilkinson (b 1699) St Peter’s Church Birstall 15.04.1723 (OS) / 26.04.1723 (NS)
+                  family:  father of John (b 1724), Thomas (b 1732), Crispianus (b 1737), Crispin (b 1737) and
+                  Hannah (b 1740)
+                  d 16.12.1752 aged 54 of a consumption Wyke, interred Fulneck by Br W Horne 19.12.1752 
+                  grave 40 - 2nd section, 1st row, 1st grave by path</note>
+            </person>
+         </listPerson>
          
          
          
