@@ -1,4 +1,5 @@
-<?xml-model href="http://moravianlives.bucknell.edu/schema/MoravianMemoirs.xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -89,24 +90,30 @@
 					<msIdentifier>
 						<repository>Moravian Archive: Fulneck, UK</repository>
 						<msName type="memoir" ana="#">Abigail Bentley</msName>
-						<!-- <msName facs="http://moravianlives.bucknell.edu/##-01.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-02.jpg" />
-                  <msName facs="http://moravianlives.bucknell.edu/##-03.jpg" />-->
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg" />
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg" />
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg" />
+						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-04.jpg" />
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change when="2019-07-02" who="#JAKA1">Updated Bentley file</change>
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
 		</revisionDesc>
 	</teiHeader>
-	<text>
-		<body>
-			<pb xml:id="IMG_1266.jpg" n="1"/>
+	<text type="memoir">
+		<body xml:lang="en">
+			<div type="memoir">
+				<head>Abigail Bentley</head>
+				<div type="page" n="1">
+					<head type="page">1</head>
+					<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-01.jpg" />
 			<p>
 				<lg>
 					<l>The course of Life of Abigal Bently </l>
-					<l>I was born at Wike in the Parish of Barstel April ye 23d 1722</l>
+					<l>I was born at Wike in the Parish of Barstel April y<hi rend="superscript">e</hi> 23<hi rend="superscript">d</hi> 1722</l>
 					<l>my Parrents was of the Church of England and brought me up in the </l>
 					<l>same, as far as I can remember my first thought of being saved was thro&apos;</l>
 					<l>hereing my Mother speak with another what time Children begun to be anser</l>
@@ -119,35 +126,38 @@
 					<l>dear Saviour had a perticular Hand over me I should have been ruined in Soul</l>
 					<l>and Body, when I was there they sent me into a Field to work where I was</l>
 					<l>so cold that I had no feeling of Hands nor Feet nor could I come to any</l>
-					<l>House, all on a sudden it came in my mind that God could warm me and I grew</l>
-					<l>directly warm this was the first time I knew that God could here us or know </l>
+					<l>House, all on a sudden it came in my mind that <add place="above">God</add> could warm me and I grew</l>
+					<l>directly warm this was the first time I knew that God could here us <hi rend="strikethrough">or know</hi> </l>
 					<l>or know any thing of us after some time I left this place and removed into a </l>
-					<l>nother place that was more agreable, here I took much to reading and intended</l>
+					<l>nother <hi rend="strikethrough">place</hi> that was more agreable, here I took much to reading and intended</l>
 					<l>to be very good, but amidst it all I ataind to no satisfaction but a constant</l>
-					<l>condemnation follow&apos;d me with every thing I did, so far her own writing</l>
-					<l>about this time she began to hear Mr Igham and when the societys of </l>
-					<l>the Brn was sitled she was one of the first of that number when the </l>
-					<l>S Srs Oconomy was seteld at Oxhaire she after some time had</l>
+					<l>condemnation follow&apos;d me with every thing I did, so far her own writing </l>
+					<l>about this time she began to hear M<hi rend="superscript">r</hi> Igham and when the societys of </l>
+					<l>the B<hi rend="superscript">rn</hi> was sitled she was one of the first of that number when the </l>
+					<l>S S<hi rend="superscript">rs</hi> Oconomy was seteld at Oxhaire she after some time had</l>
 					<l>leave to be one of them where she continued for a while some time but her being</l>
-					<l>of a very Leagul turn made it very heavy for her amidst of the Sisters </l>
+					<l>of a very Leagul turn made it very <add place="above">heavy</add> for her amidst of the Sisters </l>
 				</lg>
 			</p>
-			<pb xml:id="IMG_1267.jpg" n="2"/>
+				</div>
+				<div type="page" n="2">
+					<head type="page">2</head>
+					<pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-02.jpg" />
 			<p>
 				<lg>
 					<l>and as it coud not be perciev&apos;d that she got any satisfaction in </l>
 					<l>her Heart the Labours thought it more proper for her to go and</l>
-					<l>live with two or three Sisters who was under the Brns care which </l>
+					<l>live with two or three Sisters who was under the B<hi rend="superscript">rns</hi> care which </l>
 					<l>she took very much to heart and could hardly be persuaded to do as</l>
 					<l>was however thought for the best she took it so very near that</l>
-					<l>it brought on a violent sickness for as she her self expresst it</l>
+					<l>it brought on a violent sickness for <add place="above">as</add> she her self expresst it</l>
 					<l>coud never bear to be Defard of the fellowship of living in the</l>
 					<l>midst of Sisters, and yet at the same she was in her heart very</l>
 					<l>dry and her being so very self righteous made it very heavy </l>
 					<l>for her to feel as a Sinner depart alone upon our Saviour and</l>
 					<l>this has been ameans of her course being some what heavy in the</l>
 					<l>Congregation, and so she continued removeing for some time from place</l>
-					<l>to place to place by the direction of the Brn when at last she got</l>
+					<l>to place to place by the direction of the B<hi rend="superscript">rn</hi> when at last she got</l>
 					<l>leave to go and live with some Sisters at the Home where she</l>
 					<l>began to feel a little more of her self and was brought</l>
 					<l>in to very great concern about her Salvation but as she was</l>
@@ -156,23 +166,25 @@
 					<l>on our Head Merely because the Lord had dy&apos;d, Because a Lamb</l>
 					<l>was Crucify&apos;d, Are we invited to possess a Throne, Before the </l>
 					<l>World was made ordaind our own, and she was from this time made</l>
-					<l>sure of her Election* when the Choir House was begun at Fulneck</l>
-					<l>she with some others Out of the Oeconomys got leave <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">from Richard</hi></l>
-					<l><hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mortimer</hi> to remove with them to that in Pudsey, but here it </l>
+					<l>sure of her Election <add place="above">In the year 42 Nov<hi rend="superscript">er</hi> y<hi rend="superscript">e</hi> 13 she was receiv'd into the Congregation</add> when the Choir House was begun at Fulneck</l>
+					<l>she with some others Out of the Oeconomys got leave <hi rend="strikethrough">from Richard</hi></l>
+					<l><hi rend="strikethrough">Mortimer</hi> to remove with them to that in Pudsey, but here it </l>
 					<l>she did not spend her time so chearfully as could have been wish&apos;d </l>
 				</lg>
 			</p>
-			<pb xml:id="IMG_1268.jpg" n="3"/>
-			<p>
+				</div>
+				<div type="page" n="3">
+					<head type="page">3</head>
+					<pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-03.jpg" />
+					<p>
 				<lg>
 					<l>for she lost many happy hours for her own heart thro&apos; looking so much</l>
 					<l>at others and being so very strict with her self she could not</l>
 					<l>easily look over things that some times accurd amongst her compan</l>
 					<l>ions, yet at the same time we cannot denigh but as to her true </l>
-					<l>Heart to her Choir and the Congn we was fully persuaded which </l>
-					<l>in 54 she had the grace to be </l>
-					<l>show&apos;d it self evedintly on various occasions, in the year 1754 </l>
-					<l>July The Diciple and Dicipless pay&apos;d a visit to the Congn and this</l>
+					<l>Heart to her Choir and the Cong<hi rend="superscript">n</hi> we was fully persuaded which </l>
+					<l>show&apos;d it self evedintly on various occasions, <add place="above">in 54 she had the grace to be</add> in the year 1754 </l>
+					<l>July The Diciple and Dicipless pay&apos;d a visit to the Cong<hi rend="superscript">n</hi> and this</l>
 					<l>the earnest request of the Sister of that Ocemomey to come into</l>
 					<l>the Choir House at Fulneck the Diciple took it into con</l>
 					<l>sideration and it was made out that the said Oeconomy should</l>
@@ -194,7 +206,10 @@
 					<l>and it was made out that she shou&apos;d go for some time into the </l>
 				</lg>
 			</p>
-			<pb xml:id="IMG_1269.jpg" n="4"/>
+				</div>
+				<div type="page" n="4">
+					<head type="page">4</head>
+					<pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_58Bentley-04.jpg" />
 			<p>
 				<lg>
 					<l>Childrens Oeconomy Wash Kitchen where she showd the </l>
@@ -204,21 +219,23 @@
 					<l>way and was made use of as an over seer in a Work Room and it</l>
 					<l>was the greatest favour to her to do any thing for her Choir and never</l>
 					<l>thought any thing too much but on the contrary lookd upon it as the </l>
-					<l>greatest grace and favour, Sep<hi rend="fontSize:0.0; kerning:0; superscript:true;">br</hi> ye 16<hi rend="fontSize:0.0; kerning:0; superscript:true;">th</hi> she had the favour to be </l>
+					<l>greatest grace and favour, Sep<hi rend="superscript">br</hi> ye 16<hi rend="superscript">th</hi> she had the favour to be </l>
 					<l>added amongst the company of Intersesers which prov&apos;d a pertic</l>
 					<l>lar blessing for her own heart that she had the favour to have</l>
 					<l>an hour to speak with our in a Perticlar manner for her own and </l>
 					<l>his Peoples cause, it was plain to be percevd amidst all her faults</l>
-					<l>and wants that her heart was truly connected with our Sav<hi rend="fontSize:0.0; kerning:0; superscript:true;">r</hi></l>
+					<l>and wants that her heart was truly connected with our Sav<hi rend="superscript">r</hi></l>
 					<l>and atached to her choir, but the Sinner track being not alway</l>
 					<l>clear to her interupted her in that tender atachment to his Person</l>
-					<l>in beginning of Oct<hi rend="fontSize:0.0; kerning:0; superscript:true;">br</hi> she took entirely to the Sick room where she</l>
-					<l>spent her time cheerily in fullness when at <hi rend="fontSize:0.0; kerning:0; superscript:true;">any</hi> time she was spoken</l>
-					<l>with she always complaind of <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">her</hi> not feeling herself in that </l>
-					<l><hi rend="strikethrough:true; fontSize:0.0; kerning:0;">near connection</hi> Sinner like connection with our Sav<hi rend="fontSize:0.0; kerning:0; superscript:true;">r</hi> as she thought</l>
+					<l>in beginning of Oct<hi rend="superscript">br</hi> she took entirely to the Sick room where she</l>
+					<l>spent her time cheerily in fullness when at <hi rend="superscript">any</hi> time she was spoken</l>
+					<l>with she always complaind of <hi rend="strikethrough">her</hi> not feeling herself in that </l>
+					<l><hi rend="strikethrough">near connection</hi> Sinner like connection with our Sav<hi rend="superscript">r</hi> as she thought</l>
 					<l>she shoud have </l>
 				</lg>
 			</p>
+				</div>
+			</div>
 		</body>
 	</text>
 </TEI>
