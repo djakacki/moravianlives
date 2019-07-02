@@ -107,6 +107,8 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change when="2019-07-02" who="#jschaumberger">Finished markup of the text</change>
+			<change when="2019-07-01" who="#jschaumberger">Started markup of the text</change>
 			<change when="2019-06-30" who="#JAKA1">Created Crispin Taylor</change>
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
 		</revisionDesc>
