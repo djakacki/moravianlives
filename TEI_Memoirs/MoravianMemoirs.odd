@@ -403,6 +403,17 @@
               </attDef>
             </attList>
           </elementSpec>
+          <!-- CUSTOMIZATION: added date:@calendar / English -->
+          <elementSpec ident="date" mode="change" module="core">
+            <attList>
+              <attDef ident="calendar" mode="change">
+                <valList mode="add" type="closed">
+                  <valItem ident="Julian" />
+                  <valItem ident="Gregorian"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
           <!-- CUSTOMIZATION: added hi:@rend superscript, italic, underscore, strikethrough to hi @rend -->
           <elementSpec ident="hi" mode="change" module="core">
             <attList>
