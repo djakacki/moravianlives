@@ -41,6 +41,7 @@
       </editorialDecl>
     </encodingDesc>
     <revisionDesc>
+      <change when="2019-07-03" who="#jschaumberger">Added name @office</change>
       <change when="2019-06-21" who="#JAKA1 #jschaumberger">Updated and added schematic specifities</change>
       <change when="2018-12-07" who="#JAKA1">Removed note types</change>
       <change when="2018-11-23" who="#JAKA1">Cleaned up ODD structure</change>
@@ -110,6 +111,7 @@
               <attDef ident="health" mode="change" sameAs="beruf" />
               <attDef ident="relation" mode="change" sameAs="verwandte" />
               <attDef ident="occupation" mode="change" />
+              <attDef ident="office" mode="change"></attDef>
             </attList>
           </classSpec>
           <!-- CUSTOMIZATION: added gefühl, ereignis, beruf, gesundheitszustand attributes / German. Wherever possible adding @sameAs to track parallels -->
@@ -173,10 +175,25 @@
             <attList>
               <attDef ident="occupation" mode="change">
                 <valList mode="add" type="semi">
-                  <!-- I believe we should leave this open because there are numerous different occupations. We could go through and record all of them, but I don't believe that is necessary. -->
+                    <valItem ident="clothier"/>
+                    <valItem ident="clothmaker"/>
+                    <valItem ident="husbandman"/>
+                    <valItem ident="farmer"/>
+                    <valItem ident="mason"/>
+                    <valItem ident="schoolmaster"/>
+                    <valItem ident="weaver"/>
+
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <!-- CUSTOMIZATION: added name:@office / English. -->
+          <elementSpec ident="name" mode="change" module="core">
+            <attList>
+              <attDef ident="office" mode="change">
+                <valList mode="add" type="semi">
                   <valItem ident="acolyte" />
                   <valItem ident="bishop" />
-                  <valItem ident="blacksmith" />
                   <valItem ident="choir helper" />
                   <valItem ident="choir labourer" />
                   <valItem ident="deacon" />
@@ -187,10 +204,8 @@
                   <valItem ident="general eldress" />
                   <valItem ident="heathen worker" />
                   <valItem ident="overseer" />
-                  <valItem ident="sewer" />
                   <valItem ident="sick waiter" />
                   <valItem ident="supervisor" />
-                  <valItem ident="teacher" />
                 </valList>
               </attDef>
             </attList>
@@ -264,6 +279,7 @@
             <attList>
               <attDef ident="de" mode="change" />
               <attDef ident="en" mode="change" />
+              <attDef ident="religion" mode="change"/>
             </attList>
           </classSpec>
           <!-- CUSTOMIZATION: added objectName, object, and listObject to namesdates module - because TEI has not yet implemented objectName universally -->
@@ -323,6 +339,23 @@
               </attDef>
             </attList>
           </elementSpec>
+          
+          <!-- CUSTOMIZATION: added orgName:@religion / English -->
+          <elementSpec ident="orgName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="religion" mode="change">
+                <valList mode="add" type="semi">
+                  <valItem ident="Anglican"></valItem>
+                  <valItem ident="Quaker"></valItem>
+                  <valItem ident="Presbyterian"></valItem>
+                  <valItem ident="Lutheran"></valItem>
+                  <valItem ident="Roman Catholic"></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          
           <!-- CUSTOMIZATION: added orgName@de / German -->
           <elementSpec ident="orgName" mode="change" module="namesdates">
             <attList>
@@ -346,6 +379,7 @@
               </attDef>
             </attList>
           </elementSpec>
+          
           <!-- CUSTOMIZATION: added roleName@en / English - DKJ: I'm really not convinced we need to get this degree of granularity. We should probably create a more comprehensive taxonomy file-->
           <elementSpec ident="roleName" mode="change" module="namesdates">
             <attList>
@@ -427,6 +461,18 @@
               </attDef>
             </attList>
           </elementSpec>
+          
+         <!-- <classSpec ident="office" module="namesdates" type="atts" mode="change">
+            <desc>religious occupations</desc>
+            <classes>
+              <memberOf key="model.persStateLike"/>
+            </classes>-->
+            
+          
+           
+            <!--</classSpec>-->
+          
+       
           <!-- end of schema -->
         </schemaSpec>
       </div>

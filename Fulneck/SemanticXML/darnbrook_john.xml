@@ -99,6 +99,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change when="2019-07-08" who="#jschaumberger">Finished markup</change>
 			<change when="2019-07-03" who="#jschaumberger">Started markup of the memoir</change>
 			<change when="2019-07-02" who="#JAKA1">Created John Darnbrook memoir file</change>
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
@@ -218,7 +219,7 @@
 					wanted people? He said, he did &amp; gave me an Order to go on Board. I
 					immediately went on board &amp; met with a Company of very wicked, curs-
 					ing &amp; swearing <name occupation="sailor">sailors</name>. However we got ready &amp; put to Sea; About 2 months 
-					after our Ship&apos;s company was seized by turns with a <name health="disease">violent Feaver</name>. I
+					after our Ship&apos;s company was seized by turns with a <name health="disease" type="fever">violent Feaver</name>. I
 					also fell sick &amp; it brought me very near my Dissolution. While
 					we were so sick, we hung altogether by ourselves, It was one of the most
 					shocking Times, I have had in all any Life, most of them died cursing
@@ -256,7 +257,7 @@
 					But the ship beginning to be fitted out again, <hi rend="strikethrough">where</hi> <add place="above">which</add> I had her with
 					before, it made me very unsettled in my Mind &amp; I got a desire to go to
 					Sea again. But I did not know, what Exuse to make, to get away
-					from the Place, as had no fault to find with any thing I had Recourse to Stratagem. 
+					from the Place, as had no fault to find with any thing I had Recourse to <placeName>Stratagem</placeName>. 
 					I ordered one of my companions, that he should come
 					dressed like an officer of a Man of War, &amp; enquire for me, that it
 					might appear, as if he had an Intention to press me. I ordered it so
@@ -384,33 +385,33 @@
 					&amp; desired my Company. He said, he had observed, that I frequented
 					their Preachings for some Time, &amp; inquired, if I knew any thing about
 					the <orgName>B<hi rend="superscript">rn</hi></orgName> &amp; I told him, yes. I knew the <orgName>B<hi rend="superscript">rn</hi></orgName> in <placeName ref="#mlpla000003">Fulneck</placeName>
-						&amp; I knew Br
-					Brodersen too, &amp; had spoken with him formerly. I told him, I had often
+						&amp; I knew <roleName en="brother">Br</roleName>
+					<persName>Brodersen</persName> too, &amp; had spoken with him formerly. I told him, I had often
 					fixed a Day, that I would go &amp; speak with him again. He asked, if I
 					should rule to speak with him, &amp; if it would suit me that time, if
 					I had an Opportunity for it? I answered: yes, I had no objection to it
 					So we turned back both together &amp; went to Roll&apos;s Buildings. As soon 
-					as we got into the House, we met B<hi rend="superscript">r</hi> Brodersen in the Passage, &amp;
+					as we got into the House, we met <roleName en="brother">B<hi rend="superscript">r</hi></roleName> <persName>Brodersen</persName> in the Passage, &amp;
 					he took me into his Room &amp; we had some pretty Conversation together.
 					The Choir Liturgy was going to begin, &amp; he gave one Leave to be at
 					it. I was so melted, that I wept all the Time, often spending some
-					part of the Evening with the S. B<hi rend="superscript">rn</hi>. I returned home very thank-
+					part of the Evening with the S. <orgName>B<hi rend="superscript">rn</hi></orgName>. I returned home very thank-
 					full for the kind Reception, that I met with. From that Time, I went
-					every Sunday to the S Brn, which was the chief Opportunity that I had.
-					Some Time after I petitioned for Reception into the Cong<hi rend="superscript">n</hi>, which
-					Blessing was granted me January the 13<hi rend="superscript">th</hi> 1766 I entered into
-					a Covenant that time with our Sav<hi rend="superscript">r</hi> to be his for ever I spent my
+					every Sunday to the S <orgName>Brn</orgName>, which was the chief Opportunity that I had.
+					Some Time after I petitioned for <name event="reception">Reception</name> into the <orgName>Cong<hi rend="superscript">n</hi></orgName>, which
+					Blessing was granted me <date when-iso="1766-01-13">January the 13<hi rend="superscript">th</hi> 1766</date> I entered into
+					a Covenant that time with our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> to be his for ever I spent my
 					time for the most part in a very happy Track of Grace, considering
-					my Situation, wherein I was, &amp; I had many near Visits of our Sav<hi rend="superscript">r</hi>,
-					which made my Time very pleasant. Tho&apos; I felt naturally my de-
-					praved human Nature, but I applied to him &amp; got preserved. When
-					B<hi rend="superscript">r</hi>. Abraham returned from the Provincial Synod at Fulneck, he
+					my Situation, wherein I was, &amp; I had many near Visits of our <persName type="diety">Sav<hi rend="superscript">r</hi></persName>,
+					which made my Time very pleasant. Tho&apos; I felt naturally my depraved
+					human Nature, but I applied to him &amp; got preserved. When
+				<roleName en="brother">B<hi rend="superscript">r</hi></roleName>. <persName>Abraham</persName> returned from the <name event="religious">Provincial Synod</name> at <placeName ref="#mlpla000003">Fulneck</placeName>, he
 					acquainted me that they had made it out in a Conference that if I did
-					accept of it, I should go to Fulneck &amp; be employed in the Con<hi rend="superscript">g</hi> Shop
-					I told him I had no Choice in it , I would go any where. Accordingly, as
+					accept of it, I should go to <placeName ref="#mlpla000003">Fulneck</placeName> &amp; be employed in the <placeName>Con<hi rend="superscript">g</hi> Shop</placeName>
+					I told him I had no Choice in it , I would go anywhere. Accordingly, as
 					soon as I could make things suitable, I left my place &amp; set out from
-					London Feb<hi rend="superscript">r</hi> the 17<hi rend="superscript">th</hi> 1764 &amp; arrived at Fulneck the 22<hi rend="superscript">nd</hi> of the same month
-					to my great Joy.</p>
+				<placeName ref="#mlpla000054">London</placeName> <date when-iso="1764-02-17">Feb<hi rend="superscript">r</hi> the 17<hi rend="superscript">th</hi> 1764</date> &amp; arrived at <placeName ref="#mlpla000003">Fulneck</placeName> the <date when-iso="1764-02-22">22<hi rend="superscript">nd</hi> of the same month</date>
+					to <name type="emotion">my great Joy</name>.</p>
 					<p>Thus far his own Words.
 					By dictating his Course of life, he <add place="above">often</add> said, I thought there was some 
 				</p>
@@ -420,49 +421,50 @@
 						<pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-05.jpg" />	
 			<p>
 					Thing in the World, which I must experience, but I found, there was nothing
-					but fantom, Now often have I thought of Fulneck &amp; wished me to be
+					but fantom, Now often have I thought of <placeName ref="#mlpla000003">Fulneck</placeName> &amp; wished me to be
 					there, when I was uneasy, which was very often.</p>
 						<p>
+							<!-- This is where the voice changes from John Darnbrook to the person writing the memoir -->
 					His Course here was solid, he served faithfully in the Shop &amp;
 					was legitimated among B<hi rend="superscript">rn</hi> &amp; Strangers. His Connexion &amp; Converse
-					with our dear Sav<hi rend="superscript">r </hi>was real, but in Stilness. He was admitted here
-					to the holy Sacrament May the 23<hi rend="superscript">d</hi> 1767, which was a real Grace to
-					Him. &amp; as often as he fed afterwards with the Cong<hi rend="superscript">n</hi> on the Body &amp;
-					Blood of Jesus in the holy Sacrament, he enjoyed it as a poor Sinner
+							with our dear <persName type="diety">Sav<hi rend="superscript">r</hi></persName> was real, but in Stilness. He was admitted here
+					to the <name event="sacrament">holy Sacrament</name> <date when-iso="1767-05-23">May the 23<hi rend="superscript">d</hi> 1767</date>, which was a real Grace to
+					Him. &amp; as often as he fed afterwards with the <orgName>Cong<hi rend="superscript">n</hi></orgName> on the Body &amp;
+					Blood of <persName type="diety">Jesus</persName> in the <name event="sacrament">holy Sacrament</name>, he enjoyed it as a poor Sinner
 					who thought himself very unworthy of this great Grace, but felt at
 					the same time that he stood very much in Need of it, &amp; that he could
 					not do without. And so, he always got new Strength &amp; Life out of the
-					Wounds of Jesus. When he was spoken with previous to the holy Sa-
-					crament he was not of many Words, but one perceived clearly, that his
-					Heart did live in the Sufterings of Jesus. All the Meetings he en-
-					joyed both in the Cong<hi rend="superscript">n</hi> &amp; his Choir proved a Blesting to him; the
+					Wounds of <persName type="diety">Jesus</persName>. When he was spoken with previous to the <name event="sacrament">holy Sacrament</name> 
+					he was not of many Words, but one perceived clearly, that his
+					Heart did live in the Sufterings of <persName type="diety">Jesus</persName>. All the Meetings he en-
+					joyed both in the <orgName>Cong<hi rend="superscript">n</hi></orgName> &amp; his <orgName>Choir</orgName> proved a Blesting to him; the
 					Doctrinal Day we had last Novemb<hi rend="superscript">r</hi>, was very blessed to him &amp; he
-					afterwards told, that he enjoyed a particular Nearness of our Sav<hi rend="superscript">r</hi> at
-					the Cup of Covenant. Last Year he was made <hi rend="strikethrough">and</hi> a Candidate for
-					the East Indies, which he accepted of: for he was very willing to serve
-					our Sav<hi rend="superscript">r</hi>, wheresoever his Service should require it, tho&apos; on Account of
-					his weakly Constitution he had but little Hopes to be of any Use in the
-					Service of our Sav<hi rend="superscript">r</hi> among the Heathen. That time he came among the 
-					Intercessors, which was very weighty to him. But our Sav<hi rend="superscript">r</hi>, who was
+					afterwards told, that he enjoyed a particular Nearness of our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> at
+					the <name event="religious">Cup of Covenant</name>. <date when-iso="1769">Last Year</date> he was made <hi rend="strikethrough">and</hi> a Candidate for
+					the <placeName>East Indies</placeName>, which he accepted of: for he was very willing to serve
+					our <persName type="diety">Sav<hi rend="superscript">r</hi></persName>, wheresoever his Service should require it, tho&apos; on Account of
+					his weakly Constitution he had but <name type="emotion">little Hopes</name> to be of any Use in the
+					Service of our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> among the Heathen. That time he came among the 
+					Intercessors, which was very weighty to him. But our <persName type="diety">Sav<hi rend="superscript">r</hi></persName>, who was
 					pleased with his Willingness to serve him, had other thoughts about him,
-					He grew weaker from time to time, &amp; in the Beginning of Decemb<hi rend="superscript">r</hi> he
-					was obliged to move into the Sick Room. First we did not think, that
+					<name health="disease">He grew weaker from time to time</name>, &amp; <date when-iso="1769-12">in the Beginning of Decemb<hi rend="superscript">r</hi></date> he
+					was obliged to move into the <placeName>Sick Room</placeName>. First we did not think, that
 					he would go home of this Opportunity, but he soon thought so &amp; was quite
 					set upon going home. Here he had a sabbatical time in the Nearness &amp;
-					converse with our Sav<hi rend="superscript">r</hi> <add place="above">tho; it was a Shool-Time for him too, inwhich he had to learnmany Lessons &amp; to speak thoroughly with our d<hi rend="superscript">r</hi>. Sav<hi rend="superscript">r</hi>. about many Things.</add>
-					Once he said: tho&apos; our Sav<hi rend="superscript">r</hi> has had so great a
+					converse with our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> <add place="above">tho; it was a Shool-Time for him too, inwhich he had to learnmany Lessons &amp; to speak thoroughly with our d<hi rend="superscript">r</hi>. <persName type="diety">Sav<hi rend="superscript">r</hi></persName>. about many Things.</add>
+					Once he said: tho&apos; our <persName type="diety">Sav<hi rend="superscript">r</hi></persName> has had so great a
 					Mercy upon me, yet I feel myself often so indifferent towards Him, which
-					is the greatest Pain, I have in the Sick Room; at which he wept very much.
-					But he soon was comforted again &amp; cheared by a gracious Look of our Saviour.
-					He himself dictated his Course of Life to B<hi rend="superscript">r</hi> Martens, &amp; when he had done
+					is <name type="emotion">the greatest Pain</name>, I have in the <placeName>Sick Room</placeName>; at which he wept very much.
+					But he soon was comforted again &amp; cheared by a gracious Look of our <persName type="diety">Saviour</persName>.
+					He himself dictated his Course of Life to <roleName en="brother">B<hi rend="superscript">r</hi></roleName> <persName>Martens</persName>, &amp; when he had done
 					therewith, <hi rend="strikethrough">to</hi> which was last Friday, he made Haste to meet his etemal
-					Bridegroom. He had it very easy in his Sickness: the day before his going home
-					he once complained, saying: Dear Sav<hi rend="superscript">r</hi>! it is too hard for me; but he soon
+					Bridegroom. He had it very easy in his <name health="disease">Sickness</name>: the day before his going home
+					he once complained, saying: Dear <persName type="diety">Sav<hi rend="superscript">r</hi></persName>! it is too hard for me; but he soon
 					got it easier. He was present to himself to the last Moment, when the
-					Blessings of his Choir &amp; the Congreg<hi rend="superscript">n</hi> was imparted unto him during a
-					sweet <add place="above">feeling</add> of our Sav<hi rend="superscript">rs</hi> Nearess, &amp; soon after his Soul departed into the
-					arms &amp; Bosom of Jesus, last Tuesday about 7 o&apos;Clock in the Morning, viz
-					Feby the 6<hi rend="superscript">th</hi> 1770 in the 34<hi rend="superscript">th</hi> year of his Age.
+					Blessings of his <orgName>Choir</orgName> &amp; the <orgName>Congreg<hi rend="superscript">n</hi></orgName> was imparted unto him during a
+					sweet <add place="above">feeling</add> of our <persName type="diety">Sav<hi rend="superscript">rs</hi></persName> Nearess, &amp; soon after his Soul departed into the
+					arms &amp; Bosom of <persName type="diety">Jesus</persName>, <date type="death" cause="disease" when-iso="1770-02-06">last Tuesday about 7 o&apos;Clock in the Morning, viz
+					Feby the 6<hi rend="superscript">th</hi> 1770</date> in the 34<hi rend="superscript">th</hi> year of his Age.
 					Praise to thee, our God, be brought for this Sinner redeemed with thy Blood.
 				</p>
 				</div>

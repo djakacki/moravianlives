@@ -121,7 +121,7 @@
 				<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_45Calvert-01.jpg"/>
 				<p> The <roleName en="sister">single S<hi rend="superscript">r</hi></roleName> <persName ref="#mlper000225">Martha Calvert</persName> who
 				departed this life <date type="death" when-iso="1816-03-15">March 15<hi rend="superscript">th</hi> 1816</date>,
-				has left the following short account, which she dictated <date when-iso="1813-9-13">Sept
+				has left the following short account, which she dictated <date type="dictated" when-iso="1813-9-13">Sept
 					13<hi rend="superscript">th</hi> 1813</date>. I was born <date when-iso="1743-11-19">Oct 19th
 				1743</date> in <placeName>Idle</placeName>, in my <date when-iso="1746" cert="medium">3<hi rend="superscript">d</hi> year</date> I moved
 				with my parents into <placeName>Pudsey</placeName>, they belonging to the <orgName>B<hi

@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2019-07-02T18:18:56Z. .
+Schema generated from ODD source 2019-07-08T18:18:01Z. .
 TEI Edition: Version 3.3.0. Last updated on
 	31st January 2018, revision f4d8439
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
@@ -1127,6 +1127,7 @@ Suggested values include: 1] m (metre) ; 2] kg (kilogram) ; 3] s (second) ; 4] H
       <ref name="att.naming.attribute.health"/>
       <ref name="att.naming.attribute.relation"/>
       <ref name="att.naming.attribute.occupation"/>
+      <ref name="att.naming.attribute.office"/>
       <ref name="att.naming.attribute.beruf"/>
       <ref name="att.naming.attribute.ereignis"/>
       <ref name="att.naming.attribute.gefühl"/>
@@ -1134,6 +1135,7 @@ Suggested values include: 1] m (metre) ; 2] kg (kilogram) ; 3] s (second) ; 4] H
       <ref name="att.naming.attribute.zeremonie"/>
       <ref name="att.naming.attribute.de"/>
       <ref name="att.naming.attribute.en"/>
+      <ref name="att.naming.attribute.religion"/>
       <ref name="att.naming.attribute.role"/>
       <ref name="att.naming.attribute.nymRef"/>
    </define>
@@ -1180,6 +1182,14 @@ Suggested values include: 1] m (metre) ; 2] kg (kilogram) ; 3] s (second) ; 4] H
    <define name="att.naming.attribute.occupation">
       <optional>
          <attribute name="occupation">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.office">
+      <optional>
+         <attribute name="office">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             <text/>
          </attribute>
@@ -1236,6 +1246,14 @@ Suggested values include: 1] m (metre) ; 2] kg (kilogram) ; 3] s (second) ; 4] H
    <define name="att.naming.attribute.en">
       <optional>
          <attribute name="en">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <text/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.religion">
+      <optional>
+         <attribute name="religion">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             <text/>
          </attribute>
@@ -4173,6 +4191,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
          <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.de"/>
          <ref name="att.naming.attribute.en"/>
+         <ref name="att.naming.attribute.religion"/>
          <ref name="att.naming.attribute.role"/>
          <ref name="att.naming.attribute.nymRef"/>
          <ref name="att.canonical.attribute.key"/>
@@ -4261,13 +4280,34 @@ Suggested values include: 1] child; 2] parent; 3] sibling; 4] spouse</a:document
          <optional>
             <attribute name="occupation">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-Suggested values include: 1] acolyte; 2] bishop; 3] blacksmith; 4] choir helper; 5] choir labourer; 6] deacon; 7] deaconess; 8] elder; 9] eldress; 10] general elder; 11] general eldress; 12] heathen worker; 13] overseer; 14] sewer; 15] sick waiter; 16] supervisor; 17] teacher</a:documentation>
+Suggested values include: 1] clothier; 2] clothmaker; 3] husbandman; 4] farmer; 5] mason; 6] schoolmaster; 7] weaver</a:documentation>
+               <choice>
+                  <value>clothier</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>clothmaker</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>husbandman</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>farmer</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>mason</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>schoolmaster</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>weaver</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="office">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] acolyte; 2] bishop; 3] choir helper; 4] choir labourer; 5] deacon; 6] deaconess; 7] elder; 8] eldress; 9] general elder; 10] general eldress; 11] heathen worker; 12] overseer; 13] sick waiter; 14] supervisor</a:documentation>
                <choice>
                   <value>acolyte</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>bishop</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>blacksmith</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>choir helper</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -4289,13 +4329,9 @@ Suggested values include: 1] acolyte; 2] bishop; 3] blacksmith; 4] choir helper;
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>overseer</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>sewer</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>sick waiter</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>supervisor</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                  <value>teacher</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <data type="Name"/>
                </choice>
@@ -10963,6 +10999,7 @@ Suggested values include: 1] paper; 2] parch (parchment) ; 3] mixed</a:documenta
          <ref name="att.naming.attribute.health"/>
          <ref name="att.naming.attribute.relation"/>
          <ref name="att.naming.attribute.occupation"/>
+         <ref name="att.naming.attribute.office"/>
          <ref name="att.naming.attribute.beruf"/>
          <ref name="att.naming.attribute.ereignis"/>
          <ref name="att.naming.attribute.gefühl"/>
@@ -11049,6 +11086,25 @@ Suggested values include: 1] childrens choir; 2] congregation; 3] disciple's hou
                </choice>
             </attribute>
          </optional>
+         <optional>
+            <attribute name="religion">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+Suggested values include: 1] Anglican; 2] Quaker; 3] Presbyterian; 4] Lutheran; 5] Roman Catholic</a:documentation>
+               <choice>
+                  <value>Anglican</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Quaker</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Presbyterian</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Lutheran</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Roman Catholic</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <data type="Name"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
@@ -11116,11 +11172,13 @@ Suggested values include: 1] childrens choir; 2] congregation; 3] disciple's hou
          <ref name="att.naming.attribute.health"/>
          <ref name="att.naming.attribute.relation"/>
          <ref name="att.naming.attribute.occupation"/>
+         <ref name="att.naming.attribute.office"/>
          <ref name="att.naming.attribute.beruf"/>
          <ref name="att.naming.attribute.ereignis"/>
          <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.verwandte"/>
          <ref name="att.naming.attribute.zeremonie"/>
+         <ref name="att.naming.attribute.religion"/>
          <ref name="att.naming.attribute.role"/>
          <ref name="att.naming.attribute.nymRef"/>
          <ref name="att.canonical.attribute.key"/>
@@ -11172,11 +11230,13 @@ Suggested values include: 1] brother; 2] married couple; 3] sister</a:documentat
          <ref name="att.naming.attribute.health"/>
          <ref name="att.naming.attribute.relation"/>
          <ref name="att.naming.attribute.occupation"/>
+         <ref name="att.naming.attribute.office"/>
          <ref name="att.naming.attribute.beruf"/>
          <ref name="att.naming.attribute.ereignis"/>
          <ref name="att.naming.attribute.gefühl"/>
          <ref name="att.naming.attribute.verwandte"/>
          <ref name="att.naming.attribute.zeremonie"/>
+         <ref name="att.naming.attribute.religion"/>
          <ref name="att.naming.attribute.role"/>
          <ref name="att.naming.attribute.nymRef"/>
          <ref name="att.canonical.attribute.key"/>

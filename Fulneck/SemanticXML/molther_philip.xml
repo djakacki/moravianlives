@@ -112,18 +112,18 @@
 				<div type="page" n="1">
 					<head type="page">1</head>
 					<pb xml:id="Ful_3_04_MoltherPhilipHenry-01.jpg" n="1"/>
-					<p> Life of brother Philip Henry Mol ther who departed at Bedford Sept<hi
-							rend="superscript">r</hi> 9. 1780. extracted from his own manuscripts. I
-						was born in the year 1714 Dec the 28<hi rend="superscript">th</hi> at
-						Imsheim in the vicinity of Bussweiler in Elsa tia where my father was the
-						parish minister. Being 8 years old, I was sent to the school at Bussweiler
+					<p> Life of <roleName en="brother">brother</roleName> <persName ref="#mlper000561">Philip Henry Molther</persName> who departed at <placeName ref="#mlpla000025">Bedford</placeName> <date type="death" when-iso="1780-09-09">Sept<hi
+						rend="superscript">r</hi> 9. 1780</date>. extracted from his own manuscripts. I
+						was born in the <date type="birth" when-iso="1714-12-28">year 1714 Dec the 28<hi rend="superscript">th</hi></date> at
+						<placeName>Imsheim</placeName> in the vicinity of <placeName>Bussweiler in Elsatia</placeName> where my father was the
+						<name office="minister">parish minister</name>. <date when-iso="1722" cert="medium">Being 8 years old</date>, I was sent to the school at <placeName>Bussweiler</placeName>
 						with a view to lay the first foundation for studying divinity. I felt
 						already in my infancy that the friend and Redeemer of my soul was drawing me
 						by his grace. Tho&apos; I had many bad examples before me, I remained in
-						inocent simplicity till in my 14<hi rend="superscript">th</hi> year, when I
+						inocent simplicity till in my <date when-iso="1728">14<hi rend="superscript">th</hi> year</date>, when I
 						was seduced into sin by one of my school fellows. Sin begat death, and my
 						conscienc was repeatedly alarmed with this dreadful sentence: &quot;Thou art
-						doomed to death&quot;, which caused me to feel unceasing anxiety of heart,
+						doomed to death&quot;, which caused me to feel unceasing <name type="emotion">anxiety of heart</name>,
 						&amp; imbittered the sinful pleasures of life to me, <note type="catchword"
 							>serving</note>
 					</p>
@@ -133,14 +133,14 @@
 					<head type="page">2</head>
 					<pb xml:id="Ful_3_04_MoltherPhilipHenry-03.jpg" n="2"/>
 					<p> serving, through the kind care of the lover of my soul, as a barrier, which
-						prevented me from rushing into misery. In the year 1734 I was sent by my
-						parents to Metz in France in order to learn the french langua Our Saviour
+						prevented me from rushing into misery. <date when-iso="1734">In the year 1734</date> I was sent by my
+						parents to <placeName>Metz</placeName> in <placeName>France</placeName> in order to learn the french langua <persName type="diety">Our Saviour</persName>
 						pursued me also here by his Grace in many ways. Being once in company with
-						my french master, I accom panied him at night to his lodgings seeming ly in
+						my french master, I accompanied him at night to his lodgings seemingly in
 						good health. The next morning I was thunderstruck at hearing that he was
 						dead, as my conscience forced immediatly this question upon me: what would
 						have be come of you if this had been your case? I hastened to my room
-						trembling, and throwing myself on the ground, and prayed to an unknown God
+						<name type="emotion">trembling, and throwing myself on the ground, and prayed</name> to an unknown <persName type="diety">God</persName>
 						for Grace and conver sion of heart from sin. But sometime after I fell again
 						into a dilatory track. In the year 1735 I went to the university <note
 							type="catchword">at</note>

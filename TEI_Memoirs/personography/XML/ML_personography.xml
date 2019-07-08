@@ -452,7 +452,7 @@
                   <placeName>sisters' house Fulneck</placeName>
                </death>
                <event type="baptism">
-                  <desc><orgName>Lutheran Church</orgName></desc>
+                  <desc><orgName religion="Lutheran">Lutheran Church</orgName></desc>
                </event>
                <event when-iso="1738" cert="medium">
                   <desc>
@@ -474,7 +474,7 @@
                   </desc>
                </event>
                <event type="reception" when-iso="1741">
-                  <desc> recieved into <orgName>the Great Girls Choir</orgName>
+                  <desc> recieved into <orgName en="greater girls choir">the Great Girls Choir</orgName>
                   </desc>
                </event>
                <event when-iso="1764-05">
@@ -557,7 +557,7 @@
                   <placeName ref="#fulneck">Fulneck</placeName> Sisters' House </death>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event type="reception" when-iso="1746-05">
                   <desc><placeName>society/sisters’ house Cleckheaton</placeName></desc>
@@ -593,7 +593,7 @@
                </event>
                <residence when-iso="1748-07"><placeName>Cackheaton</placeName></residence>
                <event when-iso="1753">
-                  <desc> recieved from <orgName>Great Girls</orgName> to the <orgName>Single Sisters Choir</orgName>
+                  <desc> recieved from <orgName en="greater girls choir">Great Girls</orgName> to the <orgName en="single sisters choir">Single Sisters Choir</orgName>
                   </desc>
                </event>
                <event from="1744" cert="medium">
@@ -679,10 +679,10 @@
                   <placeName>sisters' house Fulneck</placeName>
                </death>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event>
-                  <desc> Ingham's society <placeName>Wyke</placeName>
+                  <desc> <orgName>Ingham's society</orgName> <placeName>Wyke</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1742">
@@ -799,7 +799,7 @@
                </death>
                <occupation>sewer</occupation>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event when-iso="1758-05-21">
                   <desc><placeName>sisters' house Gomersal</placeName></desc>
@@ -885,7 +885,7 @@
                   <date type="death" when-iso="1779-06-14">14 June, 1779</date>
                </death>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event>
                   <desc>David Taylor's Society <placeName>Dunkinfield</placeName></desc>
@@ -996,7 +996,7 @@
                   <date type="death" when-iso="1770-01-24">24 January, 1770</date>
                </death>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event when-iso="1739-05">
                   <desc>received society <placeName>Fetter Lane</placeName></desc>
@@ -1219,7 +1219,7 @@
                   <date type="death" when-iso="1785-01-17">17 January, 1785</date>
                </death>
                <event type="baptism">
-                  <desc><orgName>Presbyterian Church</orgName></desc>
+                  <desc><orgName religion="Presbyterian">Presbyterian Church</orgName></desc>
                </event>
                <event type="reception" when-iso="1744">
                   <desc> recieved society <placeName>Shelf</placeName>
@@ -1328,7 +1328,7 @@
                </event>
                <event>
                   <desc>
-                     <placeName>Ingham's society Shelf</placeName>
+                     <orgName>Ingham's society </orgName> <placeName>Shelf</placeName>
                   </desc>
                </event>
                <event type="reception">
@@ -1421,12 +1421,12 @@
                </death>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
                   <desc>
-                     <placeName>Ingham's society Rothwell</placeName>
+                     <orgName>Ingham's society</orgName> <placeName>Rothwell</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1745">
@@ -1757,12 +1757,12 @@
                </birth>
                <death>
                   <date type="death" when-iso="1809-12-01">1 December, 1809</date>
-                  <placeName ref="#fulneck">Fulneck</placeName>
+                  <placeName>Fulneck</placeName>
                </death>
                <occupation>spinner</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="receptionn" when-iso="1758">
@@ -1811,7 +1811,7 @@
                <occupation>knitter</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="reception">
@@ -1915,7 +1915,7 @@
                   <placeName>Fulneck</placeName> Died of dropsy and consumption </death>
                <event type="baptism">
                   <desc>
-                     <orgName>Presbyterian Church</orgName>
+                     <orgName religion="Presbyterian">Presbyterian Church</orgName>
                   </desc>
                </event>
                <event when-iso="1750-10-09">
@@ -1968,7 +1968,7 @@
                <residence>Golcar</residence>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1748">
@@ -2200,7 +2200,7 @@
                </death>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
@@ -2264,11 +2264,11 @@
                </death>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
-                  <desc> Ingham's society <placeName>Holme</placeName>
+                  <desc><orgName>Ingham's society</orgName> <placeName>Holme</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1742">
@@ -2537,7 +2537,7 @@
                   </desc>
                </event>
                <event>
-                  <desc> Ingham's society <placeName>Cleckheaton</placeName>
+                  <desc><orgName>Ingham's society</orgName> <placeName>Cleckheaton</placeName>
                   </desc>
                </event>
                <event type="reception">
@@ -2760,7 +2760,7 @@
                <residence from="1744" to="1746"><placeName>Shelf</placeName></residence>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1744">
@@ -2832,7 +2832,7 @@
                <occupation>washing and spining</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1759">
@@ -3534,7 +3534,7 @@
                   </desc>
                </event>
                <event>
-                  <desc> Ingham's society <placeName>Ossett</placeName>
+                  <desc><orgName>Ingham's society</orgName> <placeName>Ossett</placeName>
                   </desc>
                </event>
                <event type="reception">
@@ -4754,7 +4754,7 @@
                   </desc>
                </event>
                <event>
-                  <desc> added Ingham's society <placeName>Cleckheaton</placeName>
+                  <desc> added <orgName>Ingham's society</orgName> <placeName>Cleckheaton</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1743">
@@ -4876,7 +4876,7 @@
                   </desc>
                </event>
                <event>
-                  <desc> Ingham's society Holme </desc>
+                  <desc> <orgName>Ingham's society</orgName> <placeName>Holme</placeName> </desc>
                </event>
                <event when-iso="1746">
                   <desc>
@@ -6220,12 +6220,12 @@
                <residence><placeName ref="#mlpla000030">Birstall</placeName></residence>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
                   <desc>
-                     Ingham's society <placeName ref="#mlpla000030">Birstall</placeName>
+                     <orgName>Ingham's society</orgName> <placeName ref="#mlpla000030">Birstall</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1748">
@@ -6320,7 +6320,7 @@
                   <date calendar="Gregorian" from="1743-12-10" to="1744-06-09">10 December, 1743 to 9 Junee, 1744</date>
                </residence>
                <event type="baptism">
-                  <desc><orgName>Lutheran Church</orgName></desc>
+                  <desc><orgName religion="Lutheran">Lutheran Church</orgName></desc>
                </event>
                <event type="reception">
                   <desc>
@@ -6532,7 +6532,7 @@
                </death>
                <occupation>clothier</occupation>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event type="reception" when-iso="1752">
                   <desc>
@@ -6587,7 +6587,7 @@
                </event>
                <event>
                   <desc>
-                     Ingham's society <placeName>Little Gomersal</placeName>
+                     <orgName>Ingham's society</orgName> <placeName>Little Gomersal</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1742">
@@ -6719,7 +6719,7 @@
                </event>
                <event>
                   <desc>
-                     Ingham's society <placeName>Pudsey</placeName>
+                     <orgName>Ingham's society</orgName> <placeName>Pudsey</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1744">
@@ -6910,7 +6910,7 @@
                <occupation>merchant</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Presbyterian Church</orgName>
+                     <orgName religion="Presbyterian">Presbyterian Church</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1755">
@@ -6962,7 +6962,7 @@
                <occupation>stuff weaver</occupation>
                <residence>Halifax</residence>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event type="reception" when-iso="1752">
                   <desc>
@@ -7075,11 +7075,11 @@
                <occupation when-iso="1750">husbandman</occupation>
                <residence from="1703" to="1758"><placeName>Lightcliffe</placeName></residence>
                <event type="baptism">
-                  <desc><orgName>Church of England</orgName></desc>
+                  <desc><orgName religion="Anglican">Church of England</orgName></desc>
                </event>
                <event>
                   <desc>
-                     Ingham's society <placeName>Lightcliffe</placeName>
+                     <orgName>Ingham's society</orgName> <placeName>Lightcliffe</placeName>
                   </desc>
                </event>
                <event type="reception" when-iso="1744">
@@ -7221,11 +7221,11 @@
                </death>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
-                  <desc>Ingham's society <placeName ref="#mlpla000059">Mirfield</placeName></desc>
+                  <desc><orgName>Ingham's society</orgName> <placeName ref="#mlpla000059">Mirfield</placeName></desc>
                </event>
                <event type="reception" when-iso="1746">
                   <desc>
@@ -7297,7 +7297,7 @@
                <occupation>literatus</occupation>
                <occupation>hymn writer</occupation>
                <event type="baptism">
-                  <desc><orgName>Lutheran Church</orgName></desc>
+                  <desc><orgName religion="Lutheran">Lutheran Church</orgName></desc>
                </event>
                <event when-iso="1754-05-24">
                   <desc>
@@ -7402,7 +7402,7 @@
                <occupation>shopkeeper</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1764-08-13">
@@ -7473,7 +7473,7 @@
                <residence when-iso="1767">Pudsey</residence>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
@@ -7544,7 +7544,7 @@
                <occupation>clothier</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Presbyterian Church</orgName>
+                     <orgName religion="Presbyterian">Presbyterian Church</orgName>
                   </desc>
                </event>
                <event type="reception" when-iso="1743">
@@ -7637,7 +7637,7 @@
          <listPerson>
             <person xml:id="mlper000561" sex="m">
                <persName>
-                  <forename>Phillip</forename>
+                  <forename>Phillip <addName>Henry</addName></forename>
                   <surname type="birth">Molther</surname>
                </persName>
                <note>There is no entry in the Yorkshire Families Document</note>
@@ -7660,7 +7660,7 @@
                <occupation>shoemaker</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event>
@@ -7746,7 +7746,7 @@
                <occupation>shoemaker</occupation>
                <event type="baptism">
                   <desc>
-                     <orgName>Church of England</orgName>
+                     <orgName religion="Anglican">Church of England</orgName>
                   </desc>
                </event>
                <event when-iso="1758-08-21">
