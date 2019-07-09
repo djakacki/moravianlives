@@ -1757,7 +1757,7 @@
                </birth>
                <death>
                   <date type="death" when-iso="1809-12-01">1 December, 1809</date>
-                  <placeName>Fulneck</placeName>
+                  <placeName ref="#fulneck">Fulneck</placeName>
                </death>
                <occupation>spinner</occupation>
                <event type="baptism">

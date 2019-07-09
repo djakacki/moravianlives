@@ -462,15 +462,37 @@
             </attList>
           </elementSpec>
           
-         <!-- <classSpec ident="office" module="namesdates" type="atts" mode="change">
-            <desc>religious occupations</desc>
+          <elementSpec ident="office" mode="add">
+            <gloss>Office details</gloss>
+            <desc>Contains information on a person's held office within the Moravian Church</desc>
             <classes>
               <memberOf key="model.persStateLike"/>
-            </classes>-->
+              <memberOf key="att.global"/>
+              <memberOf key="att.global.rendition"/>
+              <memberOf key="att.global.linking"/>
+              <memberOf key="att.global.analytic"/>
+              <memberOf key="att.global.facs"/>
+              <memberOf key="att.global.change"/>
+              <memberOf key="att.global.responsibility"/>
+              <memberOf key="att.global.source"/>
+              <memberOf key="att.datable"/>
+              <memberOf key="att.datable.w3c"/>
+              <memberOf key="att.datable.iso"/>
+              <memberOf key="att.datable.custom"/>
+              <memberOf key="att.editLike"/>
+              <memberOf key="att.naming"/>
+              <memberOf key="att.canonical"/>
+              <memberOf key="att.typed"/>
+            </classes>
+            
+           <!--   <content>
+              <rng:ref name="macro.phraseSeq"/> 
+            </content>-->
+            
+          </elementSpec>
             
           
            
-            <!--</classSpec>-->
           
        
           <!-- end of schema -->
