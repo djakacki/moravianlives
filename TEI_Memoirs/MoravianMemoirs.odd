@@ -139,6 +139,7 @@
                   <valItem ident="sacrament" />
                   <valItem ident="interrment" />
                   <valItem ident="communion" />
+                  <valItem ident="religious"/>
                 </valList>
               </attDef>
             </attList>
@@ -462,12 +463,12 @@
             </attList>
           </elementSpec>
           
-          <elementSpec ident="office" mode="add">
+            <!--<elementSpec ident="office" mode="add">
             <gloss>Office details</gloss>
             <desc>Contains information on a person's held office within the Moravian Church</desc>
             <classes>
               <memberOf key="model.persStateLike"/>
-              <memberOf key="att.global"/>
+              <!-\-<memberOf key="att.global"/>
               <memberOf key="att.global.rendition"/>
               <memberOf key="att.global.linking"/>
               <memberOf key="att.global.analytic"/>
@@ -482,14 +483,36 @@
               <memberOf key="att.editLike"/>
               <memberOf key="att.naming"/>
               <memberOf key="att.canonical"/>
-              <memberOf key="att.typed"/>
+              <memberOf key="att.typed"/>-\->
+              
+              <memberOf key="att.global.attributes"/>
+                <memberOf key="att.global.rendition.attributes"/>
+                  <memberOf key="att.global.linking.attributes"/>
+                    <memberOf key="att.global.analytic.attributes"/>
+                      <memberOf key="att.global.facs.attributes"/>
+                        <memberOf key="att.global.change.attributes"/>
+                          <memberOf key="att.global.responsibility.attributes"/>
+                            <memberOf key="att.global.source.attributes"/>
+                              <memberOf key="att.datable.attributes"/>
+                                <memberOf key="att.datable.w3c.attributes"/>
+                                  <memberOf  key="att.datable.iso.attributes"/>
+                                    <memberOf  key="att.datable.custom.attributes"/>
+              <memberOf key="att.editLike.attributes"/>
+              <memberOf key="att.naming.attributes"/>
+              <memberOf key="att.canonical.attributes"/>
+              <memberOf key="att.typed.attribute.subtype"/>
+              <memberOf key="teidata.enumerated"></memberOf>
+              <memberOf key="teidata.pointer"></memberOf>
+              <memberOf key="tei"></memberOf>
+             
+              <memberOf key="macro.specialPara"/>
             </classes>
+              
+              
             
-           <!--   <content>
-              <rng:ref name="macro.phraseSeq"/> 
-            </content>-->
             
-          </elementSpec>
+            
+          </elementSpec>-->
             
           
            

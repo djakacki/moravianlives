@@ -510,11 +510,11 @@
                </event>
                <residence from="1734"><placeName ref="#mlpla000026">Berthelsdorf</placeName></residence>
                <residence><placeName ref="#mlpla000053">Lobenstein</placeName></residence>
-               <occupation when-iso="1742">children and great girls bandkeeper <placeName ref="mlpla000057">Marienborn</placeName></occupation>
-               <occupation notBefore="1748-09-20" notAfter="1764-05">single sisters' labourer <placeName ref="#mlpla000002">Bethlehem</placeName></occupation>
-               <occupation when-iso="1765">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></occupation>
-               <occupation when-iso="1765" notAfter="1772">single sisters' labourer <placeName ref="#mlpla000025">Bedford</placeName></occupation>
-               <occupation from="1722" to="1801">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></occupation>
+               <office when-iso="1742">children and great girls bandkeeper <placeName ref="mlpla000057">Marienborn</placeName></office>
+               <office notBefore="1748-09-20" notAfter="1764-05">single sisters' labourer <placeName ref="#mlpla000002">Bethlehem</placeName></office>
+               <office when-iso="1765">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></office>
+               <office when-iso="1765" notAfter="1772">single sisters' labourer <placeName ref="#mlpla000025">Bedford</placeName></office>
+               <office from="1722" to="1801">single sisters' labourer <placeName ref="#fulneck">Fulneck</placeName></office>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/8</bibl>
                <note> ANDERSON, Anna Rosina (1727-1803) b 09.08.1727 Berthelsdorf reception: baptised Lutheran Church, orphan house Marienborn c 1738, sisters’ house Marienborn 1739, received
@@ -1045,11 +1045,11 @@
                <residence when-iso="1733">returned Reading</residence>
                <residence when-iso="1741">Kingswood</residence>
                <residence from="1744" to="1747"><placeName>East Tytherton</placeName></residence>
-               <occupation when-iso="1748">single sisters' choir servant andn choir helper <placeName>Yorkshire</placeName></occupation>
-               <occupation from="1752" to="1759">single sisters' labourer <placeName>North of Ireland</placeName></occupation>
-               <occupation when-iso="1760-10-13">single sisters’labour <placeName>Bedford</placeName></occupation>
+               <office when-iso="1748">single sisters' choir servant andn choir helper <placeName ref="#mlpla000084">Yorkshire</placeName></office>
+               <office from="1752" to="1759">single sisters' labourer <placeName>North of Ireland</placeName></office>
+               <office when-iso="1760-10-13">single sisters’labour <placeName ref="#mlpla000025">Bedford</placeName></office>
                <occupation when-iso="1762" cert="medium"><placeName>Lampeter</placeName></occupation>
-               <occupation when-iso="1765-01-16">assistannt labourrer among single sisters andn great girls of country congregation <placeName>Gomersal</placeName></occupation>
+               <office when-iso="1765-01-16">assistannt labourrer among <orgName en="single sisters choir">single sister</orgName>s and <orgName en="greater girls choir">great girls</orgName> of country congregation <placeName>Gomersal</placeName></office>
                <event when-iso="1769-11-20">
                   <desc> retired <placeName>sinngle sisters' house Fulneck</placeName>
                   </desc>
@@ -1124,22 +1124,25 @@
                <!-- October 1742 - July 1743?????? -->
                <residence from="1750-09-29" to="1753-02-27"><placeName ref="#mlpla000003">Fulneck settlement</placeName></residence>
 
-               <occupation>
+               <office>
                   <date calendar="Julian" when-iso="1743-07-02">2 July, 1743</date>
-                  <date calendar="Gregorian" when-iso="1743-07-13">13 July, 1743</date> co-helper with single sisters <placeName ref="#mlpla000084">Yorkshire</placeName>
-               </occupation>
-               <occupation>
+                  <date calendar="Gregorian" when-iso="1743-07-13">13 July, 1743</date> 
+                  co-helper with single sisters <placeName ref="#mlpla000084">Yorkshire</placeName>
+               </office>
+               <office>
                   <date calendar="Julian" when-iso="1744-10-05">5 October, 1744</date>
-                  <date calendar="Gregorian" when-iso="1744-10-16">13 October, 1744</date> single sisters' labourer <placeName ref="#mlpla000084">Yorkshire</placeName>
-               </occupation>
+                  <date calendar="Gregorian" when-iso="1744-10-16">13 October, 1744</date> 
+                  single sisters' labourer <placeName ref="#mlpla000084">Yorkshire</placeName>
+               </office>
                <event when-iso="1748-06">
                   <desc> resiged due to ill-health </desc>
                </event>
-               <occupation>
+               <office>
                   <!-- 04.05.1749 (OS) / 15.05.1749 (NS) - 29.09.1750 -->
                   <date calendar="Julian" when-iso="1749-05-04">4 May, 1749</date>
-                  <date calendar="Gregorian" from="1749-05-15" to="1750-09-29">15 May, 1749 to 29 September, 1750</date> single sisters' warden <placeName>Dukinfield</placeName>
-               </occupation>
+                  <date calendar="Gregorian" from="1749-05-15" to="1750-09-29">15 May, 1749 to 29 September, 1750</date> 
+                  single sisters' warden <placeName ref="#mlpla000035">Dukinfield</placeName>
+               </office>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/57</bibl>
                <note>(P/F/D)ssCLAGGETT, Elizabeth (Betty) (1715-1767) b 20.12.1715 (OS) / 31.12.1715 (NS) Castleford Yorkshire resided: Castleford 1715, London 1720, Castleford 1730, London 1734 -
@@ -1370,7 +1373,12 @@
                </event>
                <!-- Don't know whether the below should be an event or occupation. Asked question on daily log Google Doc -->
                <!-- congregation office:  visitor Yorkshire 26.03.1748 (OS) / 06.04.1748 (NS) -->
-               <occupation when-iso="1747">single sisters' warden <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office when-iso="1747">single sisters' warden <placeName ref="#mlpla000084">Yorkshire</placeName></office>
+               <office>
+                  <date calendar="Julian" when-iso="1748-03-26">26 March, 1748</date>
+                  <date calendar="Gregorian" when-iso="1748-04-06">6 April, 1748</date>
+                  visitor <placeName ref="#mlpla000084">Yorkshire</placeName>
+               </office>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/10</bibl>
                <note>(LW/P/F)CBss=#CLARK, Grace (1718-1749) b 17.04.1718 (OS) / 28.04.1718 (NS) Northowram Parish of Halifax reception: baptized Northowram and Coley non-conformist (Presbyterian)
@@ -1760,6 +1768,8 @@
                   <placeName ref="#fulneck">Fulneck</placeName>
                </death>
                <occupation>spinner</occupation>
+               
+               
                <event type="baptism">
                   <desc>
                      <orgName religion="Anglican">Church of England</orgName>
@@ -1831,7 +1841,7 @@
                   <desc> recieved as acoluth <placeName ref="#mlpla000001">Hernnhut</placeName>
                   </desc>
                </event>
-               <occupation from="1765" notAfter="1773">childrenn's sister <placeName>girls' school Fulneck</placeName></occupation>
+               <occupation from="1765" notAfter="1773">children's sister <placeName>girls' school Fulneck</placeName></occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/72</bibl>
                <note>(F)GURNEY, Sarah (Sally) (1715-1800) b 27.10.1715 Middlesex occupation: knitter reception: baptized Church of England, received congregation London 26.12.1744 (OS) / 06.01.1745
@@ -2101,7 +2111,7 @@
                <event when-iso="1820">
                   <desc> widows' house Fulneck </desc>
                </event>
-               <occupation when-iso="1802">congregation labourer <placeName ref="#mlpla000035">Dukinfield</placeName></occupation>
+               <office when-iso="1802">congregation labourer <placeName ref="#mlpla000035">Dukinfield</placeName></office>
                <occupation when-iso="1805"><placeName>Kingswood</placeName></occupation>
                <occupation when-iso="1813-11-24">housekeeper <placeName>boys' school Ockbrook</placeName></occupation>
                <event from="1818-07-27" to="1820">
@@ -2354,7 +2364,7 @@
                      <placeName>sisters' house Fulneck</placeName>
                   </desc>
                </event>
-               <occupation when-iso="1807">teacher over great girls <placeName>Gomersal</placeName></occupation>
+               <occupation when-iso="1807">teacher over <orgName en="greater girls choir">great girls</orgName> <placeName>Gomersal</placeName></occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/29</bibl>
                <note>MORTIMER, Sarah (1780-1811) b 03.06.1780 Oakenshaw educated: girls’ school Lower Wyke 1784 reception: sisters’ house Lower Wyke, received congregation Lower Wyke 30.11.1794,
@@ -2805,7 +2815,7 @@
                   <desc> recieved as acoluth <placeName ref="#fulneck">Fulneck</placeName>
                   </desc>
                </event>
-               <occupation>disciple’s intercessor</occupation>
+               <office>disciple’s intercessor</office>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/78</bibl>
                <note>(LW/G/P/F)CBssROBINSON, Sarah (1715-1796) b 25.02.1714 (OS) / 08.03.1715 Halifax occupation: spinner resided: Shelf 1744-1746 reception: baptized Church of England, received
@@ -3119,7 +3129,7 @@
                <event when-iso="1755-04-19">
                   <desc> founder member Fulneck congregation </desc>
                </event>
-               <occupation>intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office>intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></office>
                <affiliation ref="#fulneck">Fulneck</affiliation>
                <bibl type="memoir">Ful/SS/31</bibl>
                <note>(LW/G/P/F)CBssSUTCLIFFE, Mercy (Mary) (1716-1768) b 21.12.1715 (OS) / 01.01.1716 (NS) Clayton Parish of Bradford reception: baptized Church of England, received society Gomersal
@@ -3403,7 +3413,7 @@
                <event when-iso="1755-04-19">
                   <desc> founder member Fulneck congregation </desc>
                </event>
-               <occupation from="1755" to="1800">sick waiter <placeName>sisters' house Fulneck</placeName></occupation>
+               <office from="1755" to="1800">sick waiter <placeName>sisters' house Fulneck</placeName></office>
                <event when-iso="1779-06-14">
                   <desc> received as acoluth <placeName ref="#fulneck">Fulneck</placeName>
                   </desc>
@@ -3772,7 +3782,7 @@
                <event when-iso="1755-04-19">
                   <desc> founder member Fulneck congregation </desc>
                </event>
-               <occupation>intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office>intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></office>
                <occupation>
                   <date calendar="Julian" when-iso="1748-03-26">26 March ,1748</date>
                   <date calendar="Gregorian" when-iso="1748-04-06">6 April, 1748</date> visitor <placeName ref="#mlpla000084">Yorkshire</placeName>
@@ -4437,7 +4447,7 @@
                   <forename>Samuel</forename>
                   <surname type="birth">Calvert</surname>
                </persName>
-               <occupation>cordwainere of Idle</occupation>
+               <occupation>cordwainer of Idle</occupation>
                <affiliation ref="#fulneck">Fulneck</affiliation>
             </person>
          </listPerson>
@@ -6161,11 +6171,11 @@
                </education>
                <occupation when-iso="1751">assistant congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
                <occupation when-iso="1753">congregation doctor <placeName ref="#mlpla000004">Fulneck</placeName></occupation>
-               <occupation when-iso="1759-05-28">medical missionary <placeName ref="#mlpla000076">Jamaica</placeName></occupation>
+               <office when-iso="1759-05-28">medical missionary <placeName ref="#mlpla000076">Jamaica</placeName></office>
                <occupation when-iso="1780-10-19">congregation doctor and assistant labourer <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
-               <occupation when-iso="1780-12-26">committee <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
-               <occupation when-iso="1783-06-25">congregation council <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
-               <occupation when-iso="1790-03-15">committee minute secretary <placeName ref="#mlpla000063">Ockbrook</placeName></occupation>
+               <office when-iso="1780-12-26">committee <placeName ref="#mlpla000063">Ockbrook</placeName></office>
+               <office when-iso="1783-06-25">congregation council <placeName ref="#mlpla000063">Ockbrook</placeName></office>
+               <office when-iso="1790-03-15">committee minute secretary <placeName ref="#mlpla000063">Ockbrook</placeName></office>
                <note>(P/F/O)PLANTA, Peter Jacob (1721-1815) b 16.12.1721 Jonköping Sweden educated: apprenticeship under Dr Hurlock Fulneck 1752 occupation: surgeon and apothecary resided: Fulneck
                   10.04.1755 - 1759, congregation house Ockbrook 19.10.1780, Green Lane Ockbrook 03.01.1781, 33 - 35 The Settlement Ockbrook 08.09.1784 reception: baptized Lutheran Church, received
                   congregation Herrnhaag 31.12.1747, sacrament Herrnhaag 25.03.1748, regulated Germany, brethren’s house Lane End Pudsey 1752, brethren’s House Fulneck 1752-10.04.1755 congregation
@@ -6647,18 +6657,18 @@
                      ordained as a deacon
                   </desc>
                </event>
-               <occupation when-iso="1744">intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
-               <occupation when-iso="1748-03-26">visitor <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office when-iso="1744">intercessor <placeName ref="#mlpla000084">Yorkshire</placeName></office>
+               <office when-iso="1748-03-26">visitor <placeName ref="#mlpla000084">Yorkshire</placeName></office>
                <occupation>
                   single brethren's warden <placeName ref="#mlpla000084">Yorkshire</placeName>
                   <date calendar="Julian" when-iso="1744-07-20">20 July, 1744</date>
                </occupation>
-               <occupation when-iso="1744">preacher <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office when-iso="1744">preacher <placeName ref="#mlpla000084">Yorkshire</placeName></office>
                <occupation when-iso="1754">congregation warden <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
                <occupation when-iso="1755">congregation warden <placeName ref="#fulneck">Fulneck</placeName></occupation>
                <occupation from="1765" to="1767">congregation labourer <placeName>Pudsey</placeName></occupation>
                <!--  unity office: deputy General Synod Herrnhut 1756, Marienborn 1764, -->
-               <occupation when-iso="1757">member of the board of administrators</occupation>
+               <office when-iso="1757">member of the board of administrators</office>
                <event type="marriage" when-iso="1754-11-19">
                   <desc>
                      <placeName>Church of St Dunstan's in the West London</placeName>
@@ -6669,8 +6679,8 @@
                      oeconomates’ conference
                   </desc>
                </event>
-               <occupation when-iso="1756">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000001">Herrnhut</placeName></occupation>
-               <occupation when-iso="1764">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000057">Marienborn</placeName></occupation>
+               <office when-iso="1756">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000001">Herrnhut</placeName></office>
+               <office when-iso="1764">deputy General at <name event="religious">Synod</name> <placeName ref="#mlpla000057">Marienborn</placeName></office>
                
                <note>(LW/G/P/F)CBsb#CHARLESWORTH, James (1721-1770)
                   b 05.12.1721 (OS) / 16.12.1721 (NS) Little Gomersal Parish of Birstall occupation: cloth worker / cloth dresser
@@ -6744,7 +6754,7 @@
                <event when-iso="1755-04-19">
                   <desc>founder member Fulneck congregation</desc>
                </event>
-               <occupation>intercessor <placeName ref="#mlper000084">Yorkshire</placeName></occupation>
+               <office>intercessor <placeName ref="#mlper000084">Yorkshire</placeName></office>
                <event><desc>recieved as acoluth</desc></event>
                <event type="marriage">
                   <desc>
@@ -7427,7 +7437,7 @@
                </event>
                <occupation>secretary of <placeName>College of Overseers Fulneck</placeName></occupation>
                <occupation when-iso="1771-05-21">teacher <placeName>boys' school Fulneck</placeName></occupation>
-               <occupation when-iso="1771-08-04">preacher <placeName ref="#mlpla000084">Yorkshire</placeName></occupation>
+               <office when-iso="1771-08-04">preacher <placeName ref="#mlpla000084">Yorkshire</placeName></office>
                <occupation from="1772" to="1779">single brethren's warden <placeName ref="#fulneck">Fulneck</placeName></occupation>
                <occupation when-iso="1782">congregation labourer <placeName ref="#mlpla000054">London</placeName></occupation>
                <occupation from="1783" to="1804">assistant labourer <placeName ref="#mlpla000023">Bath</placeName></occupation>
