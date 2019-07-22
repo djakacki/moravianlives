@@ -223,7 +223,7 @@
           <elementSpec ident="name" mode="change" module="core">
             <attList>
               <attDef ident="relation" mode="change">
-                <valList mode="add" type="semi">
+                <valList mode="add" type="open">
                   <valItem ident="child" sameAs="kind" />
                   <valItem ident="parent" sameAs="eltern" />
                   <valItem ident="sibling" sameAs="geschwister" />
@@ -462,6 +462,15 @@
               </attDef>
             </attList>
           </elementSpec>
+          <elementSpec ident="office" mode="change" module="core">
+            <attList>
+              <attDef ident="when-iso" mode="change">
+                <valList mode="add" type="open">
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
           
             <!--<elementSpec ident="office" mode="add">
             <gloss>Office details</gloss>
@@ -507,15 +516,21 @@
              
               <memberOf key="macro.specialPara"/>
             </classes>
-              
-              
-            
-            
-            
+
           </elementSpec>-->
             
           
            
+           <elementSpec ident="office" mode="add">
+             <classes>
+               <memberOf key="model.persStateLike"></memberOf>
+               <memberOf key="att.datable"/>
+             </classes>
+             
+             <content>
+               <macroRef key="macro.specialPara"/>
+             </content>
+           </elementSpec>
           
        
           <!-- end of schema -->
