@@ -41,6 +41,7 @@
       </editorialDecl>
     </encodingDesc>
     <revisionDesc>
+      <change when="2019-07-12" who="#jschaumberger">Added office tag to the schema</change>
       <change when="2019-07-03" who="#jschaumberger">Added name @office</change>
       <change when="2019-06-21" who="#JAKA1 #jschaumberger">Updated and added schematic specifities</change>
       <change when="2018-12-07" who="#JAKA1">Removed note types</change>
