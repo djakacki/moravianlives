@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/Projects/TEI_Memoirs/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	
 	
 	
@@ -48,22 +48,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T18:31:56.626Z",
-	"dcterms:issued": "2019-12-04T18:32:19.096Z",
+	"dcterms:created": "2019-12-04T19:02:48.806Z",
+	"dcterms:issued": "2019-12-04T19:03:47.323Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/lbotinelly",
+		"@id": "https://github.com/djakacki",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Leo Botinelly",
-		"foaf:nick": "lbotinelly"
+		"cwrc:hasName": "Diane Jakacki",
+		"foaf:nick": "djakacki"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml",
@@ -77,13 +77,13 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": "cwrc:PersonalName",
 		"@id": "42172560",
 		"dc:format": "text/plain"
 	},
@@ -124,22 +124,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T18:31:56.626Z",
-	"dcterms:issued": "2019-12-04T18:32:19.096Z",
+	"dcterms:created": "2019-12-04T19:02:48.807Z",
+	"dcterms:issued": "2019-12-04T19:03:47.324Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/lbotinelly",
+		"@id": "https://github.com/djakacki",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Leo Botinelly",
-		"foaf:nick": "lbotinelly"
+		"cwrc:hasName": "Diane Jakacki",
+		"foaf:nick": "djakacki"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml",
@@ -153,13 +153,13 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204140248#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": "cwrc:PersonalName",
 		"@id": "http://viaf.org/viaf/110146998373218941066/",
 		"dc:format": "text/plain"
 	},
@@ -172,6 +172,81 @@
 	},
 	"oa:hasCertainty": "cwrc:high"
 }
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?date_annotation_20191204140340",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-12-04T19:03:40.455Z",
+	"dcterms:issued": "2019-12-04T19:03:47.324Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki",
+		"foaf:nick": "djakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?date_annotation_20191204140340#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?date_annotation_20191204140340#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[2]/l/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"dc:format": "text/plain",
+		"rdf:value": "2019-12-04"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
 ]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -182,7 +257,7 @@
 					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l><l></l><l>[Change Test]</l><l></l>
 				</lg>
 				<lg>
-					<l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal absence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
+					<l>What a fantastic poem this is. I'm reading it on <date when="2019-12-04" cert="high">Dec. 4 2019</date>.</l><l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal absence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
 				</lg>
 				<lg>
 					<l>The hall is yellow with light, and jocular;</l><l>suddenly some one lets loose upon the air</l><l>the ritual bird which the crowd in snares of singing</l>
