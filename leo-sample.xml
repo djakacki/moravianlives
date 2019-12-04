@@ -48,10 +48,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T18:27:31.431Z",
-	"dcterms:issued": "2019-12-04T18:31:35.806Z",
+	"dcterms:created": "2019-12-04T18:31:56.626Z",
+	"dcterms:issued": "2019-12-04T18:32:19.096Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lbotinelly",
 		"@type": [
@@ -63,7 +63,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml",
@@ -77,7 +77,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -124,10 +124,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T18:27:31.432Z",
-	"dcterms:issued": "2019-12-04T18:31:35.808Z",
+	"dcterms:created": "2019-12-04T18:31:56.626Z",
+	"dcterms:issued": "2019-12-04T18:32:19.096Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lbotinelly",
 		"@type": [
@@ -139,7 +139,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml",
@@ -153,7 +153,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204132731#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/leo-sample.xml?person_annotation_20191204133156#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
@@ -179,7 +179,7 @@
 				<head type="poem">Political Meeting (For <persName cert="medium" ref="42172560">Camillien Houde</persName>)</head>
 				<docAuthor>by <persName ref="http://viaf.org/viaf/110146998373218941066/" cert="high" type="real">A.M. Klein</persName></docAuthor>
 				<lg>
-					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l>
+					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l><l></l><l>[Change Test]</l><l></l>
 				</lg>
 				<lg>
 					<l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal absence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
