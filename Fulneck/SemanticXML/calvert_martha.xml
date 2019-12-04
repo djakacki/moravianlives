@@ -130,22 +130,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.526Z",
-	"dcterms:issued": "2019-12-04T19:08:03.515Z",
+	"dcterms:created": "2019-12-04T19:11:26.503Z",
+	"dcterms:issued": "2019-12-04T19:11:57.784Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -159,7 +159,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date"
 		}
@@ -204,22 +204,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.527Z",
-	"dcterms:issued": "2019-12-04T19:08:03.518Z",
+	"dcterms:created": "2019-12-04T19:11:26.505Z",
+	"dcterms:issued": "2019-12-04T19:11:57.786Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -233,7 +233,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date/date"
 		}
@@ -278,22 +278,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.527Z",
-	"dcterms:issued": "2019-12-04T19:08:03.518Z",
+	"dcterms:created": "2019-12-04T19:11:26.505Z",
+	"dcterms:issued": "2019-12-04T19:11:57.787Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -307,7 +307,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date[2]"
 		}
@@ -352,22 +352,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.527Z",
-	"dcterms:issued": "2019-12-04T19:08:03.518Z",
+	"dcterms:created": "2019-12-04T19:11:26.506Z",
+	"dcterms:issued": "2019-12-04T19:11:57.787Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -381,7 +381,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date[3]"
 		}
@@ -426,22 +426,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.528Z",
-	"dcterms:issued": "2019-12-04T19:08:03.518Z",
+	"dcterms:created": "2019-12-04T19:11:26.506Z",
+	"dcterms:issued": "2019-12-04T19:11:57.787Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -455,7 +455,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date[4]"
 		}
@@ -500,22 +500,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.528Z",
-	"dcterms:issued": "2019-12-04T19:08:03.518Z",
+	"dcterms:created": "2019-12-04T19:11:26.507Z",
+	"dcterms:issued": "2019-12-04T19:11:57.787Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -529,7 +529,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p/date[5]"
 		}
@@ -574,22 +574,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.528Z",
-	"dcterms:issued": "2019-12-04T19:08:03.519Z",
+	"dcterms:created": "2019-12-04T19:11:26.507Z",
+	"dcterms:issued": "2019-12-04T19:11:57.787Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -603,7 +603,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/date"
 		}
@@ -648,22 +648,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.528Z",
-	"dcterms:issued": "2019-12-04T19:08:03.519Z",
+	"dcterms:created": "2019-12-04T19:11:26.507Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -677,7 +677,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/date[2]"
 		}
@@ -722,22 +722,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.529Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.508Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -751,7 +751,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/date[3]"
 		}
@@ -796,22 +796,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.529Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.508Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -825,7 +825,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/date[4]"
 		}
@@ -870,22 +870,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.529Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.509Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -899,7 +899,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p[2]/date"
 		}
@@ -944,22 +944,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.529Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.509Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -973,7 +973,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p[2]/date[2]"
 		}
@@ -1018,22 +1018,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.530Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.509Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -1047,7 +1047,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[4]/p/date"
 		}
@@ -1092,22 +1092,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.530Z",
-	"dcterms:issued": "2019-12-04T19:08:03.520Z",
+	"dcterms:created": "2019-12-04T19:11:26.509Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -1121,7 +1121,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[4]/p[2]/date"
 		}
@@ -1166,22 +1166,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713",
+	"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-12-04T19:07:13.530Z",
-	"dcterms:issued": "2019-12-04T19:08:03.521Z",
+	"dcterms:created": "2019-12-04T19:11:26.510Z",
+	"dcterms:issued": "2019-12-04T19:11:57.788Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
+		"@id": "https://github.com/lbotinelly",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Diane Jakacki",
-		"foaf:nick": "djakacki"
+		"cwrc:hasName": "Leo Botinelly",
+		"foaf:nick": "lbotinelly"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml",
@@ -1195,7 +1195,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204140713#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/moravianlives/master/Fulneck/SemanticXML/calvert_martha.xml?date_annotation_20191204141126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[4]/p[2]/date[2]"
 		}
@@ -1226,7 +1226,7 @@
 			<div type="page" n="1">
 				<head type="page">1</head>
 				<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_45Calvert-01.jpg"></pb>
-				<p> The <roleName en="sister">single S<hi rend="superscript">r</hi></roleName> <persName ref="#mlper000225">Martha Calvert</persName> who
+				<p>[TEST] The <roleName en="sister">single S<hi rend="superscript">r</hi></roleName> <persName ref="#mlper000225">Martha Calvert</persName> who
 				departed this life <date type="death" when-iso="1816-03-15" _candidate="true"><date _candidate="true">March 15<hi rend="superscript">th</hi> 1816</date></date>,
 				has left the following short account, which she dictated <date type="dictated" when-iso="1813-9-13" _candidate="true">Sept
 					13<hi rend="superscript">th</hi> 1813</date>. I was born <date when-iso="1743-11-19" _candidate="true">Oct 19th
